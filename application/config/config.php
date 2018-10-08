@@ -10,13 +10,22 @@ define('PHY_FLAT_URL', PHY_BASE_URL . 'application/views/flat/');
 
 define('PHY_FELLOW_MD_URL', PHY_BASE_URL . 'md-src/fellows/');
 
-define('DB_PREFIX', 'ias');
-define('DB_HOST', 'localhost');
-
-// photo will become iitmPHOTO inside
+define('DB_HOST', '127.0.0.1');
+define('DB_PORT', '27017');
 define('DB_NAME', 'iasINFRA');
+define('DB_USER', 'iasUSER');
+define('DB_PASSWORD', 'ias123');
 
-define('iasINFRA_USER', 'root');
-define('iasINFRA_PASSWORD', 'mysql');
+// use iasINFRA;
+// db.createUser(
+//    {
+//      user: "iasUSER",
+//      pwd: "ias123",
+//      roles:
+//        [
+//          { role: "readWrite", db: "iasINFRA" }
+//        ]
+//    }
+// )
 
 ?>

@@ -1,5 +1,6 @@
 <?php
 
-define('FELLOW_TABLE', 'fellow');
+//Collections
+define('FELLOW_COLLECTION', 'fellows');
 
 ?>

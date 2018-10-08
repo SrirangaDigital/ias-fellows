@@ -39,12 +39,11 @@ class App{
 
 		$this->params = $url ? array_values($url) : array();
 		$this->params = $this->attachQuery($this->params);
-		
+
 		call_user_func_array(array($this->controller, $this->method), $this->params);
 	}
 
 	public function parseUrl() {
-
 
 		if(isset($_GET['url'])) {
 
@@ -66,6 +65,7 @@ class App{
 		array_unshift($array, $query);
 		return $array;
 	}
+
 }
 
 ?>

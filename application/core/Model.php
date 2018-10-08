@@ -6,7 +6,7 @@ class Model {
 
 		$this->db = new Database();
 	}
-
+	
 	public function getPostData() {
 
 		if (isset($_POST['submit'])) {
@@ -20,162 +20,228 @@ class Model {
 		}
 		else {
 
-			return array_filter(filter_input_array(INPUT_POST, FILTER_SANITIZE_FULL_SPECIAL_CHARS));
+			return array_filter(filter_input_array(INPUT_POST, FILTER_SANITIZE_SPECIAL_CHARS));
 		}
 	}
 
-	public function getGETData() {
+	public function getDetailsFromJsonPath($path){
 
-		if(!array_filter($_GET)) {
+		$contentString = file_get_contents($path);
+		$content = json_decode($contentString, true);
+
+		return $content;
+	}
+
+	public function getPrecastKey($type, $key){
+
+	    $structure = json_decode(file_get_contents(PHY_JSON_PRECAST_URL . 'archive-structure.json'), true);
+
+		return (isset($structure{$type}['selectKey'])) ? $structure{$type}{$key} : '';
+	}
+
+	public function getRandomID($type, $filter, $count){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+		$filter = $this->preProcessQueryFilter($filter);
+
+		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $filter;
+		$result = $collection->findOne($match, ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
 		
-			return false;
-		}
-		else {
-
-			return filter_input_array(INPUT_GET, FILTER_SANITIZE_FULL_SPECIAL_CHARS);
-		}
+		return $result['id'];
 	}
 
-	public function preProcessPOST ($data) {
+	public function getThumbnailPath($id){
 
-		return array_map("trim", $data);
+		$artefactPath = PHY_DATA_URL . $id;
+
+		$leaves = glob(PHY_DATA_URL . $id . '/thumbs/*' . PHOTO_FILE_EXT);
+
+		$firstLeaf = array_shift($leaves);
+
+		return ($firstLeaf) ? str_replace(PHY_DATA_URL, DATA_URL, $firstLeaf) : STOCK_IMAGE_URL . 'default-image.png';
 	}
 
-	public function encrypt ($data) {
+	public function syncArtefactJsonToDB($idKey, $id, $collectionName, $path){
 
-		return sha1(SALT.$data);
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, $collectionName);
+
+		// $jsonFile = PHY_METADATA_URL . $id . '/index.json';
+		$jsonFile = $path;
+
+		$contentString = file_get_contents($jsonFile);
+		$content = json_decode($contentString, true);
+		$content = $this->beforeDbUpdate($content);
+
+
+	}
+
+	public function replaceJsonDataInDB($collection, $data, $key, $value) {
+
+		return $collection->replaceOne([ $key => $value ], $data);
+	}
+
+	public function beforeDbUpdate($data){
+
+		if(isset($data['Date'])){
+
+			// handle mm-dd-yyyy format
+	        $data['Date'] = preg_replace('/(\d{2})\-(\d{2})\-(\d{4})/', "$3-$2-$1", $data['Date']);
+
+			if(preg_match('/^0000\-/', $data['Date'])) {
+
+				unset($data['Date']);
+			}
+		}
+		if(isset($data['AccessLevel'])) $data['AccessLevel'] = intval($data['AccessLevel']);
+
+		return $data;
+	}
+
+	public function insertDataExistsFlag($data){
+
+		$leaves = glob(PHY_DATA_URL . $data['id'] . '/thumbs/*' . PHOTO_FILE_EXT);
+
+		if(!isset($data['DataExists'])){
+
+			$data['DataExists'] = (sizeof($leaves)) ? '1' : '0';
+		}
+
+		return $data;
+	}
+
+	public function filterSpecialChars($string){
+
+		$string = str_replace('/', '_', $string);
+		$string = urlencode($string);
+
+		return $string;
+	}
+
+	public function getForeignKeyTypes($db){
+
+		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+		$result = $collection->distinct(FOREIGN_KEY_TYPE);
+		return $result;
+	}
+
+	public function insertForeignKeyDetails($db, $artefactDetails , $foreignKeys){
+
+		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+
+		$data = [];
+		foreach($foreignKeys as $fkey){
+
+			if(array_key_exists($fkey, $artefactDetails)){
+				
+				$result = $collection->findOne([$fkey => $artefactDetails[$fkey]]);
+				$result = $this->unsetControlParams($result);
+
+				$artefactDetails = array_merge((array) $artefactDetails, (array) $result);
+			}
+		}
+
+		return $artefactDetails;
+	}
+
+	public function unsetControlParams($data){
+
+		$controlParams = ['_id', 'AccessLevel','oid', 'DataExists', 'ForeignKeyId', 'ForeignKeyType', 'Aid', 'ColorType'];
+
+		foreach ($controlParams as $param) {
+
+			if(isset($data{$param})) unset($data{$param});
+		}
+		return $data;
+	}
+
+	public function preProcessQueryFilter($filter){
+
+		foreach ($filter as $key => $value) {
+			
+			if($value == 'notExists')
+				$filter{$key} = ['$exists' => false];
+		}
+
+		return $filter;
+	}
+
+	public function filterArrayToString($filter){
+
+		$urlFilterArray = [];
+		foreach ($filter as $key => $value) {
+			
+			array_push($urlFilterArray, $key . '=' . $value);
+		}
+		$urlFilter = implode('&', $urlFilterArray);
+
+		return $urlFilter;
+	}
+
+	public function urlToActualID($id){
+
+		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
+
+		return $id;
+	}
+
+	public function preProcessURLQuery($filter){
+
+		foreach ($filter as $key => $value) {
+			
+			$filter{$key} = str_replace('_', '/', $filter{$key});
+		}
+
+		return $filter;
+	}
+
+	public function getTypeByID($id){
+
+		$fileName = PHY_METADATA_URL . $id . '/index.json';
+		$contentString = file_get_contents($fileName);
+		$content = json_decode($contentString, true);
+		
+		return (isset($content['Type'])) ? $content['Type'] : '';
+	}
+
+	public function includeExternalResources($artefact){
+
+        if($artefact['details']['DataExists'] == 'External'){
+
+
+            $fileName = str_replace(BASE_URL, '', DATA_URL) . $artefact['details']['id'] . '/'. EXTERNAL_RESOURCE;
+            $artefact['external']['fileName'] = (file_exists($fileName)) ? $fileName : EXTERNAL_RESOURCE_NOT_EXISTS;
+        }
+		return $artefact;
+	}
+
+	public function writeJsonToPath($data, $path) {
+
+		$jsonString = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+		return (file_put_contents($path, $jsonString)) ? True : False;
+	}
+
+	public function getUniqueKeys(){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ARTEFACT_KEYS_COLLECTION);
+
+		$result = array_values(array_filter($collection->distinct('_id')));
+		return $result;
 	}
 	
-	public function sendLetterToPostman ($fromName = SERVICE_NAME, $fromEmail = SERVICE_EMAIL, 
-		$toName = SERVICE_NAME, $toEmail = SERVICE_EMAIL, $subject = 'Bounce', 
-		$message = '', $successMessage = 'Bounce', $errorMessage = 'Error') {
+	public function getDataFromApi($url){
 
-	    $mail = new PHPMailer();
-        $mail->isSendmail();
-        $mail->isHTML(true);
-        $mail->setFrom($fromEmail, $fromName);
-        $mail->addReplyTo($fromEmail, $fromName);
-        $mail->addAddress($toEmail, $toName);
-        $mail->Subject = $subject;
-        $mail->Body = $message;
-        
-        return $mail->send();
- 	}
+		$curl = curl_init($url);
+		curl_setopt($curl, CURLOPT_RETURNTRANSFER, True);
 
- 	public function bindVariablesToString ($str = '', $data = array()) {
-
- 		unset($data['count(*)']);
-	    
-	    while (list($key, $val) = each($data)) {
-	    
-	        $str = preg_replace('/:'.$key.'/', $val, $str);
-		}
-	    return $str;
- 	}
-
- 	public function listFiles ($path = '') {
-
- 		if (!(is_dir($path))) return array();
-
- 		$files = scandir($path);
- 
- 		unset($files[array_search('.', $files)]);
- 		unset($files[array_search('..', $files)]);
- 
- 		return $files;
- 	}
-
-	public function getAlbumDetails($albumID) {
-
-		$dbh = $this->db->connect(DB_NAME);
-		if(is_null($dbh))return null;
-		
-		$sth = $dbh->prepare('SELECT * FROM ' . METADATA_TABLE_L1 . ' WHERE albumID = :albumID');
-		$sth->bindParam(':albumID', $albumID);
-
-		$sth->execute();
-		
-		$result = $sth->fetch(PDO::FETCH_OBJ);
-		$dbh = null;
-		return $result;
-	}
-
-	public function getPhotoDetails($albumID, $id) {
-
-		$dbh = $this->db->connect(DB_NAME);
-		if(is_null($dbh))return null;
-		
-		$sth = $dbh->prepare('SELECT * FROM ' . METADATA_TABLE_L2 . ' WHERE albumID = :albumID AND id = :id');
-		$sth->bindParam(':albumID', $albumID);
-		$sth->bindParam(':id', $id);
-		$sth->execute();
-		
-		$result = $sth->fetch(PDO::FETCH_OBJ);
-		$dbh = null;
+		$result = curl_exec($curl);
+		curl_close($curl);
 
 		return $result;
 	}
-
-	public function getNeighbourhood($albumID, $id) {
-
-		$albumPath = PHY_PHOTO_URL . $albumID;
-
-		$actualID = $this->getActualID($id);
-
-		$photoPath = $albumPath . "/" . $actualID . PHOTO_FILE_EXT;
-
-		$files = glob($albumPath . "/*" . PHOTO_FILE_EXT);
-
-		$match = array_search($photoPath, $files);
-
-		if(!($match === False)){
-			
-			$data['prev'] = (isset($files[$match-1])) ? preg_replace("/.*\/(.*)\.JPG/", "$1", $files[$match-1]) : '';
-			$data['next'] = (isset($files[$match+1])) ? preg_replace("/.*\/(.*)\.JPG/", "$1", $files[$match+1]) : '';
-			return $data;
-		}	
-		else{
-
-			return False;
-		}
-
-	}
-
-    public function getActualID($combinedID) {
-
-        return preg_replace('/^(.*)__/', '', $combinedID);
-    }
-
-    public function getRandomImage($id){
-
-        $photos = glob(PHY_PHOTO_URL . $id . '/thumbs/*.JPG');
-        $randNum = rand(0, sizeof($photos) - 1);
-        $photoSelected = $photos[$randNum];
-
-        return str_replace(PHY_PHOTO_URL, PHOTO_URL, $photoSelected);   	
-    }
-
-    public function getPhotoCount($id = '') {
-
-        $count = sizeof(glob(PHY_PHOTO_URL . $id . '/*.json'));
-        return ($count > 1) ? $count . ' Photographs' : $count . ' Photograph';
-    }
-
-    public function getDetailByField($json = '', $firstField = '', $secondField = '') {
-
-        $data = json_decode($json, true);
-
-        if (isset($data[$firstField])) {
-      
-            return $data[$firstField];
-        }
-        elseif (isset($data[$secondField])) {
-      
-            return $data[$secondField];
-        }
-
-        return '';
-    }
 }
 
 ?>

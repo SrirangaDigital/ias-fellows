@@ -7,54 +7,88 @@ class describeModel extends Model {
 		parent::__construct();
 	}
 
-	public function getProfileDetails($id){
+	public function getArtefactDetails($id){
+		
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
-		$baseUrl = CMS_URL . 'public/data/meetings/AM2017/';
-		$url = $baseUrl . $id . '/index.json';
-		$photoUrl = $baseUrl . $id . '/profile.jpg';
+		$result = $collection->findOne(['id' => $id ]);
 
-		$result = file_get_contents($url);
-
-		$data = json_decode($result);
-		$data->speaker->photoUrl = $photoUrl;
-
-		return $data;
-
+		return $result;
 	}
-	
-	public function getDetails($journal = DEFAULT_JOURNAL, $volume = DEFAULT_VOLUME, $issue = DEFAULT_ISSUE, $page = DEFAULT_PAGE) {
 
-		$dbh = $this->db->connect($journal);
-		if(is_null($dbh))return null;
+	public function getArtefactImages($id){
+		
+		$artefactPath = PHY_DATA_URL . $id . '/thumbs/*' . PHOTO_FILE_EXT;
+		$images = [];
+		$images = glob($artefactPath);
+		
+		array_walk($images, function(&$value, &$key) {
+		    $value = str_replace(PHY_DATA_URL, DATA_URL, $value);
+		});
+
+		return $images;
+	}
+
+	public function getNeighbourhood($details, $filter) {
+
+		$id = $details['id'];
+		$type = $details['Type'];
+		$sortKeys = $this->getPrecastKey($type, 'sortKey');
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+		// Form match filter array
+		$matchFilter = $this->preProcessQueryFilter($filter);
+		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type] + $matchFilter;
+		
+		// Form Projection array
+		$projectArray['id'] = 1;
+		foreach ($sortKeys as $key => $value) {
 			
-		$sth = $dbh->prepare('SELECT * FROM ' . METADATA_TABLE . ' WHERE journal=:journal AND volume=:volume AND issue=:issue AND page=:page');
-		$sth->bindParam(':journal', $journal);
-		$sth->bindParam(':volume', $volume);
-		$sth->bindParam(':issue', $issue);
-		$sth->bindParam(':page', $page);
+			if(!isset($firstKey)) $firstKey = $key;
+			$projectArray[$key] = 1;
+		}
+		$projectArray['sortKeyExists'] = [ '$cond' => [ '$' . $firstKey, '1', '0' ]];
+
+		// Form sort array
+		$sortArray['sortKeyExists'] = -1;
+		foreach ($sortKeys as $key => $value) {
+			
+			$sortArray[$key] = $value;
+		}
 		
-		$sth->execute();
+		$iterator = $collection->aggregate(
+				 [
+					[ '$match' => $match ],
+					[ '$project' => $projectArray ],
+					[ '$sort' => $sortArray	],
+				]
+			);
 
-		$result = $sth->fetch(PDO::FETCH_OBJ);
-		$dbh = null;
-		return $result;
-	}
-
-	public function getDetailsByName($name = '', $fetch = 'FELLOW') {
-
-		$dbh = $this->db->connect(GENERAL_DB_NAME);
-		if(is_null($dbh))return null;
+		$idList = [];
+		foreach ($iterator as $row) {
 		
-		$bindName = preg_replace('/\_/', ' ', $name);
-		$sth = $dbh->prepare('SELECT * FROM ' . constant($fetch . '_TABLE') . ' WHERE name=:name');
-		$sth->bindParam(':name', $bindName);
-		
-		$sth->execute();
+			array_push($idList, $row['id']);
+		}
 
-		$result = $sth->fetch(PDO::FETCH_OBJ);
-		$dbh = null;
-		return $result;
+		$match = array_search($id, $idList);
+
+		if(!($match === False)) {
+			
+			$data['prevID'] = (isset($idList[$match - 1])) ? $idList[$match - 1] : '';
+			$data['nextID'] = (isset($idList[$match + 1])) ? $idList[$match + 1] : '';
+
+			$data['prevID'] = str_replace('/', '_', $data['prevID']);
+			$data['nextID'] = str_replace('/', '_', $data['nextID']);
+
+			return $data;
+		}	
+		else{
+
+			return False;
+		}
 	}
 }
-
 ?>

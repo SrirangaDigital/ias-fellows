@@ -7,17 +7,37 @@ class describe extends Controller {
 		parent::__construct();
 	}
 
-	public function index() {
+	public function artefact($query = [], $id = '') {
 
-		$this->photo();
+		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
+		$artefact['details'] = $this->model->getArtefactDetails($id);
+
+		if($artefact['details']) {
+		
+			$artefact['images'] = $this->model->getArtefactImages($id);
+			$artefact['neighbours'] = $this->model->getNeighbourhood($artefact['details'], $query);
+			$artefact['filter'] = $this->model->filterArrayToString($query);
+			$artefact = $this->model->includeExternalResources($artefact);
+
+			$artefact['details'] = $this->model->unsetControlParams($artefact['details']);
+		}
+
+		($artefact['details']) ? $this->view('describe/artefact', $artefact) : $this->view('error/index');
 	}
 
-	public function profile($id) {
+	public function transcription($query = [], $id = '') {
 
-		$data = $this->model->getProfileDetails($id);
-		($data) ? $this->view('describe/profile', $data) : $this->view('error/index');
+		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
+		$artefact['details'] = $this->model->getArtefactDetails($id);
+
+		if($artefact['details']) {
+		
+			$artefact['images'] = $this->model->getArtefactImages($id);
+			$artefact['details'] = $this->model->unsetControlParams($artefact['details']);
+		}
+
+		($artefact['details']) ? $this->view('describe/sideBySide', $artefact) : $this->view('error/index');
 	}
-
 }
 
 ?>

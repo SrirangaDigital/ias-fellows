@@ -1,10 +1,10 @@
 <?php
 
 class Controller {
-
+	
 	public function __construct() {
-
-		session_start();
+		
+		if(!isset($_SESSION)) session_start();
 	}
 
 	public function loadModel($model) {
@@ -22,7 +22,7 @@ class Controller {
 
 		$view = new View();
 		$model = new Model();
-	
+		
 		// Get Navigation array in nested form	
 		$navigation = $view->getNavigation(PHY_FLAT_URL);
 		// Get folder list in flat form
@@ -32,7 +32,8 @@ class Controller {
 		// Actual path is given path for dynamic pages
 		if(!($actualPath)) $actualPath = $path;
 		// Show Page
-		(preg_match('/flat\/[^Home]|error|prompt/', $path)) ? $view->showFlatPage($data, $path, $actualPath, $navigation) : $view->showDynamicPage($data, $path, $actualPath, $navigation);
+
+		(preg_match('/flat|error|prompt/', $path)) ? $view->showFlatPage($data, $path, $actualPath, $navigation) : $view->showDynamicPage($data, $path, $actualPath, $navigation);
 	}
 
 	public function isLoggedIn() {

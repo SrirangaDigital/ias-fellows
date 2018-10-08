@@ -1,0 +1,37 @@
+{
+    "id": "FL1974010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shri Krishna",
+            "last": "Joshi",
+            "display": "Joshi, Prof. Shri Krishna"
+        },
+        "sex": "M",
+        "birthDate": "1935-06-06",
+        "degree": "D.Phil. (Allahabad)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Solid State Physics and Atomic & Molecular Collisions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974",
+        "councilservice": "Council Servics: 1989-91; Vice-President: 1989-91."
+    },
+    "contact": {
+        "address": "JNCASR Vikram Sarabhai Professor, National Physical Laboratory, Dr K.S. Krishnan Road",
+        "city": "New Delhi 110 012",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 4560 9363, (011) 2573 2016",
+            "residence": "(0124) 238 3700",
+            "mobile": "98993 33258",
+            "fax": "(011) 4560 9358"
+        },
+        "email": {
+            "official": "skjoshi@mail.nplindia.ernet.in",
+            "personal": "skjoshinpl@gmail.com"
+        }
+    }
+}

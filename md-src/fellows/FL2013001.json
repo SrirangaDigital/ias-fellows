@@ -1,0 +1,37 @@
+{
+    "id": "FL2013001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nahid",
+            "last": "Ali",
+            "display": "Ali, Dr Nahid"
+        },
+        "sex": "F",
+        "birthDate": "1956-08-01",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Immunology, Parasitology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Indian Institute of Chemical Biology, 4, Raja SC Mullick Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2499 5757",
+            "residence": "(033) 2328 0176",
+            "mobile": "98300 34759",
+            "fax": "(033) 2473 5197"
+        },
+        "email": {
+            "official": "nali@iicb.res.in",
+            "personal": "nahidali28@yahoo.in"
+        },
+        "url": "http://iicb.res.in/divisionwiselistofscientists/id/nali.html"
+    }
+}

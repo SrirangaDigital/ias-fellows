@@ -1,0 +1,19 @@
+{
+    "id": "FH1938008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Peter Joseph William",
+            "last": "Debye",
+            "display": "Debye, Prof. Peter Joseph William"
+        },
+        "sex": "M",
+        "birthDate": "1884-03-24",
+        "deathDate": "1966-11-02",
+        "honours": "Nobel Laureate (Chemistry) - 1936"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1938"
+    }
+}

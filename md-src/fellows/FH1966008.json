@@ -1,0 +1,19 @@
+{
+    "id": "FH1966008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Corneille Jean Francois",
+            "last": "Heymaans",
+            "display": "Heymaans, Prof. Corneille Jean Francois"
+        },
+        "sex": "M",
+        "birthDate": "1892-03-28",
+        "deathDate": "1968-07-18",
+        "honours": "Nobel Laureate (Medicine) - 1938"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1966"
+    }
+}

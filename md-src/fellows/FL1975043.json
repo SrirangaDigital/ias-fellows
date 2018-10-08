@@ -1,0 +1,25 @@
+{
+    "id": "FL1975043",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nidamarty",
+            "last": "Kondal Rao",
+            "display": "Kondal Rao, Dr Nidamarty"
+        },
+        "sex": "M",
+        "birthDate": "1924-07-15",
+        "deathDate": "2008-10-22",
+        "degree": "B.Met. (Banaras), Dr. lng. (Aachen)",
+        "specialization": "Metallurgy and Nuclear Fuel Fabrication Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "1-57, Snehapuri, Nacharam",
+        "city": "Hyderabad 500 076"
+    }
+}

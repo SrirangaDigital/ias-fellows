@@ -1,0 +1,36 @@
+{
+    "id": "FL2018025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ranjan",
+            "last": "Sen",
+            "display": "Sen, Dr Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1967-11-16",
+        "degree": "Ph.D. (SINP)",
+        "honours": "FNA, FNASc",
+        "specialization": "Microbiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Centre for DNA Fingerprinting and Diagnostics, Nampally",
+        "city": "Hyderabad 500 001",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2474 9428",
+            "residence": "(040) 2715 8703",
+            "mobile": "98661 22652",
+            "fax": "(040) 2474 9448"
+        },
+        "email": {
+            "official": "rsen@cdfd.org.in"
+        },
+        "url": "http://cdfd.org.in/abpages/transcription.html"
+    }
+}

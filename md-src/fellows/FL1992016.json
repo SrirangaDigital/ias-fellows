@@ -1,0 +1,35 @@
+{
+    "id": "FL1992016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jitendra Nath",
+            "last": "Goswami",
+            "display": "Goswami, Prof. Jitendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-18",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Solar System Studies, Pre-Solar (Stellar) Processes and Geochronology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 2004-2009"
+    },
+    "contact": {
+        "address": "Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4516",
+            "residence": "(079) 2685 4355",
+            "fax": "(079) 2630 0374"
+        },
+        "email": {
+            "official": "goswami@prl.res.in"
+        }
+    }
+}

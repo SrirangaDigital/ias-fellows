@@ -1,0 +1,20 @@
+{
+    "id": "FL1934074",
+    "profile": {
+        "name": {
+            "first": "Amur Narasinga",
+            "last": "Rao",
+            "display": "Rao,  Amur Narasinga"
+        },
+        "sex": "M",
+        "birthDate": "1893-12-12",
+        "deathDate": "1967-07-02",
+        "specialization": "Applied Mathematics, Theoretical Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1934",
+        "councilservice": "1943-46"
+    }
+}

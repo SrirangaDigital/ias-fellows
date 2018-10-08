@@ -1,0 +1,33 @@
+{
+    "id": "FL1989018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ram Swaroop",
+            "last": "Sharma",
+            "display": "Sharma, Dr Ram Swaroop"
+        },
+        "sex": "M",
+        "birthDate": "1937-07-10",
+        "degree": "Ph.D. (Basel)",
+        "honours": "FNA",
+        "specialization": "Metamorphic Petrology, Mineralogy and Precambrian Geology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "70/36, Pratapnagar, Sector 7, Sanganer (RHB)",
+        "city": "Jaipur 302 033",
+        "state": "Rajasthan",
+        "telephone": {
+            "residence": "(0141) 279 0317",
+            "mobile": "94148 88025"
+        },
+        "email": {
+            "personal": "sharma.r.sw@gmail.com"
+        }
+    }
+}

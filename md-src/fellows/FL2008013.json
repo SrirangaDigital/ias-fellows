@@ -1,0 +1,34 @@
+{
+    "id": "FL2008013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kota Ullas",
+            "last": "Karanth",
+            "display": "Karanth, Dr Kota Ullas"
+        },
+        "sex": "M",
+        "birthDate": "1948-09-21",
+        "degree": "Ph.D. (Mangalore)",
+        "specialization": "Carnivore Ecology, Animal Population Analysis and Conservation Biology & Conservation Policy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Director, Centre for Wildlife Studies, 26-2, Aga Abbas Ali Road (Apt. 403)",
+        "city": "Bengaluru 560 042",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2211 8976",
+            "residence": "(080) 2671 5364",
+            "fax": "(080) 2671 5255"
+        },
+        "email": {
+            "official": "ukaranth@wcs.org",
+            "personal": "ukaranth@gmail.com"
+        }
+    }
+}

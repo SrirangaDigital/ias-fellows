@@ -1,0 +1,27 @@
+{
+    "id": "FL1966001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ranjan Roy",
+            "last": "Daniel",
+            "display": "Daniel, Prof. Ranjan Roy"
+        },
+        "sex": "M",
+        "birthDate": "1923-08-11",
+        "deathDate": "2005-03-27",
+        "degree": "Ph.D. (Bristol)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Cosmic Ray & High Energy Physics, Space Physics, Infra-Red Astronomy and Environment Science & Policy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1966",
+        "councilservice": "Council Service: 1971-76"
+    },
+    "contact": {
+        "address": "17B, Water Tank Road",
+        "city": "Nagercoil 629 001"
+    }
+}

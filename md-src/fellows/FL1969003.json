@@ -1,0 +1,34 @@
+{
+    "id": "FL1969003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anant Krishna",
+            "last": "Ramdas",
+            "display": "Ramdas, Prof. Anant Krishna"
+        },
+        "sex": "M",
+        "birthDate": "1930-05-19",
+        "degree": "Ph.D. (Pune)",
+        "honours": "Assoc. FTWAS",
+        "specialization": "Condensed Matter Physics, Semiconductor Physics, Optical Phenomena and Solid State Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1969"
+    },
+    "contact": {
+        "address": "Lark-Horovitz Distinguished Professor Emeritus, Department of Physics, Purdue University",
+        "city": "West Lafayette, Indiana 47907",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-765) 494 3028",
+            "residence": "(+1-765) 463 2707",
+            "fax": "(+1-765) 494 0706"
+        },
+        "email": {
+            "official": "akr@purdue.edu"
+        }
+    }
+}

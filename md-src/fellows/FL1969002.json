@@ -1,0 +1,31 @@
+{
+    "id": "FL1969002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Rama",
+            "display": "Rama, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1929-03-16",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNAAS",
+        "specialization": "Isotope Hydrology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth &amp; Planetary Sciences",
+        "yearelected": "1969"
+    },
+    "contact": {
+        "address": "Y-4, Sector 9, CBD",
+        "city": "Navi Mumbai 400 614",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2757 0081"
+        },
+        "email": {
+            "personal": "rama.506@yahoo.com"
+        }
+    }
+}

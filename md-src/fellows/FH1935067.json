@@ -1,0 +1,18 @@
+{
+    "id": "FH1935067",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Godfrey Harold",
+            "last": "Hardy",
+            "display": "Hardy, Prof. Godfrey Harold"
+        },
+        "sex": "M",
+        "birthDate": "1877-02-07",
+        "deathDate": "1947-12-01"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

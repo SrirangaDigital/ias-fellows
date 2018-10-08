@@ -1,0 +1,35 @@
+{
+    "id": "FL2001020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anil Kumar",
+            "last": "Singh",
+            "display": "Singh, Prof. Anil Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1952-04-02",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNASc",
+        "specialization": "Bio-organic Chemistry, Photochemistry and Photobiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "A-1603, Lake Primerose, Lake Homes, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2847 1761",
+            "mobile": "98207 47167"
+        },
+        "email": {
+            "official": "retinal@chem.iitb.ac.in",
+            "personal": "retinal.iitb@gmail.com"
+        },
+        "url": "http://www.chem.iitb.ac.in/people/faculty/prof/aks.html"
+    }
+}

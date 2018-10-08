@@ -1,0 +1,32 @@
+{
+    "id": "FH1990031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sir Michael Victor",
+            "last": "Berry",
+            "display": "Berry, Prof. Sir Michael Victor"
+        },
+        "sex": "M",
+        "birthDate": "1941-03-14",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Professor of Physics, HH Wills Physics Laboratory, University of Bristol, Royal Fort, Tyndall Avenue",
+        "city": "Bristol BS8 1TL",
+        "country": "U.K.",
+        "telephone": {
+            "office": "(+44-117) 928 8778",
+            "residence": "(+44-117) 973 2240",
+            "fax": "(+44-117) 925 5624"
+        },
+        "email": {
+            "official": "asymptotico@bristol.ac.uk"
+        },
+        "url": "http://michaelberryphysics.wordpress.com"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL1995001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Garani",
+            "last": "Ananthakrishna",
+            "display": "Ananthakrishna, Prof. Garani"
+        },
+        "sex": "M",
+        "birthDate": "1942-12-11",
+        "degree": "Ph.D. (Texas, Austin)",
+        "honours": "FNA",
+        "specialization": "Theoretical Materials Science, Condensed Matter and Dynamical Systems & Chaos"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Materials Research Centre, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2780",
+            "residence": "(080) 4953 5791",
+            "mobile": "99002 68902",
+            "fax": "(080) 2360 0683"
+        },
+        "email": {
+            "official": "garani@iisc.ac.in",
+            "personal": "anantha.garani@gmail.com"
+        }
+    }
+}

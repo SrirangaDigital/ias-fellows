@@ -1,0 +1,20 @@
+{
+    "id": "FL1934050",
+    "profile": {
+        "name": {
+            "first": "Sreenivas Laxminarasimha",
+            "last": "Malurkar",
+            "display": "Malurkar,  Sreenivas Laxminarasimha"
+        },
+        "sex": "M",
+        "birthDate": "1903-08-15",
+        "deathDate": "1984-04-26",
+        "honours": "FNA",
+        "specialization": "Mathematical Physics, Meteorology, Geophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934"
+    }
+}

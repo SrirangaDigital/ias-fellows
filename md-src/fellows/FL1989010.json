@@ -1,0 +1,34 @@
+{
+    "id": "FL1989010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajamani",
+            "last": "Krishna",
+            "display": "Krishna, Prof. Rajamani"
+        },
+        "sex": "M",
+        "birthDate": "1946-09-13",
+        "degree": "Ph.D. (Manchester)",
+        "specialization": "Separations using Nanoporous Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Professor, Van t-Hoff Institute for Molecular Science, University of Amsterdam, Science Park 904",
+        "city": "1098 XH Amsterdam",
+        "country": "Netherlands",
+        "telephone": {
+            "office": "(+31-20) 525 7007",
+            "residence": "(+31-20) 627 0990",
+            "fax": "(+31-20) 525 5604"
+        },
+        "email": {
+            "official": "r.krishna@contact.uva.nl"
+        },
+        "url": "http://orcid.org/0000-0002-4784-8530"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1958003",
+    "profile": {
+        "name": {
+            "first": "Sivaramakrishna",
+            "last": "Pancharatnam",
+            "display": "Pancharatnam,  Sivaramakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1934-02-09",
+        "deathDate": "1969-05-28",
+        "degree": "D.Sc.",
+        "specialization": "Crystal Optics, Coherence of Radiation, Resonant Interaction with Matter"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1958",
+        "councilservice": "1962-64"
+    }
+}

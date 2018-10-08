@@ -1,0 +1,26 @@
+{
+    "id": "FL1975064",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivasacharya",
+            "last": "Raghavan",
+            "display": "Raghavan, Prof. Srinivasacharya"
+        },
+        "sex": "M",
+        "birthDate": "1934-04-11",
+        "deathDate": "2014-10-07",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Number Theory and Automorphic Functions"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "1A, Abhinaya Apartments, 14 (old 41), Shastri Nagar, I Avenue, Adyar",
+        "city": "Chennai 600 020"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1975020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramaiyengar",
+            "last": "Sridharan",
+            "display": "Sridharan, Prof. Ramaiyengar"
+        },
+        "sex": "M",
+        "birthDate": "1935-07-04",
+        "degree": "Ph.D. (Columbia)",
+        "honours": "FNA, FNASc",
+        "specialization": "Algebra"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Adjunct Professor, Chennai Mathematical Institute, H1, Sipcot IT Park, Padur Post, Siruseri",
+        "city": "Chennai 603 103",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2747 0227/1231",
+            "residence": "(044) 2451 1692"
+        },
+        "email": {
+            "official": "rsridhar@cmi.ac.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2008010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ravinder",
+            "last": "Goswami",
+            "display": "Goswami, Prof. Ravinder"
+        },
+        "sex": "M",
+        "birthDate": "1963-09-03",
+        "degree": "MD (Maulana Azad Medical College), DM (AIIMS)",
+        "honours": "FNASc, FAMS",
+        "specialization": "Autoimmune Endocrine Disorders, Sporadic Idiopathic Hypoparathyroidism and Metabolic Bone Disorders including Vitamin D Deficiency"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Department of Endocrinology & Metabolism, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 4272",
+            "residence": "(011) 2658 9837",
+            "mobile": "98181 30879",
+            "fax": "(011) 2658 8641"
+        },
+        "email": {
+            "personal": "gosravinder@hotmail.com"
+        }
+    }
+}

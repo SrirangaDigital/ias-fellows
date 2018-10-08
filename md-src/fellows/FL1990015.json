@@ -1,0 +1,33 @@
+{
+    "id": "FL1990015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vedharaman",
+            "last": "Rajamani",
+            "display": "Rajamani, Prof. Vedharaman"
+        },
+        "sex": "M",
+        "birthDate": "1944-08-20",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "honours": "FNA",
+        "specialization": "Geochemistry, Rock Weathering, Soil/Sediment Genesis and Farmland Geology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "1209, Sector A, Pocket B, Vasant Kunj",
+        "city": "New Delhi 110 070",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2689 3159",
+            "mobile": "99101 81299"
+        },
+        "email": {
+            "personal": "rajav1946@gmail.com"
+        }
+    }
+}

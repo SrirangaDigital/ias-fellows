@@ -1,0 +1,25 @@
+{
+    "id": "FL2001022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bhaskar Gundmi",
+            "last": "Maiya",
+            "display": "Maiya, Dr Bhaskar Gundmi"
+        },
+        "sex": "M",
+        "birthDate": "1956-06-20",
+        "deathDate": "2004-03-22",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Bio-Inorganic & Bio-organic Chemistry, Photochemistry and Supramolecular Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046"
+    }
+}

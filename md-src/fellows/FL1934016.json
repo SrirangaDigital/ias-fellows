@@ -1,0 +1,19 @@
+{
+    "id": "FL1934016",
+    "profile": {
+        "name": {
+            "first": "G S",
+            "last": "Cheema",
+            "display": "Cheema,  G S"
+        },
+        "sex": "M",
+        "deathDate": "1972-01-02",
+        "degree": "D.Sc.",
+        "specialization": "Horticulture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    }
+}

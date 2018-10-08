@@ -1,0 +1,20 @@
+{
+    "id": "FL1935007",
+    "profile": {
+        "name": {
+            "first": "Bihari Lal",
+            "last": "Bhatia",
+            "display": "Bhatia,  Bihari Lal"
+        },
+        "sex": "M",
+        "birthDate": "1884-08-14",
+        "deathDate": "1941-07-16",
+        "honours": "FNA",
+        "specialization": "Protozoology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1935"
+    }
+}

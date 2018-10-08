@@ -1,0 +1,32 @@
+{
+    "id": "FL1989002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sumit",
+            "last": "Bhaduri",
+            "display": "Bhaduri, Dr Sumit"
+        },
+        "sex": "M",
+        "birthDate": "1948-10-22",
+        "degree": "Ph.D. (Cambridge)",
+        "honours": "FNA",
+        "specialization": "Organometallic Chemistry and Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "562, Adenwala Road, Rustom Mansion",
+        "city": "Mumbai 400 019",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2415 0255"
+        },
+        "email": {
+            "personal": "bhaduri.sumit@gmail.com,sbhaduri26@hotmail.com"
+        }
+    }
+}

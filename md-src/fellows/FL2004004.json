@@ -1,0 +1,34 @@
+{
+    "id": "FL2004004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kota",
+            "last": "Bhanu Sankara Rao",
+            "display": "Bhanu Sankara Rao, Dr Kota"
+        },
+        "sex": "M",
+        "birthDate": "1947-06-15",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNAE",
+        "specialization": "Mechanical Metallurgy, Physical Metallurgy and Materials Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Ministry of Steel Chair Professor, Mahatma Gandhi Institute of Technology, Gandhipet",
+        "city": "Hyderabad 500 075",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2419 3471",
+            "mobile": "94933 30125"
+        },
+        "email": {
+            "official": "bhanu@mgit.ac.in",
+            "personal": "kota.bhanu@gmail.com"
+        }
+    }
+}

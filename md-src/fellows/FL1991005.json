@@ -1,0 +1,33 @@
+{
+    "id": "FL1991005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mustansir",
+            "last": "Barma",
+            "display": "Barma, Prof. Mustansir"
+        },
+        "sex": "M",
+        "birthDate": "1950-12-27",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Statistical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Tata Institute of Fundamental Research, 36/P, Gopanpally",
+        "city": "Hyderabad 500 107",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2020 3084",
+            "residence": "(040) 6776 8504"
+        },
+        "email": {
+            "official": "barma@tifrh.res.in"
+        }
+    }
+}

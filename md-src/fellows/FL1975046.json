@@ -1,0 +1,26 @@
+{
+    "id": "FL1975046",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dhirendra Nath",
+            "last": "Kundu",
+            "display": "Kundu, Prof. Dhirendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1916-01-04",
+        "deathDate": "1999-12-11",
+        "degree": "Ph.D. (Ohio)",
+        "honours": "FNA",
+        "specialization": "Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "P-66, CIT Scheme VI-M",
+        "city": "Calcutta 700 054"
+    }
+}

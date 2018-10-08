@@ -1,0 +1,32 @@
+{
+    "id": "FL1976003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tirumalai Rangachar",
+            "last": "Kasturi",
+            "display": "Kasturi, Prof. Tirumalai Rangachar"
+        },
+        "sex": "M",
+        "birthDate": "1931-09-29",
+        "degree": "D.Sc. (IISc), Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Synthetic, Structural & Mechanistic Organic Chemistry and Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "237, Senator Place",
+        "city": "Cincinnati, OH 45220",
+        "country": "USA",
+        "telephone": {
+            "mobile": "51382 71015"
+        },
+        "email": {
+            "personal": "premakasturi@yahoo.in"
+        }
+    }
+}

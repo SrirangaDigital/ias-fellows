@@ -1,0 +1,36 @@
+{
+    "id": "FL1994015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kuppuswamy Anantha",
+            "last": "Padmanabhan",
+            "display": "Padmanabhan, Prof. Kuppuswamy Anantha"
+        },
+        "sex": "M",
+        "birthDate": "1945-04-05",
+        "degree": "Ph.D. and Sc.D. (Cantab),",
+        "honours": "FIM (London), FNAE, FNASc",
+        "specialization": "Nanostructured Materials, Mechanical Metallurgy, Metal Forming, Plasticity & Superplasticity and Nanotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Adviser, Aditya Birla S&T Company, Pase 2, Block A, IIT Research Park",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 6616 0005",
+            "residence": "(044) 2243 2373",
+            "mobile": "80087 77664"
+        },
+        "email": {
+            "official": "kap@annauniv.edu",
+            "personal": "ananthaster@gmail.com"
+        },
+        "url": "http://home.iitk.ac.in/~kap"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1934066",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jashbai Shankerbhai",
+            "last": "Patel",
+            "display": "Patel, Dr Jashbai Shankerbhai"
+        },
+        "sex": "M",
+        "birthDate": "1905-12-11",
+        "deathDate": "1992-04-20",
+        "degree": "Ph.D. (Edinburgh)",
+        "specialization": "Plant Breeding and Agronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    },
+    "contact": {
+        "address": "Gadapura, Gotri Road",
+        "city": "Baroda 390 015"
+    }
+}

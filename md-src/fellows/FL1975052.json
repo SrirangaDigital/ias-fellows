@@ -1,0 +1,26 @@
+{
+    "id": "FL1975052",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nuggehalli Raghuveer",
+            "last": "Moudgal",
+            "display": "Moudgal, Prof. Nuggehalli Raghuveer"
+        },
+        "sex": "M",
+        "birthDate": "1931-03-04",
+        "deathDate": "2011-05-08",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Biochemical Endocrinology, Immuno Endocrinology and Reproductive Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "202D, Mantri Pride Apartments, No. 2, I Cross, Mountain Road, Madhavan Park, Jayanagar I Block",
+        "city": "Bengaluru 560 011"
+    }
+}

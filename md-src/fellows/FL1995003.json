@@ -1,0 +1,32 @@
+{
+    "id": "FL1995003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kamanio",
+            "last": "Chattopadhyay",
+            "display": "Chattopadhyay, Prof. Kamanio"
+        },
+        "sex": "M",
+        "birthDate": "1950-03-03",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA, FNASc, FNAE",
+        "specialization": "Physical Metallurgy and Materials Science & Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Honorary Professor, Department of Materials Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3522, 2293 2262"
+        },
+        "email": {
+            "official": "kamanio@iisc.ac.in"
+        }
+    }
+}

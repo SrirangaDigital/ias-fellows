@@ -1,0 +1,32 @@
+{
+    "id": "FL1994007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Budhiram Kulanand",
+            "last": "Godwal",
+            "display": "Godwal, Dr Budhiram Kulanand"
+        },
+        "sex": "M",
+        "birthDate": "1946-02-08",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNASc",
+        "specialization": "Planetary Sciences, High Pressure Physics, Electron States and Dense Plasma Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "28, Creekview Co-operative Housing Society, Plot No. 33, Sector 9A, Vashi",
+        "city": "Navi Mumbai 400 703",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2780 1211"
+        },
+        "email": {
+            "personal": "bkgodwal@gmail.com"
+        }
+    }
+}

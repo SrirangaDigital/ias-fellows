@@ -1,0 +1,19 @@
+{
+    "id": "FH1968009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Feodor",
+            "last": "Lynen",
+            "display": "Lynen, Prof. Feodor"
+        },
+        "sex": "M",
+        "birthDate": "1911-04-06",
+        "deathDate": "1979-08-06",
+        "honours": "Nobel Laureate (Medicine) - 1964"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1968"
+    }
+}

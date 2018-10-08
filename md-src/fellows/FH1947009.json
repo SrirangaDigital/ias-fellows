@@ -1,0 +1,19 @@
+{
+    "id": "FH1947009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Schack August Steenberg",
+            "last": "Krogh",
+            "display": "Krogh, Prof. Schack August Steenberg"
+        },
+        "sex": "M",
+        "birthDate": "1874-11-15",
+        "deathDate": "1949-09-13",
+        "honours": "Nobel Laureate (Medicine) - 1920"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1947"
+    }
+}

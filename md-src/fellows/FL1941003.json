@@ -1,0 +1,20 @@
+{
+    "id": "FL1941003",
+    "profile": {
+        "name": {
+            "first": "Damodar Vinayak",
+            "last": "Gogate",
+            "display": "Gogate,  Damodar Vinayak"
+        },
+        "sex": "M",
+        "birthDate": "1903-01-23",
+        "deathDate": "1984-01-11",
+        "degree": "Ph.D. (London)",
+        "specialization": "Spectroscopy, Statistical Thermodynamics and Heat Transfer"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1941"
+    }
+}

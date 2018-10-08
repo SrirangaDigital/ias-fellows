@@ -1,0 +1,26 @@
+{
+    "id": "FL1984018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Parimal Kumar",
+            "last": "Sen-Sarma",
+            "display": "Sen-Sarma, Dr Parimal Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1929-04-01",
+        "deathDate": "2002-07-29",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNAAS",
+        "specialization": "Tropical Forest Entomology, Termites, Insect Vectors of Plant Diseases, General Forestry, Ecology and Environment"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "C-103, DPS Housing Society, Plot A100/2, Sector 51, Gautam Budh Nagar",
+        "city": "Noida 201 303"
+    }
+}

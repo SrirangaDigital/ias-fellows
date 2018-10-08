@@ -1,0 +1,35 @@
+{
+    "id": "FL2007002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ayyappanpillai",
+            "last": "Ajayaghosh",
+            "display": "Ajayaghosh, Dr Ayyappanpillai"
+        },
+        "sex": "M",
+        "birthDate": "1962-07-30",
+        "degree": "Ph.D. (Calicut)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Organic Functional Materials, Molecular Self-Assembly, Molecular Organogels and Pi-Conjugated Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Director, Photonics & Photosciences Group, National Institute for Interdisciplinary Science &, Technology, Industrial Estate Post",
+        "city": "Thiruvananthapuram 695 019",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 249 3599, 2490324",
+            "residence": "(0471) 249 1592",
+            "mobile": "94460 59059",
+            "fax": "(0471) 249 1712"
+        },
+        "email": {
+            "official": "ajayaghosh@niist.res.in"
+        }
+    }
+}

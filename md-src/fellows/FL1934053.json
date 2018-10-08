@@ -1,0 +1,20 @@
+{
+    "id": "FL1934053",
+    "profile": {
+        "name": {
+            "first": "Krishna Kumar",
+            "last": "Mathur",
+            "display": "Mathur,  Krishna Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1893-07-30",
+        "deathDate": "1936-07-18",
+        "honours": "FNA, FNASc",
+        "specialization": "Mining"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1992033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subodh Raghunath",
+            "last": "Shenoy",
+            "display": "Shenoy, Prof. Subodh Raghunath"
+        },
+        "sex": "M",
+        "birthDate": "1947-10-16",
+        "degree": "Ph.D. (Yale)",
+        "specialization": "Condensed Matter Physics and Statistical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Tata Institute of Fundamental Research, 36/P, Gopanpally",
+        "city": "Hyderabad 500 107",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2020 3090",
+            "mobile": "99491 98515",
+            "fax": "(040) 2020 3105"
+        },
+        "email": {
+            "official": "subodhrshenoy@tifrh.res.in",
+            "personal": "subodhrshenoy@gmail.com"
+        }
+    }
+}

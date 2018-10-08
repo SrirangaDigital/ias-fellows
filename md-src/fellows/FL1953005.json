@@ -1,0 +1,27 @@
+{
+    "id": "FL1953005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bagepalli Ramachandrachar",
+            "last": "Seshachar",
+            "display": "Seshachar, Prof. Bagepalli Ramachandrachar"
+        },
+        "sex": "M",
+        "birthDate": "1908-01-09",
+        "deathDate": "1994-01-25",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Cell Biology, Protozoology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1953",
+        "councilservice": "1965-67"
+    },
+    "contact": {
+        "address": "No. 50, 10th Main Road, Malleswaram",
+        "city": "Bengaluru 560 055"
+    }
+}

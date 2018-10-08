@@ -1,0 +1,29 @@
+{
+    "id": "FL1984006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sukumar Shyamlal",
+            "last": "Merh",
+            "display": "Merh, Prof. Sukumar Shyamlal"
+        },
+        "sex": "M",
+        "birthDate": "1928-10-02",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA, FNASc",
+        "specialization": "Structural Geology, Himalayan Geology and Quaternary Geology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "Flat 5, Ash Down Court, 5, Idmiston Road, Worcester Park",
+        "city": "Surrey KT4 7SE",
+        "country": "U.K.",
+        "telephone": {
+            "residence": "(+44-20) 8330 1225"
+        }
+    }
+}

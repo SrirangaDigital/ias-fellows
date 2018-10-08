@@ -1,0 +1,35 @@
+{
+    "id": "FL2013011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Susanta",
+            "last": "Mahapatra",
+            "display": "Mahapatra, Prof. Susanta"
+        },
+        "sex": "M",
+        "birthDate": "1968-01-15",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "Theoretical Chemical Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4826, (040) 2301 1537",
+            "residence": "(040) 2301 0654, (040) 2313 6014",
+            "mobile": "94403 03184",
+            "fax": "(040) 2301 2460, (040) 2301 1537"
+        },
+        "email": {
+            "official": "susanta.mahapatra@uohyd.ac.in"
+        },
+        "url": "http://chemistry.uohyd.ernet.in/~sm"
+    }
+}

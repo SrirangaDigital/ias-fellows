@@ -1,0 +1,21 @@
+{
+    "id": "FL1951002",
+    "profile": {
+        "name": {
+            "first": "Bramhanda Srinivasamurthy",
+            "last": "Bhimachar",
+            "display": "Bhimachar,  Bramhanda Srinivasamurthy"
+        },
+        "sex": "M",
+        "birthDate": "1906-07-07",
+        "deathDate": "1979-01-11",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Applied Zoology, Fisheries, Aquaculture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1951"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FL1977005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mihir",
+            "last": "Chowdhury",
+            "display": "Chowdhury, Prof. Mihir"
+        },
+        "sex": "M",
+        "birthDate": "1937-07-15",
+        "deathDate": "2017-03-28",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Molecular Spectroscopy, Chemical Reaction dynamics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "50U, Garcha Road",
+        "city": "Kolkata 700 019",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2461 9625"
+        }
+    }
+}

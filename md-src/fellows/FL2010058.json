@@ -1,0 +1,37 @@
+{
+    "id": "FL2010058",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bharat Bhushan",
+            "last": "Chattoo",
+            "display": "Chattoo, Prof. Bharat Bhushan"
+        },
+        "sex": "M",
+        "birthDate": "1949-05-25",
+        "deathDate": "2016-11-15",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc, FNAAS,FTWAS",
+        "specialization": "Biotechnology, Microbial & Molecular Genetics, Genome Analysis, Bioprocess Development"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "JC Bose National Fellow & Professor, GRC, Department of Microbiology & Biotechnology Centre, MS University of Baroda",
+        "city": "Baroda 390 002",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(0265) 279 3070, (0265) 279 4396",
+            "residence": "(0265) 271 1979",
+            "mobile": "98240 03982",
+            "fax": "(0265) 279 2508"
+        },
+        "email": {
+            "official": "bharat.chattoo@bcmsu.ac.in",
+            "personal": "chattoo@gmail.com"
+        }
+    }
+}

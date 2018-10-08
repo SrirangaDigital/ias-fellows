@@ -1,0 +1,26 @@
+{
+    "id": "FL1986025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Krishnarao Raghavendra",
+            "last": "Rao",
+            "display": "Rao, Dr Krishnarao Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1936-05-07",
+        "deathDate": "2008-12-02",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA",
+        "specialization": "Phonon Physics and Neutron Beam Research"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Gokula', 29/2, 11th Cross, Third Main (Margosa) Road, Malleswaram",
+        "city": "Bengaluru 560 003"
+    }
+}

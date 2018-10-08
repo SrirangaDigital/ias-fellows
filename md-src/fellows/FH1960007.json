@@ -1,0 +1,19 @@
+{
+    "id": "FH1960007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nikolai Nikolaevich",
+            "last": "Semenov",
+            "display": "Semenov, Prof. Nikolai Nikolaevich"
+        },
+        "sex": "M",
+        "birthDate": "1896-04-16",
+        "deathDate": "1986-09-26",
+        "honours": "Nobel Laureate (Chemistry) - 1956"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1960"
+    }
+}

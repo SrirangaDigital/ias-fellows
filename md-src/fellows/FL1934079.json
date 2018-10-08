@@ -1,0 +1,19 @@
+{
+    "id": "FL1934079",
+    "profile": {
+        "name": {
+            "first": "H Srinivasa",
+            "last": "Rao",
+            "display": "Rao,  H Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1894-07-16",
+        "deathDate": "1971-07-14",
+        "degree": "D.Sc."
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934"
+    }
+}

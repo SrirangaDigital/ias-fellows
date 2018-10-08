@@ -1,0 +1,35 @@
+{
+    "id": "FL1994023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tej Pal",
+            "last": "Singh",
+            "display": "Singh, Prof. Tej Pal"
+        },
+        "sex": "M",
+        "birthDate": "1944-08-02",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "X-ray Crystallography, Structural Biology, Protein Structures, Peptide Design and Drug Discovery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Distinguished Biotechnology Research Professor, Department of Biophysics, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2658 8931",
+            "residence": "(0120) 454 5295",
+            "mobile": "93122 49508",
+            "fax": "(011) 2658 8863"
+        },
+        "email": {
+            "personal": "tpsingh.aiims@gmail.com"
+        }
+    }
+}

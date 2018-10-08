@@ -1,0 +1,35 @@
+{
+    "id": "FL2013010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Balaji Rao",
+            "last": "Jagirdar",
+            "display": "Jagirdar, Prof. Balaji Rao"
+        },
+        "sex": "M",
+        "birthDate": "1965-09-09",
+        "degree": "Ph.D. (Kansas State)",
+        "specialization": "Organometallic Chemistry, Materials Chemistry, Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Inorganic & Physical Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2825",
+            "residence": "(080) 2360 2578",
+            "mobile": "96325 22161",
+            "fax": "(080) 2360 1552"
+        },
+        "email": {
+            "official": "jagirdar@iisc.ac.in"
+        },
+        "url": "http://ipc.iisc.ernet.in/jagirdar.html"
+    }
+}

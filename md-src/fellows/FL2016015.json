@@ -1,0 +1,35 @@
+{
+    "id": "FL2016015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pawan",
+            "last": "Malhotra",
+            "display": "Malhotra, Dr Pawan"
+        },
+        "sex": "M",
+        "birthDate": "1960-11-16",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNASc",
+        "specialization": "Malaria Parasite Biology, Molecular Biology, Drug & Vaccine Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Group Leader, Malaria Biology Group, International Centre for Genetic Engineering & Biotechnology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 1358/457",
+            "residence": "(011) 2511 0774",
+            "mobile": "98107 79378",
+            "fax": "(011) 2674 2316"
+        },
+        "email": {
+            "personal": "pawanmal@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2014020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Syamal",
+            "last": "Roy",
+            "display": "Roy, Dr Syamal"
+        },
+        "sex": "M",
+        "birthDate": "1954-01-13",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Immunology, Parasitology, Vaccine Research"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Indian Institute of Chemical Biology, 4, Raja SC Mullick Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2499 0395",
+            "residence": "(033) 2472 5624",
+            "fax": "(033) 2473 5197"
+        },
+        "email": {
+            "official": "sroy@iicb.res.in",
+            "personal": "drsyamalroy@yahoo.com"
+        }
+    }
+}

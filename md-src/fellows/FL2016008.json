@@ -1,0 +1,35 @@
+{
+    "id": "FL2016008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Suman Kumar",
+            "last": "Dhar",
+            "display": "Dhar, Prof. Suman Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1968-03-06",
+        "degree": "Ph.D. (JNU)",
+        "specialization": "DNA Replication, Cell Cycle Control, Molecular Parasitology, Bacteriology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Special Centre for Molecular Medicine, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 2572",
+            "residence": "(011) 2674 2476",
+            "mobile": "98100 18272",
+            "fax": "(011) 2674 1781"
+        },
+        "email": {
+            "official": "skdhar@mail.jnu.ac.in",
+            "personal": "skdhar2002@yahoo.co.in"
+        }
+    }
+}

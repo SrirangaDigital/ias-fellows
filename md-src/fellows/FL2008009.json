@@ -1,0 +1,35 @@
+{
+    "id": "FL2008009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kakkudiyil",
+            "last": "George Thomas",
+            "display": "George Thomas, Prof. Kakkudiyil"
+        },
+        "sex": "M",
+        "birthDate": "1961-05-13",
+        "degree": "Ph.D. (Kerala)",
+        "honours": "FNA",
+        "specialization": "Photochemistry & Photophysics, Nanostructured Materials and Photoresponsive Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "School of Chemistry, Indian Institute of Science Education & Research, CET Campus",
+        "city": "Thiruvananthapuram 695 016",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 259 7425",
+            "residence": "(0471) 254 2245",
+            "mobile": "98473 56057",
+            "fax": "(0471) 259 7442"
+        },
+        "email": {
+            "official": "kgt@iisertvm.ac.in"
+        }
+    }
+}

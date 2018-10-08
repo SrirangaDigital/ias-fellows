@@ -1,0 +1,33 @@
+{
+    "id": "FL2003016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Venigalla",
+            "last": "Purnachandra Rao",
+            "display": "Purnachandra Rao, Dr Venigalla"
+        },
+        "sex": "M",
+        "birthDate": "1955-10-10",
+        "degree": "Ph.D. (Andhra)",
+        "honours": "FNA",
+        "specialization": "Marine Geology, Authigenic Minerals and Palaeoclimate, Palaeo-sea-levels"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Emeritus Scientist, Department of Civil Engineering, Vignan's University",
+        "city": "Vadlamudi 522 213",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(0863) 234 4761",
+            "mobile": "94224 16008"
+        },
+        "email": {
+            "personal": "vprao55@gmail.com"
+        }
+    }
+}

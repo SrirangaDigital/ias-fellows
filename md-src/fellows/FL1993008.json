@@ -1,0 +1,35 @@
+{
+    "id": "FL1993008",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vivek Shripad",
+            "last": "Borkar",
+            "display": "Borkar, Dr Vivek Shripad"
+        },
+        "sex": "M",
+        "birthDate": "1954-09-19",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "honours": "FNA, FNAE, FIEEE, FNASc, FTWAS, FAMS",
+        "specialization": "Stochastic Control Theory and Applied Probability"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Professor, Department of Electrical Engineering, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 9405",
+            "residence": "(022) 2572 8619",
+            "mobile": "99690 66626",
+            "fax": "(022) 2572 3707"
+        },
+        "email": {
+            "personal": "borkar.vs@gmail.com"
+        }
+    }
+}

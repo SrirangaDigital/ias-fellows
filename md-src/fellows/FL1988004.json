@@ -1,0 +1,33 @@
+{
+    "id": "FL1988004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Melethil Sankaran",
+            "last": "Gopinathan",
+            "display": "Gopinathan, Prof. Melethil Sankaran"
+        },
+        "sex": "M",
+        "birthDate": "1942-10-08",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "Quantum Chemistry and Nonlinear Dynamics in Chemistry & Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Indian Institute of Science Education & Research, Vithura",
+        "city": "Thiruvananthapuram 695 551",
+        "state": "Kerala",
+        "telephone": {
+            "residence": "(0471) 236 5743",
+            "mobile": "94003 65155"
+        },
+        "email": {
+            "personal": "msgopinathan@gmail.com"
+        }
+    }
+}

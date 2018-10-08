@@ -1,0 +1,20 @@
+{
+    "id": "FL1934081",
+    "profile": {
+        "name": {
+            "first": "S S Moorthy",
+            "last": "Rao",
+            "display": "Rao,  S S Moorthy"
+        },
+        "sex": "M",
+        "birthDate": "1899-00-00",
+        "deathDate": "1983-00-00",
+        "specialization": "Wireless Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934",
+        "councilservice": "1962-73"
+    }
+}

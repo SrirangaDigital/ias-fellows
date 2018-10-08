@@ -1,0 +1,37 @@
+{
+    "id": "FL2007008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anil",
+            "last": "Grover",
+            "display": "Grover, Prof. Anil"
+        },
+        "sex": "M",
+        "birthDate": "1958-08-15",
+        "degree": "Ph.D. (IARI)",
+        "honours": "FNASc, FNAAS, FNA",
+        "specialization": "Plant Abiotic Stress Responses, Plant Biotechnology, Molecular Biology and Crop Sciences"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2411 5097",
+            "residence": "(011) 4985 4674",
+            "mobile": "98716 18167",
+            "fax": "(011) 2411 5270"
+        },
+        "email": {
+            "official": "agrover@south.du.ac.in",
+            "personal": "anil.anilgrover@gmail.com"
+        },
+        "url": "http://www.dpmb.ac.in/index.php?page=AG"
+    }
+}

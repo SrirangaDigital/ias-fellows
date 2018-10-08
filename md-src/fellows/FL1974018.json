@@ -1,0 +1,36 @@
+{
+    "id": "FL1974018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jayant Vishnu",
+            "last": "Narlikar",
+            "display": "Narlikar, Prof. Jayant Vishnu"
+        },
+        "sex": "M",
+        "birthDate": "1938-07-19",
+        "degree": "Sc.D. (Cantab)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Cosmology, General Relativity and Gravitation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1986-88"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Inter-University Centre for Astronomy & Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4100",
+            "residence": "(020) 2588 1150",
+            "mobile": "94235 22142",
+            "fax": "(020) 2560 4698-99"
+        },
+        "email": {
+            "official": "jvn@iucaa.in"
+        }
+    }
+}

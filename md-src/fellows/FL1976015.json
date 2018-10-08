@@ -1,0 +1,27 @@
+{
+    "id": "FL1976015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chanchal Kumar",
+            "last": "Majumdar",
+            "display": "Majumdar, Prof. Chanchal Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1938-08-11",
+        "deathDate": "2000-06-20",
+        "degree": "Ph.D. (California)",
+        "honours": "FNA, FNASc",
+        "specialization": "Statistical Physics, Electron States and Magnetic Properties"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1976",
+        "councilservice": "Council Service: 1983-88"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, PAMU Lake, Indian Statistical Institute, 203, B.T. Road",
+        "city": "Calcutta 700 064"
+    }
+}

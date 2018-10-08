@@ -1,0 +1,33 @@
+{
+    "id": "FL2005002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Baldev Raj",
+            "last": "Arora",
+            "display": "Arora, Dr Baldev Raj"
+        },
+        "sex": "M",
+        "birthDate": "1947-10-10",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNASc",
+        "specialization": "Electromagnetic Geophysics, Seismotectonics and Geomagnetism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "36, Janakpuri, Engineers Enclave, Phase III, GMS Road",
+        "city": "Dehra Dun 248 001",
+        "state": "Uttarakhand",
+        "telephone": {
+            "residence": "98712 87209",
+            "mobile": "98973 91661"
+        },
+        "email": {
+            "personal": "arorabr47@gmail.com"
+        }
+    }
+}

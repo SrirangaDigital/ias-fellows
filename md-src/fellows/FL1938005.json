@@ -1,0 +1,24 @@
+{
+    "id": "FL1938005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Beni Charan",
+            "last": "Mahendra",
+            "display": "Mahendra, Dr Beni Charan"
+        },
+        "sex": "M",
+        "birthDate": "1903-00-00",
+        "degree": "D.Sc. (Agra)",
+        "specialization": "Vertebrate Zoology and Comparative Anatomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1938"
+    },
+    "contact": {
+        "address": "Khandari Road Crossing",
+        "city": "Agra 282 002"
+    }
+}

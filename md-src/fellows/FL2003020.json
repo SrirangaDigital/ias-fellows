@@ -1,0 +1,33 @@
+{
+    "id": "FL2003020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nimish Arun",
+            "last": "Shah",
+            "display": "Shah, Prof. Nimish Arun"
+        },
+        "sex": "M",
+        "birthDate": "1967-02-04",
+        "degree": "Ph.D. (TIFR)",
+        "honours": "FNASc",
+        "specialization": "Ergodic Theory, Lie Groups, Number Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Professor, Department of Mathematics, The Ohio State University",
+        "city": "Columbus, OH 43210",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-614) 292 5088",
+            "fax": "(+1-614) 292 1479"
+        },
+        "email": {
+            "official": "shah@math.ohio-state.edu"
+        }
+    }
+}

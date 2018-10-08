@@ -1,0 +1,26 @@
+{
+    "id": "FL1981014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mihir Kumar",
+            "last": "Bose",
+            "display": "Bose, Prof. Mihir Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1933-09-01",
+        "deathDate": "2009-10-01",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Igneous Petrology, Mineralogy and Geochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Department of Geology, Presidency College",
+        "city": "Kolkata 700 073"
+    }
+}

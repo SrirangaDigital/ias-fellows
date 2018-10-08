@@ -1,0 +1,19 @@
+{
+    "id": "FH1935085",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Heinrich Otto",
+            "last": "Wieland",
+            "display": "Wieland, Prof. Heinrich Otto"
+        },
+        "sex": "M",
+        "birthDate": "1877-06-04",
+        "deathDate": "1957-08-05",
+        "honours": "Nobel Laureate (Chemistry) - 1927"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

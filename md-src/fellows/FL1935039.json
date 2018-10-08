@@ -1,0 +1,20 @@
+{
+    "id": "FL1935039",
+    "profile": {
+        "name": {
+            "first": "Bellur Rama",
+            "last": "Rao",
+            "display": "Rao,  Bellur Rama"
+        },
+        "sex": "M",
+        "birthDate": "1891-11-20",
+        "deathDate": "1970-02-15",
+        "specialization": "Petrography, Mineralogy, Economic Geology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1935",
+        "councilservice": "1938-49, 1952-61"
+    }
+}

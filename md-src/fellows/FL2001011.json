@@ -1,0 +1,33 @@
+{
+    "id": "FL2001011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Radhakrishnan",
+            "last": "Nagarajan",
+            "display": "Nagarajan, Prof. Radhakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1942-08-09",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc",
+        "specialization": "Superconductivity, Magnetism, Mossbauer Spectroscopy, Instrumentation, Cryogenics and Heavy Fermion Behaviour"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "303, Dnyaneshwar, Off D. Gaikwad Road, Near Tambe Nagar Jain Temple, Mulund (W)",
+        "city": "Mumbai 400 080",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "93223 70689"
+        },
+        "email": {
+            "official": "nagarajan@cbs.ac.in",
+            "personal": "nagjan2006@gmail.com"
+        }
+    }
+}

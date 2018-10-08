@@ -1,0 +1,18 @@
+{
+    "id": "FH1978015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "John Stuart",
+            "last": "Anderson",
+            "display": "Anderson, Prof. John Stuart"
+        },
+        "sex": "M",
+        "birthDate": "1908-01-09",
+        "deathDate": "1990-12-25"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1978"
+    }
+}

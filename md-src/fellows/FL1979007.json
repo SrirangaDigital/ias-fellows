@@ -1,0 +1,37 @@
+{
+    "id": "FL1979007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Goverdhan",
+            "last": "Mehta",
+            "display": "Mehta, Prof. Goverdhan"
+        },
+        "sex": "M",
+        "birthDate": "1943-06-26",
+        "degree": "Ph.D. (Pune)",
+        "honours": "D.Sc. (h.c.), FNA, FNASc, FRS, FTWAS",
+        "specialization": "Synthetic Organic Chemistry and Natural Products Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1979",
+        "councilservice": "Council Service: 1989-94; Vice-President: 1992-94"
+    },
+    "contact": {
+        "address": "University Distinguished Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4848, (040) 2301 0785",
+            "residence": "(040) 2313 6145",
+            "mobile": "80083 93737",
+            "fax": "(040) 2301 2460"
+        },
+        "email": {
+            "official": "gmsc@uohyd.ernet.in",
+            "personal": "gmehta43@gmail.com"
+        }
+    }
+}

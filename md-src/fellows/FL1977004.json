@@ -1,0 +1,26 @@
+{
+    "id": "FL1977004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manoj Kanti",
+            "last": "Banerjee",
+            "display": "Banerjee, Prof. Manoj Kanti"
+        },
+        "sex": "M",
+        "birthDate": "1931-05-25",
+        "deathDate": "2006-02-18",
+        "degree": "Ph.D. (Calcutta)",
+        "specialization": "Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "Professor (Retd), Department of Physics, University of Maryland",
+        "city": "College Park, Maryland 20742-4111",
+        "country": "USA"
+    }
+}

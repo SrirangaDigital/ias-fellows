@@ -1,0 +1,35 @@
+{
+    "id": "FL1975017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Palayanoor Sivaswamy",
+            "last": "Ramakrishnan",
+            "display": "Ramakrishnan, Prof. Palayanoor Sivaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1936-12-24",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Socio-ecology, Environment and Sustainable Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "INSA Honorary Scientist, School of Environmental Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2670 4326",
+            "residence": "(0124) 408 5970",
+            "mobile": "99585 14140",
+            "fax": "(011) 2674 1262"
+        },
+        "email": {
+            "personal": "krishnanpoonam@gmail.com,s_mehn2005@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1992025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Satishchandra Balkrishna",
+            "last": "Ogale",
+            "display": "Ogale, Prof. Satishchandra Balkrishna"
+        },
+        "sex": "M",
+        "birthDate": "1953-07-24",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNASc",
+        "specialization": "Nanoscience & Nanotechnology, Metal Oxide Thin Films and Heterostructures, Dye Sensitised Solar Cells, Solar Water Splitting for Hydrogen Generation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Department of Physics & Centre for Energy Science, Indian Institute of Science Education & Research, Dr Homi Bhabha Road",
+        "city": "Pune411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 8292",
+            "residence": "(020) 2543 5200, (020) 2544 2912",
+            "mobile": "98226 28242"
+        },
+        "email": {
+            "official": "satishogale@iiserpune.ac.in",
+            "personal": "satishogale@gmail.com"
+        }
+    }
+}

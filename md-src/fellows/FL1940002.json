@@ -1,0 +1,22 @@
+{
+    "id": "FL1940002",
+    "profile": {
+        "name": {
+            "first": "Dakshina Ranjan",
+            "last": "Bhattacharya",
+            "display": "Bhattacharya,  Dakshina Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1888-01-18",
+        "deathDate": "1956-08-26",
+        "degree": "Ph.D.",
+        "honours": "FNA, FNASc",
+        "specialization": "Cytology, Ichthyology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1940",
+        "councilservice": "1940-43"
+    }
+}

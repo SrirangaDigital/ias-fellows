@@ -1,0 +1,21 @@
+{
+    "id": "FL1979011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Trupapur Antony",
+            "last": "Davis",
+            "display": "Davis, Dr Trupapur Antony"
+        },
+        "sex": "M",
+        "birthDate": "1923-02-09",
+        "deathDate": "1989-11-10",
+        "degree": "Ph.D. (ISI)",
+        "specialization": "Plant Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1979"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL2009015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "A C",
+            "last": "Mishra",
+            "display": "Mishra, Dr A C"
+        },
+        "sex": "M",
+        "birthDate": "1950-07-01",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNA",
+        "specialization": "Human Viral Infection & Zoonotic Diseases, Public Health"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Director, Interactive Research School of Health Affairs, Bharati Vidyapeeth University, Katraj",
+        "city": "Pune 411 043",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2436 6920",
+            "mobile": "99701 78555"
+        },
+        "email": {
+            "personal": "acm1750@gmail.com"
+        }
+    }
+}

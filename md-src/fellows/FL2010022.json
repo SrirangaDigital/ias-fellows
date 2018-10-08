@@ -1,0 +1,35 @@
+{
+    "id": "FL2010022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudesh Kaur",
+            "last": "Khanduja",
+            "display": "Khanduja, Prof. Sudesh Kaur"
+        },
+        "sex": "F",
+        "birthDate": "1951-01-01",
+        "degree": "Ph.D. (Panjab)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Algebra, Valuation Theory, Algebraic Number Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Professor of Mathematics, IISER Mohali, Knowledge City, Sector 81, Manauli P.O., Mohali",
+        "city": "SAS Nagar 140 306",
+        "state": "Panjab",
+        "telephone": {
+            "office": "(0172) 224 0266",
+            "residence": "(0172) 405 1297",
+            "mobile": "98152 04096"
+        },
+        "email": {
+            "official": "skhanduja@iisermohali.ac.in",
+            "personal": "sudeshkaur@yahoo.com"
+        }
+    }
+}

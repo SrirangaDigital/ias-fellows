@@ -1,0 +1,32 @@
+{
+    "id": "FL1987008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Santosh Kumar",
+            "last": "Mishra",
+            "display": "Mishra, Prof. Santosh Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1941-03-01",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNA",
+        "specialization": "Dynamic Meteorology and Numerical Modelling of the Atmosphere"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Flat No. 4, 163/24 Mausam Vihar, Park Avenue, Off DP Road, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 2589 0369"
+        },
+        "email": {
+            "personal": "skmishrapune@rediffmail.com"
+        }
+    }
+}

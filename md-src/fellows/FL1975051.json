@@ -1,0 +1,21 @@
+{
+    "id": "FL1975051",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Puliakote Kesava",
+            "last": "Menon",
+            "display": "Menon, Dr Puliakote Kesava"
+        },
+        "sex": "M",
+        "birthDate": "1917-09-04",
+        "deathDate": "1979-10-22",
+        "degree": "D.Sc.",
+        "specialization": "Number Theory and Modern Algebra"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1975"
+    }
+}

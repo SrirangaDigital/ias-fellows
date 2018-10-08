@@ -1,0 +1,21 @@
+{
+    "id": "FL1963005",
+    "profile": {
+        "name": {
+            "first": "Yelavarthy",
+            "last": "Nayudamma",
+            "display": "Nayudamma,  Yelavarthy"
+        },
+        "sex": "M",
+        "birthDate": "1922-09-10",
+        "deathDate": "1985-06-23",
+        "degree": "Ph.D. (Lehigh)",
+        "honours": "FNA, FNASc",
+        "specialization": "Leather Technology, Chemistry and Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1963"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1986003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Umesh Chandra",
+            "last": "Chaturvedi",
+            "display": "Chaturvedi, Prof. Umesh Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1939-03-02",
+        "degree": "M.D. (Lucknow)",
+        "honours": "FRC Path. (London), FAMS, FNA, FNASc, FAAM(USA)",
+        "specialization": "Medical Microbiology, Virology and Immunology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "201, Annapurna Apartments, No. 1, Bishop Rocky Street, Faizabad Road",
+        "city": "Lucknow 226 007",
+        "state": "U.P.",
+        "telephone": {
+            "residence": "(0522) 402 6202",
+            "mobile": "94509 13506"
+        },
+        "email": {
+            "personal": "uchaturvedi201@gmail.com"
+        }
+    }
+}

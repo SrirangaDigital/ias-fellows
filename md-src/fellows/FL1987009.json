@@ -1,0 +1,37 @@
+{
+    "id": "FL1987009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Debashis",
+            "last": "Mukherjee",
+            "display": "Mukherjee, Prof. Debashis"
+        },
+        "sex": "M",
+        "birthDate": "1946-12-17",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc, FTWAS, D.Sc. (h.c.)",
+        "specialization": "Theoretical Chemistry and Theoretical Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Emeritus Cahir Professor, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2499 1144",
+            "residence": "(033) 2429 6289",
+            "mobile": "93310 19518",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "pcdm@iacs.res.in",
+            "personal": "pcdemu@gmail.com"
+        },
+        "url": "http://www.iacs.res.in/pcdm.html"
+    }
+}

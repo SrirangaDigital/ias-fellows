@@ -1,0 +1,35 @@
+{
+    "id": "FL1974025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vaidyeswaran",
+            "last": "Rajaraman",
+            "display": "Rajaraman, Prof. Vaidyeswaran"
+        },
+        "sex": "M",
+        "birthDate": "1933-09-08",
+        "degree": "S.M. (MIT), Ph.D. (Wisconsin)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "Computer Science and Information Systems Design"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Honorary Professor, Supercomputer Education and Research Centre, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0811",
+            "residence": "(080) 2341 9672",
+            "fax": "(080) 2360 0805"
+        },
+        "email": {
+            "personal": "rajaraman.v37@gmail.com"
+        },
+        "url": "http://www.serc.iisc.ernet.in/~rajaram/"
+    }
+}

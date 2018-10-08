@@ -1,0 +1,35 @@
+{
+    "id": "FL2016024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sunil Kumar",
+            "last": "Singh",
+            "display": "Singh, Prof. Sunil Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1971-03-16",
+        "degree": "Ph.D. (PRL)",
+        "specialization": "Low Temperature Elemental & Isotope Geochemistry, Biogeochemistry of Trace Elements & Isotopes, Earth Surface & Ocean Processes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Geosciences Division, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4307",
+            "residence": "92740 75356",
+            "mobile": "94270 29489",
+            "fax": "(079) 2630 1502"
+        },
+        "email": {
+            "official": "sunil@prl.res.in"
+        },
+        "url": "https://www.prl.res.in/~sunil/"
+    }
+}

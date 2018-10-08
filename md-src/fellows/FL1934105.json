@@ -1,0 +1,21 @@
+{
+    "id": "FL1934105",
+    "profile": {
+        "name": {
+            "first": "Bhola Nath",
+            "last": "Singh",
+            "display": "Singh,  Bhola Nath"
+        },
+        "sex": "M",
+        "birthDate": "1898-09-22",
+        "deathDate": "1984-06-07",
+        "degree": "D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Plant Physiology, Agronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    }
+}

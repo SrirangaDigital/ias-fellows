@@ -1,0 +1,33 @@
+{
+    "id": "FL1974041",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ganesan",
+            "last": "Venkataraman",
+            "display": "Venkataraman, Prof. Ganesan"
+        },
+        "sex": "M",
+        "birthDate": "1932-10-06",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Condensed Matter Physics and Parallel Computers"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1983-85"
+    },
+    "contact": {
+        "address": "W6, A14-15 Mandir, Anantapur Dist",
+        "city": "Prasanthi Nilayam 515 134",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(08555) 28 7499"
+        },
+        "email": {
+            "personal": "gvraman108@gmail.com"
+        }
+    }
+}

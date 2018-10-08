@@ -1,0 +1,18 @@
+{
+    "id": "FH1936017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Alfred Cort",
+            "last": "Haddon",
+            "display": "Haddon, Prof. Alfred Cort"
+        },
+        "sex": "M",
+        "birthDate": "1855-05-24",
+        "deathDate": "1940-04-20"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1936"
+    }
+}

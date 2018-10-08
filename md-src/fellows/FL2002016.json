@@ -1,0 +1,37 @@
+{
+    "id": "FL2002016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Yashwant Dattatraya",
+            "last": "Vankar",
+            "display": "Vankar, Prof. Yashwant Dattatraya"
+        },
+        "sex": "M",
+        "birthDate": "1950-12-05",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA",
+        "specialization": "Synthetic Organic Chemistry, Synthetic Carbohydrate Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "JC Bose National Fellow & Professor, Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7492",
+            "residence": "(0512) 259 8493",
+            "mobile": "99350 62562",
+            "fax": "(0512) 259 6806"
+        },
+        "email": {
+            "official": "vankar@iitk.ac.in",
+            "personal": "ydvankar@gmail.com"
+        },
+        "url": "http://home.iitk.ac.in/~vankar/"
+    }
+}

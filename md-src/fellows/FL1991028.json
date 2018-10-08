@@ -1,0 +1,26 @@
+{
+    "id": "FL1991028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kaushal",
+            "last": "Kishore",
+            "display": "Kishore, Prof. Kaushal"
+        },
+        "sex": "M",
+        "birthDate": "1942-12-31",
+        "deathDate": "1999-03-02",
+        "degree": "Ph.D. (Gorakhpur)",
+        "honours": "FNA, FNASc",
+        "specialization": "Polymer Chemistry, Thermodynamics and Combustion Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Department of Inorganic and, Physical Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

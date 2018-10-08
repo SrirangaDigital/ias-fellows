@@ -1,0 +1,23 @@
+{
+    "id": "FH1988030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Seymour",
+            "last": "Benzer",
+            "display": "Benzer, Prof. Seymour"
+        },
+        "sex": "M",
+        "birthDate": "1921-10-15",
+        "deathDate": "2007-11-30"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Division of Biology, California Institute of Technology",
+        "city": "Pasadena, CA 91125",
+        "country": "U.S.A."
+    }
+}

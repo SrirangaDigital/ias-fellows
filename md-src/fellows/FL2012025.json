@@ -1,0 +1,35 @@
+{
+    "id": "FL2012025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amit Prakash",
+            "last": "Sharma",
+            "display": "Sharma, Dr Amit Prakash"
+        },
+        "sex": "M",
+        "birthDate": "1968-04-12",
+        "degree": "Ph.D. (Northwestern)",
+        "honours": "FNASc",
+        "specialization": "Structural Biology, Malaria, Protein Translation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Group Leader & Staff Scientist, International Centre for Genetic Engineering, & Biotechnology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 1731",
+            "residence": "(011) 2613 8674",
+            "mobile": "98101 11336",
+            "fax": "(011) 2674 1731"
+        },
+        "email": {
+            "personal": "amit.icgeb@gmail.com"
+        }
+    }
+}

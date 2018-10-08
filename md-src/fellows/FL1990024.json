@@ -1,0 +1,29 @@
+{
+    "id": "FL1990024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Yedatore Venkatakrishnaiya",
+            "last": "Venkatesh",
+            "display": "Venkatesh, Prof. Yedatore Venkatakrishnaiya"
+        },
+        "sex": "M",
+        "birthDate": "1942-05-20",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNAE",
+        "specialization": "Machine & Computer Vision, Neural Networks for Pattern Recognition, Signal Processing and Compressive Sampling, Multi- & Hyper-Spectral Data Analysis System Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "No. 521, 5th Cross, 8th A Main, Tata Nagar, Kodigehalli",
+        "city": "Bengaluru 560 092",
+        "state": "Karnataka",
+        "email": {
+            "personal": "yv.venkatesh@gmail.com"
+        }
+    }
+}

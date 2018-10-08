@@ -1,0 +1,32 @@
+{
+    "id": "FL2002013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Murali",
+            "last": "Sastry",
+            "display": "Sastry, Dr Murali"
+        },
+        "sex": "M",
+        "birthDate": "1959-06-10",
+        "degree": "Ph.D. (IIT, Madras)",
+        "specialization": "Surface Physics, Hybrid Materials and Nano Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "A-20, Spring Flowers, Panchavati, Pashan Road",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 2589 3952",
+            "mobile": "97170 32227"
+        },
+        "email": {
+            "personal": "murali1024.ms@gmail.com"
+        }
+    }
+}

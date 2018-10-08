@@ -1,0 +1,19 @@
+{
+    "id": "FH1966007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Walter Rudolf",
+            "last": "Hess",
+            "display": "Hess, Prof. Walter Rudolf"
+        },
+        "sex": "M",
+        "birthDate": "1881-03-17",
+        "deathDate": "1973-08-12",
+        "honours": "Nobel Laureate (Medicine) - 1949"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1966"
+    }
+}

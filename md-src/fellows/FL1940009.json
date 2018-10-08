@@ -1,0 +1,20 @@
+{
+    "id": "FL1940009",
+    "profile": {
+        "name": {
+            "first": "Kalla",
+            "last": "Neelakantam",
+            "display": "Neelakantam,  Kalla"
+        },
+        "sex": "M",
+        "birthDate": "1911-12-18",
+        "deathDate": "1985-08-28",
+        "degree": "Ph.D. (Andhra)",
+        "specialization": "Organic and Analytical Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1940"
+    }
+}

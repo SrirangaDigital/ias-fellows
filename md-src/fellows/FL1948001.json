@@ -1,0 +1,26 @@
+{
+    "id": "FL1948001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Munisamy",
+            "last": "Authikesavalu",
+            "display": "Authikesavalu, Dr Munisamy"
+        },
+        "sex": "M",
+        "birthDate": "1906-08-16",
+        "deathDate": "1973-09-22",
+        "degree": "MBBS (Madras), MS (Minneapolis)",
+        "honours": "FRCS",
+        "specialization": "Experimental Surgery, Ophthalmology, Otolaryngology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1948"
+    },
+    "contact": {
+        "address": "5-C, Lavelle Cross Road",
+        "city": "Bengaluru 560 001"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1975040",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Balawant Shankar",
+            "last": "Joshi",
+            "display": "Joshi, Dr Balawant Shankar"
+        },
+        "sex": "M",
+        "birthDate": "1924-12-28",
+        "deathDate": "2017-11-02",
+        "degree": "Ph.D. (Tech.) (Mumbai), Sc.D. (Cantab)",
+        "honours": "FNA",
+        "specialization": "Chemistry of Natural Products, Ethnobotany, Ayurvedic Medicines"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "1738, Kinsmon Cove",
+        "city": "Marietta, GA 30062",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-770) 549 2885"
+        },
+        "email": {
+            "personal": "balawant.joshi@gmail.com"
+        }
+    }
+}

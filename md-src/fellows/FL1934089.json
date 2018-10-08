@@ -1,0 +1,19 @@
+{
+    "id": "FL1934089",
+    "profile": {
+        "name": {
+            "first": "D L",
+            "last": "Sahasrabhudde",
+            "display": "Sahasrabhudde,  D L"
+        },
+        "sex": "M",
+        "birthDate": "1880-09-01",
+        "deathDate": "1953-00-00",
+        "specialization": "Agricultural Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934"
+    }
+}

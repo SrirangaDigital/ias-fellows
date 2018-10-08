@@ -1,0 +1,36 @@
+{
+    "id": "FL1974016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kuppuswamy",
+            "last": "Nagarajan",
+            "display": "Nagarajan, Dr Kuppuswamy"
+        },
+        "sex": "M",
+        "birthDate": "1930-09-15",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Natural Product, Medicinal, Pesticide & Synthetic Heterocyclic Chemistry, Applications of NMR to Structure & Reactivity"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Corporate Adviser, Hikal Limited, Grey Rock, No. 10, 24th Main, II Phase, JP Nagar",
+        "city": "Bengaluru 560 078",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 3023 6212/9212",
+            "residence": "(080) 2972 8767",
+            "mobile": "98867 13958",
+            "fax": "(080) 2658 4302"
+        },
+        "email": {
+            "official": "k_nagarajan@hikal.com",
+            "personal": "dknb69@yahoo.com,n_kuppuswamy@hotmail.com"
+        }
+    }
+}

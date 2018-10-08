@@ -1,0 +1,31 @@
+{
+    "id": "FL1975012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Murty Venkataradhakrishna",
+            "last": "Mantravadi",
+            "display": "Mantravadi, Dr Murty Venkataradhakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1929-10-04",
+        "degree": "Ph.D. (Rochester)",
+        "specialization": "Optics and Optical Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "1045, Morning View Drive, Apt. 108",
+        "city": "Escondido, CA 92026",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-760) 690 2123"
+        },
+        "email": {
+            "personal": "collimate@yahoo.com"
+        }
+    }
+}

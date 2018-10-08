@@ -1,0 +1,21 @@
+{
+    "id": "FL1934046",
+    "profile": {
+        "name": {
+            "first": "Kolar Ramakrishnaiya",
+            "last": "Krishnaswami",
+            "display": "Krishnaswami,  Kolar Ramakrishnaiya"
+        },
+        "sex": "M",
+        "birthDate": "1898-08-14",
+        "deathDate": "1964-06-28",
+        "degree": "D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Industrial Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934"
+    }
+}

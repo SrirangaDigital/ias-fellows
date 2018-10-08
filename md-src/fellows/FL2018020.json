@@ -1,0 +1,35 @@
+{
+    "id": "FL2018020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Madhavan",
+            "last": "Mukund",
+            "display": "Mukund, Prof. Madhavan"
+        },
+        "sex": "M",
+        "birthDate": "1965-05-01",
+        "degree": "Ph.D. (Aarhus)",
+        "specialization": "Concurrent & Distributed Systems, Distributed Algorithms"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Chennai Mathematical Institute, H1, SIPCOT IT Park, Siruseri, Kelambakkam",
+        "city": "Chennai 603 103",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 6748 0923",
+            "residence": "(044) 2457 0321",
+            "mobile": "94449 92990",
+            "fax": "(044) 2747 0225"
+        },
+        "email": {
+            "official": "madhavan@cmi.ac.in"
+        },
+        "url": "http://www.cmi.ac.in/~madhavan"
+    }
+}

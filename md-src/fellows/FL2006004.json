@@ -1,0 +1,35 @@
+{
+    "id": "FL2006004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Badekkila Venkataramana Rajarama",
+            "last": "Bhat",
+            "display": "Bhat, Prof. Badekkila Venkataramana Rajarama"
+        },
+        "sex": "M",
+        "birthDate": "1966-01-16",
+        "degree": "Ph.D. (ISI, Bangalore)",
+        "specialization": "Quantum Probability, Operator Algebras and Operator Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Statistics & Mathematics Unit, Indian Statistical Institute, R.V. College P.O.",
+        "city": "Bengaluru 560 059",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2698 5470",
+            "residence": "(080) 2698 5504",
+            "mobile": "98442 21578",
+            "fax": "(080) 2848 4265"
+        },
+        "email": {
+            "official": "bhat@isibang.ac.in"
+        },
+        "url": "http://www.isibang.ac.in/~bhat/"
+    }
+}

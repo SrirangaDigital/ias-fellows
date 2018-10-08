@@ -1,0 +1,35 @@
+{
+    "id": "FL2013009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jaya Naganathan",
+            "last": "Iyer",
+            "display": "Iyer, Prof. Jaya Naganathan"
+        },
+        "sex": "F",
+        "birthDate": "1970-08-09",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc",
+        "specialization": "Algebraic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Professor H, Mathematics Group, The Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3306",
+            "fax": "(044) 2254 1586"
+        },
+        "email": {
+            "official": "jniyer@imsc.res.in",
+            "personal": "ji_chennai2003@yahoo.com"
+        },
+        "url": "http://sites.google.com/site/homepagejniyer/"
+    }
+}

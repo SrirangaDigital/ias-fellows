@@ -1,0 +1,20 @@
+{
+    "id": "FL1935048",
+    "profile": {
+        "name": {
+            "last": "Shri Ranjan",
+            "display": "Shri Ranjan,  "
+        },
+        "sex": "M",
+        "birthDate": "1899-08-16",
+        "deathDate": "1969-07-08",
+        "honours": "FNA",
+        "specialization": "Plant Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935",
+        "councilservice": "1943-61"
+    }
+}

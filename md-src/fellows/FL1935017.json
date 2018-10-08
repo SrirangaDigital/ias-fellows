@@ -1,0 +1,20 @@
+{
+    "id": "FL1935017",
+    "profile": {
+        "name": {
+            "first": "Praphulla Chandra",
+            "last": "Guha",
+            "display": "Guha,  Praphulla Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1894-02-15",
+        "deathDate": "1962-11-06",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1935"
+    }
+}

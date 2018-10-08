@@ -1,0 +1,36 @@
+{
+    "id": "FL2010049",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rajan",
+            "last": "Sankaranarayanan",
+            "display": "Sankaranarayanan, Dr Rajan"
+        },
+        "sex": "M",
+        "birthDate": "1968-05-28",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Structural Biology, Translation of Genetic Code, Enzyme Mechanisms"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Group Leader, Centre for Cellular & Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2832",
+            "residence": "(040) 2717 1504",
+            "mobile": "98664 97744",
+            "fax": "(040) 2716 0591"
+        },
+        "email": {
+            "official": "sankar@ccmb.res.in"
+        },
+        "url": "http://www.ccmb.res.in/staff/sankar/index.html"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "FH1976019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Har Gobind",
+            "last": "Khorana",
+            "display": "Khorana, Prof. Har Gobind"
+        },
+        "sex": "M",
+        "birthDate": "1922-01-09",
+        "deathDate": "2011-11-09",
+        "honours": "Nobel Laureate (Medicine) - 1968"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "Alfred P. Sloan Professor of, Biology and Chemistry, Massachusetts Institute of, Technology, 77 Massachusetts Ave.",
+        "city": "Cambridge, MA 02139",
+        "country": "U.S.A."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2001003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudha",
+            "last": "Bhattacharya",
+            "display": "Bhattacharya, Prof. Sudha"
+        },
+        "sex": "F",
+        "birthDate": "1952-03-07",
+        "degree": "Ph.D. (IARI, New Delhi)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology, Molecular Parasitology and Genomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2001",
+        "councilservice": "Council Service: 2016"
+    },
+    "contact": {
+        "address": "Professor, School of Environmental Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2670 4308",
+            "mobile": "98184 76740",
+            "fax": "(011) 2674 1502, (011) 2674 1586"
+        },
+        "email": {
+            "official": "sb@mail.jnu.ac.in",
+            "personal": "sbjnu110@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FL1935046",
+    "profile": {
+        "name": {
+            "first": "Jagat Bihari",
+            "last": "Seth",
+            "display": "Seth,  Jagat Bihari"
+        },
+        "sex": "M",
+        "birthDate": "1893-00-00",
+        "specialization": "Optics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1935"
+    }
+}

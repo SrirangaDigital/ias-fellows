@@ -1,0 +1,25 @@
+{
+    "id": "FL1934004",
+    "profile": {
+        "name": {
+            "first": "Giyarpuram Nadathur Rangaswami",
+            "last": "Ayyangar",
+            "display": "Ayyangar,  Giyarpuram Nadathur Rangaswami"
+        },
+        "sex": "M",
+        "birthDate": "1887-05-19",
+        "deathDate": "1968-11-17",
+        "degree": "B.A.(Madras)",
+        "honours": "FNA",
+        "specialization": "Genetics, Morphology, Sorghum Plants"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    },
+    "contact": {
+        "address": "Dept. of Botany, Andhra University",
+        "city": "Hyderabad"
+    }
+}

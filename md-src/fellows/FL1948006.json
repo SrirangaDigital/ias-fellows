@@ -1,0 +1,21 @@
+{
+    "id": "FL1948006",
+    "profile": {
+        "name": {
+            "first": "Rebala Venkata",
+            "last": "Seshaiya",
+            "display": "Seshaiya,  Rebala Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1898-02-08",
+        "deathDate": "1973-02-28",
+        "degree": "M.A.",
+        "honours": "FNA",
+        "specialization": "Cytology, Classical Embryology, Chemical Embryology, Anatomy, Physiology, Oceanography, Biometry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1948"
+    }
+}

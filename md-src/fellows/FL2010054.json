@@ -1,0 +1,35 @@
+{
+    "id": "FL2010054",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudeshna",
+            "last": "Sinha",
+            "display": "Sinha, Prof. Sudeshna"
+        },
+        "sex": "F",
+        "birthDate": "1962-06-07",
+        "degree": "Ph.D. (TIFR)",
+        "honours": "FNA",
+        "specialization": "Dynamical Networks, Nonlinear Dynamics, Chaos, Complex Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Indian Institute of Science Education & Research, Knowledge City, Sector 81, Manauli P.O., Mohali",
+        "city": "SAS Nagar 140 306",
+        "state": "Panjab",
+        "telephone": {
+            "residence": "(0172) 224 0019",
+            "mobile": "99156 62755",
+            "fax": "(0172) 279 0188"
+        },
+        "email": {
+            "official": "sudeshna@imsc.res.in,sudeshna@iisermohali.ac.in"
+        },
+        "url": "http://14.139.227.202/Faculty/sudeshna"
+    }
+}

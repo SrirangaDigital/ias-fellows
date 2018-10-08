@@ -1,0 +1,34 @@
+{
+    "id": "FL1974002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nitya",
+            "last": "Anand",
+            "display": "Anand, Dr Nitya"
+        },
+        "sex": "M",
+        "birthDate": "1925-01-01",
+        "degree": "Ph.D. (Mumbai and Cantab)",
+        "honours": "FNA, FNASc",
+        "specialization": "Medicinal Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1980-82."
+    },
+    "contact": {
+        "address": "Lumbini, B-62, Nirala Nagar",
+        "city": "Lucknow 226 020",
+        "state": "U.P.",
+        "telephone": {
+            "residence": "(0522) 404 3229",
+            "mobile": "96700 66999"
+        },
+        "email": {
+            "personal": "nityaanand1925@gmail.com"
+        }
+    }
+}

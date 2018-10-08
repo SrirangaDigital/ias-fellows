@@ -1,0 +1,22 @@
+{
+    "id": "FL1934029",
+    "profile": {
+        "name": {
+            "first": "Mandayam Osuri Parthasarathy",
+            "last": "Iyengar",
+            "display": "Iyengar,  Mandayam Osuri Parthasarathy"
+        },
+        "sex": "M",
+        "birthDate": "1886-12-15",
+        "deathDate": "1963-12-10",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Algology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934",
+        "councilservice": "1934-35, 1938-40"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL1975075",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arun Kumar",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Arun Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1924-12-31",
+        "deathDate": "2017-07-06",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Cytogenetics, Cytochemistry and Cell Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975",
+        "councilservice": "Council Service: 1977-82"
+    },
+    "contact": {
+        "address": "Flat 2F2, Meghmallar, 18/3 Gariahat Road",
+        "city": "Kolkata 700 019",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2440 5802",
+            "mobile": "98312 25521",
+            "fax": "(033) 2476 4419"
+        },
+        "email": {
+            "personal": "nuclaks@gmail.com"
+        }
+    }
+}

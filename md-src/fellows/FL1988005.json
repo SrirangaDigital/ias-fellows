@@ -1,0 +1,32 @@
+{
+    "id": "FL1988005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Harjit Singh",
+            "display": "Harjit Singh, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1938-04-29",
+        "degree": "Ph.D. (Panjab)",
+        "honours": "FNA, FNASc",
+        "specialization": "Organic Synthesis and Heterocycles"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Department of Chemistry, Guru Nanak Dev University",
+        "city": "Amritsar 143 005",
+        "state": "Panjab",
+        "telephone": {
+            "mobile": "94656 70668",
+            "fax": "(0183) 225 8820"
+        },
+        "email": {
+            "personal": "harjit_gndu@yahoo.co.in"
+        }
+    }
+}

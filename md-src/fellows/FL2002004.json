@@ -1,0 +1,35 @@
+{
+    "id": "FL2002004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Naranamangalam Raghunathan",
+            "last": "Jagannathan",
+            "display": "Jagannathan, Dr Naranamangalam Raghunathan"
+        },
+        "sex": "M",
+        "birthDate": "1954-06-23",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNASc, FAMS, FNA",
+        "specialization": "Biophysics, Magnetic Resonance Imaging (MRI), In-vivo MR Spectroscopy, Biomolecules, Cancer Research, Functional MR Studies, Metabolomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "C-I-11, AIIMS Quarters, Ansari Nagar East",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 3253, (011) 2658 8533",
+            "residence": "(011) 2659 4511",
+            "mobile": "99682 92774",
+            "fax": "(011) 2658 8663, (011) 2658 8641"
+        },
+        "email": {
+            "personal": "jagan1954@hotmail.com,jagannathannr@aol.com"
+        }
+    }
+}

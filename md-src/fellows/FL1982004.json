@@ -1,0 +1,36 @@
+{
+    "id": "FL1982004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajinder Jeet",
+            "last": "Hans-Gill",
+            "display": "Hans-Gill, Prof. Rajinder Jeet"
+        },
+        "sex": "F",
+        "birthDate": "1943-08-29",
+        "degree": "Ph.D. (Ohio State)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Number Theory, Discrete Geometry and Geometry of Numbers"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Department of Mathematics, Panjab University",
+        "city": "Chandigarh 160 014",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(0172) 254 1132, 253 4512",
+            "residence": "(0172) 262 4837",
+            "mobile": "98153 45850",
+            "fax": "(0172) 254 1132"
+        },
+        "email": {
+            "official": "hansgill@pu.ac.in",
+            "personal": "hansgillrj@yahoo.co.in"
+        }
+    }
+}

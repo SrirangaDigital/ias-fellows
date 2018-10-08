@@ -1,0 +1,26 @@
+{
+    "id": "FL1968003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Venkataraman",
+            "last": "Radhakrishnan",
+            "display": "Radhakrishnan, Prof. Venkataraman"
+        },
+        "sex": "M",
+        "birthDate": "1929-05-18",
+        "deathDate": "2011-03-03",
+        "degree": "B.Sc. (Hons)",
+        "specialization": "Astronomy, Astrophysics and Aeronautics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1968",
+        "councilservice": "Council Service: 1971-94; Treasurer: 1977-94"
+    },
+    "contact": {
+        "address": "Raman Research Institute, CV Raman Avenue",
+        "city": "Bengaluru 560 080"
+    }
+}

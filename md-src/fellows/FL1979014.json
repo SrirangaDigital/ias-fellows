@@ -1,0 +1,26 @@
+{
+    "id": "FL1979014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mysore Ananthamurthy",
+            "last": "Viswamitra",
+            "display": "Viswamitra, Prof. Mysore Ananthamurthy"
+        },
+        "sex": "M",
+        "birthDate": "1932-11-14",
+        "deathDate": "2001-04-10",
+        "degree": "Ph.D. and D.Sc. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "X-ray Crystallography and Molecular Biophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1979"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

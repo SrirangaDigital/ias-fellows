@@ -1,0 +1,35 @@
+{
+    "id": "FL1965002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Badanaval Venkata",
+            "last": "Sreekantan",
+            "display": "Sreekantan, Prof. Badanaval Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1925-06-30",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Cosmic Rays and High Energy Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1965",
+        "councilservice": "Council Service: 1983-88; Vice-President: 1986-88"
+    },
+    "contact": {
+        "address": "(Hon) Visiting Professor, School of Humanities, National Institute of Advanced Studies, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2218 5082",
+            "residence": "(080) 2334 7434",
+            "fax": "(080) 2360 6634"
+        },
+        "email": {
+            "personal": "bvsreekantan@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "FL1992012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Som Nath",
+            "last": "Ganguli",
+            "display": "Ganguli, Prof. Som Nath"
+        },
+        "sex": "M",
+        "birthDate": "1940-12-16",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "High Energy Particle Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Flat No. 6, Aspiration Apartments, 32, Francois Martin Street, Kuruchikuppam",
+        "city": "Pondicherry 605 012",
+        "state": "Pondicherry",
+        "telephone": {
+            "residence": "(0413) 234 4643"
+        },
+        "email": {
+            "personal": "som_ganguli@yahoo.co.in"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FL1934084",
+    "profile": {
+        "name": {
+            "first": "M A Govinda",
+            "last": "Rau",
+            "display": "Rau,  M A Govinda"
+        },
+        "sex": "M",
+        "birthDate": "1901-08-26",
+        "deathDate": "1954-11-19",
+        "specialization": "Chemical Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "FH2011029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Daniel L",
+            "last": "Hartl",
+            "display": "Hartl, Prof. Daniel L"
+        },
+        "sex": "M",
+        "birthDate": "1943-01-01"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Higgins Professor of Biology, Dept. of Organismic & Evolutionary, Biology, The Biological Lab., Harvard University, 16 Divinity Ave",
+        "city": "Cambridge, MA 02138",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-617) 496 3917"
+        },
+        "email": {
+            "official": "dhartl@oeb.harvard.edu"
+        }
+    }
+}

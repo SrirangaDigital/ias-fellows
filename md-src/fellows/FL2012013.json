@@ -1,0 +1,35 @@
+{
+    "id": "FL2012013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Debasisa",
+            "last": "Mohanty",
+            "display": "Mohanty, Dr Debasisa"
+        },
+        "sex": "M",
+        "birthDate": "1966-11-30",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Bioinformatics, Computational & Structural Biology, Biophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "National Institute of Immunology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2670 3749",
+            "residence": "(011) 2670 3730",
+            "mobile": "98187 47627",
+            "fax": "(011) 2674 2125"
+        },
+        "email": {
+            "official": "deb@nii.ac.in"
+        }
+    }
+}

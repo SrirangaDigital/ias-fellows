@@ -1,0 +1,36 @@
+{
+    "id": "FL1998016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Indraneel",
+            "last": "Mittra",
+            "display": "Mittra, Dr Indraneel"
+        },
+        "sex": "M",
+        "birthDate": "1943-06-28",
+        "degree": "M.B.B.S. (Delhi), Ph.D. (London)",
+        "honours": "FRCS (England), FNA",
+        "specialization": "Cancer Surgery, Cancer Biology and Cancer Prevention"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1998",
+        "councilservice": "Council Service: 2004-2006"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Translational Research Laboratory, ACTREC, Khargar",
+        "city": "Navi Mumbai 410 210",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2417 7285, (022) 2740 5136",
+            "residence": "(022) 2497 6307",
+            "mobile": "97697 69720",
+            "fax": "(022) 2740 5061, (022) 2417 7286"
+        },
+        "email": {
+            "personal": "indraneel.mittra@gmail.com"
+        }
+    }
+}

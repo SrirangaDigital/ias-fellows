@@ -1,0 +1,27 @@
+{
+    "id": "FL1953002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sripadrao",
+            "last": "Kilpady",
+            "display": "Kilpady, Dr Sripadrao"
+        },
+        "sex": "M",
+        "birthDate": "1906-11-13",
+        "deathDate": "2008-12-19",
+        "degree": "M.Sc. (Mysore)",
+        "honours": "FNA",
+        "specialization": "Mineralogy and Micropalaeontology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1953"
+    },
+    "contact": {
+        "address": "Emmaus Village Hostel, Suite No. 20, 85, Bakers Lane",
+        "city": "Kemps Creek, NSW 2178",
+        "country": "Australia"
+    }
+}

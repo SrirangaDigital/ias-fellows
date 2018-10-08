@@ -1,0 +1,19 @@
+{
+    "id": "FH1935068",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Werner Karl",
+            "last": "Heisenberg",
+            "display": "Heisenberg, Prof. Werner Karl"
+        },
+        "sex": "M",
+        "birthDate": "1901-12-05",
+        "deathDate": "1976-02-01",
+        "honours": "Nobel Laureate (Physics) - 1932"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2008020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dulal",
+            "last": "Panda",
+            "display": "Panda, Prof. Dulal"
+        },
+        "sex": "M",
+        "birthDate": "1964-01-28",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Biochemistry, Cell Biology, and Biophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "School of Biosciences & Bioengineering, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7838",
+            "residence": "(022) 2572 0281",
+            "mobile": "98203 91591",
+            "fax": "(022) 2572 3480"
+        },
+        "email": {
+            "official": "panda@iitb.ac.in"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1973007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "John Gatenby",
+            "last": "Bolton",
+            "display": "Bolton, Prof. John Gatenby"
+        },
+        "sex": "M",
+        "birthDate": "1922-06-05",
+        "deathDate": "1993-07-06"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1973"
+    }
+}

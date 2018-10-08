@@ -1,0 +1,33 @@
+{
+    "id": "FL1993040",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Melkote Subbarao",
+            "last": "Shaila",
+            "display": "Shaila, Prof. Melkote Subbarao"
+        },
+        "sex": "F",
+        "birthDate": "1945-10-10",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Molecular Virology and Viral Immunology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Department of Microbiology and Cell Biology, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2702",
+            "mobile": "98451 89481",
+            "fax": "(080) 2360 2697"
+        },
+        "email": {
+            "official": "shaila@iisc.ac.in"
+        }
+    }
+}

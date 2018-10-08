@@ -7,11 +7,6 @@ class dataModel extends Model {
 		parent::__construct();
 	}
 
-	public function listFiles($path, $type) {
-
-		return glob($path . '*.' . $type);
-	}
-
 	public function insertAlbums($albums, $dbh) {
 
 		foreach ($albums as $album) {

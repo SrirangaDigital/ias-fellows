@@ -1,0 +1,20 @@
+{
+    "id": "FL1942003",
+    "profile": {
+        "name": {
+            "first": "Siddheshwari Prasad",
+            "last": "Chakravarti",
+            "display": "Chakravarti,  Siddheshwari Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1904-11-03",
+        "deathDate": "1981-07-15",
+        "degree": "M.Sc. (London)",
+        "specialization": "Electronic & Telecommunication Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1942"
+    }
+}

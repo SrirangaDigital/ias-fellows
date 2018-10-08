@@ -1,0 +1,30 @@
+{
+    "id": "FH1998023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sir David Anthony",
+            "last": "King",
+            "display": "King, Prof. Sir David Anthony"
+        },
+        "sex": "M",
+        "birthDate": "1939-08-12",
+        "honours": "Sc.D., FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Chief Scientific Adivser & Head, Office of Science and Innovation",
+        "city": "London SW1H 0ET",
+        "country": "U.K.",
+        "telephone": {
+            "office": "(+44-020) 7215 3821",
+            "fax": "(+44-020) 7215 0314"
+        },
+        "email": {
+            "official": "mpst.king@dti.gsi.gov.uk,dak10@cus.cam.ac.uk"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1980009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jule Gregory",
+            "last": "Charney",
+            "display": "Charney, Prof. Jule Gregory"
+        },
+        "sex": "M",
+        "birthDate": "1917-01-01",
+        "deathDate": "1981-06-16"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1980"
+    }
+}

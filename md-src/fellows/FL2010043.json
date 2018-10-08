@@ -1,0 +1,36 @@
+{
+    "id": "FL2010043",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Govindan",
+            "last": "Rangarajan",
+            "display": "Rangarajan, Prof. Govindan"
+        },
+        "sex": "M",
+        "birthDate": "1963-09-18",
+        "degree": "Ph.D. (Maryland)",
+        "honours": "FNASc",
+        "specialization": "Nonlinear Dynamics & Chaos, Time Series Analysis, Mathematical Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0373",
+            "residence": "(080) 2334 4736",
+            "fax": "(080) 2360 0146"
+        },
+        "email": {
+            "official": "rangaraj@iisc.ac.in",
+            "personal": "govindan.rangarajan@gmail.com"
+        },
+        "url": "http://math.iisc.ernet.in/~rangaraj"
+    }
+}

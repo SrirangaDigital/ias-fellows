@@ -1,0 +1,35 @@
+{
+    "id": "FL2011020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudipta",
+            "last": "Roy Barman",
+            "display": "Roy Barman, Prof. Sudipta"
+        },
+        "sex": "M",
+        "birthDate": "1964-01-15",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Electron Spectroscopy, Surface Science, Materials Studies"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "UGC-DAE Consortium for Scientific Research, Khandwa Road",
+        "city": "Indore 452 001",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0731) 246 3913/123",
+            "residence": "(0731) 248 7346",
+            "mobile": "98263 36110",
+            "fax": "(0731) 246 2294"
+        },
+        "email": {
+            "official": "barman@csr.res.in",
+            "personal": "barmansr@gmail.com"
+        }
+    }
+}

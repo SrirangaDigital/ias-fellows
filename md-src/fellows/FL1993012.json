@@ -1,0 +1,33 @@
+{
+    "id": "FL1993012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vasant Ramchandra",
+            "last": "Choudhary",
+            "display": "Choudhary, Dr Vasant Ramchandra"
+        },
+        "sex": "M",
+        "birthDate": "1944-01-01",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNASc, FNA",
+        "specialization": "Heterogeneous Catalysis, Zeolites: Adsorption/Catalysis and Natural Gas Conversion/Utilization, Green Chemistry/processes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Vasantasha, 1, Green Park, Off DP Road, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 6526 5508",
+            "mobile": "92251 06141"
+        },
+        "email": {
+            "personal": "vrc0001@yahoo.co.in,vasantchoudhary00@gmail.com"
+        }
+    }
+}

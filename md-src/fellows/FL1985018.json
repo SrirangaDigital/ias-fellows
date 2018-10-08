@@ -1,0 +1,26 @@
+{
+    "id": "FL1985018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vasant Ranchhod",
+            "last": "Gowariker",
+            "display": "Gowariker, Dr Vasant Ranchhod"
+        },
+        "sex": "M",
+        "birthDate": "1933-03-25",
+        "deathDate": "2015-01-02",
+        "degree": "Ph.D. (Birmingham)",
+        "honours": "D.Sc. (h.c.), FNAE",
+        "specialization": "Propellant & Rocket Technology, Heat, Mass & Momentum Transfer Phenomena, Sugar Technology and Chemical Fertilizers"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "I-101, Vanaraji Heights, Rambaug Colony, Near MIT College, Kothrud",
+        "city": "Pune 411 038"
+    }
+}

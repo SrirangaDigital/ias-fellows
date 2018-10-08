@@ -1,0 +1,35 @@
+{
+    "id": "FL2005012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Krishnaswamy",
+            "last": "Krishnamoorthy",
+            "display": "Krishnamoorthy, Dr Krishnaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1952-01-07",
+        "degree": "Ph.D. (Kerala)",
+        "honours": "FNA, FNASc",
+        "specialization": "Microphysics, Regional Radiative Forcing, Equatorial Aeronomy, Atmospheric Aerosols, Radiation Budget & Climate Science and Climatology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Distinguished Visiting Scientist, CAOS, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2505/208",
+            "residence": "94960 50095",
+            "mobile": "99455 30293"
+        },
+        "email": {
+            "official": "kkmoorthy@iisc.ac.in",
+            "personal": "krishnamoorthyspl@gmail.com"
+        }
+    }
+}

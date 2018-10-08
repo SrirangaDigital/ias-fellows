@@ -1,0 +1,21 @@
+{
+    "id": "FL1975035",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Phanindra Chandra",
+            "last": "Dutta",
+            "display": "Dutta, Dr Phanindra Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1912-03-11",
+        "deathDate": "1983-06-13",
+        "degree": "D.Sc. (Calcutta)",
+        "specialization": "Natural Products, Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    }
+}

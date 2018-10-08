@@ -1,0 +1,36 @@
+{
+    "id": "FL2007018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mythily",
+            "last": "Ramaswamy",
+            "display": "Ramaswamy, Prof. Mythily"
+        },
+        "sex": "F",
+        "birthDate": "1954-06-06",
+        "degree": "Ph.D. (Paris)",
+        "honours": "FNASc",
+        "specialization": "Nonlinear Functional Analysis, Partial Differential Equations, and Applications to Control Problems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, TIFR Centre for Applicable Mathematics, P.B. No. 6503, Sharada Nagar",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6695 3726, (080) 6695 3790",
+            "residence": "(080) 2334 1138",
+            "mobile": "98453 35387",
+            "fax": "(080) 6695 3799"
+        },
+        "email": {
+            "official": "mythily@math.tifrbng.res.in"
+        },
+        "url": "http://math.tifrbng.res.in/~mythily"
+    }
+}

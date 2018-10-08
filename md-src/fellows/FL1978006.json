@@ -1,0 +1,25 @@
+{
+    "id": "FL1978006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Podila",
+            "last": "Brahmayya Sastry",
+            "display": "Brahmayya Sastry, Dr Podila"
+        },
+        "sex": "M",
+        "birthDate": "1913-05-24",
+        "deathDate": "1993-05-28",
+        "degree": "Ph.D. (McGill)",
+        "specialization": "Physiology, Neurophysiology and Placental Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "Sitaramanilayam, Plot No. 9, Doctors Co-Operative Housing Colony, Waltair",
+        "city": "Visakhapatnam 530 017"
+    }
+}

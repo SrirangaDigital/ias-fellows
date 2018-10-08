@@ -1,0 +1,33 @@
+{
+    "id": "FL2000026",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mariappanadar",
+            "last": "Vairamani",
+            "display": "Vairamani, Dr Mariappanadar"
+        },
+        "sex": "M",
+        "birthDate": "1950-02-23",
+        "degree": "Ph.D. (IIT, Madras)",
+        "specialization": "Mass Spectrometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Dean, School of Bio-Engineering, SRM University",
+        "city": "Kattankulathur 603 203",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2741 7812",
+            "mobile": "97909 46095"
+        },
+        "email": {
+            "official": "dean.biotech@ktr.srmuniv.ac.in",
+            "personal": "mvairamani@hotmail.com"
+        }
+    }
+}

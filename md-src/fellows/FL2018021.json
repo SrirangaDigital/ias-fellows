@@ -1,0 +1,36 @@
+{
+    "id": "FL2018021",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vinay Kumar",
+            "last": "Nandicoori",
+            "display": "Nandicoori, Dr Vinay Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1969-03-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Molecular & Cellular Biology, Cell Signalling, Cell Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "National Institute of Immunology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.;",
+        "telephone": {
+            "office": "(011) 2670 3789",
+            "residence": "(011) 2670 3790",
+            "mobile": "98914 97516",
+            "fax": "(011) 2674 2125"
+        },
+        "email": {
+            "official": "vinaykn@nii.ac.in"
+        },
+        "url": "http://www.nii.res.in/research/vinay-k-nandicoori"
+    }
+}

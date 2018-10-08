@@ -1,0 +1,29 @@
+{
+    "id": "FL1983007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nurani Sivaramakrishna",
+            "last": "Narasimhan",
+            "display": "Narasimhan, Prof. Nurani Sivaramakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1928-11-11",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Synthetic Organic Chemistry, Chemistry of Natural Products and Organolithium Compounds"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "c/o Dr R Ganapathy, No. 2, Divya Swapna Complex, Dr C Gidwani Marg, Chempur",
+        "city": "Mumbai 400 074",
+        "state": "Maharashtra",
+        "email": {
+            "personal": "nsn1928@gmail.com"
+        }
+    }
+}

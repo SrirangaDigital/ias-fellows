@@ -1,0 +1,34 @@
+{
+    "id": "FL1986012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajaram",
+            "last": "Nityananda",
+            "display": "Nityananda, Prof. Rajaram"
+        },
+        "sex": "M",
+        "birthDate": "1948-02-19",
+        "degree": "Ph.D. (Bangalore)",
+        "honours": "FNA, FNASc",
+        "specialization": "Physics Education, Optics, Image Processing, Statistical Methods in Physics & Astronomy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1986",
+        "councilservice": "Council Service: 1989-94"
+    },
+    "contact": {
+        "address": "School of Liberal Studies, Azim Premji University, PES South Campus, Electronic City",
+        "city": "Bengaluru 560 100",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "96117 89391"
+        },
+        "email": {
+            "official": "rajaram.nityananda@apu.edu.in",
+            "personal": "rajaram.nityananda@gmail.com"
+        }
+    }
+}

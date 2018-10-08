@@ -1,0 +1,36 @@
+{
+    "id": "FL2010006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gautam",
+            "last": "Biswas",
+            "display": "Biswas, Dr Gautam"
+        },
+        "sex": "M",
+        "birthDate": "1956-05-23",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNAE, FNASc, FNA",
+        "specialization": "Enhancement of Heat Transfer, Computational Fluid Dynamics, Bubble Growth in Film Boiling, Free Surface Flows, Turbulence& Turbomachinery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Technology",
+        "city": "Guwahati 781 039",
+        "state": "Assam",
+        "telephone": {
+            "office": "(0361) 269 0401, (0361) 258 2005",
+            "residence": "(0361) 258 4001",
+            "mobile": "94347 53475",
+            "fax": "(0361) 269 2321"
+        },
+        "email": {
+            "official": "gtm@iitk.ac.in,gtm@iitg.ernet.in"
+        },
+        "url": "http://www.iitg.ernet.in/director/index.html"
+    }
+}

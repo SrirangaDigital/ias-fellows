@@ -1,0 +1,36 @@
+{
+    "id": "FL1989007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kallarackel Thomas",
+            "last": "Jacob",
+            "display": "Jacob, Prof. Kallarackel Thomas"
+        },
+        "sex": "M",
+        "birthDate": "1944-05-13",
+        "degree": "Ph.D. (London), D.Sc.(Eng.)(London)",
+        "honours": "FNA, FNAE, FNASc, FIIM",
+        "specialization": "Thermodynamics of Materials, Phase Equilibria, Materials Extraction & Synthesis, Solid State Sensors and Fuel Cells"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Department of Materials Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2494",
+            "residence": "(080) 2525 2765",
+            "mobile": "98454 79865",
+            "fax": "(080) 2360 0472, (080) 2360 0683"
+        },
+        "email": {
+            "official": "katob@materials.iisc.ernet.in"
+        },
+        "url": "http://www.met.iisc.ac.in/faculty/ktj.html"
+    }
+}

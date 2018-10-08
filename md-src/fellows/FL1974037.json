@@ -1,0 +1,32 @@
+{
+    "id": "FL1974037",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Akhoury Purnendu Bhusan",
+            "last": "Sinha",
+            "display": "Sinha, Dr Akhoury Purnendu Bhusan"
+        },
+        "sex": "M",
+        "birthDate": "1928-12-27",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA",
+        "specialization": "Solid State Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "1260, Brighton Avenue No. 202",
+        "city": "Albany, CA 94706",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-510) 990 6601"
+        },
+        "email": {
+            "personal": "apbsinha@yahoo.com"
+        }
+    }
+}

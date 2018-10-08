@@ -1,0 +1,33 @@
+{
+    "id": "FL1975078",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bookinkere Channakeshavaiah",
+            "last": "Subba Rao",
+            "display": "Subba Rao, Prof. Bookinkere Channakeshavaiah"
+        },
+        "sex": "M",
+        "birthDate": "1923-12-08",
+        "deathDate": "2017-08-09",
+        "degree": "Ph.D. (Purdue)",
+        "specialization": "Applied Organic Chemistry and Industrial Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "'Sri Ganga', No. 8, Temple Road, Jayalakshmipuram",
+        "city": "Mysore 570 012",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(0821) 251 0882",
+            "mobile": "99456 53703"
+        },
+        "email": {
+            "personal": "subbaraobc@gmail.com"
+        }
+    }
+}

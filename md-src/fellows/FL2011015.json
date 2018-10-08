@@ -1,0 +1,37 @@
+{
+    "id": "FL2011015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Komaranapuram Navaneetham",
+            "last": "Raghavan",
+            "display": "Raghavan, Prof. Komaranapuram Navaneetham"
+        },
+        "sex": "M",
+        "birthDate": "1964-02-06",
+        "degree": "Ph.D. (Purdue)",
+        "honours": "FNASc",
+        "specialization": "Representation Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Professor H, The Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3264",
+            "residence": "(044) 2844 1505",
+            "mobile": "94456 31505",
+            "fax": "(044) 2254 1586"
+        },
+        "email": {
+            "official": "knr@imsc.res.in",
+            "personal": "knr.imsc@gmail.com"
+        },
+        "url": "http://www.imsc.res.in/~knr/"
+    }
+}

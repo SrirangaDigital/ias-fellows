@@ -1,0 +1,33 @@
+{
+    "id": "FL1992021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Deepak",
+            "last": "Mathur",
+            "display": "Mathur, Prof. Deepak"
+        },
+        "sex": "M",
+        "birthDate": "1952-04-08",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Atomic, Molecular & Optical Physics, Intense & Ultrafast Lasers, Molecular Dynamics and Biological Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Department of Atomic & Molecular Physics, Manipal University",
+        "city": "Manipal 576 104",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(0820) 292 5071"
+        },
+        "email": {
+            "official": "deepak.mathur@manipal.edu",
+            "personal": "atmol1@gmail.com"
+        }
+    }
+}

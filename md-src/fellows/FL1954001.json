@@ -1,0 +1,26 @@
+{
+    "id": "FL1954001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bernard",
+            "last": "Peters",
+            "display": "Peters, Prof. Bernard"
+        },
+        "sex": "M",
+        "birthDate": "1910-12-22",
+        "deathDate": "1993-02-02",
+        "degree": "Ph.D. (Univ. Calif., Berkeley)",
+        "honours": "FNA",
+        "specialization": "Cosmic Radiation and Geophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1954"
+    },
+    "contact": {
+        "address": "Director-Emeritus, Danish Space Research Institute, Lundtoftevej, 155 A,, 2880 Lyngby",
+        "city": "Denmark"
+    }
+}

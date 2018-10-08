@@ -1,0 +1,19 @@
+{
+    "id": "FH1948009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pyotr Leonidovich",
+            "last": "Kapitsa",
+            "display": "Kapitsa, Prof. Pyotr Leonidovich"
+        },
+        "sex": "M",
+        "birthDate": "1894-07-09",
+        "deathDate": "1984-04-08",
+        "honours": "Nobel Laureate (Physics) - 1978"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1948"
+    }
+}

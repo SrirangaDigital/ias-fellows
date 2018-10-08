@@ -1,0 +1,35 @@
+{
+    "id": "FL1997016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Surendra",
+            "last": "Prasad",
+            "display": "Prasad, Prof. Surendra"
+        },
+        "sex": "M",
+        "birthDate": "1948-07-10",
+        "degree": "Ph.D. (IIT, Delhi)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "Signal Processing, Communication Theory and Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1997",
+        "councilservice": "Council Service: 2007-12"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Department of Electrical Engineering, Indian Institute of Technology, Hauz Khas",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 6201, (011) 2659 1115",
+            "residence": "(0124) 406 7489",
+            "fax": "(011) 2658 2659"
+        },
+        "email": {
+            "official": "sprasad@ee.iitd.ac.in,director@admin.iitd.ac.in"
+        }
+    }
+}

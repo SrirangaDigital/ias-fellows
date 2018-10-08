@@ -1,0 +1,34 @@
+{
+    "id": "FL2005011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Durgadas Prabhakar",
+            "last": "Kasbekar",
+            "display": "Kasbekar, Dr Durgadas Prabhakar"
+        },
+        "sex": "M",
+        "birthDate": "1956-07-18",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "honours": "FNA",
+        "specialization": "Neurospora Genetics, Dictyostelium &amp; Plant Antimicrobials and Sterol Reductases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "NSA Senior Scientist, Centre for DNA Fingerprinting &amp; Diagnostics, Inner Ring Road, Uppal",
+        "city": "Hyderabad 500 039",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2474 9401",
+            "residence": "(040) 2717 3903",
+            "fax": "(040) 2474 9448"
+        },
+        "email": {
+            "official": "kas@cdfd.org.in"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1961010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Axel Hugo Theodor",
+            "last": "Theorell",
+            "display": "Theorell, Prof. Axel Hugo Theodor"
+        },
+        "sex": "M",
+        "birthDate": "1903-07-06",
+        "deathDate": "1982-08-15",
+        "honours": "Nobel Laureate (Medicine) - 1955"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1961"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1958006",
+    "profile": {
+        "name": {
+            "first": "Prafulla Kumar",
+            "last": "Sen",
+            "display": "Sen,  Prafulla Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1915-12-07",
+        "deathDate": "1982-07-22",
+        "degree": "M.S.",
+        "honours": "FNA",
+        "specialization": "Cardio-Thoracic Surgery"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1958"
+    }
+}

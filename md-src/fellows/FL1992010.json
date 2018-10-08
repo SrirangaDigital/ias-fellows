@@ -1,0 +1,33 @@
+{
+    "id": "FL1992010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sushanta",
+            "last": "Dattagupta",
+            "display": "Dattagupta, Prof. Sushanta"
+        },
+        "sex": "M",
+        "birthDate": "1947-12-19",
+        "degree": "Ph.D. (St. Johns Brookhaven Natl. Lab.)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Condensed Matter Physics and Non-Equilibrium Statistical Mechanics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 2001-2009; Vice-President: 2004-2009"
+    },
+    "contact": {
+        "address": "Uniworld City Heights, 6, No. 002, New Town",
+        "city": "Kolkata 700 160",
+        "state": "W.B.",
+        "telephone": {
+            "mobile": "94330 13858"
+        },
+        "email": {
+            "personal": "sushantad@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "FL1975062",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Malur Ramaswamyiyengar Narasimha",
+            "last": "Prasad",
+            "display": "Prasad, Dr Malur Ramaswamyiyengar Narasimha"
+        },
+        "sex": "M",
+        "birthDate": "1923-05-01",
+        "deathDate": "1987-10-07",
+        "degree": "Ph.D. (Mysore and Wisconsin)",
+        "honours": "FNA",
+        "specialization": "Endocrinology and Physiology of Reproduction"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1975",
+        "councilservice": "1977-79"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1935033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vishnu Vasudeva",
+            "last": "Narlikar",
+            "display": "Narlikar, Prof. Vishnu Vasudeva"
+        },
+        "sex": "M",
+        "birthDate": "1908-09-26",
+        "deathDate": "1991-04-01",
+        "degree": "M.A. (Cantab)",
+        "honours": "FNA, FNASc",
+        "specialization": "General Relativity and Field Theories"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1935"
+    },
+    "contact": {
+        "address": "701, Bhaskara, Colaba Housing Colony, Homi Bhabha Road",
+        "city": "Bombay 400 005"
+    }
+}

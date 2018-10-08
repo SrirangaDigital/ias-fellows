@@ -1,0 +1,33 @@
+{
+    "id": "FL1988019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Janakiraman",
+            "last": "Ramachandran",
+            "display": "Ramachandran, Prof. Janakiraman"
+        },
+        "sex": "M",
+        "birthDate": "1935-06-12",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "specialization": "Molecular Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Chairman, Gangagen Biotechnologies Private Limited, 12, 5th Cross, Raghavendra Layout, Tumkuar Road, Yeshwantpur",
+        "city": "Bengaluru 560 022",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 4062 1300-328",
+            "mobile": "88617 71150",
+            "fax": "(080) 4062 1329"
+        },
+        "email": {
+            "official": "jram@gangagen.com"
+        }
+    }
+}

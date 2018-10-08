@@ -1,0 +1,35 @@
+{
+    "id": "FL1987018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Andezhath Kumaran",
+            "last": "Susheela",
+            "display": "Susheela, Prof. Andezhath Kumaran"
+        },
+        "sex": "F",
+        "birthDate": "1937-03-31",
+        "degree": "Ph.D. (Baroda)",
+        "honours": "FAMS",
+        "specialization": "Fluorosis Disease Management & Research"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Executive Director, Fluorosis Research & Rural Development Foundation, B-1, Saransh, 34, Indraprastha Extension",
+        "city": "Delhi 110 092",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2273 1886",
+            "residence": "(011) 2272 6725",
+            "mobile": "98105 35228",
+            "fax": "(011) 2272 5156"
+        },
+        "email": {
+            "official": "susheela@bol.net.in"
+        }
+    }
+}

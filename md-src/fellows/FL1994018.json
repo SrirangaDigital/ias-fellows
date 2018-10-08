@@ -1,0 +1,32 @@
+{
+    "id": "FL1994018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nallagounder",
+            "last": "Periasamy",
+            "display": "Periasamy, Prof. Nallagounder"
+        },
+        "sex": "M",
+        "birthDate": "1946-09-30",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc, FNA",
+        "specialization": "Fluorescence Spectroscopy & Applications, Materials Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "No. 303, Golf Manor, NAL Wind Tunnel Road, Murugesh Palya",
+        "city": "Bengaluru 560 017",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "97419 12592"
+        },
+        "email": {
+            "personal": "peri46@gmail.com"
+        }
+    }
+}

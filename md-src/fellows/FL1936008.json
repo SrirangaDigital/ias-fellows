@@ -1,0 +1,25 @@
+{
+    "id": "FL1936008",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Viswanath N",
+            "last": "Likhite",
+            "display": "Likhite, Dr Viswanath N"
+        },
+        "sex": "M",
+        "birthDate": "1896-00-00",
+        "deathDate": "1990-04-01",
+        "degree": "D.Sc. (France)",
+        "specialization": "Cotton Root-Rot"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1936"
+    },
+    "contact": {
+        "address": "2017, Maple, Evanston, Illinois 60201",
+        "city": "USA"
+    }
+}

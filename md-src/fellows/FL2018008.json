@@ -1,0 +1,36 @@
+{
+    "id": "FL2018008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Swagata",
+            "last": "Dasgupta",
+            "display": "Dasgupta, Prof. Swagata"
+        },
+        "sex": "F",
+        "birthDate": "1962-09-28",
+        "degree": "Ph.D. (RPI, USA)",
+        "specialization": "Biophysical Chemistry, Protein-Protein Interactions, Protein-Small Molecule Interactions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3306",
+            "residence": "(033) 28 3923",
+            "mobile": "94340 20640",
+            "fax": "(03222) 25 5303"
+        },
+        "email": {
+            "official": "swagata@chem.iitkgp.ernet.in",
+            "personal": "28swagata@gmail.com"
+        },
+        "url": "http://www.iitkgp.ac.in/department/CY/faculty/cy-swagata"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL1998012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Anil",
+            "last": "Kakodkar",
+            "display": "Kakodkar, Dr Anil"
+        },
+        "sex": "M",
+        "birthDate": "1943-11-11",
+        "degree": "B.E. (Mumbai), M.Sc. (Nottingham)",
+        "honours": "D.Sc. (h.c.), FNAE, FNASc",
+        "specialization": "Structural Mechanics and Nuclear Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Satish Dhawan Chair of Engineering Eminence, Bhabha Atomic Research Centre, 7th Floor, Central Complex, Trombay",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2550 5210",
+            "residence": "(022) 2582 8899",
+            "fax": "(022) 2550 5110"
+        },
+        "email": {
+            "official": "kakodkar@barc.gov.in",
+            "personal": "kakodkaranil@gmail.com"
+        },
+        "url": "http://www.anilkakodkar.in"
+    }
+}

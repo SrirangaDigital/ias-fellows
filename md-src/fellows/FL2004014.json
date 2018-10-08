@@ -1,0 +1,33 @@
+{
+    "id": "FL2004014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mallayan",
+            "last": "Palaniandavar",
+            "display": "Palaniandavar, Prof. Mallayan"
+        },
+        "sex": "M",
+        "birthDate": "1951-06-05",
+        "degree": "Ph.D. (MKU)",
+        "honours": "FNA",
+        "specialization": "Bioinorganic Chemistry, Activation of Molecular Oxygen, Functional Models for Metalloproteins, Interaction of Metal Complexes with DNA & Proteins, Metal-based Anti-Cancer Drugs"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "10, Gokulam Colony, Khajamalai",
+        "city": "Thiruchirapalli 620 024",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(0431) 245 7510",
+            "mobile": "94436 44758"
+        },
+        "email": {
+            "personal": "palanim51@yahoo.com,palaniandavar@gmail.com"
+        }
+    }
+}

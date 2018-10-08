@@ -1,0 +1,25 @@
+{
+    "id": "FL1973004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Satyendra Kumar",
+            "last": "Bhattacherjee",
+            "display": "Bhattacherjee, Prof. Satyendra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1926-10-02",
+        "deathDate": "2013-04-28",
+        "degree": "Ph.D. (Notre Dame)",
+        "specialization": "Experimental Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1973"
+    },
+    "contact": {
+        "address": "302B, Tribute, Rajkamal Studio Compound, Off Dr SS Rao Road, Behind Mahatma Gandhi Memorial Hospital, Parel",
+        "city": "Mumbai 400 012"
+    }
+}

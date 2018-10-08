@@ -1,0 +1,20 @@
+{
+    "id": "FL1934020",
+    "profile": {
+        "name": {
+            "first": "Bhimbhai Nichhabhai",
+            "last": "Desai",
+            "display": "Desai,  Bhimbhai Nichhabhai"
+        },
+        "sex": "M",
+        "birthDate": "1901-07-03",
+        "deathDate": "1978-06-23",
+        "degree": "Ph.D. (Bombay), D.Sc. (Edinburgh)",
+        "specialization": "Meteorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934"
+    }
+}

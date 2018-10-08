@@ -1,0 +1,22 @@
+{
+    "id": "FL1934070",
+    "profile": {
+        "name": {
+            "first": "Kalpathy Ramakrishnan",
+            "last": "Ramanathan",
+            "display": "Ramanathan,  Kalpathy Ramakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1893-02-28",
+        "deathDate": "1984-12-31",
+        "degree": "D.Sc.",
+        "honours": "FNA",
+        "specialization": "Meteorology, Hydrology, Aeronology, Geophysics and Sun-Earth Relationships"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934",
+        "councilservice": "1936-37, 1940-52, 1956-61; Vice President 1943-46"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1952001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Birendra Singh",
+            "last": "Chauhan",
+            "display": "Chauhan, Dr Birendra Singh"
+        },
+        "sex": "M",
+        "birthDate": "1915-05-02",
+        "deathDate": "2007-02-04",
+        "degree": "D.Sc. (Nagpur)",
+        "honours": "FNASc",
+        "specialization": "Helminthology, Parasitology, and Systematic & General Zoology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1952"
+    },
+    "contact": {
+        "address": "Chhatra Chhaya, 220, Civil Lines",
+        "city": "Narasinghpur 487 001 (MP)"
+    }
+}

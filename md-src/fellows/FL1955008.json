@@ -1,0 +1,34 @@
+{
+    "id": "FL1955008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chirayathumadom Venkatachalier",
+            "last": "Subramanian",
+            "display": "Subramanian, Prof. Chirayathumadom Venkatachalier"
+        },
+        "sex": "M",
+        "birthDate": "1924-08-11",
+        "deathDate": "2016-02-05",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA, FNAAS",
+        "specialization": "Mycology, Plant Pathology and Evolution"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1955",
+        "councilservice": "Council Service: 1974-85; Vice-President: 1977-85"
+    },
+    "contact": {
+        "address": "No. A-8, Damayanthi Apartments, 17, South Mada Street, Nungambakkam",
+        "city": "Chennai 600 034",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2823 4941"
+        },
+        "email": {
+            "personal": "cvsubra1952@yahoo.co.in"
+        }
+    }
+}

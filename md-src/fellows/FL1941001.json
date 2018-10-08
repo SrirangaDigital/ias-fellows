@@ -1,0 +1,26 @@
+{
+    "id": "FL1941001",
+    "profile": {
+        "name": {
+            "first": "HomiJehangir",
+            "last": "Bhabha",
+            "display": "Bhabha,  HomiJehangir"
+        },
+        "sex": "M",
+        "birthDate": "1909-10-30",
+        "deathDate": "1966-01-24",
+        "degree": "Ph.D. (Cambridge)",
+        "honours": "FNA, FRS",
+        "specialization": "Theoretical High Energy Physics, Cosmic Rays"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1941",
+        "councilservice": "1943-46, 1949-55, 1961; Vice President 1943-46, 1952-55"
+    },
+    "contact": {
+        "address": "Tata Institute of Fundamental, Research",
+        "city": "Bombay 400 005"
+    }
+}

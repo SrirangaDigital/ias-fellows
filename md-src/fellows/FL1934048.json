@@ -1,0 +1,21 @@
+{
+    "id": "FL1934048",
+    "profile": {
+        "name": {
+            "first": "Calamur",
+            "last": "Mahadevan",
+            "display": "Mahadevan,  Calamur"
+        },
+        "sex": "M",
+        "birthDate": "1901-05-06",
+        "deathDate": "1962-04-08",
+        "honours": "FNA",
+        "specialization": "Economic Geology, Nuclear Geology, Marine Geology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934",
+        "councilservice": "1949-61"
+    }
+}

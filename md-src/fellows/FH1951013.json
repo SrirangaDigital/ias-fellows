@@ -1,0 +1,19 @@
+{
+    "id": "FH1951013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Louis Victor de",
+            "last": "Broglie",
+            "display": "Broglie, Prof. Louis Victor de"
+        },
+        "sex": "M",
+        "birthDate": "1892-08-15",
+        "deathDate": "1987-03-19",
+        "honours": "Nobel Laureate (Physics) - 1929"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1951"
+    }
+}

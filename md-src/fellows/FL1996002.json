@@ -1,0 +1,35 @@
+{
+    "id": "FL1996002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subramaniam",
+            "last": "Ananthakrishnan",
+            "display": "Ananthakrishnan, Prof. Subramaniam"
+        },
+        "sex": "M",
+        "birthDate": "1944-05-14",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc, FNA",
+        "specialization": "Radio Sciences, Extragalactic Radio Astronomy, Sun &amp; Solar Wind, Antennas, Interferometry Techniques and Analog RF Electronics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Adjunct Professor &amp; INSA Honorary Scientist, Electronic Science Department, Pune University, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2569 9841",
+            "mobile": "84460 81098",
+            "fax": "(020) 2569 9841"
+        },
+        "email": {
+            "official": "ananth@electronics.unipune.ac.in",
+            "personal": "subra.anan@gmail.com"
+        }
+    }
+}

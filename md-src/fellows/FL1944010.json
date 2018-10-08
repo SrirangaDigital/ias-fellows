@@ -1,0 +1,21 @@
+{
+    "id": "FL1944010",
+    "profile": {
+        "name": {
+            "first": "Vikram A",
+            "last": "Sarabhai",
+            "display": "Sarabhai,  Vikram A"
+        },
+        "sex": "M",
+        "birthDate": "1919-08-12",
+        "deathDate": "1971-12-31",
+        "degree": "M.A. (Cantab), Ph.D.",
+        "specialization": "Nuclear Physics, Cosmic Rays"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1944",
+        "councilservice": "1952-61, 1965-70"
+    }
+}

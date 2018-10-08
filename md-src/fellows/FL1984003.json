@@ -1,0 +1,33 @@
+{
+    "id": "FL1984003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kazhiur Kothandapani",
+            "last": "Kannan",
+            "display": "Kannan, Dr Kazhiur Kothandapani"
+        },
+        "sex": "M",
+        "birthDate": "1939-09-30",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "X-ray & Macromolecular Crystallography and Macromolecular Computer Graphics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "F-206, Redwood, Reheja Residency, III Block, Koramangala",
+        "city": "Bengaluru 560 034",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2550 5829",
+            "mobile": "87627 80061"
+        },
+        "email": {
+            "personal": "kannan_99@yahoo.com"
+        }
+    }
+}

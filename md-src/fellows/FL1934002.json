@@ -1,0 +1,22 @@
+{
+    "id": "FL1934002",
+    "profile": {
+        "name": {
+            "first": "R Gopala",
+            "last": "Aiyar",
+            "display": "Aiyar,  R Gopala"
+        },
+        "sex": "M",
+        "birthDate": "1887-01-20",
+        "deathDate": "1971-01-18",
+        "degree": "M.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Classical Zoology, Marine Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934",
+        "councilservice": "1940-46"
+    }
+}

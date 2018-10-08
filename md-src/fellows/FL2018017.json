@@ -1,0 +1,33 @@
+{
+    "id": "FL2018017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Manoj Kumar",
+            "display": "Manoj Kumar, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1962-03-19",
+        "degree": "Ph.D. (GNDU, Amritsar)",
+        "specialization": "Supramolecular Chemistry, Functional Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Guru Nanak Dev University",
+        "city": "Amritsar 143 005",
+        "state": "Panjab",
+        "telephone": {
+            "office": "(0183) 245 0601-14, 225 8802/3272",
+            "residence": "(0183) 225 5109",
+            "mobile": "94176 27758",
+            "fax": "(0183) 225 8820"
+        },
+        "email": {
+            "personal": "mksharmaa@yahoo.co.in"
+        }
+    }
+}

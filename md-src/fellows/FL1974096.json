@@ -1,0 +1,25 @@
+{
+    "id": "FL1974096",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vishwanath Hari",
+            "last": "Salaskar",
+            "display": "Salaskar, Dr Vishwanath Hari"
+        },
+        "sex": "M",
+        "birthDate": "1912-04-06",
+        "deathDate": "1997-09-08",
+        "degree": "M.B.B.S., M.D.",
+        "specialization": "Medical Enzymology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "69 A, 'Manisha', Lady Jagmohandas Marg, Neapeansea Road",
+        "city": "Bombay 400 006"
+    }
+}

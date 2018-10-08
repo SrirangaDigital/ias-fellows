@@ -1,0 +1,18 @@
+{
+    "id": "FH1951014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "George Charles de",
+            "last": "Hevesy",
+            "display": "Hevesy, Prof. George Charles de"
+        },
+        "sex": "M",
+        "birthDate": "1885-08-01",
+        "deathDate": "1966-07-05"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1951"
+    }
+}

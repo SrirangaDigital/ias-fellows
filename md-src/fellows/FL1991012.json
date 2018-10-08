@@ -1,0 +1,32 @@
+{
+    "id": "FL1991012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Avinash Vasant",
+            "last": "Khare",
+            "display": "Khare, Prof. Avinash Vasant"
+        },
+        "sex": "M",
+        "birthDate": "1945-06-20",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "High Energy & Elementary Particle Physics, Supersymmetric Quantum Mechanics and Nonlinear Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Physics, University of Pune, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "97653 96369"
+        },
+        "email": {
+            "official": "khare@physics.unipune.ac.in"
+        }
+    }
+}

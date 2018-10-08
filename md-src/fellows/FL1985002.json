@@ -1,0 +1,33 @@
+{
+    "id": "FL1985002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Venkataraman",
+            "last": "Balakrishnan",
+            "display": "Balakrishnan, Prof. Venkataraman"
+        },
+        "sex": "M",
+        "birthDate": "1943-12-16",
+        "degree": "Ph.D. (Brandeis)",
+        "specialization": "Statistical Physics, Stochastic Processes and Dynamical Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "9/1, Sivaprakasam Street, T. Nagar",
+        "city": "Chennai 600 017",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2431 0387",
+            "mobile": "94444 42927"
+        },
+        "email": {
+            "personal": "venkataraman.balakrishnan@gmail.com"
+        },
+        "url": "http://hsb.iitm.ac.in/~vbalki"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1987023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vijay Kumar",
+            "last": "Kapahi",
+            "display": "Kapahi, Prof. Vijay Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1944-01-21",
+        "deathDate": "1999-03-16",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA, FNASc",
+        "specialization": "Radio Astronomy and Cosmology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "National Centre for Radio Astrophys, Tata Inst. of Fundamental Research, Poona University Campus, Post Bag No. 3, Ganeshkhind",
+        "city": "Pune 411 007"
+    }
+}

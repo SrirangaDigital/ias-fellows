@@ -1,0 +1,35 @@
+{
+    "id": "FL2010045",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vasanthapuram",
+            "last": "Ravi",
+            "display": "Ravi, Prof. Vasanthapuram"
+        },
+        "sex": "M",
+        "birthDate": "1955-11-30",
+        "degree": "MD (JIPMER)",
+        "honours": "FAMS",
+        "specialization": "Neurovirology, Viral Diagnostics, Molecular Epidemiology of Viral Infections"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Neurovirology, National Institute of Mental Health & Neurosciences, Hosur Road",
+        "city": "Bengaluru 560 029",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2699 5126",
+            "residence": "(080) 2659 7290",
+            "mobile": "93436 02246",
+            "fax": "(080) 2656 4830"
+        },
+        "email": {
+            "personal": "virusravi@gmail.com"
+        }
+    }
+}

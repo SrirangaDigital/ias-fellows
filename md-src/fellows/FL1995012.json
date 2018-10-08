@@ -1,0 +1,35 @@
+{
+    "id": "FL1995012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Subrat Kumar",
+            "last": "Panda",
+            "display": "Panda, Dr Subrat Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1954-11-18",
+        "degree": "M.B.B.S. (Utkal), M.D. (Path.) (AIIMS)",
+        "honours": "FNA",
+        "specialization": "Liver Pathology, Viral Hepatitis and Molecular Biology/Virology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Professor, Department of Pathology, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 4924",
+            "residence": "(011) 2659 8915",
+            "mobile": "98104 77583",
+            "fax": "(011) 2658 8663"
+        },
+        "email": {
+            "personal": "pandask@hotmail.com"
+        }
+    }
+}

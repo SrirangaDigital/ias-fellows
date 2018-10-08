@@ -1,0 +1,25 @@
+{
+    "id": "FL1975080",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramachandra Vaman",
+            "last": "Tamhankar",
+            "display": "Tamhankar, Dr Ramachandra Vaman"
+        },
+        "sex": "M",
+        "birthDate": "1917-07-28",
+        "deathDate": "1993-06-16",
+        "degree": "Ph.D; (Paris)",
+        "specialization": "Metallurgy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "17-1-383, Plot 90, Vinayanagar Colony, Saidabad",
+        "city": "Hyderabad 500 659"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1948008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Walter Norman",
+            "last": "Haworth",
+            "display": "Haworth, Prof. Walter Norman"
+        },
+        "sex": "M",
+        "birthDate": "1883-03-19",
+        "deathDate": "1950-03-19",
+        "honours": "Nobel Laureate (Chemistry) - 1937"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1948"
+    }
+}

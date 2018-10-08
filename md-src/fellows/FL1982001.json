@@ -1,0 +1,32 @@
+{
+    "id": "FL1982001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajaram Vishnu",
+            "last": "Bhonsle",
+            "display": "Bhonsle, Prof. Rajaram Vishnu"
+        },
+        "sex": "M",
+        "birthDate": "1928-11-12",
+        "degree": "Ph.D. (Gujarat)",
+        "specialization": "Solar Terrestrial Physics and Radio Astronomy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "B/1, Mahagaokar Complex, Rajaram Road",
+        "city": "Kolhapur 416 001",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(0231) 252 2138",
+            "mobile": "98224 20140"
+        },
+        "email": {
+            "personal": "bhonsle.rajaram@yahoo.in"
+        }
+    }
+}

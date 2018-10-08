@@ -1,0 +1,22 @@
+{
+    "id": "FL1934098",
+    "profile": {
+        "name": {
+            "first": "Thiruvenkata Rajendra",
+            "last": "Seshadri",
+            "display": "Seshadri,  Thiruvenkata Rajendra"
+        },
+        "sex": "M",
+        "birthDate": "1900-02-03",
+        "deathDate": "1975-09-27",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Natural Products, Drugs & Pesticides"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934",
+        "councilservice": "1943-64, 1968-70; Vice President 1946-52, 1962-64, 1968-70"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "FL1971003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sitaram Rao",
+            "last": "Valluri",
+            "display": "Valluri, Dr Sitaram Rao"
+        },
+        "sex": "M",
+        "birthDate": "1924-06-25",
+        "degree": "Ph.D. (Caltech)",
+        "specialization": "Metal Fatigue"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1971"
+    },
+    "contact": {
+        "address": "'Prashanthi', 659, 100 Feet Road, Indiranagar",
+        "city": "Bengaluru 560 038",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2525 8294"
+        }
+    }
+}

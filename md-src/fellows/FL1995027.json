@@ -1,0 +1,32 @@
+{
+    "id": "FL1995027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shashi",
+            "last": "Wadhwa",
+            "display": "Wadhwa, Prof. Shashi"
+        },
+        "sex": "F",
+        "birthDate": "1948-07-30",
+        "degree": "M.B.B.S. (Jabalpur), M.S. and Ph.D. (AIIMS)",
+        "honours": "FNASc, FAMS",
+        "specialization": "Human Anatomy, Neuroanatomy and Developmental Neurobiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "B-114, Sector 30",
+        "city": "Noida 201 303",
+        "state": "U.P.",
+        "telephone": {
+            "mobile": "99107 69909"
+        },
+        "email": {
+            "personal": "shashiwadhwa@hotmail.com,shashiwadhwa.anat@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1996005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rajani Avinash",
+            "last": "Bhisey",
+            "display": "Bhisey, Dr Rajani Avinash"
+        },
+        "sex": "F",
+        "birthDate": "1941-01-20",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Environmental Carcinogenesis and Molecular Epidemiology of Cancer, Occupational Hazards"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "7, Yug Prabhat Co-operative, Housing Society, Sitaladevi Temple Road, Mahim",
+        "city": "Mumbai 400 016",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2446 7356",
+            "mobile": "98334 21249"
+        },
+        "email": {
+            "personal": "rajani.bhisey@gmail.com"
+        }
+    }
+}

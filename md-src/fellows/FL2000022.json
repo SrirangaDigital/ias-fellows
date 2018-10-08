@@ -1,0 +1,33 @@
+{
+    "id": "FL2000022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kulinder Pal",
+            "last": "Singh",
+            "display": "Singh, Prof. Kulinder Pal"
+        },
+        "sex": "M",
+        "birthDate": "1952-06-19",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc, FNA",
+        "specialization": "X-ray Instrumentation for Astronomy, Active Galactic Nuclei and Cataclysmic Variables, Stellar Coronae, Hot Interstellar & Intracluster Media and Supernova Remnants"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "28A, Bank Colony",
+        "city": "Patiala 147 001",
+        "state": "Panjab",
+        "telephone": {
+            "mobile": "90048 38965"
+        },
+        "email": {
+            "personal": "kulinderpal@gmail.com"
+        },
+        "url": "http://www.tifr.res.in/~singh"
+    }
+}

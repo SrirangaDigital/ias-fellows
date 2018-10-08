@@ -1,0 +1,31 @@
+{
+    "id": "FH2018029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Inder Mohan",
+            "last": "Verma",
+            "display": "Verma, Prof. Inder Mohan"
+        },
+        "sex": "M",
+        "birthDate": "1947-11-28",
+        "degree": "Ph.D. (Weizmann Inst.)",
+        "honours": "Member, Natl. Acad. Sci., USA"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Laboratory of Genetics, Salk Institute for Biological Studies, 10010, North Torrey Pines Road",
+        "city": "La Jolla, CA 92037",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-858) 453 4100/1462",
+            "fax": "(+1-858) 558 7454"
+        },
+        "email": {
+            "official": "verma@salk.edu"
+        }
+    }
+}

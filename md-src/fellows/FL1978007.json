@@ -1,0 +1,32 @@
+{
+    "id": "FL1978007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chokkappa",
+            "last": "Kempanna",
+            "display": "Kempanna, Dr Chokkappa"
+        },
+        "sex": "M",
+        "birthDate": "1928-05-16",
+        "deathDate": "2016-12-11",
+        "degree": "Ph.D. (Cantab)",
+        "specialization": "Genetics and Plant Breeding"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "21, Gaddadanagenahalli, Mandibele Post",
+        "city": "Devanahalli 562 135",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "94480 46444"
+        },
+        "email": {
+            "personal": "ckempanna@yahoo.com"
+        }
+    }
+}

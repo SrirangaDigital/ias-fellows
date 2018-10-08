@@ -1,0 +1,32 @@
+{
+    "id": "FL1991017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Yellapregada Venkata Rama Krishna",
+            "last": "Prasad",
+            "display": "Prasad, Prof. Yellapregada Venkata Rama Krishna"
+        },
+        "sex": "M",
+        "birthDate": "1944-05-21",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Deformation Processing, Process Modelling, Deterministic Chaos and Microstructural Control"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "B/2, Hospital Extension, Vinayaka Nagar, Hebbal",
+        "city": "Bengaluru 560 024",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2333 0673"
+        },
+        "email": {
+            "personal": "prasad_yvrk@hotmail.com"
+        }
+    }
+}

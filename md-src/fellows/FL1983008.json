@@ -1,0 +1,35 @@
+{
+    "id": "FL1983008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Guruswamy",
+            "last": "Rajasekaran",
+            "display": "Rajasekaran, Prof. Guruswamy"
+        },
+        "sex": "M",
+        "birthDate": "1936-02-21",
+        "degree": "Ph.D. (Chicago)",
+        "honours": "FNA, FNASc",
+        "specialization": "Quantum Field Theory and High Energy Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "Professor Emeritus, The Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3206",
+            "residence": "(044) 2441 3395",
+            "fax": "(044) 2254 1586"
+        },
+        "email": {
+            "official": "graj@imsc.res.in"
+        },
+        "url": "http://www.imsc.res.in/~graj"
+    }
+}

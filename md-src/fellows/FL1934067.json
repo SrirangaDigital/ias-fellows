@@ -1,0 +1,18 @@
+{
+    "id": "FL1934067",
+    "profile": {
+        "name": {
+            "first": "D H",
+            "last": "Peacock",
+            "display": "Peacock,  D H"
+        },
+        "sex": "M",
+        "birthDate": "1889-00-00",
+        "specialization": "Physical Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934"
+    }
+}

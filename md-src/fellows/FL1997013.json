@@ -1,0 +1,33 @@
+{
+    "id": "FL1997013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asok Kumar",
+            "last": "Mallik",
+            "display": "Mallik, Prof. Asok Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1947-02-11",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNAE, FNA, FNASc",
+        "specialization": "Vibration Engineering, Kinematics and Dynamics of Machines"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "P-31, CIT Road, Scheme VIM (S)",
+        "city": "Kolkata 700 054",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2364 8833"
+        },
+        "email": {
+            "official": "akmallik@iitk.ac.in",
+            "personal": "asokiitk@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1984008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vidyanand",
+            "last": "Nanjundiah",
+            "display": "Nanjundiah, Prof. Vidyanand"
+        },
+        "sex": "M",
+        "birthDate": "1947-11-14",
+        "degree": "Ph.D. (Chicago)",
+        "specialization": "Developmental Biology, Evolution"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1984",
+        "councilservice": "Council Service: 2004-2009"
+    },
+    "contact": {
+        "address": "Centre for Human Genetics, Bio Tech Park, Elecronic City Phase I",
+        "city": "Bengaluru 560 100",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2852 1831",
+            "residence": "(080) 2667 0631",
+            "fax": "(080) 2852 1832"
+        },
+        "email": {
+            "official": "vidyan@alumni.iisc.ac.in"
+        }
+    }
+}

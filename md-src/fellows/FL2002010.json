@@ -1,0 +1,34 @@
+{
+    "id": "FL2002010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivasan",
+            "last": "Ramakrishnan",
+            "display": "Ramakrishnan, Prof. Srinivasan"
+        },
+        "sex": "M",
+        "birthDate": "1956-12-22",
+        "degree": "Ph.D. (Bombay)",
+        "specialization": "Low Temperature Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Professor, Department of Condensed, Matter & Materials Science, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2257 & 2410",
+            "residence": "(022) 2280 4628",
+            "mobile": "98672 30590",
+            "fax": "(022) 2280 4610, (022) 2280 4611"
+        },
+        "email": {
+            "official": "ramky@tifr.res.in"
+        }
+    }
+}

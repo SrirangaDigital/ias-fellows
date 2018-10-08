@@ -1,0 +1,35 @@
+{
+    "id": "FL1998002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manju",
+            "last": "Bansal",
+            "display": "Bansal, Prof. Manju"
+        },
+        "sex": "F",
+        "birthDate": "1950-12-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Computational Structural Biology, Computational Genome Analysis and Biomolecular Modelling"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Molecular Biophysics Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2534, (080) 2360 7591",
+            "residence": "(080) 2341 9971",
+            "mobile": "98452 37560",
+            "fax": "(080) 2360 0535"
+        },
+        "email": {
+            "official": "mb@iisc.ac.in"
+        }
+    }
+}

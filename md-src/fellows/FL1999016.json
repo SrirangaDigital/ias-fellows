@@ -1,0 +1,32 @@
+{
+    "id": "FL1999016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Munivenkatappa",
+            "last": "Sanjappa",
+            "display": "Sanjappa, Dr Munivenkatappa"
+        },
+        "sex": "M",
+        "birthDate": "1951-01-01",
+        "degree": "Ph.D. (Baroda)",
+        "honours": "FNASc, FNA",
+        "specialization": "Plant Taxonomy and Conservation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "504, Block C-7, Kendriya Vihar, Ballari Road, Yelahanka",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "99720 35160"
+        },
+        "email": {
+            "personal": "sanjappam@ymail.com,drmsanjappa@gmail.com"
+        }
+    }
+}

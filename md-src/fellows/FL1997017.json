@@ -1,0 +1,32 @@
+{
+    "id": "FL1997017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aroor Pramesh",
+            "last": "Rao",
+            "display": "Rao, Prof. Aroor Pramesh"
+        },
+        "sex": "M",
+        "birthDate": "1948-01-18",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Sun & Solar Wind, Wave Propagation in Random Media, Aperture Synthesis and Radio Imaging"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Flat 7, Khagol Housing Society, Panchavati, Pashan",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 6628 0183",
+            "mobile": "98507 45504"
+        },
+        "email": {
+            "personal": "prameshrao@gmail.com"
+        }
+    }
+}

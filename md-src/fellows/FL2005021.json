@@ -1,0 +1,35 @@
+{
+    "id": "FL2005021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Trichur Ramaswamy",
+            "last": "Raju",
+            "display": "Raju, Prof. Trichur Ramaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1952-03-31",
+        "degree": "Ph.D. (ANU)",
+        "specialization": "Developmental Neuroscience, Neurodegeneration and Neuronal Plasticity"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Senior Professor, Department of Neurophysiology, National Institute of Mental Health & Neurosciences, P.B. No. 2900",
+        "city": "Bengaluru 560 029",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2699 5168",
+            "residence": "(080) 2539 2148",
+            "mobile": "99802 30115",
+            "fax": "(080) 2656 4830, (080) 2656 2121"
+        },
+        "email": {
+            "official": "trraju@nimhans.kar.nic.in",
+            "personal": "trraju.nimhans@gmail.com"
+        }
+    }
+}

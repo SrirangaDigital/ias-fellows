@@ -1,0 +1,26 @@
+{
+    "id": "FL1989027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pramod Karan",
+            "last": "Sethi",
+            "display": "Sethi, Prof. Pramod Karan"
+        },
+        "sex": "M",
+        "birthDate": "1927-11-28",
+        "deathDate": "2008-01-06",
+        "degree": "MBBS & MS(Agra),",
+        "honours": "D.Sc. (h.c.), FRCS (Edinburgh)",
+        "specialization": "Orthopaedic Surgery, Prosthetics and Orthotics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "B-10, Vivekanand Marg",
+        "city": "Jaipur 302 001"
+    }
+}

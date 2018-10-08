@@ -1,0 +1,34 @@
+{
+    "id": "FL2018019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Biswarup",
+            "last": "Mukhopadhyaya",
+            "display": "Mukhopadhyaya, Prof. Biswarup"
+        },
+        "sex": "M",
+        "birthDate": "1960-08-01",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc",
+        "specialization": "Theoretical High Energy Physics, Collider Physics, Neutrino & Higgs Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Harish Chandra Research Institute, Chhatnag Road, Jhusi",
+        "city": "Allahabad 211 019",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0532) 227 4306",
+            "residence": "(0532) 227 4006",
+            "mobile": "94153 16909"
+        },
+        "email": {
+            "official": "biswarup@hri.res.in"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1935059",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "William Henry",
+            "last": "Bragg",
+            "display": "Bragg, Prof. William Henry"
+        },
+        "sex": "M",
+        "birthDate": "1862-07-02",
+        "deathDate": "1972-03-10",
+        "honours": "Nobel Laureate (Physics) - 1915"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2000027",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Baldev Raj",
+            "display": "Baldev Raj, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1947-04-09",
+        "deathDate": "2018-01-06",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNAE, FNASc, FNA, FTWAS",
+        "specialization": "Non-destructive Science & Technology, Materials Performance, Technology Management and Nano Science & Technology, Science Policy & Diplomacy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Director, National Institute of Advanced Studies, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 1969, (080) 2218 5075",
+            "fax": "(080) 2218 5076"
+        },
+        "email": {
+            "official": "director@nias.res.in",
+            "personal": "baldev.dr@gmail.com"
+        }
+    }
+}

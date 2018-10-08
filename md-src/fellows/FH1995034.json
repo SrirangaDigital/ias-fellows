@@ -1,0 +1,23 @@
+{
+    "id": "FH1995034",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Minoru",
+            "last": "Oda",
+            "display": "Oda, Prof. Minoru"
+        },
+        "sex": "M",
+        "birthDate": "1923-02-24",
+        "deathDate": "2001-03-01"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Tokyo University of Information, Science, Yato-cho, Wakaba-ku",
+        "city": "Chiba-shi",
+        "country": "Japan"
+    }
+}

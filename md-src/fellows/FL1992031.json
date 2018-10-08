@@ -1,0 +1,35 @@
+{
+    "id": "FL1992031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalidas",
+            "last": "Sen",
+            "display": "Sen, Prof. Kalidas"
+        },
+        "sex": "M",
+        "birthDate": "1948-06-09",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "Quantum Model Potentials, Density Functional Theory, Confined Systems, Information Theory, Statistical Complexity"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Emeritus Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4809",
+            "mobile": "96520 09749",
+            "fax": "(040) 2301 2460"
+        },
+        "email": {
+            "official": "kds77@uohyd.ac.in",
+            "personal": "kalidas.sen@gmail.com"
+        }
+    }
+}

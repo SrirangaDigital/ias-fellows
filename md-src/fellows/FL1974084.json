@@ -1,0 +1,22 @@
+{
+    "id": "FL1974084",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Lakshminarayanapuram Krishnaiyer",
+            "last": "Ramachandran",
+            "display": "Ramachandran, Dr Lakshminarayanapuram Krishnaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1928-03-28",
+        "deathDate": "1988-08-11",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Proteins, Antibiotics and Endocrines"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1974"
+    }
+}

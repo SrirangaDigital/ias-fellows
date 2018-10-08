@@ -1,0 +1,33 @@
+{
+    "id": "FL1989020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asuri",
+            "last": "Sridharan",
+            "display": "Sridharan, Prof. Asuri"
+        },
+        "sex": "M",
+        "birthDate": "1937-01-01",
+        "degree": "D.Sc. (IISc), Ph.D. (Purdue)",
+        "honours": "FNA, FNAE",
+        "specialization": "Engineering Properties of Clays, Clay Mineralogy and Foundation Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "No. 40, West Park Road, Malleswaram",
+        "city": "Bengaluru 560 003",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2334 1046",
+            "mobile": "98458 06379"
+        },
+        "email": {
+            "personal": "asridhran@yahoo.com"
+        }
+    }
+}

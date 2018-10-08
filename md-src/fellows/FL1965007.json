@@ -1,0 +1,28 @@
+{
+    "id": "FL1965007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Devendra",
+            "last": "Lal",
+            "display": "Lal, Prof. Devendra"
+        },
+        "sex": "M",
+        "birthDate": "1929-02-14",
+        "deathDate": "2012-12-01",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "D.Sc. (h.c.), FRS, FNA, FNASc",
+        "specialization": "Earth & Planetary Sciences, Nuclear Physics and Geochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1965",
+        "councilservice": "Council Service: 1974-76, 1980-82; Vice-President: 1980-82"
+    },
+    "contact": {
+        "address": "Scripps Institute of Oceanography, Geosciences Research Division, 0244",
+        "city": "La Jolla, California 92093-0244",
+        "country": "USA"
+    }
+}

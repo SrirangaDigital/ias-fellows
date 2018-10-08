@@ -1,0 +1,32 @@
+{
+    "id": "FL1984019",
+    "profile": {
+        "name": {
+            "first": "Devraj",
+            "last": "Sikka",
+            "display": "Sikka, Mr Devraj"
+        },
+        "sex": "M",
+        "birthDate": "1932-03-01",
+        "deathDate": "2017-03-18",
+        "degree": "M.Sc. (Agra)",
+        "specialization": "Monsoon, Tropical & Satellite Meteorology, Climate Change, Dynamics of Himalayan Glaciers and Climate Research"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "40, Mausam Vihar",
+        "city": "Delhi 110 051",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2241 0156",
+            "mobile": "99586 63373"
+        },
+        "email": {
+            "personal": "drsikka@yahoo.com"
+        }
+    }
+}

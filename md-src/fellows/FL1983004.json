@@ -1,0 +1,33 @@
+{
+    "id": "FL1983004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Man Mohan",
+            "last": "Johri",
+            "display": "Johri, Prof. Man Mohan"
+        },
+        "sex": "M",
+        "birthDate": "1940-09-15",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA",
+        "specialization": "Plant Biochemistry, Molecular Biology of Plants and Genetic Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "Flat No. 32, New Cosmos CHSL, Juhu-Versova Link Road, Andheri (W)",
+        "city": "Mumbai 400 053",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2670 3270",
+            "mobile": "99305 64129"
+        },
+        "email": {
+            "personal": "mjohri06915@yahoo.co.in"
+        }
+    }
+}

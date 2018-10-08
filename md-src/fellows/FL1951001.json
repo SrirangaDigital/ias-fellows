@@ -1,0 +1,22 @@
+{
+    "id": "FL1951001",
+    "profile": {
+        "name": {
+            "first": "A Ananthanarayana",
+            "last": "Ayer",
+            "display": "Ayer,  A Ananthanarayana"
+        },
+        "sex": "M",
+        "deathDate": "1971-12-09",
+        "degree": "M.Sc., MBBS"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1951"
+    },
+    "contact": {
+        "address": "5, 3rd Cross, Canal Cross Road, Gandhinagar",
+        "city": "Madras 600 020"
+    }
+}

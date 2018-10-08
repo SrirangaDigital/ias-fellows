@@ -1,0 +1,32 @@
+{
+    "id": "FL1985005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thavamani Jegajothivel",
+            "last": "Pandian",
+            "display": "Pandian, Prof. Thavamani Jegajothivel"
+        },
+        "sex": "M",
+        "birthDate": "1939-06-15",
+        "degree": "Ph.D. (Madras), Dr. rer. nat. (Kiel, Germany)",
+        "honours": "FNA, FNASc, FNAAS, FTWAS, D.Sc. (CIFE, Mumbai)",
+        "specialization": "Genetics and Energetics: Aquaculture"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "9, Old Natham Road, Opp. Balamandiram",
+        "city": "Madurai 625 014",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(0452) 264 0139"
+        },
+        "email": {
+            "personal": "tjpandian16@gmail.com"
+        }
+    }
+}

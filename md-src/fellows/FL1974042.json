@@ -1,0 +1,26 @@
+{
+    "id": "FL1974042",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Krishna Damodar",
+            "last": "Abhyankar",
+            "display": "Abhyankar, Prof. Krishna Damodar"
+        },
+        "sex": "M",
+        "birthDate": "1928-06-21",
+        "deathDate": "2007-11-08",
+        "degree": "Ph.D. (Univ. Calif., Berkeley)",
+        "honours": "FNA, FNASc",
+        "specialization": "Astronomy and Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Flat No. G-3, Ground Floor, Subha Tulasi, 12-13-625, Tarnaka",
+        "city": "Secunderabad 500 017"
+    }
+}

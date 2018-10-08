@@ -1,0 +1,35 @@
+{
+    "id": "FL1986002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dilip Devidas",
+            "last": "Bhawalkar",
+            "display": "Bhawalkar, Dr Dilip Devidas"
+        },
+        "sex": "M",
+        "birthDate": "1940-10-16",
+        "degree": "Ph.D. (Southampton)",
+        "honours": "FNA, FNASc",
+        "specialization": "Lasers and laser Instrumentation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "26, Paramanu Nagar",
+        "city": "Indore 452 013",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0731) 232 2707",
+            "residence": "(0731) 232 0031",
+            "mobile": "93032 37573",
+            "fax": "(0731) 276 4707"
+        },
+        "email": {
+            "personal": "ddbhawalkar@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1984016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Biswaranjan",
+            "last": "Nag",
+            "display": "Nag, Prof. Biswaranjan"
+        },
+        "sex": "M",
+        "birthDate": "1932-10-01",
+        "deathDate": "2004-04-06",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA, FNAE",
+        "specialization": "Physics of Semiconductors, Solid State Devices and Electronics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "Honorary Scientist, Dept. of Radiophysics & Electronics, Calcutta University, Sisir Mitra, Bhavan, 92 A.P.C. Road",
+        "city": "Kolkata 700 009"
+    }
+}

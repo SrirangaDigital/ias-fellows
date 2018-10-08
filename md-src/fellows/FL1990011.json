@@ -1,0 +1,33 @@
+{
+    "id": "FL1990011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vasudevan Bhaskaran",
+            "last": "Kartha",
+            "display": "Kartha, Dr Vasudevan Bhaskaran"
+        },
+        "sex": "M",
+        "birthDate": "1934-01-01",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Atomic, Molecular & Laser Spectroscopy, Synchrotron Spectroscopy and Applications of Lasers in Medicine & Biochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "21, Udayagiri (opp. Telecom Factory), Sion-Trombay Road, Deonar",
+        "city": "Mumbai 400 088",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2556 4908",
+            "mobile": "77384 33912"
+        },
+        "email": {
+            "personal": "sbkartha@hotmail.com,bhasikartha@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1990019",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pranab Kumar",
+            "last": "Sarkar",
+            "display": "Sarkar, Dr Pranab Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1939-02-05",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Thyroid Hormones & Brain Development, Molecular Biology and Endocrinology, and Neurodegenerative Diseases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "INSA Honorary Scientist, Neurobiology Division, Indian Institute of Chemical Biology, 4, Raja S.C.Mullick Road,",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 3491/107",
+            "residence": "(033) 2337 2927",
+            "mobile": "94330 60022",
+            "fax": "(033) 2473 0284, (033) 2473 5197"
+        },
+        "email": {
+            "personal": "pk_sarkar@hotmail.com,sarkarpk@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2015005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sharmila Avadhut",
+            "last": "Bapat",
+            "display": "Bapat, Dr Sharmila Avadhut"
+        },
+        "sex": "F",
+        "birthDate": "1965-11-20",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNASc",
+        "specialization": "Cancer Biology & Stem Cells"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "National Centre for Cell Science, NCCS Complex, University Campus, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2570 8089",
+            "mobile": "99215 12020",
+            "fax": "(020) 2569 2259"
+        },
+        "email": {
+            "official": "sabapat@nccs.res.in"
+        }
+    }
+}

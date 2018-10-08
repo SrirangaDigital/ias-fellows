@@ -1,0 +1,22 @@
+{
+    "id": "FL1956001",
+    "profile": {
+        "name": {
+            "first": "Prabhu Lal",
+            "last": "Bhatnagar",
+            "display": "Bhatnagar,  Prabhu Lal"
+        },
+        "sex": "M",
+        "birthDate": "1912-08-08",
+        "deathDate": "1976-10-05",
+        "degree": "Ph.D., D.Sc.",
+        "honours": "FNA, FNASc",
+        "specialization": "Fluid Mechanics, Nonlinear Waves"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1956",
+        "councilservice": "1968-70"
+    }
+}

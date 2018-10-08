@@ -1,0 +1,35 @@
+{
+    "id": "FL2009009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Basudeb",
+            "last": "Datta",
+            "display": "Datta, Prof. Basudeb"
+        },
+        "sex": "M",
+        "birthDate": "1957-02-06",
+        "degree": "Ph.D. (ISI)",
+        "honours": "FNASc",
+        "specialization": "Geometric Topology, Algebraic Topology, Combinatorics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3211",
+            "residence": "(080) 2360 3118",
+            "fax": "(080) 2360 0146"
+        },
+        "email": {
+            "official": "dattab@iisc.ac.in"
+        },
+        "url": "http://math.iisc.ac.in/~dattab/"
+    }
+}

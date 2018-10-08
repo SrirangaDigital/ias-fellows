@@ -1,0 +1,18 @@
+{
+    "id": "FH1935061",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aime Auguste",
+            "last": "Cotton",
+            "display": "Cotton, Prof. Aime Auguste"
+        },
+        "sex": "M",
+        "birthDate": "1869-10-09",
+        "deathDate": "1951-04-16"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

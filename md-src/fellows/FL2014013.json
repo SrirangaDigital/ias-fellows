@@ -1,0 +1,36 @@
+{
+    "id": "FL2014013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gautam",
+            "last": "Mandal",
+            "display": "Mandal, Prof. Gautam"
+        },
+        "sex": "M",
+        "birthDate": "1962-12-15",
+        "degree": "Ph.D. (TIFR)",
+        "honours": "FNA",
+        "specialization": "Quantum Field Theory, Gravity, String Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Department of Theoretical Physics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2429",
+            "residence": "(022) 2280 4755",
+            "mobile": "98690 20182",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "mandal@theory.tifr.res.in"
+        },
+        "url": "http://theory.tifr.res.in/~mandal/"
+    }
+}

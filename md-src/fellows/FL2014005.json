@@ -1,0 +1,35 @@
+{
+    "id": "FL2014005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Eknath",
+            "last": "Ghate",
+            "display": "Ghate, Prof. Eknath"
+        },
+        "sex": "M",
+        "birthDate": "1969-09-11",
+        "degree": "Ph.D. (UC, Los Angeles)",
+        "specialization": "Automorphic Forms, Number Theory, Galois Representations, Arithmetic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Professor G, School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2663",
+            "residence": "(022) 2280 4562",
+            "mobile": "98201 94361",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "eghate@math.tifr.res.in"
+        },
+        "url": "http://www.math.tifr.res.in/~eghate"
+    }
+}

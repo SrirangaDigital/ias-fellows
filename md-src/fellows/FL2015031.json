@@ -1,0 +1,37 @@
+{
+    "id": "FL2015031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anjan",
+            "last": "Kundu",
+            "display": "Kundu, Prof. Anjan"
+        },
+        "sex": "M",
+        "birthDate": "1953-01-24",
+        "deathDate": "2016-12-31",
+        "degree": "Ph.D. (PFU, Moscow)",
+        "honours": "FNA",
+        "specialization": "Theoretical & Mathematical Physics, Nonlinear Classical & Quantum Integrable Systems, Field Models with Topological Charges"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Senior Professor, Theory Division, Saha Institute of Nuclear Physics, 1/AF, Bidhan Nagar",
+        "city": "Kolkata 700 064",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2337 5345-6/3305",
+            "residence": "(033) 4060 4109",
+            "mobile": "94330 21522",
+            "fax": "(0330 2337 4637"
+        },
+        "email": {
+            "official": "anjan.kundu@saha.ac.in"
+        },
+        "url": "http://www.saha.ac.in/theory/anjan.kundu/"
+    }
+}

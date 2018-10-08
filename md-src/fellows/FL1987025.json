@@ -1,0 +1,36 @@
+{
+    "id": "FL1987025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paramasivam",
+            "last": "Natarajan",
+            "display": "Natarajan, Prof. Paramasivam"
+        },
+        "sex": "M",
+        "birthDate": "1940-09-17",
+        "deathDate": "2016-03-18",
+        "degree": "Ph.D. (USC, Los Angeles)",
+        "honours": "FNA",
+        "specialization": "Inorganic Photochemistry, Laser Flash Photolysis and Chemical Conversion of Solar Energy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Emeritus Professor, National Centre for Ultrafast Processes, University of Madras, Taramani Campus",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2454 7192",
+            "residence": "(044) 2447 2332",
+            "mobile": "94448 70993",
+            "fax": "(044) 2492 6709"
+        },
+        "email": {
+            "personal": "pnatrajan@hotmail.com"
+        }
+    }
+}

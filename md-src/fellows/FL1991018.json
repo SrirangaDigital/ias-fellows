@@ -1,0 +1,33 @@
+{
+    "id": "FL1991018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gangan",
+            "last": "Prathap",
+            "display": "Prathap, Dr Gangan"
+        },
+        "sex": "M",
+        "birthDate": "1951-06-06",
+        "degree": "Ph.D. (IIT, Chennai)",
+        "honours": "FNA",
+        "specialization": "Structural Mechanics, Finite Element Method, Information Science and Composite Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Honorary Professor, APJ Abdul Kalam Tech University, CET Campus",
+        "city": "Thiruvananthapuram 695 016",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 278 5627",
+            "residence": "(0471) 271 1956"
+        },
+        "email": {
+            "official": "gp@niist.res.in"
+        }
+    }
+}

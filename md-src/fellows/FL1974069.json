@@ -1,0 +1,37 @@
+{
+    "id": "FL1974069",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Holenarasipur Yoganarasimham",
+            "last": "Mohan Ram",
+            "display": "Mohan Ram, Prof. Holenarasipur Yoganarasimham"
+        },
+        "sex": "M",
+        "birthDate": "1930-09-24",
+        "deathDate": "2018-06-18",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc, FNAAS",
+        "specialization": "Plant Growth &amp; Development and Economic Botany"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1983-88; Vice-President: 1986-88"
+    },
+    "contact": {
+        "address": "No. 174, SFS DDA Flats, Mukherjee Nagar",
+        "city": "Delhi 110 009",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2766 6237",
+            "residence": "(011) 2765 2773",
+            "mobile": "98181 85469",
+            "fax": "(011) 2766 6237"
+        },
+        "email": {
+            "personal": "hymohanram@gmail.com"
+        }
+    }
+}

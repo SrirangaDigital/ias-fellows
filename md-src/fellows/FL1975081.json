@@ -1,0 +1,26 @@
+{
+    "id": "FL1975081",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Joseph",
+            "last": "Thomas",
+            "display": "Thomas, Dr Joseph"
+        },
+        "sex": "M",
+        "birthDate": "1935-03-20",
+        "deathDate": "2008-01-30",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNAAS",
+        "specialization": "Biological Nitrogen Fixation and Biotechnology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "2A, Swarnamukhi, 39, Arundale Beach Road, Besant Nagar",
+        "city": "Chennai 600 090"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FL1975001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hari Om",
+            "last": "Agrawal",
+            "display": "Agrawal, Prof. Hari Om"
+        },
+        "sex": "M",
+        "birthDate": "1936-07-01",
+        "degree": "D.Sc. (Holland)",
+        "honours": "FNASc",
+        "specialization": "Virology, Microbiology, Environmental Sciences and Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Sri Laxman Bhavan, 20/2, Indira Nagar",
+        "city": "Lucknow 226 016",
+        "state": "U.P.",
+        "telephone": {
+            "residence": "(0522) 234 1586",
+            "mobile": "93897 90504"
+        }
+    }
+}

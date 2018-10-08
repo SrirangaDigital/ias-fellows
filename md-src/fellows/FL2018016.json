@@ -1,0 +1,37 @@
+{
+    "id": "FL2018016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mahitosh",
+            "last": "Mandal",
+            "display": "Mandal, Prof. Mahitosh"
+        },
+        "sex": "M",
+        "birthDate": "1963-01-01",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc",
+        "specialization": "Cancer Biology, Mutlidrug Resistance, Drug Delivery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "School of Medical Science &amp; Technology, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3578",
+            "residence": "(03222) 28 35579",
+            "mobile": "94348 96984",
+            "fax": "(03222) 28 2221"
+        },
+        "email": {
+            "official": "mahitosh@smst.iitkgp.ernet.in",
+            "personal": "mahitoshm@gmail.com"
+        },
+        "url": "http://www.iitkgp.ac.in/department/MM/faculty/mm-mahitosh"
+    }
+}

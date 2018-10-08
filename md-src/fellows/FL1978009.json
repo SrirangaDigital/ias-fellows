@@ -1,0 +1,23 @@
+{
+    "id": "FL1978009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Madhavarao Ranibennur Raghavendra",
+            "last": "Rao",
+            "display": "Rao, Dr Madhavarao Ranibennur Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1924-05-25",
+        "deathDate": "1992-06-09",
+        "specialization": "Enzymology, Fermentation Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "Sre"
+    }
+}

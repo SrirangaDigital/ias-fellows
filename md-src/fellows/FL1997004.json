@@ -1,0 +1,36 @@
+{
+    "id": "FL1997004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kankan",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Prof. Kankan"
+        },
+        "sex": "M",
+        "birthDate": "1954-11-17",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Femtosecond Laser Spectroscopy, Single Molecule Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Science Education & Research, Bypass Road, Bhauri",
+        "city": "Bhopal 462 066",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0755) 669 1345",
+            "mobile": "94330 71155",
+            "fax": "(0755) 669 2392"
+        },
+        "email": {
+            "official": "kankan@iiserb.ac.in",
+            "personal": "kankan.bhattacharyya@gmail.com"
+        },
+        "url": "http://iacs.res.in/pckb.html"
+    }
+}

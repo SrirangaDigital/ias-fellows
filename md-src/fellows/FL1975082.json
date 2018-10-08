@@ -1,0 +1,26 @@
+{
+    "id": "FL1975082",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prahlad Chunilal",
+            "last": "Vaidya",
+            "display": "Vaidya, Prof. Prahlad Chunilal"
+        },
+        "sex": "M",
+        "birthDate": "1918-03-23",
+        "deathDate": "2010-03-12",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "General Relativity and Gravitation"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "34, Shardanagar",
+        "city": "Ahmedabad 380 007"
+    }
+}

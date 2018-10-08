@@ -1,0 +1,33 @@
+{
+    "id": "FL1995011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Syed Wajih Ahmad",
+            "last": "Naqvi",
+            "display": "Naqvi, Dr Syed Wajih Ahmad"
+        },
+        "sex": "M",
+        "birthDate": "1954-08-10",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Chemical Oceanography, Palaeo-Oceanography, Global Change and Aquatic Biogeochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Distinguished Scientist, Council of Scientific & Industrial Research, Anusandhan Bhavan, 2, Rafi Marg",
+        "city": "New Delhi 110 001",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2347 0222",
+            "mobile": "96433 14093"
+        },
+        "email": {
+            "personal": "wajih_naqvi@yahoo.com"
+        }
+    }
+}

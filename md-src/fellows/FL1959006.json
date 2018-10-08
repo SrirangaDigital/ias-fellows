@@ -1,0 +1,26 @@
+{
+    "id": "FL1959006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Baji Vinayak",
+            "last": "Thosar",
+            "display": "Thosar, Prof. Baji Vinayak"
+        },
+        "sex": "M",
+        "birthDate": "1913-04-03",
+        "deathDate": "1998-07-04",
+        "degree": "Ph.D. (Bombay), D.Sc. (Oxon)",
+        "honours": "FNA",
+        "specialization": "Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1959"
+    },
+    "contact": {
+        "address": "13, Terrace View Co-op. Housing, Society, C-2, Jeevan Bima Nagar, Borivalli West",
+        "city": "Bombay 400 103"
+    }
+}

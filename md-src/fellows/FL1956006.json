@@ -1,0 +1,25 @@
+{
+    "id": "FL1956006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramakrishnan",
+            "last": "Subrahmanyan",
+            "display": "Subrahmanyan, Dr Ramakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1919-01-31",
+        "deathDate": "2006-03-05",
+        "degree": "Ph.D. (Liverpool)",
+        "specialization": "Marine Biology and Algology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1956"
+    },
+    "contact": {
+        "address": "2, Second main Road, Indian Bank Colony, Ambattur",
+        "city": "Chennai 600 053"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1977007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paramatma Saran",
+            "last": "Goel",
+            "display": "Goel, Prof. Paramatma Saran"
+        },
+        "sex": "M",
+        "birthDate": "1930-07-06",
+        "deathDate": "2004-08-09",
+        "degree": "Ph.D. (Carnegie Mellon)",
+        "honours": "FNASc",
+        "specialization": "Nuclear Cosmochemistry and Geochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "117/337, Block O, Geetanagar",
+        "city": "Kanpur 208 025"
+    }
+}

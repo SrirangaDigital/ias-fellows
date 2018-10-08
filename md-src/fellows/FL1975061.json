@@ -1,0 +1,20 @@
+{
+    "id": "FL1975061",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vijay Kumar",
+            "last": "Patodi",
+            "display": "Patodi, Dr Vijay Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1945-03-12",
+        "deathDate": "1976-12-21",
+        "specialization": "Index Theorem, Differential Geometry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1975"
+    }
+}

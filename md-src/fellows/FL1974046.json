@@ -1,0 +1,26 @@
+{
+    "id": "FL1974046",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vuppalapaty",
+            "last": "Baliah",
+            "display": "Baliah, Dr Vuppalapaty"
+        },
+        "sex": "M",
+        "birthDate": "1917-08-15",
+        "deathDate": "2000-09-26",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "D.Sc. (h.c.), FNA",
+        "specialization": "Physical Organic Chemistry, Organosulphur Compounds and HeterocyclicCompounds"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "B-11, Dev Apartments, 32, Kalakshetra Road, Thiruvanmiyur",
+        "city": "Chennai 600 041"
+    }
+}

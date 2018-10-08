@@ -1,0 +1,35 @@
+{
+    "id": "FL2008012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Yashwant",
+            "last": "Gupta",
+            "display": "Gupta, Prof. Yashwant"
+        },
+        "sex": "M",
+        "birthDate": "1962-11-01",
+        "degree": "Ph.D. (UC, San Diego)",
+        "honours": "FNASc",
+        "specialization": "Astronomy & Astrophysics, Radio Astronomy Instrumentation and Signal Processing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Dean (GMRT Observatory) & Senior Professor, National Centre for Radio Astrophysics, Pune University Campus, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2571 9000, (020) 2571 9242",
+            "residence": "(020) 2571 9342",
+            "mobile": "98810 61930",
+            "fax": "(020) 2569 7257"
+        },
+        "email": {
+            "official": "ygupta@ncra.tifr.res.in"
+        }
+    }
+}

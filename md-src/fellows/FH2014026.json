@@ -1,0 +1,29 @@
+{
+    "id": "FH2014026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Veerabhadran",
+            "last": "Ramanathan",
+            "display": "Ramanathan, Prof. Veerabhadran"
+        },
+        "sex": "M",
+        "birthDate": "1944-11-24"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Distinguished Victor C Alderson Professor, of Climate Sci., Scripps Institution of, Oceanography, UC at San Diego, 9500 Gilman Drive,MC 0221",
+        "city": "La Jolla, CA 92093-0221",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-858) 534 0219"
+        },
+        "email": {
+            "official": "vram@ucsd.edu"
+        },
+        "url": "http://www.ramanathan.ucsd.edu/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1984015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Subramaniam",
+            "last": "Kedharnath",
+            "display": "Kedharnath, Dr Subramaniam"
+        },
+        "sex": "M",
+        "birthDate": "1921-10-10",
+        "deathDate": "2004-12-06",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "FNA, FNAAS",
+        "specialization": "Genetics, Cytogenetics and Forest Tree Breeding"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "12-A, 1st Cross Road, V Layout, Ramalinga Nagar, K K Pudur Post",
+        "city": "Coimbatore 641 038"
+    }
+}

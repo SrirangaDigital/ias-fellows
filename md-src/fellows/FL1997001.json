@@ -1,0 +1,34 @@
+{
+    "id": "FL1997001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gargeshwari Venkatasubbiah",
+            "last": "Anand",
+            "display": "Anand, Prof. Gargeshwari Venkatasubbiah"
+        },
+        "sex": "M",
+        "birthDate": "1943-10-16",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNAE",
+        "specialization": "Statistical Signal Processing, Ocean Acoustics and Nonlinear Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "MRD Chair Professor, PES University, Banashankari III Stage",
+        "city": "Bengaluru 560 085",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2672 1983/838",
+            "residence": "(080) 2361 1263",
+            "fax": "(080) 2672 0886"
+        },
+        "email": {
+            "personal": "gargeshwari.anand@gmail.com"
+        }
+    }
+}

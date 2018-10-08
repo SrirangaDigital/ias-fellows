@@ -1,0 +1,33 @@
+{
+    "id": "FL1989014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Iqbal Ahmad",
+            "last": "Niazi",
+            "display": "Niazi, Prof. Iqbal Ahmad"
+        },
+        "sex": "M",
+        "birthDate": "1928-08-22",
+        "degree": "Ph.D. (McGill)",
+        "honours": "FNASc",
+        "specialization": "Developmental Biology of Animals and Regeneration"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "D-2/2276, Vasant Kunj",
+        "city": "New Delhi 110 070",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2613 2371",
+            "mobile": "98101 78979"
+        },
+        "email": {
+            "personal": "iqbalaniazi@gmail.com"
+        }
+    }
+}

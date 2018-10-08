@@ -1,0 +1,25 @@
+{
+    "id": "FL1974077",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Krishnan Aditya Vaman",
+            "last": "Pandalai",
+            "display": "Pandalai, Prof. Krishnan Aditya Vaman"
+        },
+        "sex": "M",
+        "birthDate": "1928-02-16",
+        "deathDate": "1999-05-20",
+        "degree": "D.Ae.E. (New York)",
+        "specialization": "Aircraft Structural Mechanics and Composites"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "77/2, Velachery Road",
+        "city": "Madras 600 032"
+    }
+}

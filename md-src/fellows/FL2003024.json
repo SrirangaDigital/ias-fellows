@@ -1,0 +1,26 @@
+{
+    "id": "FL2003024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Javaregowda",
+            "last": "Nagaraju",
+            "display": "Nagaraju, Dr Javaregowda"
+        },
+        "sex": "M",
+        "birthDate": "1954-11-06",
+        "deathDate": "2012-12-31",
+        "degree": "Ph.D. (Mysore)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Genetics & Evolution, Genetics of Silkmoths and Molecular Marker Genetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Head, Laboratory of Molecular Genetics, Molecular Genetics Laboratory, Centre for DNA Fingerprinting & Diagnostics (CDFD), Nampally, 4-1-714 to 725/2, Tuljaguda Complex, Opp. MJ Market",
+        "city": "Hyderabad 500 001"
+    }
+}

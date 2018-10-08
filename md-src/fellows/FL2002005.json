@@ -1,0 +1,36 @@
+{
+    "id": "FL2002005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kolluru Sree",
+            "last": "Krishna",
+            "display": "Krishna, Prof. Kolluru Sree"
+        },
+        "sex": "M",
+        "birthDate": "1958-10-15",
+        "degree": "Ph.D. (Andhra)",
+        "honours": "FNASc, FNA",
+        "specialization": "Marine Geophysics, Lithospheric Dynamics, Tectonics, Plate Tectonics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Centre for Earth, Ocean & Atmospheric Sciences, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 2669",
+            "residence": "97653 21229",
+            "mobile": "97654 94935"
+        },
+        "email": {
+            "official": "krishna@uohyd.ac.in",
+            "personal": "nio.krishna@gmail.com"
+        },
+        "url": "http://en.wikipedia.org/wiki/kolluru_sri_krishna"
+    }
+}

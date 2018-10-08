@@ -1,0 +1,26 @@
+{
+    "id": "FL1982011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Perdur Radhakantha",
+            "last": "Adiga",
+            "display": "Adiga, Prof Perdur Radhakantha"
+        },
+        "sex": "M",
+        "birthDate": "1935-05-05",
+        "deathDate": "2006-09-13",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Endocrine Biochemistry, Reproductive Physiology & Growth, and Differentiation"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Department of Molecular Reproduction and Developmental, Genetics, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

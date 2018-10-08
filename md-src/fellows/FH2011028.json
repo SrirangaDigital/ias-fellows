@@ -1,0 +1,29 @@
+{
+    "id": "FH2011028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sir Richard",
+            "last": "Friend",
+            "display": "Friend, Prof. Sir Richard"
+        },
+        "sex": "M",
+        "birthDate": "1953-01-18",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Cavendish Laboratory, JJ Thomson Avenue",
+        "city": "Cambridge CB3 0HE",
+        "country": "UK",
+        "telephone": {
+            "office": "(+44-1223) 337 218"
+        },
+        "email": {
+            "official": "rhf10@cam.ac.uk"
+        }
+    }
+}

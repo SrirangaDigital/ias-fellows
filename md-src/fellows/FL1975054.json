@@ -1,0 +1,22 @@
+{
+    "id": "FL1975054",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Krishna Kumar",
+            "last": "Nanda",
+            "display": "Nanda, Dr Krishna Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1918-01-01",
+        "deathDate": "1983-12-13",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Plant Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    }
+}

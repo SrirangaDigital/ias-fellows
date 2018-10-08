@@ -1,0 +1,35 @@
+{
+    "id": "FL2002007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Satyajit",
+            "last": "Mayor",
+            "display": "Mayor, Prof. Satyajit"
+        },
+        "sex": "M",
+        "birthDate": "1963-01-26",
+        "degree": "Ph.D. (Rockfeller)",
+        "honours": "FNA, FTWAS, Foreign Associate - US Natl. Acad. Sci.",
+        "specialization": "Cell Biology, Biophysics and Biochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Director, National Centre for Biological Sciences, GKVK Campus",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2366 6301",
+            "residence": "(080) 2546 4058",
+            "fax": "(080) 2363 6662"
+        },
+        "email": {
+            "official": "mayor@ncbs.res.in"
+        },
+        "url": "http://www.ncbs.res.in/~faculty/mayor.html"
+    }
+}

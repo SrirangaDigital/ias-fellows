@@ -1,0 +1,36 @@
+{
+    "id": "FL2001004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pratim Kumar",
+            "last": "Chattaraj",
+            "display": "Chattaraj, Prof. Pratim Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1958-04-26",
+        "degree": "Ph.D. (IIT, Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Hydrogen Storage, Density Functional Theory, Nonlinear Dynamics and Chemical Reactivity, Aromaticity in Metal Clusters"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3304, (03222) 28 2252",
+            "residence": "(03222) 28 3305, (03222) 27 8156",
+            "fax": "(03222) 25 5303, (03222) 28 2252"
+        },
+        "email": {
+            "official": "pkc@chem.iitkgp.ernet.in",
+            "personal": "pratim.chattaraj@gmail.com"
+        },
+        "url": "http://www.chemistry.iitkgp.ac.in/faculty/pkc/web/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "FL1975014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kekshushroo Bamanshaw",
+            "last": "Mistry",
+            "display": "Mistry, Dr Kekshushroo Bamanshaw"
+        },
+        "sex": "M",
+        "birthDate": "1936-01-13",
+        "degree": "Ph.D. (Delhi)",
+        "specialization": "Soil Science, Fertilizers and Agrochemicals"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "52, Sunshine, Dr Rajaballi Patel Lane",
+        "city": "Mumbai 400 026",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2351 7387, (022) 2351 0564",
+            "mobile": "97730 77329"
+        }
+    }
+}

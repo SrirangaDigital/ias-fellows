@@ -1,0 +1,33 @@
+{
+    "id": "FL1991020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vellenki Umapathi",
+            "last": "Reddy",
+            "display": "Reddy, Prof. Vellenki Umapathi"
+        },
+        "sex": "M",
+        "birthDate": "1939-08-10",
+        "degree": "Ph.D. (Missouri)",
+        "honours": "FNA, FNAE, FIEEE",
+        "specialization": "Signal Processing and Communications"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "No. 37, Aparna Orchids, Near HITEX Grounds, Izzatnagar, Kondapur",
+        "city": "Hyderabad 500 084",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2311 4725",
+            "mobile": "98481 35781"
+        },
+        "email": {
+            "personal": "vur10839@gmail.com"
+        }
+    }
+}

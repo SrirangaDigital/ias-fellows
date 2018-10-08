@@ -1,0 +1,34 @@
+{
+    "id": "FL2018005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nagasuma",
+            "last": "Chandra",
+            "display": "Chandra, Prof. Nagasuma"
+        },
+        "sex": "F",
+        "birthDate": "1965-05-16",
+        "degree": "Ph.D. (Bristol)",
+        "specialization": "Protein Structure, Algorithm Development, Systems Biology, Bioinformatics, Genomic & Clinical Data Analysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Biochemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2892",
+            "residence": "(080) 2349 2996",
+            "mobile": "98457 83140"
+        },
+        "email": {
+            "official": "nchandra@iisc.ac.in"
+        },
+        "url": "http://proline.physics.iisc.ernet.in/chandralab/"
+    }
+}

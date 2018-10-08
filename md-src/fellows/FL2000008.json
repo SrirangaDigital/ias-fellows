@@ -1,0 +1,35 @@
+{
+    "id": "FL2000008",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amitabha",
+            "last": "Chattopadhyay",
+            "display": "Chattopadhyay, Dr Amitabha"
+        },
+        "sex": "M",
+        "birthDate": "1956-10-09",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "honours": "FNASc, FNA, FRSC",
+        "specialization": "Receptor Biology, Membrane Biology, Molecular & Cellular Neurobiology and Fluorescence Spectroscopy & Microscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Outstanding Scientist, Centre for Cellular and Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2578, 2716 0059",
+            "mobile": "98498 03092",
+            "fax": "(040) 2716 0591"
+        },
+        "email": {
+            "official": "amit@ccmb.res.in"
+        },
+        "url": "http://www.ccmb.res.in/staff/amit/pages/index.htm"
+    }
+}

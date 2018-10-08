@@ -1,0 +1,34 @@
+{
+    "id": "FL2005010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kayyunnapara Thomas",
+            "last": "Joseph",
+            "display": "Joseph, Prof. Kayyunnapara Thomas"
+        },
+        "sex": "M",
+        "birthDate": "1956-03-04",
+        "degree": "Ph.D. (New York)",
+        "honours": "FNA",
+        "specialization": "Hyperbolic Systems of Conservation Laws, Boundary Layers, Parabolic Partial Differential Equations, Burgers Equation and Mass Distribution of Large Scale Structures"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Senior Professor, TIFR Centre for Applicable Mathematics, P.B. No. 6503, Sharada Nagar",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6695 3718",
+            "mobile": "72591 50130",
+            "fax": "(080) 6695 3799"
+        },
+        "email": {
+            "official": "ktj@math.tifrbng.res.in"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1975050",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kuruvakkat Kochu Govind",
+            "last": "Menon",
+            "display": "Menon, Dr Kuruvakkat Kochu Govind"
+        },
+        "sex": "M",
+        "birthDate": "1927-09-19",
+        "deathDate": "2002-04-06",
+        "degree": "Ph.D. (Toronto)",
+        "honours": "FNA, FNASc",
+        "specialization": "Biochemistry, Microbiology and Toxicology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "42, Palmcrest Co-op. Hsg. Soc. Ltd, 191/192, St. Paul Road, Bandra (West)",
+        "city": "Mumbai 400 050"
+    }
+}

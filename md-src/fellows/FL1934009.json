@@ -1,0 +1,22 @@
+{
+    "id": "FL1934009",
+    "profile": {
+        "name": {
+            "first": "Suri",
+            "last": "Bhagavantam",
+            "display": "Bhagavantam,  Suri"
+        },
+        "sex": "M",
+        "birthDate": "1909-10-14",
+        "deathDate": "1989-02-06",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "FNA",
+        "specialization": "Solid State Physics, Crystal Physics, Scattering Light"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1940-61; Vice President 1946-52, 1956-61"
+    }
+}

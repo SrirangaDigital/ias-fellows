@@ -1,0 +1,37 @@
+{
+    "id": "FL1987021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nukala",
+            "last": "Viswanadham",
+            "display": "Viswanadham, Prof. Nukala"
+        },
+        "sex": "M",
+        "birthDate": "1943-11-09",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FTWAS, FNAE",
+        "specialization": "Business Models, Blockchain & Supply Chain Networks"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1987",
+        "councilservice": "Council Service: 1992-97; Secretary: 1992-97"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, CSA Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3571",
+            "residence": "(080) 2351 9864",
+            "mobile": "81976 89868",
+            "fax": "(080) 2360 2111"
+        },
+        "email": {
+            "personal": "n.viswanadham@gmail.com"
+        },
+        "url": "http://lcm.csa.iisc.ernet.in/nv/"
+    }
+}

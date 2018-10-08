@@ -1,0 +1,27 @@
+{
+    "id": "FL1974068",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ashesh Prosad",
+            "last": "Mitra",
+            "display": "Mitra, Dr Ashesh Prosad"
+        },
+        "sex": "M",
+        "birthDate": "1927-02-21",
+        "deathDate": "2007-09-03",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA, FRS",
+        "specialization": "Radio & Space Science and Radio Communication"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1983-85"
+    },
+    "contact": {
+        "address": "Hon. Scientist of Eminence, National Physical Laboratory, Dr. K.S. Krishnan Marg",
+        "city": "New Delhi 110 012"
+    }
+}

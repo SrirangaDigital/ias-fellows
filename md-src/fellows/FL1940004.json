@@ -1,0 +1,21 @@
+{
+    "id": "FL1940004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mohammad",
+            "last": "Ishaq",
+            "display": "Ishaq, Prof. Mohammad"
+        },
+        "sex": "M",
+        "birthDate": "1901-04-01",
+        "deathDate": "1960-03-22",
+        "honours": "FNA",
+        "specialization": "Molecular Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1940"
+    }
+}

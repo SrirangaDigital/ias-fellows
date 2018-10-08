@@ -1,0 +1,20 @@
+{
+    "id": "FL1943003",
+    "profile": {
+        "name": {
+            "first": "Dinakar Dhondo",
+            "last": "Karve",
+            "display": "Karve,  Dinakar Dhondo"
+        },
+        "sex": "M",
+        "birthDate": "1899-07-13",
+        "deathDate": "1980-07-05",
+        "degree": "Dr. Phil. (Leipzig)",
+        "specialization": "Physical Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1943"
+    }
+}

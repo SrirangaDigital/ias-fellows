@@ -1,0 +1,36 @@
+{
+    "id": "FL1996020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shyam Sundar",
+            "last": "Rai",
+            "display": "Rai, Dr Shyam Sundar"
+        },
+        "sex": "M",
+        "birthDate": "1954-03-16",
+        "degree": "Ph.D. (ISM, Dhanbad)",
+        "honours": "FNASc, FNA",
+        "specialization": "Geophysics, Data Analysis & Modelling Deep Earth Exploration"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1996",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Chair, Earth & Climate Science, Indian Institute of Science Education & Research, Dr Homi Bhabha Road, Pashan",
+        "city": "Pune 411 008",
+        "state": "Maharasdhtra",
+        "telephone": {
+            "office": "(020) 2590 8255",
+            "mobile": "98903 22705",
+            "fax": "(020) 2586 5315"
+        },
+        "email": {
+            "official": "shyamsrai@iiserpune.ac.in",
+            "personal": "shyamsrai@gmail.com"
+        }
+    }
+}

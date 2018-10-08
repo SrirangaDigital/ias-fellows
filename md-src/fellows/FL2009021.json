@@ -1,0 +1,36 @@
+{
+    "id": "FL2009021",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Soniya",
+            "last": "Nityanand",
+            "display": "Nityanand, Dr Soniya"
+        },
+        "sex": "F",
+        "birthDate": "1962-09-06",
+        "degree": "Ph.D. (Karolinska)",
+        "honours": "FNASc",
+        "specialization": "Immunology and Haematology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Department of Haematology, Sanjay Gandhi PG Institute of Medical Sciences, Rae Bareli Road",
+        "city": "Lucknow 226 014",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 266 8700, (0522) 266 8800",
+            "residence": "(0522) 278 8587, (0522) 404 3229",
+            "mobile": "94150 18833",
+            "fax": "(0522) 266 8017, (0522) 266 8078"
+        },
+        "email": {
+            "official": "soniya@sgpgi.ac.in",
+            "personal": "soniya_nityanand@yahoo.co.in"
+        }
+    }
+}

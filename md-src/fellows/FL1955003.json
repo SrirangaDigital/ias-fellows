@@ -1,0 +1,20 @@
+{
+    "id": "FL1955003",
+    "profile": {
+        "name": {
+            "first": "Nuggehalli Keshava",
+            "last": "Iyengar",
+            "display": "Iyengar,  Nuggehalli Keshava"
+        },
+        "sex": "M",
+        "birthDate": "1910-07-29",
+        "deathDate": "1970-11-29",
+        "degree": "D. Phil.",
+        "specialization": "Forensic Sciences"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1955"
+    }
+}

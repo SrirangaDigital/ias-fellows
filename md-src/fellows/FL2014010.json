@@ -1,0 +1,35 @@
+{
+    "id": "FL2014010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Giridhar",
+            "last": "Madras",
+            "display": "Madras, Prof. Giridhar"
+        },
+        "sex": "M",
+        "birthDate": "1967-09-20",
+        "degree": "Ph.D. (Texas A&M)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "Polymer, Supercritical Fluids, Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Department of Chemical Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2321",
+            "mobile": "93425 19580",
+            "fax": "(080) 2293 2321"
+        },
+        "email": {
+            "official": "giridhar@chemeng.iisc.ernet.in"
+        },
+        "url": "http://www.chemeng.iisc.ernet.in/giridhar"
+    }
+}

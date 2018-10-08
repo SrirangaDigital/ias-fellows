@@ -1,0 +1,37 @@
+{
+    "id": "FL2010040",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Danaboyina",
+            "last": "Ramaiah",
+            "display": "Ramaiah, Dr Danaboyina"
+        },
+        "sex": "M",
+        "birthDate": "1958-06-04",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNASc",
+        "specialization": "Bio-organic Chemistry, Photobiology, Biophysical Chemistry, Organic Photochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Director, North East Institute of Science & Technology",
+        "city": "Jorhat 785 006",
+        "state": "Assam",
+        "telephone": {
+            "office": "(0376) 237 0012",
+            "residence": "(0376) 237 0105",
+            "mobile": "94354 99986",
+            "fax": "(0376) 237 0011"
+        },
+        "email": {
+            "official": "rama@rrljorhat.res.in",
+            "personal": "d.ramaiah@gmail.com"
+        },
+        "url": "http://www.niist.res.in/english/scientists/ramaiah-d-/personal.html"
+    }
+}

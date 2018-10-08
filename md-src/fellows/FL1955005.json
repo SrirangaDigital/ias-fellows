@@ -1,0 +1,25 @@
+{
+    "id": "FL1955005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Alladi",
+            "last": "Ramakrishnan",
+            "display": "Ramakrishnan, Prof. Alladi"
+        },
+        "sex": "M",
+        "birthDate": "1923-08-09",
+        "deathDate": "2008-06-08",
+        "degree": "Ph.D. (Manchester)",
+        "specialization": "Stochastic Processes, Matrix Analysis, Elementary Particles and Relativity"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1955"
+    },
+    "contact": {
+        "address": "Chairman, Alladi Centenary Foundation, Ekamra Nivas, 62, Luz Church Road, Mylapore",
+        "city": "Chennai 600 004"
+    }
+}

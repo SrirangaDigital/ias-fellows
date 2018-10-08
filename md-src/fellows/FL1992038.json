@@ -1,0 +1,35 @@
+{
+    "id": "FL1992038",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramaswamiah",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Dr Ramaswamiah"
+        },
+        "sex": "M",
+        "birthDate": "1943-01-04",
+        "degree": "Ph.D. (Mysore)",
+        "honours": "FNA, FNASc",
+        "specialization": "Tectonics, Stratigraphy, Precambrian Geology, Archaean Palaeobiology and Geochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "114, 'Kshitija', Ramanashree Nagar, SOS Post, Banneraghatta Road",
+        "city": "Bengaluru 560 076",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3426, 2266 1276",
+            "residence": "(080) 2643 2614",
+            "mobile": "96323 19090",
+            "fax": "(080) 2360 0865"
+        },
+        "email": {
+            "personal": "srinimalu@gmail.com"
+        }
+    }
+}

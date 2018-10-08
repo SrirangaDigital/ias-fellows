@@ -1,0 +1,29 @@
+{
+    "id": "FL1975019",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sishta Venkata Seetharama",
+            "last": "Shastry",
+            "display": "Shastry, Dr Sishta Venkata Seetharama"
+        },
+        "sex": "M",
+        "birthDate": "1928-11-04",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "FNA",
+        "specialization": "Cytogenetics, Taxonomy, Plant Breeding and Rice Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "'Ashoka', 204, Gautami Apartments, Barkatpura",
+        "city": "Hyderabad 500 027",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2755 1666"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2015019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Avinash",
+            "last": "Khare",
+            "display": "Khare, Prof. Avinash"
+        },
+        "sex": "M",
+        "birthDate": "1954-07-23",
+        "degree": "Ph.D. (PRL)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plasma Physics, Statistical Mechanics, Critical Phenomena, Plasma Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Department of Physics & Astrophysics, University of Delhi",
+        "city": "Delhi 110 007",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2766 7155",
+            "residence": "(011) 2766 6242",
+            "mobile": "97183 28154",
+            "fax": "(011) 2766 7061"
+        },
+        "email": {
+            "official": "ak0005@uah.edu",
+            "personal": "ojavinash@yahoo.co.in"
+        }
+    }
+}

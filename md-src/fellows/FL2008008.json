@@ -1,0 +1,36 @@
+{
+    "id": "FL2008008",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gautam Kumar",
+            "last": "Dey",
+            "display": "Dey, Dr Gautam Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1957-06-08",
+        "degree": "Ph.D. (BHU)",
+        "honours": "FNAE",
+        "specialization": "Phase Transformations in Metals & Alloys, Electron Microscopy and Metallic Glasses & Nanocrystalline Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Head, Materials Science Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2559 5063",
+            "residence": "(022) 2550 2075",
+            "mobile": "99201 97258",
+            "fax": "(022) 2550 5151"
+        },
+        "email": {
+            "official": "gkdey@barc.gov.in",
+            "personal": "gautam_k_dey@yahoo.com"
+        }
+    }
+}

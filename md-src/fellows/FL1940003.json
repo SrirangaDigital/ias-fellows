@@ -1,0 +1,20 @@
+{
+    "id": "FL1940003",
+    "profile": {
+        "name": {
+            "first": "Hamid Khan",
+            "last": "Bhatti",
+            "display": "Bhatti,  Hamid Khan"
+        },
+        "sex": "M",
+        "birthDate": "1895-02-07",
+        "deathDate": "1980-12-14",
+        "degree": "Ph.D. (Cantab)",
+        "specialization": "Ichthyology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1940"
+    }
+}

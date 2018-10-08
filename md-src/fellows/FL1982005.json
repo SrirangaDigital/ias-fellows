@@ -1,0 +1,33 @@
+{
+    "id": "FL1982005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rangachari",
+            "last": "Krishnan",
+            "display": "Krishnan, Dr Rangachari"
+        },
+        "sex": "M",
+        "birthDate": "1935-12-26",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FNAE",
+        "specialization": "Physical Metallurgy and Materials Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "F-3, Parkside Manor, 162, 5th Main, Defence Colony",
+        "city": "Bengaluru 560 038",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2526 8882",
+            "mobile": "99808 47568"
+        },
+        "email": {
+            "personal": "rangachari.krishnan@gmail.com"
+        }
+    }
+}

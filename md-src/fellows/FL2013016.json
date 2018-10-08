@@ -1,0 +1,35 @@
+{
+    "id": "FL2013016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arun Kumar",
+            "last": "Pati",
+            "display": "Pati, Prof. Arun Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1966-04-13",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc",
+        "specialization": "Quantum Information Theory, Quantum Computing, Foundations of Quantum Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "QIC Group, Physics Division, Harish Chandra Research Institute, Chhatnag Road, Jhusi",
+        "city": "Allahabad 211 019",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0532) 227 4391",
+            "mobile": "87566 12314",
+            "fax": "(0532) 256 9576, (0532) 256 7444"
+        },
+        "email": {
+            "official": "akpati@hri.res.in"
+        },
+        "url": "http://www.hri.res.in/~akpati/"
+    }
+}

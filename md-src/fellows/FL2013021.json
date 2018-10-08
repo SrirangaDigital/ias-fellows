@@ -1,0 +1,36 @@
+{
+    "id": "FL2013021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhim",
+            "last": "Singh",
+            "display": "Singh, Prof. Bhim"
+        },
+        "sex": "M",
+        "birthDate": "1956-01-01",
+        "degree": "Ph.D. (IIT, Delhi)",
+        "honours": "FNASc, FNAE, FIEEE, FNA",
+        "specialization": "Power Electronics, Renewable Energy Generation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Electrical Engineering, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 1045",
+            "residence": "(011) 2659 1890",
+            "mobile": "98115 02125",
+            "fax": "(011) 2658 1606"
+        },
+        "email": {
+            "official": "bsingh@ee.iitd.ac.in",
+            "personal": "bhimsinghr@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL1994005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dipankar",
+            "last": "Chatterji",
+            "display": "Chatterji, Prof. Dipankar"
+        },
+        "sex": "M",
+        "birthDate": "1951-04-20",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Molecular Biology, Biophysical Chemistry and Biomolecular Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1994",
+        "councilservice": "Council Service: 2007-; Secretary 2010-12; President: 2013-2015"
+    },
+    "contact": {
+        "address": "Honorary Professor, Molecular Biophysics Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0137, (080) 2293 2836",
+            "residence": "(080) 2539 2055",
+            "mobile": "98454 04962",
+            "fax": "(080) 2360 0535"
+        },
+        "email": {
+            "official": "dipankar@iisc.ac.in"
+        }
+    }
+}

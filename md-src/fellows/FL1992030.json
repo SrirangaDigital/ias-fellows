@@ -1,0 +1,33 @@
+{
+    "id": "FL1992030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kaza Kesava",
+            "last": "Rao",
+            "display": "Rao, Prof. Kaza Kesava"
+        },
+        "sex": "M",
+        "birthDate": "1956-04-12",
+        "degree": "Ph.D. (Houston)",
+        "specialization": "Flow of Granular Materials and Defluoridation of Drinking Water"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Professor, Department of Chemical Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2341",
+            "residence": "(080) 2341 2695",
+            "fax": "(080) 2360 8121"
+        },
+        "email": {
+            "official": "kesava@iisc.ac.in"
+        }
+    }
+}

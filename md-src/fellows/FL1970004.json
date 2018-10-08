@@ -1,0 +1,21 @@
+{
+    "id": "FL1970004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Suchindrum Yagnanarayana",
+            "last": "Padmanabhan",
+            "display": "Padmanabhan, Dr Suchindrum Yagnanarayana"
+        },
+        "sex": "M",
+        "birthDate": "1916-09-11",
+        "deathDate": "1985-01-29",
+        "degree": "D.Sc. (Utkal)",
+        "specialization": "Plant Pathology and Rice Production"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1970"
+    }
+}

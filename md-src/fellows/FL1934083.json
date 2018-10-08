@@ -1,0 +1,20 @@
+{
+    "id": "FL1934083",
+    "profile": {
+        "name": {
+            "first": "Subbarao Ramachandra",
+            "last": "Rao",
+            "display": "Rao,  Subbarao Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1899-05-15",
+        "deathDate": "1983-02-28",
+        "honours": "FNA",
+        "specialization": "Magnetism"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    }
+}

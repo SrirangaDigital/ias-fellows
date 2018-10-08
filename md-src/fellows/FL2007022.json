@@ -1,0 +1,35 @@
+{
+    "id": "FL2007022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sandeep",
+            "last": "Sen",
+            "display": "Sen, Prof. Sandeep"
+        },
+        "sex": "M",
+        "birthDate": "1962-05-24",
+        "degree": "Ph.D. (Duke)",
+        "specialization": "Algorithms (Sequential & Parallel), Probabilistic Analysis & Randomization and Computational Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Department of Computer Science & Engineering, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 1293",
+            "residence": "(011) 2659 1605",
+            "mobile": "98681 14462",
+            "fax": "(011) 2658 1060, (011) 2658 2283"
+        },
+        "email": {
+            "official": "ssen@cse.iitd.ernet.in"
+        },
+        "url": "http://www.cse.iitd.ernet.in/~ssen"
+    }
+}

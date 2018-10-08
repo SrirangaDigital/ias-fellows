@@ -1,0 +1,22 @@
+{
+    "id": "FL1934011",
+    "profile": {
+        "name": {
+            "first": "Shanti Swarup",
+            "last": "Bhatnagar",
+            "display": "Bhatnagar,  Shanti Swarup"
+        },
+        "sex": "M",
+        "birthDate": "1894-02-21",
+        "deathDate": "1955-01-01",
+        "degree": "D.Sc.",
+        "honours": "FNA, FNASc",
+        "specialization": "Photochemistry, Magnetochemistry, Colloids"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1934-35"
+    }
+}

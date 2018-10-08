@@ -1,0 +1,21 @@
+{
+    "id": "FL1944002",
+    "profile": {
+        "name": {
+            "first": "Girija Prasanna",
+            "last": "Majumdar",
+            "display": "Majumdar,  Girija Prasanna"
+        },
+        "sex": "M",
+        "birthDate": "1894-02-18",
+        "deathDate": "1959-11-21",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Plant Anatomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1944"
+    }
+}

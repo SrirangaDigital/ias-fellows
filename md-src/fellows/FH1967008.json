@@ -1,0 +1,19 @@
+{
+    "id": "FH1967008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Werner Theodor Otto",
+            "last": "Forssmann",
+            "display": "Forssmann, Prof. Werner Theodor Otto"
+        },
+        "sex": "M",
+        "birthDate": "1904-08-29",
+        "deathDate": "1979-06-01",
+        "honours": "Nobel Laureate (Medicine) - 1956"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1967"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1939001",
+    "profile": {
+        "name": {
+            "first": "Sekharipuram Venkateswaraiyer",
+            "last": "Ananthakrishnan",
+            "display": "Ananthakrishnan,  Sekharipuram Venkateswaraiyer"
+        },
+        "sex": "M",
+        "birthDate": "1908-10-04",
+        "deathDate": "1989-01-17",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA, Fellow, Royal Society of Chemistry (London)",
+        "specialization": "Physical Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1939",
+        "councilservice": "1949-52"
+    },
+    "contact": {
+        "address": "10, Chittaranjan Road, Teynampet",
+        "city": "Madras 600 018"
+    }
+}

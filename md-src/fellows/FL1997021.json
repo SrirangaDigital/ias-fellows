@@ -1,0 +1,32 @@
+{
+    "id": "FL1997021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jayant Bhalchandra",
+            "last": "Udgaonkar",
+            "display": "Udgaonkar, Prof. Jayant Bhalchandra"
+        },
+        "sex": "M",
+        "birthDate": "1960-03-22",
+        "degree": "Ph.D. (Cornell)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Physical Biochemistry and Protein Folding"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Science Education and Research, Homi Bhabha Road, Pashan",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 8000"
+        },
+        "email": {
+            "official": "director@iiserpune.ac.in"
+        }
+    }
+}

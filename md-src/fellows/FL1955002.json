@@ -1,0 +1,21 @@
+{
+    "id": "FL1955002",
+    "profile": {
+        "name": {
+            "first": "Ponani Narayana",
+            "last": "Ganapati",
+            "display": "Ganapati,  Ponani Narayana"
+        },
+        "sex": "M",
+        "birthDate": "1910-07-15",
+        "deathDate": "1984-01-05",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Parasitology, Marine Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1955"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1976013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tazhuthaveetil Mathai",
+            "last": "Jacob",
+            "display": "Jacob, Prof. Tazhuthaveetil Mathai"
+        },
+        "sex": "M",
+        "birthDate": "1927-06-06",
+        "deathDate": "2014-06-06",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Synthetic Organic Chemistry, Molecular Biology and Immunology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "51, 10th Cross, II Stage, West of Chord Road",
+        "city": "Bengaluru 560 086"
+    }
+}

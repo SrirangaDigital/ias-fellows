@@ -1,0 +1,27 @@
+{
+    "id": "FL1976018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Syed Zahoor",
+            "last": "Qasim",
+            "display": "Qasim, Dr Syed Zahoor"
+        },
+        "sex": "M",
+        "birthDate": "1926-12-31",
+        "deathDate": "2015-10-20",
+        "degree": "D.Sc. (Wales)",
+        "honours": "FNA, FNAAS, FTWAS",
+        "specialization": "Oceanography"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1976",
+        "councilservice": "Council Service: 1977-79"
+    },
+    "contact": {
+        "address": "Chairman, Centre for Ocean & Environmental Studies, A2, East of Kailash (Basement)",
+        "city": "New Delhi 110 065"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1992022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mathur Ramabhadrashastry Narasimha",
+            "last": "Murthy",
+            "display": "Murthy, Prof. Mathur Ramabhadrashastry Narasimha"
+        },
+        "sex": "M",
+        "birthDate": "1950-04-27",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Macromolecular Crystallography, Virus Structure & Assembly, Protein Structure & Function and X-ray Diffraction"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Professor, Molecular Biophysics Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2458",
+            "residence": "(080) 2293 3219",
+            "mobile": "99003 13742",
+            "fax": "(080) 3416 0535"
+        },
+        "email": {
+            "official": "mrn@mbu.iisc.ernet.in"
+        }
+    }
+}

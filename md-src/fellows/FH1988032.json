@@ -1,0 +1,30 @@
+{
+    "id": "FH1988032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Richard Allen",
+            "last": "Askey",
+            "display": "Askey, Prof. Richard Allen"
+        },
+        "sex": "M",
+        "birthDate": "1933-06-04"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "5915, American Parkway, Apt. 228",
+        "city": "Madison, WI 43718",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-608) 262 2880",
+            "residence": "(+1-608) 233 7900",
+            "fax": "(+1-608) 263 8891"
+        },
+        "email": {
+            "official": "askey@math.wisc.edu"
+        }
+    }
+}

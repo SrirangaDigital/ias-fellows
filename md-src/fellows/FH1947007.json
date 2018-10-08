@@ -1,0 +1,18 @@
+{
+    "id": "FH1947007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thore Gustaf.",
+            "last": "Halle",
+            "display": "Halle, Prof. Thore Gustaf."
+        },
+        "sex": "M",
+        "birthDate": "1884-09-25",
+        "deathDate": "1964-05-12"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1947"
+    }
+}

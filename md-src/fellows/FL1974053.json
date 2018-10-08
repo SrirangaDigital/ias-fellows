@@ -1,0 +1,22 @@
+{
+    "id": "FL1974053",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Govind Balakrishna",
+            "last": "Deodikar",
+            "display": "Deodikar, Dr Govind Balakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1915-11-15",
+        "deathDate": "1986-03-13",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Sericulture, Cytogenetics, Plant Breeding"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1974"
+    }
+}

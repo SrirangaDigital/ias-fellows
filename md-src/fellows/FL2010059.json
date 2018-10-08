@@ -1,0 +1,34 @@
+{
+    "id": "FL2010059",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Viswanatha",
+            "last": "Ramamurti",
+            "display": "Ramamurti, Prof. Viswanatha"
+        },
+        "sex": "M",
+        "birthDate": "1938-09-18",
+        "deathDate": "2016-11-19",
+        "degree": "Ph.D. (IIT, Madras)",
+        "honours": "FNA, FNAE",
+        "specialization": "Vibrations, Stress Analysis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "No. 2 (new no. 5), IV Main, Kasturba Nagar",
+        "city": "Chennai 600 020",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2441 2590",
+            "mobile": "98846 62621"
+        },
+        "email": {
+            "personal": "ramamurti@hotmail.com"
+        }
+    }
+}

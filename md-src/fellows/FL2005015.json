@@ -1,0 +1,35 @@
+{
+    "id": "FL2005015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gyan Chandra",
+            "last": "Mishra",
+            "display": "Mishra, Dr Gyan Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1947-08-15",
+        "degree": "Ph.D. (Udaipur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Immunology and Cell Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "NASI Senior Scientist, National Centre for Cell Science, NCCS Complex, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2570 8283",
+            "residence": "(020) 2720 1638",
+            "mobile": "94225 22705",
+            "fax": "(020) 2569 7756"
+        },
+        "email": {
+            "official": "gcmishra@nccs.res.in"
+        }
+    }
+}

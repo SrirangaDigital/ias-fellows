@@ -1,0 +1,27 @@
+{
+    "id": "FL1993046",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Placid",
+            "last": "Rodriguez",
+            "display": "Rodriguez, Dr Placid"
+        },
+        "sex": "M",
+        "birthDate": "1940-10-05",
+        "deathDate": "2008-08-31",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNAE, FNASc",
+        "specialization": "Mechanical Metallurgy, Nuclear Materials and Materials Science & Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1993",
+        "councilservice": "Council Service: 2001-2003"
+    },
+    "contact": {
+        "address": "Flat 2B, Aditya Apartments, 38, Balakrishna Road, Valmiki Nagar",
+        "city": "Chennai 600 041"
+    }
+}

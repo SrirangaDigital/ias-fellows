@@ -1,0 +1,21 @@
+{
+    "id": "FL1979013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramanujan",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Dr Ramanujan"
+        },
+        "sex": "M",
+        "birthDate": "1938-04-21",
+        "deathDate": "1984-09-10",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Solid State Physics, Magnetic Resonance and Cryogenics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1979"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2005025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shyam",
+            "last": "Sundar",
+            "display": "Sundar, Prof. Shyam"
+        },
+        "sex": "M",
+        "birthDate": "1953-11-30",
+        "degree": "M.D. (Banaras)",
+        "honours": "FNASc, FRCP (London), FNA, FAMS, FTWAS",
+        "specialization": "Medicine, Infectious Diseases and Visceral Leishmaniasis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Professor of Medicine, Institute of Medical Sciences, Banaras Hindu University",
+        "city": "Varanasi 221 005",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0542) 236 9632",
+            "residence": "(0542) 236 7795",
+            "mobile": "94530 48500",
+            "fax": "(0542) 236 7568"
+        },
+        "email": {
+            "personal": "drshyamsundar@hotmail.com,doctorshyamsundar@gmail.com"
+        }
+    }
+}

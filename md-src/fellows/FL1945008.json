@@ -1,0 +1,24 @@
+{
+    "id": "FL1945008",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Polapragada Bhaskara Rama",
+            "last": "Murti",
+            "display": "Murti, Dr Polapragada Bhaskara Rama"
+        },
+        "sex": "M",
+        "birthDate": "1911-11-11",
+        "degree": "D.Sc. (Andhra)",
+        "specialization": "Chemistry and Technology of Sugar and Plant Products"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1945"
+    },
+    "contact": {
+        "address": "2/8-21-33, Pullavari Street, Gandhinagar",
+        "city": "Kakinada 533 004"
+    }
+}

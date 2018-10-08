@@ -1,0 +1,31 @@
+{
+    "id": "FL2008001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Anil Kumar",
+            "display": "Anil Kumar, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1955-09-18",
+        "degree": "Ph.D. (Osmania)",
+        "specialization": "Isotope Geochemistry and Paleomagnetism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Scientist F, National Geophysical Research Institute, Uppal Road",
+        "city": "Hyderabad 500 606",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2701 2790",
+            "mobile": "99599 81224"
+        },
+        "email": {
+            "personal": "anilkumarngri@gmail.com"
+        }
+    }
+}

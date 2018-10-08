@@ -1,0 +1,18 @@
+{
+    "id": "FH1971008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Emilio Gino",
+            "last": "Segre",
+            "display": "Segre, Prof. Emilio Gino"
+        },
+        "sex": "M",
+        "birthDate": "1905-02-01",
+        "deathDate": "1989-04-22"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1971"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1993033",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kanury Venkata Subba",
+            "last": "Rao",
+            "display": "Rao, Dr Kanury Venkata Subba"
+        },
+        "sex": "M",
+        "birthDate": "1958-09-27",
+        "degree": "Ph.D. (Baroda)",
+        "honours": "FNA, FNASc",
+        "specialization": "Synthetic Peptides, Cell Signalling, Biology of Tuberculosis Infection, Systems Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Head, DDRC, Translational Health Science & Technbology Institute, NCR Biotech, Science Cluster",
+        "city": "Faridabad 121 001",
+        "state": "Haryana",
+        "telephone": {
+            "office": "(0129) 287 6449",
+            "residence": "(0124) 407 0474",
+            "mobile": "98106 27255"
+        },
+        "email": {
+            "personal": "kanury.rao@gmail.com"
+        }
+    }
+}

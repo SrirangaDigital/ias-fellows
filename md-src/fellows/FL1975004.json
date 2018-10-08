@@ -1,0 +1,29 @@
+{
+    "id": "FL1975004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jemshed Jiji",
+            "last": "Irani",
+            "display": "Irani, Dr Jemshed Jiji"
+        },
+        "sex": "M",
+        "birthDate": "1936-06-02",
+        "degree": "D.Met, F.Eng, Ph.D. (Sheffield)",
+        "honours": "FNAE",
+        "specialization": "Iron & Steel Making"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "7, Beldih Lake, Northern Town",
+        "city": "Jamshedpur 831 001",
+        "state": "Jharkhand",
+        "email": {
+            "official": "jjirani@tata.com"
+        }
+    }
+}

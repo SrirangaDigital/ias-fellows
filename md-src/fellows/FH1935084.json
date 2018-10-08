@@ -1,0 +1,18 @@
+{
+    "id": "FH1935084",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Donald Dexter",
+            "last": "Van Slyke",
+            "display": "Van Slyke, Prof. Donald Dexter"
+        },
+        "sex": "M",
+        "birthDate": "1893-03-29",
+        "deathDate": "1971-05-04"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

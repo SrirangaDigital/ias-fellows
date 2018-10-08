@@ -1,0 +1,25 @@
+{
+    "id": "FL1977010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Indar Singh",
+            "last": "Luthar",
+            "display": "Luthar, Prof. Indar Singh"
+        },
+        "sex": "M",
+        "birthDate": "1932-03-31",
+        "deathDate": "2006-12-07",
+        "degree": "Ph.D. (Illinois)",
+        "specialization": "Number Theory and Algebra"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "256, Sector 6",
+        "city": "Panchkula 134 109"
+    }
+}

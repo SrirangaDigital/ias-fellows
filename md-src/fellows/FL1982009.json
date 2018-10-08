@@ -1,0 +1,33 @@
+{
+    "id": "FL1982009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Srinivasachari",
+            "last": "Rajappa",
+            "display": "Rajappa, Dr Srinivasachari"
+        },
+        "sex": "M",
+        "birthDate": "1934-10-22",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Synthetic Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "B-1, Melody Apartments, Plot No. 12, ICS Colony",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 2553 6395",
+            "mobile": "98901 47478"
+        },
+        "email": {
+            "personal": "p_rajappa@vsnl.com"
+        }
+    }
+}

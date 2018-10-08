@@ -1,0 +1,26 @@
+{
+    "id": "FL1985019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prince Kumar",
+            "last": "Malhotra",
+            "display": "Malhotra, Prof. Prince Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1935-04-20",
+        "deathDate": "1992-03-07",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "High Energy Physics and Cosmic Ray Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Bombay 400 005"
+    }
+}

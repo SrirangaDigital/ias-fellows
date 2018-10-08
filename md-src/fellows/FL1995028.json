@@ -1,0 +1,25 @@
+{
+    "id": "FL1995028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Anil Kumar",
+            "display": "Anil Kumar, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1951-04-10",
+        "deathDate": "2002-11-02",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Condensed Matter Physics, Physics of Complex Fluids and Statistical Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

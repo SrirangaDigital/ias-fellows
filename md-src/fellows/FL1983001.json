@@ -1,0 +1,29 @@
+{
+    "id": "FL1983001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dewan Singh",
+            "last": "Bhakuni",
+            "display": "Bhakuni, Dr Dewan Singh"
+        },
+        "sex": "M",
+        "birthDate": "1930-12-30",
+        "degree": "Ph.D. and D.Sc. (London)",
+        "honours": "FNA, FNASc",
+        "specialization": "Natural Products, Bio-organic, Biosynthesis, Nucleosides and Medicinal Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "C-132, Nirala Nagar",
+        "city": "Lucknow 226 020",
+        "state": "U.P.",
+        "telephone": {
+            "residence": "(0522) 278 8517"
+        }
+    }
+}

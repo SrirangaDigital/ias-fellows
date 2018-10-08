@@ -1,0 +1,34 @@
+{
+    "id": "FL2005009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Suresh",
+            "last": "Das",
+            "display": "Das, Dr Suresh"
+        },
+        "sex": "M",
+        "birthDate": "1955-02-18",
+        "degree": "Ph.D. (Newcastle)",
+        "honours": "FNA",
+        "specialization": "Photochemistry, Photoresponsive Materials, Liquid Crystals, Photosensitizing Dyes, Photoluminiscent Materials and Photo-induced Electron Transfer"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Executive Vice President, Kerala State Council for Science, Technology and, Environment, Sasthra Bhavan, Pattom",
+        "city": "Thiruvananthapuram 695 004",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 254 3557",
+            "mobile": "94477 06202",
+            "fax": "(0471) 254 0085"
+        },
+        "email": {
+            "personal": "sureshdas55@gmail.com"
+        }
+    }
+}

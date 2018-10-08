@@ -1,0 +1,29 @@
+{
+    "id": "FH2007033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kyriacos Costa",
+            "last": "Nicolaou",
+            "display": "Nicolaou, Prof. Kyriacos Costa"
+        },
+        "sex": "M",
+        "birthDate": "1946-00-00"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Department of Chemistry & BRC, Rice University, 6100, Main Street, MS 602",
+        "city": "Houston, TX 77005",
+        "country": "U.S.A.",
+        "telephone": {
+            "residence": "(+1-713) 348 8860",
+            "fax": "(+1-713) 348 8865"
+        },
+        "email": {
+            "official": "kcn@rice.edu"
+        }
+    }
+}

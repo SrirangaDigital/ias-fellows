@@ -1,0 +1,26 @@
+{
+    "id": "FL1983017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Suresh Kumar",
+            "last": "Sinha",
+            "display": "Sinha, Prof. Suresh Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1934-07-18",
+        "deathDate": "2002-03-17",
+        "degree": "Ph.D. (Agra and Alberta)",
+        "honours": "D.Sc. (h.c.), FNA",
+        "specialization": "Agricultural Sciences and Rural Development"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "14/29B, DLF Qutab Enclave, Phase 2",
+        "city": "Gurgaon 122 002"
+    }
+}

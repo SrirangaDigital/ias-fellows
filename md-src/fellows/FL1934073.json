@@ -1,0 +1,22 @@
+{
+    "id": "FL1934073",
+    "profile": {
+        "name": {
+            "first": "Krishnaswamy",
+            "last": "Ramiah",
+            "display": "Ramiah,  Krishnaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1882-04-15",
+        "deathDate": "1988-08-02",
+        "degree": "M.Sc. (Cantab), D.Sc. (Utkal)",
+        "honours": "FNA, FNASc",
+        "specialization": "Agronomy and Plant Genetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934",
+        "councilservice": "1946-49, 1959-61; Secretary 1959-61"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL2013023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Balaji",
+            "last": "Sundar Rajan",
+            "display": "Sundar Rajan, Prof. Balaji"
+        },
+        "sex": "M",
+        "birthDate": "1958-03-07",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA, FNASc, FNAE, FIEEE",
+        "specialization": "Wireless Communication, Information & Coding Theory, Network Coding, Signal Processing, Algorithms for Communications"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Electrical Communication Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2855",
+            "residence": "(080) 2360 2085",
+            "mobile": "98459 88753",
+            "fax": "(080) 2360 0563"
+        },
+        "email": {
+            "official": "bsrajan@ece.iisc.ernet.in",
+            "personal": "bsrajanb@yahoo.com"
+        },
+        "url": "http://www.ece.iisc.ernet.in/~bsrajan/index.html"
+    }
+}

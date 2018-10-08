@@ -1,0 +1,24 @@
+{
+    "id": "FL1974080",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Raj Mahindra",
+            "display": "Raj Mahindra, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1925-02-15",
+        "deathDate": "1995-02-16",
+        "degree": "C.Engg. (UK)",
+        "specialization": "Aircraft Design"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "1012, High Point, 45, Palace Road",
+        "city": "Bengaluru 560 001"
+    }
+}

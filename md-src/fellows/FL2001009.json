@@ -1,0 +1,33 @@
+{
+    "id": "FL2001009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ganapathy",
+            "last": "Marimuthu",
+            "display": "Marimuthu, Prof. Ganapathy"
+        },
+        "sex": "M",
+        "birthDate": "1954-02-25",
+        "degree": "Ph.D. (MKU), D.Sc. (MKU)",
+        "honours": "FNASc, FNA",
+        "specialization": "Animal Behaviour and Chronobiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Animal Behaviour and Physiology, School of Biological Sciences, Madurai Kamaraj University",
+        "city": "Madurai 625 021",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(0452) 245 9116",
+            "mobile": "97916 96463"
+        },
+        "email": {
+            "personal": "mailbox_gm@rediffmail.com,emailbioxgm@gmail.com"
+        }
+    }
+}

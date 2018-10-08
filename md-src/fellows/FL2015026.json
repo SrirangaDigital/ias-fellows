@@ -1,0 +1,35 @@
+{
+    "id": "FL2015026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mangalampalli",
+            "last": "Ravikanth",
+            "display": "Ravikanth, Prof. Mangalampalli"
+        },
+        "sex": "M",
+        "birthDate": "1966-06-04",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "Supramolecular Chemistry, Co-ordination Chemistry, Photochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7176",
+            "residence": "(022) 2576 8176",
+            "mobile": "98190 84270",
+            "fax": "(022) 2576 7152"
+        },
+        "email": {
+            "official": "ravikanth@chem.iitb.ac.in"
+        },
+        "url": "http://www.chem.iitb.ac.in/people/faculty/prof/mr.html"
+    }
+}

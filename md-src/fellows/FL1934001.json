@@ -1,0 +1,22 @@
+{
+    "id": "FL1934001",
+    "profile": {
+        "name": {
+            "first": "Nazir",
+            "last": "Ahmad",
+            "display": "Ahmad,  Nazir"
+        },
+        "sex": "M",
+        "birthDate": "1898-05-01",
+        "deathDate": "1973-08-12",
+        "degree": "Ph.D. (Cambridge)",
+        "honours": "FNA",
+        "specialization": "Cotton Textile Technology, Instrumentation"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934",
+        "councilservice": "1936-43"
+    }
+}

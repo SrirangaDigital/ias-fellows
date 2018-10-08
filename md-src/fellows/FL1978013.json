@@ -1,0 +1,26 @@
+{
+    "id": "FL1978013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chelakara Sivarama",
+            "last": "Vaidyanathan",
+            "display": "Vaidyanathan, Prof. Chelakara Sivarama"
+        },
+        "sex": "M",
+        "birthDate": "1931-11-14",
+        "deathDate": "1999-09-01",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Biochemistry and Enzymology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "001, Atma Apartments, 10th Main Road, Malleswaram",
+        "city": "Bengaluru 560 003"
+    }
+}

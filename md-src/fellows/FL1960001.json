@@ -1,0 +1,26 @@
+{
+    "id": "FL1960001",
+    "profile": {
+        "name": {
+            "first": "Anna Modayil",
+            "last": "Mani",
+            "display": "Mani, Miss Anna Modayil"
+        },
+        "sex": "F",
+        "birthDate": "1918-08-23",
+        "deathDate": "2001-08-16",
+        "degree": "A.I.I.Sc.",
+        "honours": "FNA",
+        "specialization": "Atmospheric Physics and Instrumentation"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1960",
+        "councilservice": "1971-79; Secretary 1977-79."
+    },
+    "contact": {
+        "address": "c/o Mr K.T. Chandy, 14, Avittom Road, Medical College Post",
+        "city": "Trivandrum 695 011"
+    }
+}

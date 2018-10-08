@@ -1,0 +1,37 @@
+{
+    "id": "FL2004001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manindra",
+            "last": "Agrawal",
+            "display": "Agrawal, Prof. Manindra"
+        },
+        "sex": "M",
+        "birthDate": "1966-05-20",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNAE, FNA, FNASc, FTWAS",
+        "specialization": "Computational Complexity Theory and Computation Number Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering &amp; Technology",
+        "yearelected": "2004",
+        "councilservice": "Council Service: 2016- ; Vice President: 2016-"
+    },
+    "contact": {
+        "address": "Professor, Department of Computer Science, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7338",
+            "residence": "(0512) 259 8363",
+            "mobile": "99350 62605",
+            "fax": "(0512) 259 7586"
+        },
+        "email": {
+            "official": "manindra@iitk.ac.in"
+        },
+        "url": "http://www.cse.iitk.ac.in/users/manindra"
+    }
+}

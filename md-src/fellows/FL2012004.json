@@ -1,0 +1,36 @@
+{
+    "id": "FL2012004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subhasish",
+            "last": "Dey",
+            "display": "Dey, Prof. Subhasish"
+        },
+        "sex": "M",
+        "birthDate": "1958-01-08",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNAE, FNASc, FNA",
+        "specialization": "Fluid Mechanics, Hydrodynamics, Turbulence, Sediment Transport"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Civil Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3418",
+            "residence": "(03222) 28 3419",
+            "mobile": "94347 13850",
+            "fax": "(03222) 28 2254"
+        },
+        "email": {
+            "official": "sdey@iitkgp.ac.in"
+        },
+        "url": "http://www.iitkgp.ac.in/department/CE/faculty/ce-sdey"
+    }
+}

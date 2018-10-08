@@ -1,0 +1,34 @@
+{
+    "id": "FL2016012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramesh",
+            "last": "Hariharan",
+            "display": "Hariharan, Dr Ramesh"
+        },
+        "sex": "M",
+        "birthDate": "1969-01-23",
+        "degree": "Ph.D.(Courant Inst., NYU, USA)",
+        "specialization": "Computational Biology, Molecular Diagnostics, Design & Analysis of Algorithms"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Chief Technology Officer, Strand Life Sciences, Kirloskar Business Park, Hebbal",
+        "city": "Bengaluru 560 024",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 4078 7263",
+            "residence": "(080) 2333 3366",
+            "mobile": "98450 87669"
+        },
+        "email": {
+            "official": "ramesh@strandls.com"
+        },
+        "url": "http://www.hariharan-ramesh.com"
+    }
+}

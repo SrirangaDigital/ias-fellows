@@ -1,0 +1,26 @@
+{
+    "id": "FL1975079",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Krishna Rajaram",
+            "last": "Surange",
+            "display": "Surange, Prof. Krishna Rajaram"
+        },
+        "sex": "M",
+        "birthDate": "1920-02-07",
+        "deathDate": "2010-01-06",
+        "degree": "Ph.D. (Lucknow and Cantab)",
+        "honours": "FNA",
+        "specialization": "Palaeobotany"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Flat No. 304, Ganapathi Apartments, B-747, Sector C, Mahanagar",
+        "city": "Lucknow 226 006"
+    }
+}

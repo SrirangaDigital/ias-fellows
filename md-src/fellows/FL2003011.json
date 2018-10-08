@@ -1,0 +1,34 @@
+{
+    "id": "FL2003011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subramony",
+            "last": "Mahadevan",
+            "display": "Mahadevan, Prof. Subramony"
+        },
+        "sex": "M",
+        "birthDate": "1953-11-07",
+        "degree": "Ph.D. (Tufts University, USA)",
+        "specialization": "Regulation of Gene Expression in Bacteria, Microbial Physiology and Microbial Evolution"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Professor, Department of Molecular Reproduction, Development, and Genetics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2607",
+            "residence": "(080) 2360 8215",
+            "mobile": "98452 08358",
+            "fax": "(080) 2360 0683"
+        },
+        "email": {
+            "official": "mahi@iisc.ac.in"
+        }
+    }
+}

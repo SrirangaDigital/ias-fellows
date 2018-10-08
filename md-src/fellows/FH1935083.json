@@ -1,0 +1,19 @@
+{
+    "id": "FH1935083",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Theodor",
+            "last": "Svedberg",
+            "display": "Svedberg, Prof. Theodor"
+        },
+        "sex": "M",
+        "birthDate": "1884-08-30",
+        "deathDate": "1971-02-25",
+        "honours": "Nobel Laureate (Chemistry) - 1926"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

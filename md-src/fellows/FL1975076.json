@@ -1,0 +1,25 @@
+{
+    "id": "FL1975076",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Udai Narain",
+            "last": "Singh",
+            "display": "Singh, Prof. Udai Narain"
+        },
+        "sex": "M",
+        "birthDate": "1931-01-01",
+        "deathDate": "2006-12-31",
+        "degree": "Ph.D. (Chicago)",
+        "specialization": "Biophysics, Molecular Biology and Neurobiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "c/o Dr D.N. Singh, CMO, IMS, Banaras Hindu University",
+        "city": "Varanasi 221 005"
+    }
+}

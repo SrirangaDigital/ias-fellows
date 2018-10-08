@@ -1,0 +1,32 @@
+{
+    "id": "FL1969005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sambasiva",
+            "last": "Swaminathan",
+            "display": "Swaminathan, Prof. Sambasiva"
+        },
+        "sex": "M",
+        "birthDate": "1923-04-20",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1969"
+    },
+    "contact": {
+        "address": "No. 6, 12th Cross Street, Shastri Nagar",
+        "city": "Chennai 600 020",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2491 1858"
+        },
+        "email": {
+            "personal": "swaminathan1923@yahoo.co.in"
+        }
+    }
+}

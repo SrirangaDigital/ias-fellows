@@ -1,0 +1,29 @@
+{
+    "id": "FH2009033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chunli",
+            "last": "Bai",
+            "display": "Bai, Prof. Chunli"
+        },
+        "sex": "M",
+        "birthDate": "1953-00-00"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Executive Vice-President, Chinese Academy of Sciences, 52, Sanlihe Road",
+        "city": "Beijing 100864",
+        "country": "China",
+        "telephone": {
+            "office": "(+86-10) 6859 7606",
+            "fax": "(+86-10) 6852 6316"
+        },
+        "email": {
+            "official": "clbai@cas.cn"
+        }
+    }
+}

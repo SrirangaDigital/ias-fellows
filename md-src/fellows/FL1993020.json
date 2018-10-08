@@ -1,0 +1,33 @@
+{
+    "id": "FL1993020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kamala",
+            "last": "Krishnaswamy",
+            "display": "Krishnaswamy, Prof. Kamala"
+        },
+        "sex": "F",
+        "birthDate": "1940-04-04",
+        "degree": "M.B.B.S. and MD (Osmania)",
+        "honours": "FAMS, FNA, FNASc, FNAAS, FTWAS",
+        "specialization": "Internal Medicine, Nutritional Sciences and Clinical Pharmacokinetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Sriniketan, No. 1-2-98/2, Kakatiyanagar Colony, Habsiguda",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2715 3248",
+            "mobile": "98662 35238"
+        },
+        "email": {
+            "personal": "sri21kk@hotmail.com,sri21kk@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1992034",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Satish Ramnath",
+            "last": "Shetye",
+            "display": "Shetye, Dr Satish Ramnath"
+        },
+        "sex": "M",
+        "birthDate": "1950-10-25",
+        "degree": "Ph.D. (Washington)",
+        "honours": "FNA, FNASc",
+        "specialization": "Physical Oceanography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 1998-2003"
+    },
+    "contact": {
+        "address": "Yashoda, C-14/162, Tonca, Caranzalem",
+        "city": "Panaji 403 002",
+        "state": "Goa",
+        "telephone": {
+            "residence": "(0832) 246 1660",
+            "mobile": "90110 56605"
+        },
+        "email": {
+            "personal": "satishrshetye@gmail.com"
+        }
+    }
+}

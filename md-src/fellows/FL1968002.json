@@ -1,0 +1,26 @@
+{
+    "id": "FL1968002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Divya Darshan",
+            "last": "Pant",
+            "display": "Pant, Prof. Divya Darshan"
+        },
+        "sex": "M",
+        "birthDate": "1919-10-18",
+        "deathDate": "2001-05-09",
+        "degree": "D. Phil. (Allahabad)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Morphology, Palaeobotany, Palynology, Pollination Ecology, Cycads and Conifers"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1968"
+    },
+    "contact": {
+        "address": "106, Tagore Town",
+        "city": "Allahabad 211 002"
+    }
+}

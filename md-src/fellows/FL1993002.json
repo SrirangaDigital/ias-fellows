@@ -1,0 +1,33 @@
+{
+    "id": "FL1993002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ranajit Kumar",
+            "last": "Banerjee",
+            "display": "Banerjee, Dr Ranajit Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1944-03-23",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Enzymology, Membrane Biochemistry and Cell Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Flat No. 1G, 140, P.G.H. Shah Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2413 0396",
+            "mobile": "98303 37787"
+        },
+        "email": {
+            "personal": "ranajitb@yahoo.com,ranajit_banerjee@rediffmail.com"
+        }
+    }
+}

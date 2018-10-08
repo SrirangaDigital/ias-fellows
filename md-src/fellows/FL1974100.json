@@ -1,0 +1,26 @@
+{
+    "id": "FL1974100",
+    "profile": {
+        "name": {
+            "first": "Chokkanathapuram Venkataraman",
+            "last": "Sundaram",
+            "display": "Sundaram, Mr Chokkanathapuram Venkataraman"
+        },
+        "sex": "M",
+        "birthDate": "1929-11-07",
+        "deathDate": "2008-08-15",
+        "degree": "D.I.I.Sc.",
+        "honours": "D.Sc. (h.c.), FNA, FNAE",
+        "specialization": "Extractive Metallurgy of Rare Metals and Special Materials Development for Nuclear Reactions"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1977-79"
+    },
+    "contact": {
+        "address": "A-23, Ragamalika Apartments, Jeevarathnam Nagar, Adyar",
+        "city": "Chennai 600 020"
+    }
+}

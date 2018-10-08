@@ -1,0 +1,35 @@
+{
+    "id": "FL2010055",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramanathan",
+            "last": "Sowdhamini",
+            "display": "Sowdhamini, Dr Ramanathan"
+        },
+        "sex": "F",
+        "birthDate": "1964-05-24",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Structural Bioinformatics, Protein Domain Superfamilies, Computational Genomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "National Centre for Biological Sciences, GKVK Campus",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2366 6250",
+            "residence": "(080) 2366 6473",
+            "mobile": "93425 99179",
+            "fax": "(080) 2363 6662"
+        },
+        "email": {
+            "official": "mini@ncbs.res.in"
+        }
+    }
+}

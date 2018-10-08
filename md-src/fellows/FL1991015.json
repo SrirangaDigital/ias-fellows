@@ -1,0 +1,37 @@
+{
+    "id": "FL1991015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Muthusamy",
+            "last": "Lakshmanan",
+            "display": "Lakshmanan, Prof. Muthusamy"
+        },
+        "sex": "M",
+        "birthDate": "1946-03-25",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Nonlinear Dynamics, Theoretical Physics and Mathematical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1991",
+        "councilservice": "Council Service: 2010-12"
+    },
+    "contact": {
+        "address": "DST SERB Distinguished Fellow, Centre for Nonlinear Dynamics and, Department of Physics, Bharathidasan University",
+        "city": "Tiruchirapalli 620 024",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(0431) 240 7093, (0431) 240 7057",
+            "residence": "(0431) 245 9386",
+            "mobile": "99408 23079",
+            "fax": "(0431) 240 7045, (0431) 240 7093"
+        },
+        "email": {
+            "official": "lakshman@cnld.bdu.ac.in",
+            "personal": "lakshman.cnld@gmail.com"
+        }
+    }
+}

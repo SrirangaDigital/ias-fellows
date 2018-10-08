@@ -1,0 +1,20 @@
+{
+    "id": "FL1935050",
+    "profile": {
+        "name": {
+            "first": "Salimuzzaman",
+            "last": "Siddiqi",
+            "display": "Siddiqi,  Salimuzzaman"
+        },
+        "sex": "M",
+        "birthDate": "1897-10-19",
+        "deathDate": "1994-04-14",
+        "specialization": "Natural Products Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1935",
+        "councilservice": "Council Service: 1943-46"
+    }
+}

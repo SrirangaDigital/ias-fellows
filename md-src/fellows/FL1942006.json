@@ -1,0 +1,25 @@
+{
+    "id": "FL1942006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nilkanth Abaji",
+            "last": "Shastri",
+            "display": "Shastri, Dr Nilkanth Abaji"
+        },
+        "sex": "M",
+        "birthDate": "1904-06-01",
+        "deathDate": "1995-01-02",
+        "degree": "M.Sc. (London)",
+        "specialization": "Laplace Transforms"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1942"
+    },
+    "contact": {
+        "address": "Khare Town, Dharampeth",
+        "city": "Nagpur 440 010"
+    }
+}

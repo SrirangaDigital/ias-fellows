@@ -1,0 +1,21 @@
+{
+    "id": "FL1934057",
+    "profile": {
+        "name": {
+            "first": "Appadvedula Lakshmi",
+            "last": "Narayan",
+            "display": "Narayan,  Appadvedula Lakshmi"
+        },
+        "sex": "M",
+        "birthDate": "1887-00-00",
+        "deathDate": "1973-03-07",
+        "honours": "FNA",
+        "specialization": "Optics, Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1934-35"
+    }
+}

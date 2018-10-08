@@ -1,0 +1,20 @@
+{
+    "id": "FL1971005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kandula Pampapathi",
+            "last": "Rao",
+            "display": "Rao, Dr Kandula Pampapathi"
+        },
+        "sex": "M",
+        "birthDate": "1930-03-09",
+        "deathDate": "1973-06-23",
+        "specialization": "Arthropods"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1971"
+    }
+}

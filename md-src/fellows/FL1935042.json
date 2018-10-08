@@ -1,0 +1,18 @@
+{
+    "id": "FL1935042",
+    "profile": {
+        "name": {
+            "first": "A Subba",
+            "last": "Rau",
+            "display": "Rau,  A Subba"
+        },
+        "sex": "M",
+        "specialization": "Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1935",
+        "councilservice": "1938-46; Secretary 1938-46"
+    }
+}

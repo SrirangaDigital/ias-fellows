@@ -1,0 +1,18 @@
+{
+    "id": "FH1978016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jacques Yves",
+            "last": "Cousteau",
+            "display": "Cousteau, Prof. Jacques Yves"
+        },
+        "sex": "M",
+        "birthDate": "1910-06-11",
+        "deathDate": "1997-06-25"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1978"
+    }
+}

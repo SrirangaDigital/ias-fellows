@@ -1,0 +1,35 @@
+{
+    "id": "FL2010019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rama",
+            "last": "Govindarajan",
+            "display": "Govindarajan, Prof. Rama"
+        },
+        "sex": "F",
+        "birthDate": "1962-08-26",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Fluid Mechanics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "International Centre for Theoretical Science, Shivakote, Hesaraghatta Post",
+        "city": "Bengal;uru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6730 6370",
+            "residence": "(080) 2308 9166",
+            "mobile": "81066 71309"
+        },
+        "email": {
+            "official": "rama@icts.res.in"
+        },
+        "url": "http://www.tifrh.res.in/tcis"
+    }
+}

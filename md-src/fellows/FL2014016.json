@@ -1,0 +1,34 @@
+{
+    "id": "FL2014016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shailesh",
+            "last": "Nayak",
+            "display": "Nayak, Dr Shailesh"
+        },
+        "sex": "M",
+        "birthDate": "1953-08-21",
+        "degree": "Ph.D. (Baroda)",
+        "specialization": "Remote Sensing, Coastal &amp; Ocean Processes, Oceanography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth &amp; Planetary Sciences",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Director, National Institute of Advanced Studies, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 1969",
+            "mobile": "98688 44441",
+            "fax": "(011) 2462 9777"
+        },
+        "email": {
+            "official": "director@nias.res.in",
+            "personal": "shaileshnayak@hotmail.com"
+        }
+    }
+}

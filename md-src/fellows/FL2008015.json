@@ -1,0 +1,31 @@
+{
+    "id": "FL2008015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kanikicharla",
+            "last": "Krishna Kumar",
+            "display": "Krishna Kumar, Dr Kanikicharla"
+        },
+        "sex": "M",
+        "birthDate": "1958-06-06",
+        "degree": "Ph.D. (Pune)",
+        "specialization": "Monsoon Dynamics, Predictability & Prediction, Climate Change & Impacts and Climate Applications"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Quatar Meteorology Department",
+        "city": "Doha",
+        "country": "Quatar",
+        "telephone": {
+            "mobile": "(+974) 6622 1358"
+        },
+        "email": {
+            "personal": "krishnakumar.kanikicharla@gmail.com"
+        }
+    }
+}

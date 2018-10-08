@@ -1,0 +1,26 @@
+{
+    "id": "FL1972008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Balasubramanian",
+            "last": "Ramamurthi",
+            "display": "Ramamurthi, Prof. Balasubramanian"
+        },
+        "sex": "M",
+        "birthDate": "1922-01-30",
+        "deathDate": "2003-12-12",
+        "degree": "M.S. (Madras)",
+        "honours": "D.Sc. (h.c.), F.R.C.S., FNA, FNASc",
+        "specialization": "Neurology, Neurosurgery and Neurosciences"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1972"
+    },
+    "contact": {
+        "address": "27, Second Main Road, CIT Colony, Mylapore",
+        "city": "Chennai 600 004"
+    }
+}

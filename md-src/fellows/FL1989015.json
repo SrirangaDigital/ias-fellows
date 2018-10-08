@@ -1,0 +1,33 @@
+{
+    "id": "FL1989015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Paul",
+            "last": "Ratnasamy",
+            "display": "Ratnasamy, Dr Paul"
+        },
+        "sex": "M",
+        "birthDate": "1942-06-11",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA, FNASc, FNAE",
+        "specialization": "Catalysis, Zeolites and Solid State Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "4, Lalit Apartments, Gulmohar Park, ITI Road, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 2589 8058",
+            "mobile": "73500 05192"
+        },
+        "email": {
+            "personal": "paul_ratnasamy@yahoo.com"
+        }
+    }
+}

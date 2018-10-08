@@ -1,0 +1,26 @@
+{
+    "id": "FL1986023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Autar Singh",
+            "last": "Paintal",
+            "display": "Paintal, Dr Autar Singh"
+        },
+        "sex": "M",
+        "birthDate": "1925-09-24",
+        "deathDate": "2004-12-21",
+        "degree": "M.D. (Lucknow), D.Sc. (Edinburgh)",
+        "honours": "F.R.S.E., FRS, FNA",
+        "specialization": "Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Programme Director, Centre for Visceral Mechanisms, Vallabhbhai Patel Chest Institute, Delhi University",
+        "city": "Delhi 110 007"
+    }
+}

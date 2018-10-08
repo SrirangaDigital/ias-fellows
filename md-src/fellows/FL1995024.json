@@ -1,0 +1,35 @@
+{
+    "id": "FL1995024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ghanshyam",
+            "last": "Swarup",
+            "display": "Swarup, Dr Ghanshyam"
+        },
+        "sex": "M",
+        "birthDate": "1953-11-23",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Autophagy, Molecular & Cell Biology, Molecular Basis of Diseases, Cell Signalling, Membrane Vesicle Trafficking,"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Scientist, Centre for Cellular and Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2616",
+            "residence": "95026 41429",
+            "mobile": "99891 33201",
+            "fax": "(040) 2716 0591, (040) 2716 0311"
+        },
+        "email": {
+            "official": "gshyam@ccmb.res.in"
+        }
+    }
+}

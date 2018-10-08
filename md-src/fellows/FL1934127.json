@@ -1,0 +1,20 @@
+{
+    "id": "FL1934127",
+    "profile": {
+        "name": {
+            "first": "Bhagavatula",
+            "last": "Viswa Nath",
+            "display": "Viswa Nath,  Bhagavatula"
+        },
+        "sex": "M",
+        "birthDate": "1889-01-01",
+        "deathDate": "1964-02-01",
+        "honours": "FNA",
+        "specialization": "Soil Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1994026",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Parthasarathy",
+            "last": "Ganguly",
+            "display": "Ganguly, Dr Parthasarathy"
+        },
+        "sex": "M",
+        "birthDate": "1942-01-20",
+        "deathDate": "2014-05-07",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Atom-bond Transition and Insulator-Metal Transition"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Flat 8B, Montvert I, 140/1A, Pashan Sus, Pashan",
+        "city": "Pune 411 021"
+    }
+}

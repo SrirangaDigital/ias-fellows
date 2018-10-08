@@ -1,0 +1,18 @@
+{
+    "id": "FH1935058",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Norman Levi",
+            "last": "Bowen",
+            "display": "Bowen, Prof. Norman Levi"
+        },
+        "sex": "M",
+        "birthDate": "1887-06-21",
+        "deathDate": "1956-09-11"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

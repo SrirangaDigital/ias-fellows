@@ -1,0 +1,27 @@
+{
+    "id": "FL1966006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Raja",
+            "last": "Ramanna",
+            "display": "Ramanna, Dr Raja"
+        },
+        "sex": "M",
+        "birthDate": "1925-01-28",
+        "deathDate": "2004-09-24",
+        "degree": "Ph.D. (London)",
+        "honours": "D.Sc. (h.c.), FNA, Nom. MP (Rajya Sabha) for Science",
+        "specialization": "Nuclear Physics, Reactor Physics & Design, European Music and Philosophy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1966",
+        "councilservice": "Council Service: 1971-79; Vice-President: 1977-79"
+    },
+    "contact": {
+        "address": "National Institute of Advanced, Studies, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012"
+    }
+}

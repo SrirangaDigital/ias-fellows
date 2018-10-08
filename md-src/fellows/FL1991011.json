@@ -1,0 +1,35 @@
+{
+    "id": "FL1991011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jyeshtharaj Bhalchandra",
+            "last": "Joshi",
+            "display": "Joshi, Prof. Jyeshtharaj Bhalchandra"
+        },
+        "sex": "M",
+        "birthDate": "1949-05-28",
+        "degree": "Ph.D. (Tech.)(Mumbai)",
+        "honours": "FNA, FTWAS, FNAE",
+        "specialization": "Atomic & Bioenergy, Fluid Mechanics, Reactor Design Absorption of NOx Gases and Solar Energy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Honorary Distinguyished Professor, Institute of Chemical Technology, University of Bombay, Matunga",
+        "city": "Mumbai 400 019",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 3361 2106",
+            "residence": "(022) 2411 5448",
+            "mobile": "98208 45915",
+            "fax": "(022) 3361 1020"
+        },
+        "email": {
+            "personal": "jbjoshi@gmail.com"
+        }
+    }
+}

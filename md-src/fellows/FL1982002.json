@@ -1,0 +1,32 @@
+{
+    "id": "FL1982002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Virender Lal",
+            "last": "Chopra",
+            "display": "Chopra, Prof. Virender Lal"
+        },
+        "sex": "M",
+        "birthDate": "1936-08-09",
+        "degree": "Ph.D. (Edinburgh)",
+        "honours": "D.Sc. (h.c.), FNA, FNASc, FNAAS, FTWAS",
+        "specialization": "Genetics & Crop Improvement and Plant Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "A3-210A, Janakpuri",
+        "city": "New Delhi 110 058",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2555 3747"
+        },
+        "email": {
+            "personal": "virenderchopra@yahoo.com"
+        }
+    }
+}

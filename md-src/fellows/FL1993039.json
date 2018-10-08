@@ -1,0 +1,37 @@
+{
+    "id": "FL1993039",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajiv Krishna",
+            "last": "Saxena",
+            "display": "Saxena, Prof. Rajiv Krishna"
+        },
+        "sex": "M",
+        "birthDate": "1951-01-24",
+        "degree": "Ph.D. (AIIMS)",
+        "honours": "FNASc, FNA",
+        "specialization": "Immunology, Toxicology, Nanoparticles"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Faculty of Life Sciences & Biotechnology and, Vice President, South Asian University, Akbar Bhavan, Chanakya Puri",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2419 5297",
+            "residence": "(011) 6502 8822",
+            "mobile": "99100 48241",
+            "fax": "(011) 2412 2511"
+        },
+        "email": {
+            "official": "rksaxena@southasianuniversity.org",
+            "personal": "rajivksaxena@hotmail.com"
+        },
+        "url": "http://www.rajivsaxena.info"
+    }
+}

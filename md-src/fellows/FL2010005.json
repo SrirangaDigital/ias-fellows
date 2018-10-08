@@ -1,0 +1,33 @@
+{
+    "id": "FL2010005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subhashchandra Jayantilal",
+            "last": "Bhatt",
+            "display": "Bhatt, Prof. Subhashchandra Jayantilal"
+        },
+        "sex": "M",
+        "birthDate": "1949-03-26",
+        "degree": "Ph.D. (Sardar Patel University)",
+        "specialization": "Banach & Topological Algebras, Operator Algebras & Applications, Harmonic Analysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Sardar Patel University",
+        "city": "Vallabh Vidyanagar 388 120",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(02692) 22 6869",
+            "residence": "(02692) 23 7115",
+            "fax": "(02692) 23 7258, (02692) 23 6475"
+        },
+        "email": {
+            "personal": "subhashbhaib@gmail.com"
+        }
+    }
+}

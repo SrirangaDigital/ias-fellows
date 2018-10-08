@@ -1,0 +1,26 @@
+{
+    "id": "FL1974086",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vulimiri",
+            "last": "Ramalingaswami",
+            "display": "Ramalingaswami, Dr Vulimiri"
+        },
+        "sex": "M",
+        "birthDate": "1921-08-08",
+        "deathDate": "2001-05-28",
+        "degree": "M.D.(Andhra), D.Sc.& D.Phil.(Oxford)",
+        "honours": "FRCP & FRC Path. (London), FRS, FNA",
+        "specialization": "Nutritional Disorders & Liver Diseases in the Tropics, Medical Education, Medical Research Administration and Health Policy at National & International Levels"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Professor-Emeritus, Department of Pathology, All India Institute of Medical, Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029"
+    }
+}

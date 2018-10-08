@@ -1,0 +1,34 @@
+{
+    "id": "FL2006026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bittianda Kuttapa",
+            "last": "Thelma",
+            "display": "Thelma, Prof. Bittianda Kuttapa"
+        },
+        "sex": "F",
+        "birthDate": "1955-03-13",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNASc, FNA",
+        "specialization": "Human Genetics, Pharmacogenetics and Medical Genomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Professor, Department of Genetics, University of Delhi South Campus, Benito Juarez Road",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2411 8201, (011) 2411 7399",
+            "residence": "(011) 2411 3548",
+            "fax": "(011) 2411 2761"
+        },
+        "email": {
+            "personal": "thelmabk@yahoo.co.in,thelmabk@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2017004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prasanta Kumar",
+            "last": "Das",
+            "display": "Das, Prof. Prasanta Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1971-06-02",
+        "degree": "Ph.D. (Osmania)",
+        "specialization": "Bio-organic Chemistry, Supramolecular Self Assemblies, Enzymology, Soft Nanocomposite in Cellular Transportation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Department of Biological Chemistry, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/1505",
+            "residence": "(033) 2425 9997",
+            "mobile": "94331 78776",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "bcpkd@iacs.res.in",
+            "personal": "das.prasantak@gmail.com"
+        },
+        "url": "http://iacs.res.in/faculty-profile.html?id=46"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL2002008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sripada Venkata Satyasuryanarayana",
+            "last": "Murty",
+            "display": "Murty, Prof. Sripada Venkata Satyasuryanarayana"
+        },
+        "sex": "M",
+        "birthDate": "1952-10-10",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "Early Solar System & Pre-Solar Processes, Cosmochemistry of Nitrogen & Noble Gases, Mass Spectrometry and Planetary Exploration"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "(079) 7116 0355",
+            "mobile": "90990 21758"
+        },
+        "email": {
+            "official": "murty@prl.res.in",
+            "personal": "murty_svs@yahoo.com"
+        }
+    }
+}

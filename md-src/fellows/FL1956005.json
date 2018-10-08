@@ -1,0 +1,24 @@
+{
+    "id": "FL1956005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mandikal Ramanna Aswathanarayana",
+            "last": "Rao",
+            "display": "Rao, Prof. Mandikal Ramanna Aswathanarayana"
+        },
+        "sex": "M",
+        "birthDate": "1910-11-07",
+        "deathDate": "1992-05-24",
+        "specialization": "Inorganic and Physical Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1956"
+    },
+    "contact": {
+        "address": "c/o Sri M.A. Raghuram, No. 446, IV Main Road, HMT Layout, Anandnagar",
+        "city": "Bengaluru 560 032"
+    }
+}

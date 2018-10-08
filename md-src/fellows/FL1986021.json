@@ -1,0 +1,26 @@
+{
+    "id": "FL1986021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ravindra Kumar",
+            "last": "Lal",
+            "display": "Lal, Prof. Ravindra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1936-10-14",
+        "deathDate": "2014-10-19",
+        "degree": "Ph.D. (Toronto)",
+        "honours": "FNA, FNASc",
+        "specialization": "Metamorphic Petrology, Mineralogy and Thermodynamics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "69, Nand Nagar, Karaundi, BHU Post",
+        "city": "Varanasi 221 005"
+    }
+}

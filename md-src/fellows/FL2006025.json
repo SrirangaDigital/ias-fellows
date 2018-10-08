@@ -1,0 +1,34 @@
+{
+    "id": "FL2006025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramesh Venkata",
+            "last": "Sonti",
+            "display": "Sonti, Dr Ramesh Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1960-05-24",
+        "degree": "Ph.D. (Utah)",
+        "honours": "FNASc, FNAAS, FNA",
+        "specialization": "Plant-Microbe Interactions, Plant Genetics and Bacterial Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Director, National Institute of Plant Genome Research, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 2267",
+            "mobile": "94410 55295",
+            "fax": "(011) 2674 1759"
+        },
+        "email": {
+            "official": "sonti@nipgr.ac.in,director@nipgr.ac.in"
+        }
+    }
+}

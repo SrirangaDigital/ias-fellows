@@ -1,0 +1,26 @@
+{
+    "id": "FL1977014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Churya",
+            "last": "SivaRaman",
+            "display": "SivaRaman, Dr Churya"
+        },
+        "sex": "M",
+        "birthDate": "1923-12-02",
+        "deathDate": "2014-06-25",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Molecular Enzymology & Enzyme and Microbial Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "111, Anand Park, Aundh",
+        "city": "Pune 411 007"
+    }
+}

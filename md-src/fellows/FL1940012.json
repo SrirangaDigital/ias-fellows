@@ -1,0 +1,21 @@
+{
+    "id": "FL1940012",
+    "profile": {
+        "name": {
+            "first": "Badri Nath",
+            "last": "Uppal",
+            "display": "Uppal,  Badri Nath"
+        },
+        "sex": "M",
+        "birthDate": "1900-06-28",
+        "deathDate": "1989-11-22",
+        "degree": "Ph.D. (Iowa)",
+        "honours": "FNA",
+        "specialization": "Plant Pathology, Microbiology and Agriculture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1940"
+    }
+}

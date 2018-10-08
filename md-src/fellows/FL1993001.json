@@ -1,0 +1,33 @@
+{
+    "id": "FL1993001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vaidheeswara",
+            "last": "Arunachalam",
+            "display": "Arunachalam, Dr Vaidheeswara"
+        },
+        "sex": "M",
+        "birthDate": "1938-01-28",
+        "degree": "Ph.D. (Cantab)",
+        "honours": "FNA, FNASc, FNAAS",
+        "specialization": "Quantitative & Population Genetics, Plant Breeding, Biodiversity (Participatory Plant Breeding)"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Flat 1, Rams Bridgeview Apartments, 3, Central Avenue, Kodambakkam",
+        "city": "Chennai 600 024",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2472 4198",
+            "mobile": "89391 39327"
+        },
+        "email": {
+            "personal": "vaiarunachalam@hotmail.com"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1967002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vengala",
+            "last": "Agnihothrudu",
+            "display": "Agnihothrudu, Dr Vengala"
+        },
+        "sex": "M",
+        "birthDate": "1930-05-15",
+        "deathDate": "1999-04-05",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Microbiology, Plant Pathology, Agrochemicals, Plantation Crops and Environmental Hygiene"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1967"
+    },
+    "contact": {
+        "address": "18/1, First Cross, First Main, Jayamahal Extension",
+        "city": "Bengaluru 560 016"
+    }
+}

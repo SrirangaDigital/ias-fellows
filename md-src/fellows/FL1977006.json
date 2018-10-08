@@ -1,0 +1,22 @@
+{
+    "id": "FL1977006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Anil Kumar",
+            "last": "Ganguly",
+            "display": "Ganguly, Dr Anil Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1918-11-01",
+        "deathDate": "1988-01-17",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Environmental Sciences, Radiation Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1977"
+    }
+}

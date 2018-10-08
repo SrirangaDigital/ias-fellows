@@ -1,0 +1,37 @@
+{
+    "id": "FL1994021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kizhakeyil Lukose",
+            "last": "Sebastian",
+            "display": "Sebastian, Prof. Kizhakeyil Lukose"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-18",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Theoretical Chemistry and Chemistry of Interfaces"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1994",
+        "councilservice": "Council Service: 2016- ; Vice President: 2016-"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology, Ahalia Integrated Campus, Kozhippara Post",
+        "city": "Palakkad 678 557",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(04923) 22 6511",
+            "residence": "(0491) 257 2290",
+            "mobile": "96329 28096"
+        },
+        "email": {
+            "official": "kls@iitpkd.ac.in",
+            "personal": "klsiisc@gmail.com"
+        },
+        "url": "htpp://ipc.iisc.ernet.in/~kls"
+    }
+}

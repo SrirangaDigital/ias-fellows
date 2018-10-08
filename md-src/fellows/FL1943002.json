@@ -1,0 +1,26 @@
+{
+    "id": "FL1943002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Govind Pandurang",
+            "last": "Kane",
+            "display": "Kane, Dr Govind Pandurang"
+        },
+        "sex": "M",
+        "birthDate": "1911-03-02",
+        "deathDate": "1991-06-25",
+        "degree": "Ph.D. (London)",
+        "specialization": "Chemical Technology and Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1943",
+        "councilservice": "1962-64"
+    },
+    "contact": {
+        "address": "Flat 2B, Shree Pant Bhuwan, Mama Warekar Bridge",
+        "city": "Bombay 400 007"
+    }
+}

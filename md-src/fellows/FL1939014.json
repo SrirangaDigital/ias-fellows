@@ -1,0 +1,19 @@
+{
+    "id": "FL1939014",
+    "profile": {
+        "name": {
+            "first": "Chickmagalur Narayanaiengar",
+            "last": "Srinivasaiengar",
+            "display": "Srinivasaiengar,  Chickmagalur Narayanaiengar"
+        },
+        "sex": "M",
+        "birthDate": "1901-02-21",
+        "deathDate": "1972-09-21",
+        "specialization": "Partial Differential Equations"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1939"
+    }
+}

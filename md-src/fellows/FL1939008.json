@@ -1,0 +1,20 @@
+{
+    "id": "FL1939008",
+    "profile": {
+        "name": {
+            "first": "Erode Krishnaswami",
+            "last": "Ramaswami",
+            "display": "Ramaswami,  Erode Krishnaswami"
+        },
+        "sex": "M",
+        "birthDate": "1894-02-12",
+        "deathDate": "1979-04-22",
+        "degree": "B.Sc. Eng. (London)",
+        "specialization": "Mechanical Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1939"
+    }
+}

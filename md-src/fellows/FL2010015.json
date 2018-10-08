@@ -1,0 +1,34 @@
+{
+    "id": "FL2010015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sanjeev",
+            "last": "Galande",
+            "display": "Galande, Dr Sanjeev"
+        },
+        "sex": "M",
+        "birthDate": "1967-09-20",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Epigenetics, Chromatin Biology, Gene Regulation, Genomics and Proteomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Centre for Excellence in Epigenetics, Indian Institute of Science Education, & Research, Dr Homi Bhabha Road",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 8060",
+            "mobile": "99233 63737",
+            "fax": "(020) 2025 1566"
+        },
+        "email": {
+            "official": "sanjeev@iiserpune.ac.in"
+        },
+        "url": "http://www.iiserpune.ac.in/~sanjeev/"
+    }
+}

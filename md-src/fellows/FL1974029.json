@@ -1,0 +1,33 @@
+{
+    "id": "FL1974029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paranandi Venkata Suryanarayana",
+            "last": "Rao",
+            "display": "Rao, Prof. Paranandi Venkata Suryanarayana"
+        },
+        "sex": "M",
+        "birthDate": "1936-07-17",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FNAE",
+        "specialization": "Computer Science & Speech Research, Natural Language Processing and Cursive Script Recognition"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Flat No. 601, Vigyan, Sector 17, Next to Garden, Vashi",
+        "city": "Navi Mumbai 400 703",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2789 0712",
+            "mobile": "92255 18888"
+        },
+        "email": {
+            "personal": "dr.pvsrao@gmail.com"
+        }
+    }
+}

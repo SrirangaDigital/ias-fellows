@@ -1,0 +1,32 @@
+{
+    "id": "FL1994004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sourendra Kumar",
+            "last": "Bhattacharya",
+            "display": "Bhattacharya, Prof. Sourendra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1948-01-04",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNASc",
+        "specialization": "Isotope Geochemistry and Anomalous Isotope Fractionation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "406, Shri Raj Apartments, Vastrapur",
+        "city": "Ahmedabad 380 015",
+        "state": "Gujarat",
+        "telephone": {
+            "mobile": "96506 63584"
+        },
+        "email": {
+            "personal": "skbhatta1@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2000025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Raman",
+            "last": "Sukumar",
+            "display": "Sukumar, Prof. Raman"
+        },
+        "sex": "M",
+        "birthDate": "1955-04-03",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Wild Life Ecology, Forest Ecology and Climate Change"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Professor, Centre for Ecological Sciences, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0382, (080) 2293 3102",
+            "residence": "(080) 4091 4760",
+            "mobile": "94482 75600",
+            "fax": "(080) 2360 2280, (080) 2360 1428"
+        },
+        "email": {
+            "official": "rsuku@iisc.ac.in"
+        },
+        "url": "http://ces.iisc.ernet.in/rsukumar"
+    }
+}

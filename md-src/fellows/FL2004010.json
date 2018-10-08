@@ -1,0 +1,35 @@
+{
+    "id": "FL2004010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gattamraju Ravindra",
+            "last": "Kumar",
+            "display": "Kumar, Prof. Gattamraju Ravindra"
+        },
+        "sex": "M",
+        "birthDate": "1961-06-15",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "Interaction of Intense Light Pulses with Matter, High Energy Density Science, Nonlinear Optics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Senior Professor, Department of Nuclear & Atomic Physics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2381",
+            "residence": "(022) 2280 4609",
+            "fax": "(022) 2280 4610, (022) 2280 4611"
+        },
+        "email": {
+            "official": "grk@tifr.res.in"
+        },
+        "url": "http://www.tifr.res.in/~uphill"
+    }
+}

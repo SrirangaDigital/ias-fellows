@@ -1,0 +1,20 @@
+{
+    "id": "FL1934097",
+    "profile": {
+        "name": {
+            "first": "Srinivasa Rao",
+            "last": "Savur",
+            "display": "Savur,  Srinivasa Rao"
+        },
+        "sex": "M",
+        "birthDate": "1894-03-26",
+        "deathDate": "1974-05-04",
+        "honours": "FNA",
+        "specialization": "Geophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1958010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Otto",
+            "last": "Hahn",
+            "display": "Hahn, Prof. Otto"
+        },
+        "sex": "M",
+        "birthDate": "1879-03-08",
+        "deathDate": "1968-07-28",
+        "honours": "Nobel Laureate (Chemistry) - 1944"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1958"
+    }
+}

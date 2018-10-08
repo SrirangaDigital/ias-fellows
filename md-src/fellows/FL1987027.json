@@ -1,0 +1,33 @@
+{
+    "id": "FL1987027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mandayam Anandampillai Lakshmi",
+            "last": "Thathachar",
+            "display": "Thathachar, Prof. Mandayam Anandampillai Lakshmi"
+        },
+        "sex": "M",
+        "birthDate": "1939-05-20",
+        "deathDate": "2017-01-07",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNAE, FIEEE",
+        "specialization": "Systems Science, Learning Algorithm and Pattern Recognition"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "23, 10th Cross Road, Swimming Pool Extension, Malleswaram",
+        "city": "Bengaluru 560 003",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2336 7263"
+        },
+        "email": {
+            "personal": "maltchar@gmail.com"
+        }
+    }
+}

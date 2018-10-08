@@ -1,0 +1,19 @@
+{
+    "id": "FH1969012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Andre Michel",
+            "last": "Lwoff",
+            "display": "Lwoff, Prof. Andre Michel"
+        },
+        "sex": "M",
+        "birthDate": "1902-05-08",
+        "deathDate": "1994-09-30",
+        "honours": "Nobel Laureate (Medicine) - 1965"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1969"
+    }
+}

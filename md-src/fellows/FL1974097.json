@@ -1,0 +1,25 @@
+{
+    "id": "FL1974097",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Isukapalli Gopala",
+            "last": "Sarma",
+            "display": "Sarma, Prof. Isukapalli Gopala"
+        },
+        "sex": "M",
+        "birthDate": "1936-09-21",
+        "deathDate": "1996-09-10",
+        "degree": "Ph.D. (Wisconsin)",
+        "specialization": "Digital Control Systems, Analysis and Simulation of Discrete Event Systems and Flight Vehicle Guidance"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Department of Computer Science, and Automation, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "FH2012033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivas R",
+            "last": "Kulkarni",
+            "display": "Kulkarni, Prof. Srinivas R"
+        },
+        "sex": "M",
+        "birthDate": "1956-00-00",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "George Ellery Hale Professor of Astronomy, California Institute of Technology",
+        "city": "Pasadena, CA 91125",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-626) 395 3734",
+            "fax": "(+1-626) 568 9352"
+        },
+        "email": {
+            "official": "srk@astro.caltech.edu"
+        },
+        "url": "http://www.astro.caltech.edu/~srk"
+    }
+}

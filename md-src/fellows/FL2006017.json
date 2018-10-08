@@ -1,0 +1,35 @@
+{
+    "id": "FL2006017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chitra",
+            "last": "Mandal",
+            "display": "Mandal, Dr Chitra"
+        },
+        "sex": "F",
+        "birthDate": "1951-09-15",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA, FTWAS, FAMS",
+        "specialization": "Glycobiology, Immunobiology and Glycoimmunology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Distinguished Biotechnology Research Professor, Indian Institute of Chemical Biology, 4, Raja SC Mullick Road, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2429 8861",
+            "mobile": "98310 36964",
+            "fax": "(033) 2473 5197"
+        },
+        "email": {
+            "official": "cmandal@iicb.res.in",
+            "personal": "chitra_mandal@yahoo.com"
+        }
+    }
+}

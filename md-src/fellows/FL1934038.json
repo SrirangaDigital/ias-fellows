@@ -1,0 +1,22 @@
+{
+    "id": "FL1934038",
+    "profile": {
+        "name": {
+            "first": "Vasant Ramji",
+            "last": "Khanolkar",
+            "display": "Khanolkar,  Vasant Ramji"
+        },
+        "sex": "M",
+        "birthDate": "1895-04-13",
+        "deathDate": "1978-10-29",
+        "degree": "M.D. (London)",
+        "honours": "FNA",
+        "specialization": "Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934",
+        "councilservice": "1949-52, 1956-61; Vice President 1949-52"
+    }
+}

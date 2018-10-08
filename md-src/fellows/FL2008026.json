@@ -1,0 +1,36 @@
+{
+    "id": "FL2008026",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Yogendra",
+            "last": "Sharma",
+            "display": "Sharma, Dr Yogendra"
+        },
+        "sex": "M",
+        "birthDate": "1959-01-02",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc",
+        "specialization": "Calcium-binding Proteins, Biophysics, Biochemistry and Protein Structure & Function"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Chief Scientist, Centre for Cellular & Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2561",
+            "residence": "(040) 2970 7204",
+            "mobile": "99086 30358",
+            "fax": "(040) 2716 0591"
+        },
+        "email": {
+            "official": "yogendra@ccmb.res.in",
+            "personal": "yogen.ccmb@gmail.com"
+        }
+    }
+}

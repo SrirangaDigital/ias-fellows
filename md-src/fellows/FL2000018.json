@@ -1,0 +1,33 @@
+{
+    "id": "FL2000018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tallavajhala",
+            "last": "Radhakrishna",
+            "display": "Radhakrishna, Dr Tallavajhala"
+        },
+        "sex": "M",
+        "birthDate": "1954-07-01",
+        "degree": "Ph.D. (Andhra)",
+        "specialization": "Geochemistry & Igneous Petrology, Palaeomagnetism and Geodynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Senior Consultant, National Centre for Earth Science Studies, Akkulam",
+        "city": "Thiruvananthapuram 695 011",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 251 1657",
+            "residence": "(0471) 272 3843",
+            "fax": "(0471) 244 2280"
+        },
+        "email": {
+            "personal": "tradha1@rediffmail.com"
+        }
+    }
+}

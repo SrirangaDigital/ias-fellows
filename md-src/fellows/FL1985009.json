@@ -1,0 +1,33 @@
+{
+    "id": "FL1985009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kundaranahalli Ramalingaiah",
+            "last": "Shivanna",
+            "display": "Shivanna, Dr Kundaranahalli Ramalingaiah"
+        },
+        "sex": "M",
+        "birthDate": "1940-06-30",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNAAS, FNASc",
+        "specialization": "Pollen Biology, Reproductive Ecology and Conservation Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Odekar Farms, Nandihalli, via Thovinakere",
+        "city": "Tumkur 572 138",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "94495 43848"
+        },
+        "email": {
+            "official": "shivanna@atree.org",
+            "personal": "shivannakr40@gmail.com"
+        }
+    }
+}

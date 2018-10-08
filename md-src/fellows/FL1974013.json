@@ -1,0 +1,32 @@
+{
+    "id": "FL1974013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sankaranarayanaiyer",
+            "last": "Krishnan",
+            "display": "Krishnan, Prof. Sankaranarayanaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1934-11-26",
+        "degree": "Ph.D. (Kerala)",
+        "specialization": "Electronics and Digital Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "49, II Cross, P&T Colony, R T Nagar",
+        "city": "Bengaluru 560 032",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2333 3139",
+            "mobile": "99004 19481"
+        },
+        "email": {
+            "personal": "skrish49@hotmail.com"
+        }
+    }
+}

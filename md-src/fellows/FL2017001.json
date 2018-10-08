@@ -1,0 +1,35 @@
+{
+    "id": "FL2017001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aninda Jiban",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Prof. Aninda Jiban"
+        },
+        "sex": "M",
+        "birthDate": "1968-10-09",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Materials chemistry, Electrochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Solid State &amp; Structural Chemistry Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2616",
+            "residence": "(080) 2341 9068",
+            "mobile": "99002 69068",
+            "fax": "(080) 2360 1310"
+        },
+        "email": {
+            "official": "anindajb@iisc.ac.in"
+        },
+        "url": "http://ssu.iisc.ac.in/faculty/dr-aninda-j-bhattacharyya"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FL1936011",
+    "profile": {
+        "name": {
+            "first": "Bijoor Sanjiva",
+            "last": "Rao",
+            "display": "Rao,  Bijoor Sanjiva"
+        },
+        "sex": "M",
+        "birthDate": "1896-02-23",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1936",
+        "councilservice": "1936-37, 1956-58"
+    }
+}

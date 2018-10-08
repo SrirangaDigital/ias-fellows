@@ -1,0 +1,33 @@
+{
+    "id": "FL1974028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Calyampudi Radhakrishna",
+            "last": "Rao",
+            "display": "Rao, Prof. Calyampudi Radhakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1920-09-10",
+        "degree": "Ph.D. and Sc.D. (Cambridge)",
+        "honours": "D.Sc. (h.c.), FNA, FNASc, FRS, Member, US Natl. Acad. Sci., FTWAS, For. Member, Lithuanian Acad. Sci",
+        "specialization": "Statistics with Applications to Biology, Signal Processing and Pattern Recognition"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Distinguished Professor Emeritus, CR Rao Advanced Institute, University of Hyderabad Campus, Prof. CR Rao Road",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 1170",
+            "mobile": "93978 06860"
+        },
+        "email": {
+            "official": "crr1@psu.edu"
+        }
+    }
+}

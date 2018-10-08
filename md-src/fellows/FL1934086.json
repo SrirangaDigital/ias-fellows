@@ -1,0 +1,18 @@
+{
+    "id": "FL1934086",
+    "profile": {
+        "name": {
+            "first": "Suhrid Kumar",
+            "last": "Roy",
+            "display": "Roy,  Suhrid Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1895-01-01",
+        "deathDate": "1959-07-16"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934"
+    }
+}

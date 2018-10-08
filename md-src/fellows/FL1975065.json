@@ -1,0 +1,21 @@
+{
+    "id": "FL1975065",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Codambathur Tiruvenkatacharlu",
+            "last": "Rajagopal",
+            "display": "Rajagopal, Dr Codambathur Tiruvenkatacharlu"
+        },
+        "sex": "M",
+        "birthDate": "1903-09-08",
+        "deathDate": "1978-04-25",
+        "honours": "FNA",
+        "specialization": "Pure Mathematics, Classical Analysis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1975"
+    }
+}

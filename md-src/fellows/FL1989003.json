@@ -1,0 +1,33 @@
+{
+    "id": "FL1989003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dwarka Nath",
+            "last": "Bose",
+            "display": "Bose, Prof. Dwarka Nath"
+        },
+        "sex": "M",
+        "birthDate": "1938-06-15",
+        "degree": "Ph.D. (Reading)",
+        "honours": "FNASc",
+        "specialization": "Optoelectronics, Semiconductor Materials & Devices, VLSI Technology, Solar Photovoltaics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "7/2, Short Street",
+        "city": "Kolkata 700 016",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2287 5679",
+            "mobile": "98308 57849"
+        },
+        "email": {
+            "personal": "dwarkabose322@gmail.com"
+        }
+    }
+}

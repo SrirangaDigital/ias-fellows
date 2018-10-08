@@ -1,0 +1,18 @@
+{
+    "id": "FH1986028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Erwing",
+            "last": "Bunning",
+            "display": "Bunning, Prof. Erwing"
+        },
+        "sex": "M",
+        "birthDate": "1906-01-23",
+        "deathDate": "1990-10-04"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1986"
+    }
+}

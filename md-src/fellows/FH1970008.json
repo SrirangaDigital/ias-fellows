@@ -1,0 +1,18 @@
+{
+    "id": "FH1970008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arne Vilhelm",
+            "last": "Engstrom",
+            "display": "Engstrom, Prof. Arne Vilhelm"
+        },
+        "sex": "M",
+        "birthDate": "1920-05-15",
+        "deathDate": "1996-07-19"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1970"
+    }
+}

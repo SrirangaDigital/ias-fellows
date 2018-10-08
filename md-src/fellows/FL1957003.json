@@ -1,0 +1,21 @@
+{
+    "id": "FL1957003",
+    "profile": {
+        "name": {
+            "first": "Janardhana Venkatesh",
+            "last": "Bhat",
+            "display": "Bhat,  Janardhana Venkatesh"
+        },
+        "sex": "M",
+        "birthDate": "1913-03-03",
+        "deathDate": "1985-12-21",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Microbiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1957"
+    }
+}

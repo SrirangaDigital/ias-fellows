@@ -1,0 +1,34 @@
+{
+    "id": "FL1986007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Krishnaswamy",
+            "last": "Kasturirangan",
+            "display": "Kasturirangan, Dr Krishnaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1940-10-24",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc, FTWAS, FNAE",
+        "specialization": "High Energy Astronomy, Space Systems & Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1986",
+        "councilservice": "Council Service: 1995-2006; Vice-President: 1998-2000; President: 2001-2003"
+    },
+    "contact": {
+        "address": "Emeritus Professor, National Institute of Advanced Studies, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2361 0522",
+            "fax": "(080) 2361 0492"
+        },
+        "email": {
+            "personal": "krangank@gmail.com"
+        }
+    }
+}

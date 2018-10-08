@@ -1,0 +1,36 @@
+{
+    "id": "FL2017023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Raman Pillai Indusekharan Nair",
+            "last": "Sujith",
+            "display": "Sujith, Prof. Raman Pillai Indusekharan Nair"
+        },
+        "sex": "M",
+        "birthDate": "1967-05-11",
+        "degree": "Ph.D. (Georgia Inst. Tech.)",
+        "honours": "FNAE",
+        "specialization": "Thermoaccoustic Instability, Combustion, Fluid Mechanics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Department of Aerospace Engineering, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4012",
+            "residence": "(044) 2257 6012",
+            "mobile": "90030 67438",
+            "fax": "(044) 2257 4002"
+        },
+        "email": {
+            "official": "sujith@iitm.ac.in"
+        },
+        "url": "http://www.ae.iitm.ac.in/~sujith/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1993024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Neithalath",
+            "last": "Mohan Kumar",
+            "display": "Mohan Kumar, Prof. Neithalath"
+        },
+        "sex": "M",
+        "birthDate": "1951-05-12",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Commutative Algebra and Algebraic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Washington University at St. Louis, One Brookings Drive, Campus Box 1146",
+        "city": "St. Louis, MO 63130",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-314) 935 6728",
+            "residence": "(+1-314) 726 2115",
+            "fax": "(+1-314) 935 6839"
+        },
+        "email": {
+            "official": "kumar@wustl.edu"
+        },
+        "url": "http://www.math.wustl.edu/~kumar"
+    }
+}

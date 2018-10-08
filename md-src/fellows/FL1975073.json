@@ -1,0 +1,22 @@
+{
+    "id": "FL1975073",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nivarthi Suryanarayana",
+            "last": "Satya Murthy",
+            "display": "Satya Murthy, Dr Nivarthi Suryanarayana"
+        },
+        "sex": "M",
+        "birthDate": "1936-02-05",
+        "deathDate": "1984-10-08",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Neutron Scattering, Solid State Physics and Magnetism"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1975"
+    }
+}

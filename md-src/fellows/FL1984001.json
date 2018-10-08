@@ -1,0 +1,33 @@
+{
+    "id": "FL1984001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chittranjan",
+            "last": "Bhatia",
+            "display": "Bhatia, Dr Chittranjan"
+        },
+        "sex": "M",
+        "birthDate": "1936-01-01",
+        "degree": "Ph.D. (IARI)",
+        "honours": "FNA, FNAAS, FNASc, FTWAS",
+        "specialization": "Plant Genetics, Plant Breeding and Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "No. 17, Rohini, Plot No. 29-30, Sector 9A, Vashi",
+        "city": "Navi Mumbai 400 703",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2765 5178",
+            "mobile": "98205 02810"
+        },
+        "email": {
+            "personal": "crbhatia.bhatia@gmail.com"
+        }
+    }
+}

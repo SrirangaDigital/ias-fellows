@@ -1,0 +1,31 @@
+{
+    "id": "FL2006024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Surajit",
+            "last": "Sengupta",
+            "display": "Sengupta, Prof. Surajit"
+        },
+        "sex": "M",
+        "birthDate": "1962-12-17",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Condensed Matter Physics, Statistical Mechanics and Materials Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Professor I, Tata Institute of Fundamental Research, 36/P, Gopanpally",
+        "city": "Hyderabad 500 107",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2020 3089"
+        },
+        "email": {
+            "official": "surajit@tifrh.res.in"
+        }
+    }
+}

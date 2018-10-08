@@ -1,0 +1,19 @@
+{
+    "id": "FL1934118",
+    "profile": {
+        "name": {
+            "first": "Kapilram",
+            "last": "Vakil",
+            "display": "Vakil,  Kapilram"
+        },
+        "sex": "M",
+        "birthDate": "1884-05-28",
+        "deathDate": "1946-01-28",
+        "specialization": "Chemical Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934"
+    }
+}

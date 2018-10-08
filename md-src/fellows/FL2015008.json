@@ -1,0 +1,37 @@
+{
+    "id": "FL2015008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gautam",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Prof. Gautam"
+        },
+        "sex": "M",
+        "birthDate": "1966-02-20",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Particle Physics Phenomenology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Saha Institute of Nuclear Physics, 1/AF, Bidhan Nagar",
+        "city": "Kolkata 700 064",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2337 5345-49/2355",
+            "residence": "(033) 2499 6314",
+            "mobile": "94330 28531",
+            "fax": "(033) 2337 4637"
+        },
+        "email": {
+            "official": "gautam.bhattacharyya@saha.ac.in",
+            "personal": "gautam.sinp@gmail.com"
+        },
+        "url": "http://www.saha.ac.in/web/theory-personal-page?mid=70&tab=tab1"
+    }
+}

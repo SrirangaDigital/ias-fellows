@@ -1,0 +1,35 @@
+{
+    "id": "FL2003009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sharika Nandan",
+            "last": "Kaul",
+            "display": "Kaul, Prof. Sharika Nandan"
+        },
+        "sex": "M",
+        "birthDate": "1949-08-04",
+        "degree": "D.IIT, Ph.D. (IIT, Kharagpur)",
+        "honours": "FNA",
+        "specialization": "Condensed Matter Physics, Phase Transitions & Critical Phenomena, Disordered Systems Percolation and Magnetism & Magnetic Materials, Physics at Nanometer Length Scale"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, School of Physics, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4322",
+            "residence": "(040) 6748 5642",
+            "fax": "(040) 2301 0227"
+        },
+        "email": {
+            "official": "sn.kaul@uohyd.ac.in",
+            "personal": "kaul.sn@gmail.com"
+        }
+    }
+}

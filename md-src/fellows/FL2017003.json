@@ -1,0 +1,35 @@
+{
+    "id": "FL2017003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mitali",
+            "last": "Chatterjee",
+            "display": "Chatterjee, Prof. Mitali"
+        },
+        "sex": "F",
+        "birthDate": "1960-11-02",
+        "degree": "MD (Calcutta), Ph.D. (Jadavpur)",
+        "honours": "FNASc, FRCP (London)",
+        "specialization": "Pharmacology, Immunology, Parasitology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Department of Pharmacology, Institute of PG Medical Education & Research, 244-B, Acharya JC Bose Road",
+        "city": "Kolkata 700 020",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2204 1428",
+            "residence": "(033) 2454 4567",
+            "mobile": "98300 31523",
+            "fax": "(033) 2223 4135"
+        },
+        "email": {
+            "personal": "ilatim@vsnl.net,ilatimc@gmail.com"
+        }
+    }
+}

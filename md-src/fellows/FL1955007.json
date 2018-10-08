@@ -1,0 +1,21 @@
+{
+    "id": "FL1955007",
+    "profile": {
+        "name": {
+            "first": "Shimoga Nadiga Gundu",
+            "last": "Rao",
+            "display": "Rao,  Shimoga Nadiga Gundu"
+        },
+        "sex": "M",
+        "birthDate": "1909-11-26",
+        "deathDate": "1985-09-07",
+        "degree": "B.Sc. (Bangalore)",
+        "honours": "FNA",
+        "specialization": "Sugar Technology and Industrial Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1955"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1934055",
+    "profile": {
+        "name": {
+            "first": "Mahadev Atmaram",
+            "last": "Moghe",
+            "display": "Moghe,  Mahadev Atmaram"
+        },
+        "sex": "M",
+        "birthDate": "1896-04-21",
+        "deathDate": "1966-05-12",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Helminthology, Mammalian Reproduction, Embryology, Cytochemistry of Placenta"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934"
+    }
+}

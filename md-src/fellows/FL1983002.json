@@ -1,0 +1,35 @@
+{
+    "id": "FL1983002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramanath",
+            "last": "Cowsik",
+            "display": "Cowsik, Prof. Ramanath"
+        },
+        "sex": "M",
+        "birthDate": "1940-08-29",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Astrophysics, Elementary Particles Cosmology, Gravitation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "Department of Physics, Washington University in St. Louis, Campus Box 1105, One Brookings Drive",
+        "city": "St. Louis, MO 63130-4899",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-314) 935 4493",
+            "residence": "(+1-314) 727 5959",
+            "fax": "(+1-314) 935 6219"
+        },
+        "email": {
+            "official": "cowsik@physics.wustl.edu"
+        },
+        "url": "http://physics.wustl.edu/people/cowsik_ramnath"
+    }
+}

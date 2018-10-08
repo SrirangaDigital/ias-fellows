@@ -1,0 +1,37 @@
+{
+    "id": "FL2014008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Giridhar Udapi Rao",
+            "last": "Kulkarni",
+            "display": "Kulkarni, Prof. Giridhar Udapi Rao"
+        },
+        "sex": "M",
+        "birthDate": "1963-07-22",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Nanomaterials, Nanolithography & Fabrications, Molecular Crystals & Properties"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Director, Centre for Nano & Soft Matter Sciences, P.B. No. 1329, Jalahalli",
+        "city": "Bengaluru 560 013",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2308 4201, (080) 2838 1347",
+            "residence": "(080) 2363 2814",
+            "mobile": "94488 25386",
+            "fax": "(080) 2838 2044"
+        },
+        "email": {
+            "official": "guk@cens.res.in",
+            "personal": "gukulk@gmail.com"
+        },
+        "url": "http://www.jncasr.ac.in/kulkarni/"
+    }
+}

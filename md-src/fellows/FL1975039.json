@@ -1,0 +1,26 @@
+{
+    "id": "FL1975039",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Atmaram Bhairav",
+            "last": "Joshi",
+            "display": "Joshi, Dr Atmaram Bhairav"
+        },
+        "sex": "M",
+        "birthDate": "1916-11-17",
+        "deathDate": "2010-07-03",
+        "degree": "Ph.D. (Cantab)",
+        "honours": "FNA",
+        "specialization": "Crop Breeding and Genetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "10, Aboli Apartments, 102/103, Erandavana, Law College Road",
+        "city": "Pune 411 004"
+    }
+}

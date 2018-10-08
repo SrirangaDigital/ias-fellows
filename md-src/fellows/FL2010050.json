@@ -1,0 +1,32 @@
+{
+    "id": "FL2010050",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Apurva",
+            "last": "Sarin",
+            "display": "Sarin, Dr Apurva"
+        },
+        "sex": "F",
+        "birthDate": "1962-03-01",
+        "degree": "Ph.D. (JNU)",
+        "specialization": "Immunology, Cell Biology, Apoptosis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Institute of for Stem Cell Biology and Regenerative Medicine, GKVK Campus",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2366 6080",
+            "fax": "(080) 2366 6462"
+        },
+        "email": {
+            "official": "sarina@ncbs.res.in,sarin@instem.res.in"
+        }
+    }
+}

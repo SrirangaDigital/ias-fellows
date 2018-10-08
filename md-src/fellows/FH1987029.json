@@ -1,0 +1,29 @@
+{
+    "id": "FH1987029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paul",
+            "last": "Hagenmuller",
+            "display": "Hagenmuller, Prof. Paul"
+        },
+        "sex": "M",
+        "birthDate": "1921-08-03"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Honorary Director, ICMCB-CNRS, Bordeaux University, 87 Avenue Dr Albert Schweitzer",
+        "city": "33608 Pessac Cedex",
+        "country": "France",
+        "telephone": {
+            "office": "(+33-5) 40 00 63 25",
+            "fax": "(+33-5) 40 00 63 24"
+        },
+        "email": {
+            "official": "hagen@icmcb.u-bordeaux.fr"
+        }
+    }
+}

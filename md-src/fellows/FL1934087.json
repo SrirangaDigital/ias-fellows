@@ -1,0 +1,20 @@
+{
+    "id": "FL1934087",
+    "profile": {
+        "name": {
+            "first": "Thomas",
+            "last": "Royds",
+            "display": "Royds,  Thomas"
+        },
+        "sex": "M",
+        "birthDate": "1884-04-11",
+        "deathDate": "1955-05-01",
+        "honours": "FNA",
+        "specialization": "Astronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FH1992047",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Henryk",
+            "last": "Ratajczak",
+            "display": "Ratajczak, Prof. Henryk"
+        },
+        "sex": "M",
+        "birthDate": "1932-09-30"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Vice President, Faculty of Chemistry, University of Wroclaw, 14, Joliet-Curie Street",
+        "city": "50-383 Wroclaw",
+        "country": "Poland",
+        "telephone": {
+            "office": "(+48-71) 375 73 18",
+            "residence": "(+48-71) 351 98 99",
+            "fax": "(+48-71) 328 23 48"
+        },
+        "email": {
+            "official": "hr@wchuwr.chem.uni.wroc.pl"
+        }
+    }
+}

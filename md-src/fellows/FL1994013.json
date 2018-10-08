@@ -1,0 +1,31 @@
+{
+    "id": "FL1994013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Satish Kumar",
+            "last": "Malik",
+            "display": "Malik, Prof. Satish Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1943-02-22",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Rare Earth Magnetism, Superconductivity and Strongly Correlated Electron Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Visiting Professor, Centro Internacional de Fisica da Materia Condensada, (CIFMC) ICCMP, Universidade de Brasilia, C.Postal 04513",
+        "city": "70904-970 Brasilia DF",
+        "country": "Brazil",
+        "telephone": {
+            "office": "(+55-61) 3307 2571/24",
+            "mobile": "(+55-61) 8495 0369",
+            "fax": "(+55-61) 3307 1771"
+        }
+    }
+}

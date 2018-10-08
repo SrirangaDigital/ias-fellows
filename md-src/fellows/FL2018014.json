@@ -1,0 +1,35 @@
+{
+    "id": "FL2018014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudipta",
+            "last": "Maiti",
+            "display": "Maiti, Prof. Sudipta"
+        },
+        "sex": "M",
+        "birthDate": "1964-08-16",
+        "degree": "Ph.D. (Pennsylvania)",
+        "specialization": "Microscopy, Optical Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Chemical Sciences, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2539",
+            "residence": "(022) 2280 4980",
+            "mobile": "98694 61384",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "personal": "sudipta.maiti@gmail.com"
+        },
+        "url": "http://www.biophotonics.co.in"
+    }
+}

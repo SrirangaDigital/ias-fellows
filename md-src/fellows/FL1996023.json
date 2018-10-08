@@ -1,0 +1,35 @@
+{
+    "id": "FL1996023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pendyala Balarama",
+            "last": "Rao",
+            "display": "Rao, Dr Pendyala Balarama"
+        },
+        "sex": "M",
+        "birthDate": "1938-02-15",
+        "degree": "Ph.D. (Andhra)",
+        "specialization": "Space Physics, Radiowave Propagation and Radar Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Member, ADCOS-DOS, National Remote Sensing Centre, Bldg No. 10, Balanagar",
+        "city": "Hyderabad 500 037",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2388 4020",
+            "residence": "(040) 2300 3888",
+            "mobile": "97047 52569",
+            "fax": "(040) 2387 7210"
+        },
+        "email": {
+            "official": "rao_pb@nrsc.gov.in",
+            "personal": "pbrao_nmrf@yahoo.co.in"
+        }
+    }
+}

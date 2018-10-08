@@ -1,0 +1,34 @@
+{
+    "id": "FL1992003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asha",
+            "last": "Chandola-Saklani",
+            "display": "Chandola-Saklani, Prof. Asha"
+        },
+        "sex": "F",
+        "birthDate": "1947-02-03",
+        "degree": "Ph.D. (Banaras)",
+        "specialization": "Ornithology, Conservation Biology and Endocrinology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Apeejay Svran Institute of Biosciences and Clinical Research, Plot 26, Sector 32",
+        "city": "Gurgaon 122 001",
+        "state": "Haryana",
+        "telephone": {
+            "office": "(0124) 428 6870, (0124) 428 6874",
+            "residence": "(011) 4563 9301",
+            "mobile": "99588 85335"
+        },
+        "email": {
+            "official": "ashachandola@apeejay.edu",
+            "personal": "ashachandola@gmail.com"
+        }
+    }
+}

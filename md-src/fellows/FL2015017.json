@@ -1,0 +1,35 @@
+{
+    "id": "FL2015017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Debashish",
+            "last": "Goswami",
+            "display": "Goswami, Prof. Debashish"
+        },
+        "sex": "M",
+        "birthDate": "1972-10-30",
+        "degree": "Ph.D. (ISI, Delhi)",
+        "specialization": "Noncommutative Geometry, Quantum Groups, Operator Algebra"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Stat-Math Unit, Indian Statistical Institute, 203, BT Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2577 3420",
+            "residence": "(033) 2381 5643",
+            "mobile": "98364 89980",
+            "fax": "(033) 2577 3071"
+        },
+        "email": {
+            "official": "goswamid@isical.ac.in",
+            "personal": "debashish_goswami@yahoo.co.in"
+        }
+    }
+}

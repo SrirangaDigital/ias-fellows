@@ -1,0 +1,37 @@
+{
+    "id": "FL2016017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amitava",
+            "last": "Patra",
+            "display": "Patra, Prof. Amitava"
+        },
+        "sex": "M",
+        "birthDate": "1965-04-14",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FRSC",
+        "specialization": "Nanoscience, Spectroscopy Photophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Materials Science, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971",
+            "residence": "(033) 2484 4124",
+            "mobile": "94334 79982",
+            "fax": "(033) 2483 6561"
+        },
+        "email": {
+            "official": "msap@iacs.res.in",
+            "personal": "amitavapatra.patra@gmail.com"
+        },
+        "url": "http://www.iacs.res.in/matse/msap/"
+    }
+}

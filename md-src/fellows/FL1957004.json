@@ -1,0 +1,27 @@
+{
+    "id": "FL1957004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thamarapu Vedantha",
+            "last": "Desikachary",
+            "display": "Desikachary, Prof. Thamarapu Vedantha"
+        },
+        "sex": "M",
+        "birthDate": "1919-09-18",
+        "deathDate": "2005-11-05",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Phycology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1957"
+    },
+    "contact": {
+        "address": "67, Palm Beach Dr., Patterson Lakes",
+        "city": "Victoria 3197",
+        "country": "Australia"
+    }
+}

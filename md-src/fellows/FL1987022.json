@@ -1,0 +1,35 @@
+{
+    "id": "FL1987022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Deepak Kumar",
+            "display": "Deepak Kumar, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1946-04-03",
+        "deathDate": "2016-01-25",
+        "degree": "Ph.D.(Pennsylvania)",
+        "specialization": "Condensed Matter Physics, Quantum Mechanics and Statistical Mechanics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Raja Ramanna Fellow, School of Physical Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2673 8810",
+            "residence": "(0120) 713 2542",
+            "mobile": "98100 98971",
+            "fax": "(011) 2674 1537"
+        },
+        "email": {
+            "official": "dk0700@mail.jnu.ac.in",
+            "personal": "dkjnu@hotmail.com"
+        }
+    }
+}

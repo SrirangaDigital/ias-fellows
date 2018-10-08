@@ -1,0 +1,36 @@
+{
+    "id": "FL2001008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shyam",
+            "last": "Lal",
+            "display": "Lal, Prof. Shyam"
+        },
+        "sex": "M",
+        "birthDate": "1951-12-25",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc",
+        "specialization": "Ozone & Trace Gases for Atmospheric Processes and Environmental & Climatic Changes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4938",
+            "residence": "(079) 2745 3120",
+            "mobile": "94276 27076",
+            "fax": "(079) 2631 4659"
+        },
+        "email": {
+            "official": "shyam@prl.res.in",
+            "personal": "shyamprl@gmail.com"
+        }
+    }
+}

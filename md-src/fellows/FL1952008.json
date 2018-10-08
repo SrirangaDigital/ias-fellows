@@ -1,0 +1,19 @@
+{
+    "id": "FL1952008",
+    "profile": {
+        "name": {
+            "first": "S Raghavender",
+            "last": "Rao",
+            "display": "Rao,  S Raghavender"
+        },
+        "sex": "M",
+        "deathDate": "1954-00-00",
+        "specialization": "Epidemiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1952",
+        "councilservice": "1940-56"
+    }
+}

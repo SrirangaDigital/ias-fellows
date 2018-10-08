@@ -1,0 +1,35 @@
+{
+    "id": "FL2016023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Sanjay Kumar",
+            "display": "Sanjay Kumar, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1965-01-01",
+        "degree": "Ph.D. (Banaras)",
+        "specialization": "Condensed Matter Theory, Biological Physics, Statistical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Physics, Banaras Hindu University",
+        "city": "Varanasi 221 005",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0542) 670 1552",
+            "residence": "(0542) 257 5896",
+            "mobile": "94515 85427",
+            "fax": "(0542) 236 8390"
+        },
+        "email": {
+            "official": "ksanjay@bhu.ac.in",
+            "personal": "yashankit@yahoo.com"
+        },
+        "url": "http://bhu.ac.in/science/physics/skumar.php"
+    }
+}

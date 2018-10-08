@@ -1,0 +1,35 @@
+{
+    "id": "FL2014019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ravi Achutha",
+            "last": "Rao",
+            "display": "Rao, Prof. Ravi Achutha"
+        },
+        "sex": "M",
+        "birthDate": "1954-04-14",
+        "degree": "Ph.D. (TIFR)",
+        "honours": "FNA",
+        "specialization": "Classical Algebraic K-Theory, Commutative Algebra, Linear Algebra"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Professor H, School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2470",
+            "residence": "(022) 2430 9827",
+            "mobile": "98333 63678",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "ravi@math.tifr.res.in"
+        }
+    }
+}

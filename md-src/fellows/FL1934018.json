@@ -1,0 +1,20 @@
+{
+    "id": "FL1934018",
+    "profile": {
+        "name": {
+            "first": "Jahangir Fardunji",
+            "last": "Dastur",
+            "display": "Dastur,  Jahangir Fardunji"
+        },
+        "sex": "M",
+        "birthDate": "1886-09-10",
+        "deathDate": "1971-05-11",
+        "honours": "FNA",
+        "specialization": "Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1939007",
+    "profile": {
+        "name": {
+            "first": "Tupil Srinivasa",
+            "last": "Raghavan",
+            "display": "Raghavan,  Tupil Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1905-09-29",
+        "deathDate": "1986-01-30",
+        "degree": "Ph.D. (London)",
+        "specialization": "Cytomorphology, Cytogenetics and Cytotaxonomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1939",
+        "councilservice": "1946-49"
+    }
+}

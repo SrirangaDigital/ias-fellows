@@ -1,0 +1,34 @@
+{
+    "id": "FL1992029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Suryanarayana Sastry",
+            "last": "Ramasesha",
+            "display": "Ramasesha, Prof. Suryanarayana Sastry"
+        },
+        "sex": "M",
+        "birthDate": "1950-01-16",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Many-Body Quantum Chemistry, Organic Solids, Molecular Electronics, Molecular Magnetism and Nonlinear Optics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Professor, Solid State & Structural Chemistry Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2925",
+            "mobile": "98452 12356",
+            "fax": "(080) 2360 1310"
+        },
+        "email": {
+            "official": "ramasesh@iisc.ac.in"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1993009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Praveen",
+            "last": "Chaddah",
+            "display": "Chaddah, Dr Praveen"
+        },
+        "sex": "M",
+        "birthDate": "1951-12-20",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Superconductivity, Low Temperature Physics and Phase Transitions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Flat 702, Block 24, Heritage City, MG Road (near Metro Station)",
+        "city": "Gurgaon 122 002",
+        "state": "Haryana",
+        "telephone": {
+            "residence": "(0124) 428 0243",
+            "mobile": "96301 28811"
+        },
+        "email": {
+            "personal": "chaddah.praveen@gmail.com"
+        }
+    }
+}

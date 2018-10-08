@@ -1,0 +1,26 @@
+{
+    "id": "FL1974049",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vishnu Ganesh",
+            "last": "Bhide",
+            "display": "Bhide, Dr Vishnu Ganesh"
+        },
+        "sex": "M",
+        "birthDate": "1925-08-08",
+        "deathDate": "2006-06-25",
+        "degree": "Ph.D. (Nagpur and London)",
+        "honours": "FNA, FNASc",
+        "specialization": "Solid State Physics and Materials Science"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Department of Physics, University of Pune",
+        "city": "Pune 411 007"
+    }
+}

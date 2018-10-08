@@ -1,0 +1,19 @@
+{
+    "id": "FH1935066",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hans",
+            "last": "Fischer",
+            "display": "Fischer, Prof. Hans"
+        },
+        "sex": "M",
+        "birthDate": "1881-07-27",
+        "deathDate": "1945-03-31",
+        "honours": "Nobel Laureate (Chemistry) - 1930"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

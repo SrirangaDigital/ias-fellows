@@ -1,0 +1,21 @@
+{
+    "id": "FL1934010",
+    "profile": {
+        "name": {
+            "first": "Sohan Lal",
+            "last": "Bhatia",
+            "display": "Bhatia,  Sohan Lal"
+        },
+        "sex": "M",
+        "birthDate": "1891-08-05",
+        "deathDate": "1981-07-16",
+        "degree": "M.D. (Cantab)",
+        "specialization": "Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934",
+        "councilservice": "1934-35, 1938-43, 1959-61; Vice President 1938-43"
+    }
+}

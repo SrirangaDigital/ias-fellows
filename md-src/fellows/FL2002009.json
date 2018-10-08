@@ -1,0 +1,32 @@
+{
+    "id": "FL2002009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Thutupalli Gopala Krishna",
+            "last": "Murty",
+            "display": "Murty, Dr Thutupalli Gopala Krishna"
+        },
+        "sex": "M",
+        "birthDate": "1944-02-11",
+        "degree": "Ph.D. (Adelaide)",
+        "specialization": "Optical Engineering, Thin Film Technology, Electro-Optical Instrumentation and Atmospheric Science Technologies"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "848, 8th B Main, 17th Cross, ISRO Layout",
+        "city": "Bengaluru 560 078",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2686 0808",
+            "mobile": "99011 55660"
+        },
+        "email": {
+            "personal": "gkmtpalli@hotmail.com,murty.tgk@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1935014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sasindra Chandra",
+            "last": "Dhar",
+            "display": "Dhar, Dr Sasindra Chandra"
+        },
+        "sex": "M",
+        "deathDate": "1947-10-30",
+        "degree": "D.Sc. (Calcutta, Edinburgh)",
+        "honours": "FNA",
+        "specialization": "Applied Mathematics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1935"
+    }
+}

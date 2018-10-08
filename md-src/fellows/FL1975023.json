@@ -1,0 +1,26 @@
+{
+    "id": "FL1975023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kadavil Poulose",
+            "last": "Abraham",
+            "display": "Abraham, Prof Kadavil Poulose"
+        },
+        "sex": "M",
+        "birthDate": "1920-08-28",
+        "deathDate": "2011-12-23",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA",
+        "specialization": "Extractive Metallurgy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "2, Walker Lane, Richmond Town",
+        "city": "Bengaluru 560 025"
+    }
+}

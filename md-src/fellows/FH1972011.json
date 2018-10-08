@@ -1,0 +1,19 @@
+{
+    "id": "FH1972011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hannes Olof Gosta",
+            "last": "Alfven",
+            "display": "Alfven, Prof. Hannes Olof Gosta"
+        },
+        "sex": "M",
+        "birthDate": "1908-05-30",
+        "deathDate": "1995-04-02",
+        "honours": "Nobel Laureate (Physics) - 1970"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1972"
+    }
+}

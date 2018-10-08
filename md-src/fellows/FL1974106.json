@@ -1,0 +1,26 @@
+{
+    "id": "FL1974106",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ajit Ram",
+            "last": "Verma",
+            "display": "Verma, Dr Ajit Ram"
+        },
+        "sex": "M",
+        "birthDate": "1921-09-20",
+        "deathDate": "2009-03-04",
+        "degree": "D.Sc. (London), D.Sc. (h.c.)",
+        "honours": "FNA, FNASc",
+        "specialization": "Solid State Physics, Optics and Crystallography"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "160, Deepali, Pitampura",
+        "city": "Delhi 110 034"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL1975010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Satish Chandra",
+            "last": "Maheshwari",
+            "display": "Maheshwari, Prof. Satish Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1933-10-04",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc",
+        "specialization": "Physiology & Biochemistry of Plant Growth & Development and Plant Molecular Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "251/56, Prathap Enclave, Haldighati Road",
+        "city": "Jaipur 302 033",
+        "state": "Rajasthan",
+        "telephone": {
+            "mobile": "77425 77710"
+        },
+        "email": {
+            "personal": "profsatishcmaheshwari@gmail.com"
+        }
+    }
+}

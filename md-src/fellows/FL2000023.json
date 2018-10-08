@@ -1,0 +1,33 @@
+{
+    "id": "FL2000023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashok Kumar",
+            "last": "Singhvi",
+            "display": "Singhvi, Prof. Ashok Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-02",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Quaternary Geochronology, Earth Surface Processes and Past Climates Tectonics and Radiation Effects in Minerals"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Honorary Scientist, Atmospheric, Molecular & Optical Pysics Divn., Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "(079) 2685 5831",
+            "mobile": "90990 61962"
+        },
+        "email": {
+            "personal": "2aksprl11@gmail.com"
+        }
+    }
+}

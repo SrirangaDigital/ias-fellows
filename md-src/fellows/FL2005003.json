@@ -1,0 +1,35 @@
+{
+    "id": "FL2005003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Janendra Kumar",
+            "last": "Batra",
+            "display": "Batra, Prof. Janendra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1957-01-28",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNASc",
+        "specialization": "Molecular Biology, and Protein Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Head, Department of Biochemistry, School of Chemical & Life Sciences, Jamia Hamdard",
+        "city": "New Delhi 110 062",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2605 9688/5513",
+            "mobile": "98714 99411",
+            "fax": "(011) 2605 9663"
+        },
+        "email": {
+            "official": "jkbatra@jamiahamdard.ac.in"
+        },
+        "url": "http://www.jamiahamdard.ac.in/profile_bio_chem/profile_j_batra.pdf"
+    }
+}

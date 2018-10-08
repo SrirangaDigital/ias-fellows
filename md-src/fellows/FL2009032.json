@@ -1,0 +1,25 @@
+{
+    "id": "FL2009032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Parag Prabhakar",
+            "last": "Sadhale",
+            "display": "Sadhale, Prof. Parag Prabhakar"
+        },
+        "sex": "M",
+        "birthDate": "1960-06-16",
+        "deathDate": "2012-01-20",
+        "degree": "Ph.D. (Rochester)",
+        "specialization": "Molecular Biology, Transcriptional Regulation in Eukaryotes"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Microbiology & Cell Biology Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

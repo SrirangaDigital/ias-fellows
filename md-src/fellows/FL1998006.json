@@ -1,0 +1,32 @@
+{
+    "id": "FL1998006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subhash",
+            "last": "Chaturvedi",
+            "display": "Chaturvedi, Prof. Subhash"
+        },
+        "sex": "M",
+        "birthDate": "1950-12-08",
+        "degree": "D.Phil. (Waikato)",
+        "honours": "FNASc",
+        "specialization": "Mathematical Physics, Quantum Optics, Quantum Information and Computation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science Education, & Research, Indore Bypass Road, Bhauri",
+        "city": "Bhopal 462 066",
+        "state": "M.P.",
+        "telephone": {
+            "mobile": "99596 13709"
+        },
+        "email": {
+            "personal": "scifi103@yahoo.com"
+        }
+    }
+}

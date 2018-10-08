@@ -1,0 +1,30 @@
+{
+    "id": "FL1974001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Amarjit Singh",
+            "display": "Amarjit Singh, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1924-11-19",
+        "degree": "Ph.D. (Harvard)",
+        "specialization": "Millimeter Wave Tubes, Microwave Tubes and Microwave Electronics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "12, Auburn Court",
+        "city": "Vernon Hills, IL 60061",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-847) 247 9260"
+        },
+        "email": {
+            "official": "amarjitsingh@ieee.org"
+        }
+    }
+}

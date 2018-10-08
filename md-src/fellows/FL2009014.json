@@ -1,0 +1,36 @@
+{
+    "id": "FL2009014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rentala",
+            "last": "Madhubala",
+            "display": "Madhubala, Prof. Rentala"
+        },
+        "sex": "F",
+        "birthDate": "1952-08-08",
+        "degree": "Ph.D. (Hyderabad)",
+        "honours": "FNASc, FNA, FNAMS",
+        "specialization": "Molecular Parasitology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "School of Life Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 2630",
+            "residence": "(011) 2625 3934",
+            "mobile": "98102 91801",
+            "fax": "(011) 2674 2630"
+        },
+        "email": {
+            "official": "madhubala@mail.jnu.ac.in",
+            "personal": "rentala@outlook.com"
+        }
+    }
+}

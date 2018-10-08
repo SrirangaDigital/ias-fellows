@@ -1,0 +1,26 @@
+{
+    "id": "FL1960004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tansukh Harshadray",
+            "last": "Rindani",
+            "display": "Rindani, Dr Tansukh Harshadray"
+        },
+        "sex": "M",
+        "birthDate": "1917-04-17",
+        "deathDate": "2012-10-24",
+        "degree": "M.D., D.Sc. (Bombay)",
+        "honours": "FAMS",
+        "specialization": "Endocrinology, Physiology and Stress"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1960"
+    },
+    "contact": {
+        "address": "2/52, Gulmohar, New MIG Colony, Kher Nagar, Bandra East",
+        "city": "Mumbai 400 051"
+    }
+}

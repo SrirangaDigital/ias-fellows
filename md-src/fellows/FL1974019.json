@@ -1,0 +1,33 @@
+{
+    "id": "FL1974019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudhir Pradyumna",
+            "last": "Pandya",
+            "display": "Pandya, Prof. Sudhir Pradyumna"
+        },
+        "sex": "M",
+        "birthDate": "1928-09-11",
+        "degree": "Ph.D. (Rochester)",
+        "honours": "FNA",
+        "specialization": "Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "26, Mithila Society",
+        "city": "Ahmedabad 380 015",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "74050 93444",
+            "mobile": "99093 78130"
+        },
+        "email": {
+            "personal": "sudhir.pandya@yahoo.com"
+        }
+    }
+}

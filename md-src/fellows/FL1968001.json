@@ -1,0 +1,20 @@
+{
+    "id": "FL1968001",
+    "profile": {
+        "name": {
+            "first": "Harshadray Ishverlal",
+            "last": "Jhala",
+            "display": "Jhala,  Harshadray Ishverlal"
+        },
+        "sex": "M",
+        "birthDate": "1919-01-13",
+        "deathDate": "1984-08-29",
+        "degree": "M.D. (London)",
+        "specialization": "Microbiology, Immunology, Bacteriology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1968"
+    }
+}

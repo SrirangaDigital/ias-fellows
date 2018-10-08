@@ -1,0 +1,37 @@
+{
+    "id": "FL1993037",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dipankar Das",
+            "last": "Sarma",
+            "display": "Sarma, Prof. Dipankar Das"
+        },
+        "sex": "M",
+        "birthDate": "1955-09-15",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Strongly Interacting Electron Systems, Disordered Systems, Nanomaterials and Energy Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1993",
+        "councilservice": "Council Service: 2016-"
+    },
+    "contact": {
+        "address": "Professor, Solid State & Structural Chemistry Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 7576, (080) 2293 2945",
+            "residence": "(080) 2360 3061",
+            "fax": "(080) 2360 1310"
+        },
+        "email": {
+            "official": "sarma@iisc.ac.in",
+            "personal": "sarma.dd@gmail.com"
+        },
+        "url": "http://sscu.iisc.ac.in/people/DDsarma/"
+    }
+}

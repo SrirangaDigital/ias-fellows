@@ -1,0 +1,35 @@
+{
+    "id": "FL2004011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Makarla Udaya",
+            "last": "Kumar",
+            "display": "Kumar, Prof. Makarla Udaya"
+        },
+        "sex": "M",
+        "birthDate": "1946-09-15",
+        "degree": "Ph.D. (Acad. Sci., USSR)",
+        "honours": "FNAAS, FNA, FNASc",
+        "specialization": "Molecular Basis of Stress Resistance, Physiology of Water Use Efficiency in Plants and Canopy Photosynthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Professor, Department of Crop Physiology, University of Agricultural Sciences, GKVK",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2363 6713/25, 2333 0153/355",
+            "residence": "(080) 2347 4560, (080) 2337 3357",
+            "mobile": "94483 76357",
+            "fax": "(080) 2363 6713"
+        },
+        "email": {
+            "personal": "udayakumar_m@yahoo.com"
+        }
+    }
+}

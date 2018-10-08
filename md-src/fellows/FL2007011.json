@@ -1,0 +1,35 @@
+{
+    "id": "FL2007011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashok",
+            "last": "Jhunjhunwala",
+            "display": "Jhunjhunwala, Prof. Ashok"
+        },
+        "sex": "M",
+        "birthDate": "1953-06-22",
+        "degree": "Ph.D. (Maine)",
+        "honours": "FNA, FNASc, FNAE, FIEEE",
+        "specialization": "Telecommunications, Computer Networks and Fibre Optics, Solar DC & UDC Technology, Electric Vehicles"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, Department of Electrical Engineering, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 0120, (044) 2257 4408",
+            "residence": "(044) 2257 0202",
+            "mobile": "98400 16781",
+            "fax": "(044) 2257 0120, (044) 2257 4408"
+        },
+        "email": {
+            "official": "ashok@tenet.res.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2003008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vikram",
+            "last": "Jayaram",
+            "display": "Jayaram, Prof. Vikram"
+        },
+        "sex": "M",
+        "birthDate": "1956-10-03",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "FNASc, FNAE, FNA",
+        "specialization": "Ceramics, Thin Films, Electron Microscopy and Mechanical Properties"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Chairman, Department of Materials Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2263, (080) 2293 3243",
+            "residence": "(080) 2334 5110",
+            "fax": "(080) 2360 0472, (080) 2360 1198"
+        },
+        "email": {
+            "official": "qjayaram@iisc.ac.in"
+        },
+        "url": "http://materials.iisc.ernet.in/~qjayaram/"
+    }
+}

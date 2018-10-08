@@ -1,0 +1,32 @@
+{
+    "id": "FL1990002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Cherukuri Raghavendra",
+            "last": "Babu",
+            "display": "Babu, Dr Cherukuri Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1940-06-30",
+        "degree": "D.Phil. (Calcutta)",
+        "specialization": "Biosystematics, Ecology and Population Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Professor Emeritus, CEMDE, School of Environmental Studies, University of Delhi",
+        "city": "Delhi 110 007",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2766 6237, 2766 7725/1422",
+            "fax": "(011) 2766 6237"
+        },
+        "email": {
+            "personal": "crb26@hotmail.com,crbabu26@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "FL1974079",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amurtur Narayana",
+            "last": "Radhakrishnan",
+            "display": "Radhakrishnan, Dr Amurtur Narayana"
+        },
+        "sex": "M",
+        "birthDate": "1927-05-17",
+        "deathDate": "1990-06-17",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Biochemistry, Enzymology and Biomembrane Transport"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1974"
+    }
+}

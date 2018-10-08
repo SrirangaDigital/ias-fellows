@@ -1,0 +1,33 @@
+{
+    "id": "FL2008004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mammen",
+            "last": "Chandy",
+            "display": "Chandy, Dr Mammen"
+        },
+        "sex": "M",
+        "birthDate": "1949-08-30",
+        "degree": "MD (Madras)",
+        "honours": "FRACP, FRCPA",
+        "specialization": "Hematology, Bone Marrow Transplantation and Molecular Genetics of Blood Diseases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Director, Tata Memorial Centre, 14, Major Arterial Road, New Town, Rajarhat",
+        "city": "Kolkata 700 156",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 6605 7577, (033) 6605 7582",
+            "mobile": "96744 67726"
+        },
+        "email": {
+            "official": "mammen.chandy@tmckolkata.com"
+        }
+    }
+}

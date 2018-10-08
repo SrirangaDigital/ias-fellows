@@ -1,0 +1,27 @@
+{
+    "id": "FL1961002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vasant Shankar",
+            "last": "Huzurbazar",
+            "display": "Huzurbazar, Prof. Vasant Shankar"
+        },
+        "sex": "M",
+        "birthDate": "1919-09-15",
+        "deathDate": "1991-11-15",
+        "degree": "Ph.D. (Cantab)",
+        "honours": "FNA",
+        "specialization": "Mathematical Statistics, Probability Theory and Mathematical Logic"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1961",
+        "councilservice": "1962-67, 1974-76"
+    },
+    "contact": {
+        "address": "Dept. of Statistics & Operations, Research, University of Denver, Denver, Colorado 80208",
+        "city": "USA"
+    }
+}

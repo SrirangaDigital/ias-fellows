@@ -1,0 +1,25 @@
+{
+    "id": "FL1975049",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Madhukar Kapilrai",
+            "last": "Mehta",
+            "display": "Mehta, Dr Madhukar Kapilrai"
+        },
+        "sex": "M",
+        "birthDate": "1927-07-24",
+        "deathDate": "2010-06-28",
+        "degree": "Ph.D. (Florida)",
+        "specialization": "Nuclear & Accelerator Physics, Nuclear Science: Applications, Manpower Development & Training"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "17, Sumeru Twin Bungalows, Vastrapur Road, Bodakdev",
+        "city": "Ahmedabad 380 054"
+    }
+}

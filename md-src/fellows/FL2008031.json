@@ -1,0 +1,29 @@
+{
+    "id": "FL2008031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Venapally",
+            "last": "Suresh",
+            "display": "Suresh, Prof. Venapally"
+        },
+        "sex": "M",
+        "birthDate": "1966-06-20",
+        "degree": "Ph.D. (TIFR)",
+        "specialization": "Algebra, Quadratic Forms & Division Algebras, and Arithmetic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Department of Mathematics & Computer Science, Emory University, 400, Dowman Drive",
+        "city": "Atlanta, GA 30024",
+        "country": "USA",
+        "email": {
+            "official": "suresh@mathcs.emory.edu",
+            "personal": "suresh.venapally@gmail.com"
+        }
+    }
+}

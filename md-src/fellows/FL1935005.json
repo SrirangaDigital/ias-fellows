@@ -1,0 +1,25 @@
+{
+    "id": "FL1935005",
+    "profile": {
+        "name": {
+            "first": "Krishnadas",
+            "last": "Bagchee",
+            "display": "Bagchee,  Krishnadas"
+        },
+        "sex": "M",
+        "birthDate": "1898-01-19",
+        "deathDate": "1973-01-06",
+        "degree": "D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Cytology, Genetics, Timber Pathology, Forest Pathology, Mycology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    },
+    "contact": {
+        "address": "Nandadeep, 63A, Rajpur Road",
+        "city": "Dehra Dun 248 001"
+    }
+}

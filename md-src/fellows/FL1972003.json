@@ -1,0 +1,35 @@
+{
+    "id": "FL1972003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Srinivasan",
+            "last": "Varadarajan",
+            "display": "Varadarajan, Dr Srinivasan"
+        },
+        "sex": "M",
+        "birthDate": "1928-03-31",
+        "degree": "Ph.D. (Delhi and Cantab)",
+        "honours": "D.Sc. (h.c.), D.Litt. (h.c.), FNA, FNAE, FTWAS",
+        "specialization": "Organic & Biological Chemistry, Molecular Biology, Engineering Design Technology Development Transfer, Human Nutrition Policy, Energy Management Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1972",
+        "councilservice": "Council Service:1974-88; Vice-President: 1977-79; President: 1980-82"
+    },
+    "contact": {
+        "address": "4-A, Girdhar Apartments, 28, Feroz Shah Road",
+        "city": "New Delhi 110 001",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2371 2512, (011) 2371 3137",
+            "fax": "(011) 2323 1095"
+        },
+        "email": {
+            "official": "esoffice@insa.nic.in",
+            "personal": "varadar@gmail.com"
+        }
+    }
+}

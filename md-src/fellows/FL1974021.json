@@ -1,0 +1,33 @@
+{
+    "id": "FL1974021",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Trilochan",
+            "last": "Pradhan",
+            "display": "Pradhan, Dr Trilochan"
+        },
+        "sex": "M",
+        "birthDate": "1929-01-03",
+        "degree": "Ph.D. (Chicago)",
+        "specialization": "Elementary Particles & High Energy Physics, Plasma Physics and Atomic Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Institute of Physics, Sachivalaya Marg",
+        "city": "Bhubaneswar 751 005",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 230 1058",
+            "residence": "(0674) 230 0962",
+            "fax": "(0674) 230 0142"
+        },
+        "email": {
+            "official": "pradhan@iopb.res.in"
+        }
+    }
+}

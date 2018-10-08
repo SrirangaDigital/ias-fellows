@@ -1,0 +1,31 @@
+{
+    "id": "FL1993016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Gopal Krishna",
+            "display": "Gopal Krishna, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1948-03-12",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc, FNA",
+        "specialization": "Astronomy, Active Galaxies and Observational Cosmology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "18, cozy Retreat, Road No. 3, Sindh Society, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "98504 15719"
+        },
+        "email": {
+            "personal": "gopaltani@gmail.com"
+        }
+    }
+}

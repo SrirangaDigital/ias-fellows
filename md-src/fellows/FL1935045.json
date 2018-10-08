@@ -1,0 +1,20 @@
+{
+    "id": "FL1935045",
+    "profile": {
+        "name": {
+            "first": "Kalidas",
+            "last": "Sawhney",
+            "display": "Sawhney,  Kalidas"
+        },
+        "sex": "M",
+        "birthDate": "1896-06-04",
+        "deathDate": "1958-00-00",
+        "honours": "FNA",
+        "specialization": "Cotton Research"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    }
+}

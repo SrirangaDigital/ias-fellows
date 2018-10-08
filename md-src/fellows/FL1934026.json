@@ -1,0 +1,19 @@
+{
+    "id": "FL1934026",
+    "profile": {
+        "name": {
+            "first": "A R Berkeley",
+            "last": "Hill",
+            "display": "Hill,  A R Berkeley"
+        },
+        "sex": "M",
+        "birthDate": "1879-12-22",
+        "deathDate": "1944-08-16"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934",
+        "councilservice": "1934-37"
+    }
+}

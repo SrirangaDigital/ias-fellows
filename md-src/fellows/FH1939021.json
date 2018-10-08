@@ -1,0 +1,18 @@
+{
+    "id": "FH1939021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "David Meredith Seares",
+            "last": "Watson",
+            "display": "Watson, Prof. David Meredith Seares"
+        },
+        "sex": "M",
+        "birthDate": "1886-06-18",
+        "deathDate": "1973-07-23"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1939"
+    }
+}

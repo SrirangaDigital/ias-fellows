@@ -1,0 +1,26 @@
+{
+    "id": "FL1961003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Triloki Nath",
+            "last": "Khoshoo",
+            "display": "Khoshoo, Dr Triloki Nath"
+        },
+        "sex": "M",
+        "birthDate": "1927-04-07",
+        "deathDate": "2002-06-11",
+        "degree": "Ph.D. (Panjab)",
+        "honours": "FNA, FNASc",
+        "specialization": "Genetics, Plant Breeding and Environmental Sciences"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1961"
+    },
+    "contact": {
+        "address": "Distinguished Honorary Fellow, Tata Energy Research Institute, Darbari Seth Block, Habitat Centre, Lodi Road",
+        "city": "New Delhi 110 003"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1974085",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thekkepat",
+            "last": "Ramakrishnan",
+            "display": "Ramakrishnan, Prof. Thekkepat"
+        },
+        "sex": "M",
+        "birthDate": "1922-03-14",
+        "deathDate": "2008-02-15",
+        "degree": "Ph.D. (British Columbia)",
+        "honours": "FNA",
+        "specialization": "Microbial Metabolism, Microbial Genetics and Molecular Biology of Tubercle Bacillus"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "71, Sharada Colony, Basaveswaranagar",
+        "city": "Bengaluru 560 079"
+    }
+}

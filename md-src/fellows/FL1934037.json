@@ -1,0 +1,19 @@
+{
+    "id": "FL1934037",
+    "profile": {
+        "name": {
+            "first": "Shiv Ram",
+            "last": "Kashyap",
+            "display": "Kashyap,  Shiv Ram"
+        },
+        "sex": "M",
+        "birthDate": "1882-11-06",
+        "deathDate": "1934-11-26",
+        "specialization": "Liverworts of Western Himalayas"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    }
+}

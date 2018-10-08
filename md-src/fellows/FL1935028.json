@@ -1,0 +1,20 @@
+{
+    "id": "FL1935028",
+    "profile": {
+        "name": {
+            "first": "Karam Chand",
+            "last": "Mehta",
+            "display": "Mehta,  Karam Chand"
+        },
+        "sex": "M",
+        "birthDate": "1892-06-20",
+        "deathDate": "1950-04-08",
+        "honours": "FNA, FNASc",
+        "specialization": "Mycology, Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    }
+}

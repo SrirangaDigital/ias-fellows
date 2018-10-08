@@ -1,0 +1,18 @@
+{
+    "id": "FH1939018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jacques",
+            "last": "Hadamard",
+            "display": "Hadamard, Prof. Jacques"
+        },
+        "sex": "M",
+        "birthDate": "1865-12-08",
+        "deathDate": "1963-10-17"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1939"
+    }
+}

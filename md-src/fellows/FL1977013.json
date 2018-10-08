@@ -1,0 +1,26 @@
+{
+    "id": "FL1977013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Archana",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Archana"
+        },
+        "sex": "F",
+        "birthDate": "1932-02-16",
+        "deathDate": "2008-01-14",
+        "degree": "Ph.D., D.Sc. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant & Human Cytogenetics and Environmental Mutagenesis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "National Environmental Fellow, Department of Botany, University of Calcutta, 35, Ballygunge Circular Road",
+        "city": "Kolkata 700 019"
+    }
+}

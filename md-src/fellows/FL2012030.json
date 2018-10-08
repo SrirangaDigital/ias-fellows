@@ -1,0 +1,37 @@
+{
+    "id": "FL2012030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kuppuswamy",
+            "last": "Porsezian",
+            "display": "Porsezian, Prof. Kuppuswamy"
+        },
+        "sex": "M",
+        "birthDate": "1963-06-05",
+        "deathDate": "2018-08-11",
+        "degree": "Ph.D. (Bharathidasan)",
+        "honours": "FNASc",
+        "specialization": "Nonlinear Solitons, Bose-Einstein Condensates, Solitons, Modulational Instability, Nonlinear Fibre Optics, Partial Differential Equations"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Physics, Pondicherry University, Kalapet",
+        "city": "Puducherry 605 014",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(0413) 265 4403",
+            "residence": "(0413) 235 4518",
+            "mobile": "94425 88553",
+            "fax": "(0413) 265 5183"
+        },
+        "email": {
+            "official": "ponz.phy@pondiuni.edu.in",
+            "personal": "ponzsol@yahoo.com"
+        }
+    }
+}

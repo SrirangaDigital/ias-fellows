@@ -1,0 +1,24 @@
+{
+    "id": "FH1990029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Lord George",
+            "last": "Porter",
+            "display": "Porter, Prof. Lord George"
+        },
+        "sex": "M",
+        "birthDate": "1920-12-06",
+        "deathDate": "2002-08-31",
+        "honours": "O.M., FRS, Nobel Laureate (Chemistry) - 1967"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Chairman, Centre for Photomol. Sci., Dept of Chemistry & Biochemistry, Imperial College of Science,, Technology and Medicine",
+        "city": "London SW7 2AY",
+        "country": "U.K."
+    }
+}

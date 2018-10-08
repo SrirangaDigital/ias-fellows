@@ -1,0 +1,35 @@
+{
+    "id": "FL1999020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chakram Sampathkumaran",
+            "last": "Sundar",
+            "display": "Sundar, Dr Chakram Sampathkumaran"
+        },
+        "sex": "M",
+        "birthDate": "1952-06-23",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNASc, FNA",
+        "specialization": "Condensed Matter Physics, Materials Science, Experimental Techniques of Positron Annihilation Spectroscopy and Infrared Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Director, Materials Science Division, Indira Gandhi Centre for Atomic Research",
+        "city": "Kalpakkam 603 102",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2748 0069, (044) 2748 0081",
+            "residence": "(044) 2748 1192",
+            "mobile": "97905 22807",
+            "fax": "(044) 2748 0081"
+        },
+        "email": {
+            "official": "css@igcar.gov.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1994001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ravindra Eknath",
+            "last": "Amritkar",
+            "display": "Amritkar, Dr Ravindra Eknath"
+        },
+        "sex": "M",
+        "birthDate": "1951-08-19",
+        "degree": "Ph.D. (Bangalore)",
+        "honours": "FNASc",
+        "specialization": "Nonlinear Phenomena, Chaos and Statistical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Visiting Professor, Institute of Infrastructure, Technology, Research, and Management (IITRAM), Near Khokhara Circle",
+        "city": "Ahmedabad 380 026",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 6777 5418",
+            "residence": "(079) 2685 7041",
+            "mobile": "90166 26694"
+        },
+        "email": {
+            "personal": "ravin012@gmail.com"
+        },
+        "url": "http://www.prl.res.in/~amritkar"
+    }
+}

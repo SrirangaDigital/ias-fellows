@@ -1,0 +1,25 @@
+{
+    "id": "FL1974055",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Arkalgud",
+            "last": "Gopalakrishna",
+            "display": "Gopalakrishna, Dr Arkalgud"
+        },
+        "sex": "M",
+        "birthDate": "1922-10-20",
+        "deathDate": "2008-09-20",
+        "degree": "D.Sc. (Mysore)",
+        "specialization": "Mammalian Reproduction & Embryology, Anatomy, Physiology and Biology of Bats"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "c/o Wg Cdr Dr V.G. Vasishta, SBF, Health, 39/4, Shivas, Doddanekundi, Marathahalli Outer Ring Road",
+        "city": "Bengaluru 560 037"
+    }
+}

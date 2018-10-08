@@ -1,0 +1,23 @@
+{
+    "id": "FH1985021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Frank Albert",
+            "last": "Cotton",
+            "display": "Cotton, Prof. Frank Albert"
+        },
+        "sex": "M",
+        "birthDate": "1930-04-09",
+        "deathDate": "2007-02-20"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Texas A & M University",
+        "city": "College Station, TX 77843",
+        "country": "U.S.A."
+    }
+}

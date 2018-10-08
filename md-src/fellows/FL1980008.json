@@ -1,0 +1,30 @@
+{
+    "id": "FL1980008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhamidipati Lakshmidhara Kanakadri",
+            "last": "Somayajulu",
+            "display": "Somayajulu, Prof. Bhamidipati Lakshmidhara Kanakadri"
+        },
+        "sex": "M",
+        "birthDate": "1937-03-05",
+        "deathDate": "2016-12-19",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Nuclear Oceanography, Geochemistry and Cosmic Ray Produced Radioisotopes"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1980"
+    },
+    "contact": {
+        "address": "No. 3, New Aangan Members' Association, Vastrapur",
+        "city": "Ahmedabad 380 015",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "(079) 2674 7807"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1974052",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Erach Hormasji",
+            "last": "Daruwalla",
+            "display": "Daruwalla, Dr Erach Hormasji"
+        },
+        "sex": "M",
+        "birthDate": "1923-10-24",
+        "deathDate": "2012-03-17",
+        "degree": "Ph.D. (Manchester)",
+        "specialization": "Textile Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Mulund Darshan Housing Society, E Wing, Flat No. 139, VII Floor, Mulund Colony, Mulund (West)",
+        "city": "Mumbai 400 082"
+    }
+}

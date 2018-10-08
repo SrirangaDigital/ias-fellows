@@ -1,0 +1,27 @@
+{
+    "id": "FL1966002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sardari Lal",
+            "last": "Malhotra",
+            "display": "Malhotra, Dr Sardari Lal"
+        },
+        "sex": "M",
+        "birthDate": "1919-12-05",
+        "deathDate": "2004-09-10",
+        "degree": "M.B.B.S. (Panjab)",
+        "honours": "FAMS, FRCP (London), FACP (USA), FACC (USA)",
+        "specialization": "Epidemiology and Internal Medicine"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1966"
+    },
+    "contact": {
+        "address": "Embassy of Italy, Renweg, 27",
+        "city": "1030 Wien",
+        "country": "Austria"
+    }
+}

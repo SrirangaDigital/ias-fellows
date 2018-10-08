@@ -1,0 +1,36 @@
+{
+    "id": "FL2004008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tarun",
+            "last": "Kant",
+            "display": "Kant, Prof. Tarun"
+        },
+        "sex": "M",
+        "birthDate": "1946-07-01",
+        "degree": "Ph.D. (IIT, Bombay)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "Solid & Structural Mechanics, Finite Element Methods and Mechanics of Composite Materials & Structures"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Professor Emeritus &INSA Senior Scientist, Department of Civil Engineering, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7310, (022) 2576 7301",
+            "residence": "(022) 2577 1090",
+            "mobile": "99691 64646",
+            "fax": "(022) 2576 7302, (022) 2572 3480"
+        },
+        "email": {
+            "official": "tkant@civil.iitb.ac.in"
+        },
+        "url": "http://www.civil.iitb.ac.in/~tkant"
+    }
+}

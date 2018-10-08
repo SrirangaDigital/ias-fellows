@@ -1,0 +1,26 @@
+{
+    "id": "FL1934014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subramanyan",
+            "last": "Chandrasekhar",
+            "display": "Chandrasekhar, Prof. Subramanyan"
+        },
+        "sex": "M",
+        "birthDate": "1910-10-19",
+        "deathDate": "1995-08-21",
+        "degree": "Sc.D. (Cantab)",
+        "honours": "FNA, FNASc",
+        "specialization": "Theoretical Astrophysics and Relativity"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    },
+    "contact": {
+        "address": "University of Chicago, Lab. for Astrophys. & Space Res., 933 E, 56th Street,, Chicago, Illinois 60637",
+        "city": "USA"
+    }
+}

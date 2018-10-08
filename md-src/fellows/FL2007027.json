@@ -1,0 +1,37 @@
+{
+    "id": "FL2007027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Musti Joginadha",
+            "last": "Swamy",
+            "display": "Swamy, Prof. Musti Joginadha"
+        },
+        "sex": "M",
+        "birthDate": "1959-08-11",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Protein Chemistry & Protein-Ligand Interaction, Lipid Phase Behaviour & Polymorphism and Lipid-Protein Interaction"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4807",
+            "residence": "(040) 2301 2548",
+            "mobile": "98660 07530",
+            "fax": "(040) 2301 2460"
+        },
+        "email": {
+            "official": "mjswamy@uohyd.ac.in",
+            "personal": "mjswamy1@gmail.com"
+        },
+        "url": "http://202.41.85.161/~mjs"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2002014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anurag",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Anurag"
+        },
+        "sex": "M",
+        "birthDate": "1955-05-07",
+        "degree": "Ph.D. (IIT, Delhi)",
+        "honours": "FNASc, FNA, FNAE",
+        "specialization": "Fibre & Integrated Optics, Gradient-Index Optics and Applied Optics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "Delhi",
+        "telephone": {
+            "office": "(011) 2659 1331",
+            "residence": "(011) 2659 1929, 2686 7022",
+            "mobile": "98183 55884"
+        },
+        "email": {
+            "official": "asharma@physics.iitd.ac.in"
+        }
+    }
+}

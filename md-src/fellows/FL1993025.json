@@ -1,0 +1,35 @@
+{
+    "id": "FL1993025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Uma Charan",
+            "last": "Mohanty",
+            "display": "Mohanty, Prof. Uma Charan"
+        },
+        "sex": "M",
+        "birthDate": "1948-06-29",
+        "degree": "Ph.D. (Moscow)",
+        "honours": "FNASc, FNAE, FNA",
+        "specialization": "Numerical Weather Prediction, Monsoon Dynamics, Climate Modelling and Tropical Meteorology and Mesoscale Modelling System"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "School of Earth, Ocean & Climate Sciences, Indian Institute of Technology, Argul, Jatni",
+        "city": "Khurda 752 050",
+        "state": "Orissa",
+        "telephone": {
+            "office": "70644 29596",
+            "residence": "98689 57957",
+            "mobile": "87638 62775"
+        },
+        "email": {
+            "official": "ucmohanty@iitbbs.ac.in",
+            "personal": "ucmohanty@gmail.com"
+        }
+    }
+}

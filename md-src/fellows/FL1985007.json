@@ -1,0 +1,31 @@
+{
+    "id": "FL1985007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudhendu",
+            "last": "Rai Choudhury",
+            "display": "Rai Choudhury, Prof. Sudhendu"
+        },
+        "sex": "M",
+        "birthDate": "1941-08-07",
+        "degree": "Ph.D. (Delhi)",
+        "specialization": "Particle Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Honorary Professor, Department of Physics, Indian Institute of Science Education & Research, Bhauri Campus, ITI",
+        "city": "Bhopal 462 066",
+        "state": "M.P.",
+        "telephone": {
+            "mobile": "90394 21948"
+        },
+        "email": {
+            "personal": "srai.choudhury@gmail.com"
+        }
+    }
+}

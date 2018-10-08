@@ -1,0 +1,24 @@
+{
+    "id": "FL1973003",
+    "profile": {
+        "name": {
+            "first": "Cadambi",
+            "last": "Ambasankaran",
+            "display": "Ambasankaran,  Cadambi"
+        },
+        "sex": "M",
+        "birthDate": "1923-08-22",
+        "deathDate": "1990-08-20",
+        "degree": "M.Sc. (Christian College, Madras)",
+        "specialization": "Nuclear Energy, Vacuum Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1973"
+    },
+    "contact": {
+        "address": "19, Saras Baug, Sion-Trombay Road, Deonar",
+        "city": "Mumbai 400 088"
+    }
+}

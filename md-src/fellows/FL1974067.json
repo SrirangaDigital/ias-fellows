@@ -1,0 +1,26 @@
+{
+    "id": "FL1974067",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ram Charan",
+            "last": "Mehrotra",
+            "display": "Mehrotra, Prof. Ram Charan"
+        },
+        "sex": "M",
+        "birthDate": "1922-02-16",
+        "deathDate": "2004-07-11",
+        "degree": "D.Phil. (Allahabad), Ph.D. and D.Sc. (London)",
+        "honours": "FNA, FNASc, FFACS, D.Sc. (h.c.)",
+        "specialization": "Inorganic & Organometallic Chemistry, Metal Alkoxides and Sol-Gel Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "4/682, Jawahar Nagar",
+        "city": "Jaipur 302 004"
+    }
+}

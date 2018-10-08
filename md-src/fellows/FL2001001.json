@@ -1,0 +1,32 @@
+{
+    "id": "FL2001001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subrat Kumar",
+            "last": "Acharya",
+            "display": "Acharya, Prof. Subrat Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1951-11-01",
+        "degree": "M.D. (Utkal), D.M. (AIIMS)",
+        "honours": "FNASc, FNA",
+        "specialization": "Gastroenterology, Hepatology and Liver Diseases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Pro-Chancellor, KIIT Univesity, Chandrasekharpur",
+        "city": "Bhubaneswar 751 024",
+        "state": "Orissa",
+        "telephone": {
+            "mobile": "98718 41769"
+        },
+        "email": {
+            "personal": "subratacharya@gmail.com,subratacharya@hotmail.com"
+        }
+    }
+}

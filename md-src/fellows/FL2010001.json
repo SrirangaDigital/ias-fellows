@@ -1,0 +1,32 @@
+{
+    "id": "FL2010001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vidya Avinash",
+            "last": "Arankalle",
+            "display": "Arankalle, Dr Vidya Avinash"
+        },
+        "sex": "F",
+        "birthDate": "1952-02-02",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Virology, Molecular Biology, Vaccine, Hepatitis Viruses, Emerging-Reemerging Viruses"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "IRSHA, Bharati Vidyapeeth University, Katraj",
+        "city": "Pune 411 043",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "93710 16417"
+        },
+        "email": {
+            "personal": "varankalle@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1967003",
+    "profile": {
+        "name": {
+            "first": "L K",
+            "last": "Ananthanarayanan",
+            "display": "Ananthanarayanan,  L K"
+        },
+        "sex": "M",
+        "birthDate": "1916-12-17",
+        "deathDate": "1978-00-00",
+        "degree": "M.S. (Madras), Ph.D. (Poona)",
+        "honours": "FRCS",
+        "specialization": "General Surgery, Orthopaedics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1967"
+    },
+    "contact": {
+        "address": "Office of DG, Armed Forces Medical Services, M-Block, Church Road",
+        "city": "New Delhi 110 001"
+    }
+}

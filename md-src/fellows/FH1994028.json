@@ -1,0 +1,29 @@
+{
+    "id": "FH1994028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anatol",
+            "last": "Roshko",
+            "display": "Roshko, Prof. Anatol"
+        },
+        "sex": "M",
+        "birthDate": "1923-07-15",
+        "deathDate": "2017-01-23"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Theodore von Karman Professor of, Aeronautics, Graduate Aeronautical, Laboratories,, California Institute of Technology",
+        "city": "Pasadena, CA 91125",
+        "country": "U.S.A.",
+        "telephone": {
+            "residence": "(+1-626) 797 7185"
+        },
+        "email": {
+            "official": "roshko@caltech.edu"
+        }
+    }
+}

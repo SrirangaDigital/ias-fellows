@@ -1,0 +1,17 @@
+{
+    "id": "FL1935034",
+    "profile": {
+        "name": {
+            "first": "C",
+            "last": "Newcomb",
+            "display": "Newcomb,  C"
+        },
+        "sex": "M",
+        "birthDate": "1882-00-00"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1935"
+    }
+}

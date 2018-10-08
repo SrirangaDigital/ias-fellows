@@ -1,0 +1,26 @@
+{
+    "id": "FL1974099",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Laxmipuram Srinivasachar",
+            "last": "Srinath",
+            "display": "Srinath, Prof. Laxmipuram Srinivasachar"
+        },
+        "sex": "M",
+        "birthDate": "1927-03-15",
+        "deathDate": "2012-09-13",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNAE",
+        "specialization": "Experimental Mechanics, Engineering Design and Reliability Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "H-401, ETA Star, No. 9, Magadi Road",
+        "city": "Bengaluru 560 023"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FH2004026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jacques",
+            "last": "Livage",
+            "display": "Livage, Prof. Jacques"
+        },
+        "sex": "M",
+        "birthDate": "1938-10-26"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Chemie de la Matiere Condensee, UPMC, Tour 44, 4, Place Jussieu",
+        "city": "75005 Paris",
+        "country": "France",
+        "telephone": {
+            "office": "(+33-1) 4427 6162",
+            "residence": "(+33-6) 6797 6839",
+            "fax": "(+33-1) 4427 4769"
+        },
+        "email": {
+            "official": "jacques.livage@upmc.fr"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1939003",
+    "profile": {
+        "name": {
+            "first": "Kamalakar Ramachandra",
+            "last": "Dixit",
+            "display": "Dixit,  Kamalakar Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1909-10-06",
+        "deathDate": "1977-12-12",
+        "degree": "D.Sc.",
+        "honours": "FNA",
+        "specialization": "Nuclear Physics, Solid State Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1939"
+    }
+}

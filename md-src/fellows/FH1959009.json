@@ -1,0 +1,18 @@
+{
+    "id": "FH1959009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Abram Fiodorovich",
+            "last": "Joffe",
+            "display": "Joffe, Prof. Abram Fiodorovich"
+        },
+        "sex": "M",
+        "birthDate": "1880-10-29",
+        "deathDate": "1960-10-14"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1959"
+    }
+}

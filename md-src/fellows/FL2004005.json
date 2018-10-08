@@ -1,0 +1,34 @@
+{
+    "id": "FL2004005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dhrubajyoti",
+            "last": "Chattopadhyay",
+            "display": "Chattopadhyay, Dr Dhrubajyoti"
+        },
+        "sex": "M",
+        "birthDate": "1954-05-11",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc",
+        "specialization": "Enzyme Biotechnology, Transcription, Molecular Virology and Oxidative Stress Response"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Vice Chancellor, Amity University, New Town",
+        "city": "Kolkata 700 135",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2334 9382",
+            "mobile": "98310 83791"
+        },
+        "email": {
+            "official": "dchattopadhyay@kol.amity.edu",
+            "personal": "dhrubajyotic@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1993029",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ganesh Prasad",
+            "last": "Pandey",
+            "display": "Pandey, Dr Ganesh Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1954-07-05",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA, FNASc",
+        "specialization": "Organic Synthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Molecular Science Laboratory, CBMR, Sanjay Gandhi PG Institute of Medical Sciences, Raebareli Road",
+        "city": "Lucknow 226 014",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 266 8985",
+            "mobile": "99701 71802",
+            "fax": "(0522) 266 8215"
+        },
+        "email": {
+            "official": "gp.pandey@cbmr.res.in"
+        }
+    }
+}

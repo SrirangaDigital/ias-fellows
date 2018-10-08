@@ -1,0 +1,30 @@
+{
+    "id": "FL1997010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Arun Kumar",
+            "last": "Grover",
+            "display": "Grover, Dr Arun Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1951-12-12",
+        "degree": "Ph.D.(Mumbai)",
+        "honours": "FNASc",
+        "specialization": "Magnetism &amp; Superconductivity, Vortex State Studies in Superconductors, Strongly Correlated Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1997",
+        "councilservice": "Council Service: 2016- ; Vice President: 2016-"
+    },
+    "contact": {
+        "city": "Chandigarh 160 014",
+        "state": "U.T.",
+        "email": {
+            "official": "vc@pu.ac.in",
+            "personal": "arunkgrover@gmail.com"
+        }
+    }
+}

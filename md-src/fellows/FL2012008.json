@@ -1,0 +1,34 @@
+{
+    "id": "FL2012008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Faiz Ahmed",
+            "last": "Khan",
+            "display": "Khan, Prof. Faiz Ahmed"
+        },
+        "sex": "M",
+        "birthDate": "1965-10-31",
+        "degree": "Ph.D. (Hyderabad)",
+        "honours": "FNASc",
+        "specialization": "Synthetic Organic Chemistry, Natural Products, Synthetic Methodologies"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology, Kandi Sangareddy",
+        "city": "Hyderabad 502 285",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2301 6084",
+            "residence": "(040) 2301 7040"
+        },
+        "email": {
+            "official": "faiz@iith.ac.in"
+        },
+        "url": "http://chemistry.iith.ac.in/faiz/"
+    }
+}

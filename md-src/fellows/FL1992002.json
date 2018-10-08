@@ -1,0 +1,34 @@
+{
+    "id": "FL1992002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sandip Kumar",
+            "last": "Basu",
+            "display": "Basu, Dr Sandip Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1944-01-01",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Cell Biology, Molecular Biology and Microbial Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 1995-97."
+    },
+    "contact": {
+        "address": "FD-426, Sector 3, Bidhan Nagar",
+        "city": "Kolkata 700 106",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "96749 02629",
+            "mobile": "98914 98821"
+        },
+        "email": {
+            "personal": "sandipkbasu@gmail.com"
+        }
+    }
+}

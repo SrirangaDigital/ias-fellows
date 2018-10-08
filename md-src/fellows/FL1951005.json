@@ -1,0 +1,27 @@
+{
+    "id": "FL1951005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tuticorin Raghavachari",
+            "last": "Govindachari",
+            "display": "Govindachari, Dr Tuticorin Raghavachari"
+        },
+        "sex": "M",
+        "birthDate": "1915-07-30",
+        "deathDate": "2001-12-28",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Chemistry of Plant Products and Organic Synthesis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1951",
+        "councilservice": "Council Service: 1962-67, Vice President: 1965-67"
+    },
+    "contact": {
+        "address": "No. 24, Crescent Park Street, T. Nagar",
+        "city": "Chennai 600 017"
+    }
+}

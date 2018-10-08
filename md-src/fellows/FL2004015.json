@@ -1,0 +1,35 @@
+{
+    "id": "FL2004015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Madhavan Radhakrishna",
+            "last": "Pillai",
+            "display": "Pillai, Prof. Madhavan Radhakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1960-08-18",
+        "degree": "Ph.D. (Kerala)",
+        "honours": "FNA, FNASc, FAMS, FRC (Path.) (London)",
+        "specialization": "Tumour Biology, Tumour Virology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Director, Rajiv Gandhi Centre for Biotechnology, Jagathi",
+        "city": "Thiruvananthapuram 695 014",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 234 7973, (0471) 234 1716",
+            "residence": "(0471) 273 3819",
+            "mobile": "94471 45776",
+            "fax": "(0471) 234 9303"
+        },
+        "email": {
+            "official": "mrpillai@rgcb.res.in"
+        }
+    }
+}

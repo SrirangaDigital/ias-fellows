@@ -1,0 +1,18 @@
+{
+    "id": "FH1952013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kurt H.",
+            "last": "Meyer",
+            "display": "Meyer, Prof. Kurt H."
+        },
+        "sex": "M",
+        "birthDate": "1883-09-29",
+        "deathDate": "1952-04-14"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1952"
+    }
+}

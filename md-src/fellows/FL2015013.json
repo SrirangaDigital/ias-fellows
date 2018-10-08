@@ -1,0 +1,36 @@
+{
+    "id": "FL2015013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pallab",
+            "last": "Dasgupta",
+            "display": "Dasgupta, Prof. Pallab"
+        },
+        "sex": "M",
+        "birthDate": "1967-10-31",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNAE",
+        "specialization": "Electronic Design Automation, Artificial Intelligence, Formal Methods"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Department of Computer Science & Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3470, (03222) 28 2037",
+            "residence": "(03222) 28 3471",
+            "mobile": "94340 16141",
+            "fax": "(03222) 27 7190"
+        },
+        "email": {
+            "official": "pallab@cse.iitkgp.ernet.in"
+        },
+        "url": "http://www.cse.iitkgp.ernet.in/~pallab"
+    }
+}

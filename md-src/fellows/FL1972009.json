@@ -1,0 +1,26 @@
+{
+    "id": "FL1972009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kamal Nath",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Kamal Nath"
+        },
+        "sex": "M",
+        "birthDate": "1929-11-17",
+        "deathDate": "2015-06-21",
+        "degree": "M.B.B.S. & M.D. (Lucknow)",
+        "honours": "FNA, FAMS",
+        "specialization": "Neurophysiology, Behaviour, Biocontrols and Hospital Planning"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1972"
+    },
+    "contact": {
+        "address": "503, 6th A Main, 12th Cross, HIG Colony, RMV II Stage",
+        "city": "Bengaluru 560 094"
+    }
+}

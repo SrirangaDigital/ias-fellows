@@ -1,0 +1,35 @@
+{
+    "id": "FL1998010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subir Kumar",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Subir Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1953-07-14",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Computational Geometry & Applications, Robot Motion Planning and Geometric Graph Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Department of Computer Science, School of Mathematical Sciences, RKM Vivekananda University, Belur Math",
+        "city": "Howrah 711 202",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2654 9999",
+            "residence": "(033) 2359 1383",
+            "mobile": "98690 43223",
+            "fax": "(033) 2654 4640"
+        },
+        "email": {
+            "official": "ghosh@tifr.res.in"
+        },
+        "url": "http://cs.rkmvu.ac.in/~sghosh/"
+    }
+}

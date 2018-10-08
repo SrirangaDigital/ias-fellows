@@ -1,0 +1,26 @@
+{
+    "id": "FL1950004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Arunachala",
+            "last": "Sreenivasan",
+            "display": "Sreenivasan, Dr Arunachala"
+        },
+        "sex": "M",
+        "birthDate": "1909-07-13",
+        "deathDate": "1996-07-20",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Biochemistry, Nutrition, Food Science and Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1950"
+    },
+    "contact": {
+        "address": "132, 6A Cross, 9th Main Road, Rajmahal Vilas Extension",
+        "city": "Bengaluru 560 080"
+    }
+}

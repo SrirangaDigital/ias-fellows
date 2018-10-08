@@ -1,0 +1,20 @@
+{
+    "id": "FL1934101",
+    "profile": {
+        "name": {
+            "first": "Ramanlal Chhaganlal",
+            "last": "Shah",
+            "display": "Shah,  Ramanlal Chhaganlal"
+        },
+        "sex": "M",
+        "birthDate": "1899-10-07",
+        "deathDate": "1969-09-03",
+        "honours": "FNA",
+        "specialization": "Natural & Synthetic Products"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934"
+    }
+}

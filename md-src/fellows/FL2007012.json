@@ -1,0 +1,35 @@
+{
+    "id": "FL2007012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chanda Jayant",
+            "last": "Jog",
+            "display": "Jog, Prof. Chanda Jayant"
+        },
+        "sex": "F",
+        "birthDate": "1954-11-07",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Galactic Dynamics, Interacting & Star Burst Galaxies and Interstellar Molecular Clouds"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2007",
+        "councilservice": "Council Service: 2016-"
+    },
+    "contact": {
+        "address": "JC Bose National Fellow, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3285, (080) 2360 7703",
+            "residence": "(080) 2334 2340",
+            "fax": "(080) 2360 2602"
+        },
+        "email": {
+            "official": "cjjog@physics.iisc.ernet.in"
+        }
+    }
+}

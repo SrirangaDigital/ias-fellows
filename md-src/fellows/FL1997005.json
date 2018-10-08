@@ -1,0 +1,36 @@
+{
+    "id": "FL1997005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bikas Kanta",
+            "last": "Chakrabarti",
+            "display": "Chakrabarti, Prof. Bikas Kanta"
+        },
+        "sex": "M",
+        "birthDate": "1952-12-14",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Statistical Physics, Condensed Matter Physics and Computational Physics & their Applications to Social Sciences"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Senior Professor, Theoretical Condensed Matter Physics Divn., Saha Institute of Nuclear Physics, 1/AF, Bidhan Nagar",
+        "city": "Kolkata 700 064",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2337 5345-9/2453, 2321 4869",
+            "residence": "(033) 2370 9377",
+            "mobile": "93395 11916",
+            "fax": "(033) 2337 4637"
+        },
+        "email": {
+            "official": "bikask.chakrabarti@saha.ac.in"
+        },
+        "url": "http://www.saha.ac.in/cmp/bikask.chakrabarti/bikas.html"
+    }
+}

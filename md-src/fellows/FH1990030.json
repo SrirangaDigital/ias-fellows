@@ -1,0 +1,23 @@
+{
+    "id": "FH1990030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rustum",
+            "last": "Roy",
+            "display": "Roy, Prof. Rustum"
+        },
+        "sex": "M",
+        "birthDate": "1924-07-03",
+        "deathDate": "2010-08-26"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "102, Materials Research Laboratory, Pennsylvania State University",
+        "city": "University Park, PA 16802-4801",
+        "country": "U.S.A."
+    }
+}

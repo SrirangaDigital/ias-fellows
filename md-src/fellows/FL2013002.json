@@ -1,0 +1,36 @@
+{
+    "id": "FL2013002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Uday",
+            "last": "Bandyopadhyay",
+            "display": "Bandyopadhyay, Dr Uday"
+        },
+        "sex": "M",
+        "birthDate": "1964-01-19",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Gastric Pathophysiology, Malaria & Anti-Malarials, Free Radical Biology & Apoptosis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Sr Principal Scientist, Infectious Diseases & Immunology Div, Indian Institute of Chemical Biology, 4, Raja SC Mullick Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 3491",
+            "residence": "(03212) 22 7933",
+            "mobile": "94740 03048",
+            "fax": "(033) 2473 5197"
+        },
+        "email": {
+            "official": "udayb@iicb.res.in",
+            "personal": "ubandyo_1964@yahoo.com"
+        }
+    }
+}

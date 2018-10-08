@@ -1,0 +1,24 @@
+{
+    "id": "FL1935004",
+    "profile": {
+        "name": {
+            "first": "Venkatarama Ramanatha",
+            "last": "Ayyar",
+            "display": "Ayyar,  Venkatarama Ramanatha"
+        },
+        "sex": "M",
+        "birthDate": "1892-10-17",
+        "deathDate": "1984-06-13",
+        "degree": "L. Agri.",
+        "specialization": "Plant Breeding"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    },
+    "contact": {
+        "address": "40, MM Avenue",
+        "city": "Kanchipuram 631 501"
+    }
+}

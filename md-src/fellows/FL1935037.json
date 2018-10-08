@@ -1,0 +1,18 @@
+{
+    "id": "FL1935037",
+    "profile": {
+        "name": {
+            "first": "Sundarappa",
+            "last": "Ranganathan",
+            "display": "Ranganathan,  Sundarappa"
+        },
+        "sex": "M",
+        "birthDate": "1901-07-03",
+        "deathDate": "1961-10-09"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2008018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Indranil",
+            "last": "Manna",
+            "display": "Manna, Prof. Indranil"
+        },
+        "sex": "M",
+        "birthDate": "1961-01-22",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNAE, FNA, FNASc",
+        "specialization": "Structure-property correlation of engineering materials, Nanostructured materials, Surface engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Department of Metallurgical & Materials Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3266",
+            "mobile": "81278 84422"
+        },
+        "email": {
+            "official": "imanna@metal.iitkgp.ernet.in"
+        },
+        "url": "http://www.imanna.org"
+    }
+}

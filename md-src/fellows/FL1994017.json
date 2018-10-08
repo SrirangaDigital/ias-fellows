@@ -1,0 +1,36 @@
+{
+    "id": "FL1994017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mariappan",
+            "last": "Periasamy",
+            "display": "Periasamy, Prof. Mariappan"
+        },
+        "sex": "M",
+        "birthDate": "1952-10-06",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Organometallics, Chiral Reagents, Organic Molecules, Solar Energy Harvesting"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Emeritus Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4814",
+            "residence": "(040) 2301 0904",
+            "mobile": "99490 93904",
+            "fax": "(040) 2301 2460"
+        },
+        "email": {
+            "official": "mpsc@uohyd.ac.in",
+            "personal": "mariappan.periasamy@gmail.com"
+        }
+    }
+}

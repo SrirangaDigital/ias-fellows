@@ -1,0 +1,32 @@
+{
+    "id": "FL1994003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aiylam Subramania",
+            "last": "Balasubramanian",
+            "display": "Balasubramanian, Prof. Aiylam Subramania"
+        },
+        "sex": "M",
+        "birthDate": "1937-07-15",
+        "degree": "Ph.D. (Kerala)",
+        "honours": "FAMS",
+        "specialization": "Neurochemistry and Enzymology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "16/7A, First New Street, Thirunagar",
+        "city": "Vellore 632 006",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(0416) 224 6260"
+        },
+        "email": {
+            "personal": "balabsu7@hotmail.com"
+        }
+    }
+}

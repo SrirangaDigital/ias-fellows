@@ -1,0 +1,37 @@
+{
+    "id": "FL1979001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vallampadugai Srinivasaraghavan",
+            "last": "Arunachalam",
+            "display": "Arunachalam, Dr Vallampadugai Srinivasaraghavan"
+        },
+        "sex": "M",
+        "birthDate": "1935-11-10",
+        "degree": "Ph.D. (Wales), F.R.Engg. (UK)",
+        "honours": "FNA, FNASc, FNAE, D.Engg. (h.c.), D.Litt. (h.c.)",
+        "specialization": "Materials Science & Engineering, Energy Technologies, Defence Technologies and Science, Technology & Public Policy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1979",
+        "councilservice": "Council Service: 1983-85."
+    },
+    "contact": {
+        "address": "547, 9th Cross, III Phase, J.P. Nagar",
+        "city": "Bengaluru 560 078",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2237 3311",
+            "residence": "(080) 2649 1399",
+            "mobile": "98454 47735",
+            "fax": "(080) 2237 3619"
+        },
+        "email": {
+            "official": "vsa@cmu.edu,vsa@cstep.in"
+        },
+        "url": "http://www.cstep.in"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL2008024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Utpal",
+            "last": "Sarkar",
+            "display": "Sarkar, Prof. Utpal"
+        },
+        "sex": "M",
+        "birthDate": "1956-05-15",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Particle & Astroparticle Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Visiting Professor, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "mobile": "98985 86326"
+        },
+        "email": {
+            "official": "utpal@phy.iitkgp.ernet.in"
+        },
+        "url": "http://www.prl.res.in/~utpal/home/"
+    }
+}

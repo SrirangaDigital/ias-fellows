@@ -1,0 +1,34 @@
+{
+    "id": "FL1994012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jnanadeva",
+            "last": "Maharana",
+            "display": "Maharana, Dr Jnanadeva"
+        },
+        "sex": "M",
+        "birthDate": "1945-01-31",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "String Theory, Field Theory and Quantum Gravity"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Raja Ramanna Fellow, Institute of Physics, Sachivalaya Marg",
+        "city": "Bhubaneswar 751 005",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 230 6403",
+            "residence": "(0674) 230 3444",
+            "fax": "(0674) 230 0142"
+        },
+        "email": {
+            "official": "maharana@iopb.res.in"
+        }
+    }
+}

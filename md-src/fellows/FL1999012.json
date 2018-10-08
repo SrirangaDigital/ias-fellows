@@ -1,0 +1,35 @@
+{
+    "id": "FL1999012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Valakunja",
+            "last": "Nagaraja",
+            "display": "Nagaraja, Prof. Valakunja"
+        },
+        "sex": "M",
+        "birthDate": "1954-05-16",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Protein-Nucleic Acid Interactions, Restriction-Modification Systems, Molecular Biology of Mycobacteria and Regulation of Gene Expression"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "President, JN Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2752, 2360 0668",
+            "residence": "(080) 2341 8256",
+            "fax": "(080) 2208 2758"
+        },
+        "email": {
+            "official": "president@jncasr.ac.in,vraj@iisc.ac.in"
+        },
+        "url": "http://mcbl.iisc.ernet.in/vn/"
+    }
+}

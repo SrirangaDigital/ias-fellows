@@ -1,0 +1,18 @@
+{
+    "id": "FH1966009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Einar",
+            "last": "Lundsgaard",
+            "display": "Lundsgaard, Prof. Einar"
+        },
+        "sex": "M",
+        "birthDate": "1899-02-12",
+        "deathDate": "1968-12-18"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1966"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL1999018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashutosh",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Ashutosh"
+        },
+        "sex": "M",
+        "birthDate": "1961-08-22",
+        "degree": "Ph.D. (SUNY, Buffalo)",
+        "honours": "FNA, FNAE, FNASc, FTWAS",
+        "specialization": "Composites, Soft Nanotechnology & Micro/Nano-fabrication, Nanomechanics, Thin Films & Self-Organization, Colloid & Interface Science and MEMS/NEMS, Carbon Nanomaterials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1999",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Secretary, Department of Science & Technology, Technology Bhavan, New Mehrauli Road",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2651 1439, (011) 2651 0068",
+            "residence": "(011) 2688 1228",
+            "fax": "(011) 2686 3847"
+        },
+        "email": {
+            "official": "dstsec@nic.in"
+        },
+        "url": "http://www.dst.gov.in/profile-prof-ashutosh-sharma"
+    }
+}

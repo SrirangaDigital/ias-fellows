@@ -1,0 +1,25 @@
+{
+    "id": "FL1975069",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Basava Sri",
+            "last": "Ramakrishna",
+            "display": "Ramakrishna, Dr Basava Sri"
+        },
+        "sex": "M",
+        "birthDate": "1921-10-17",
+        "deathDate": "2011-02-12",
+        "degree": "Ph.D. (Illinois Inst. Tech.)",
+        "specialization": "Acoustics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "68, Second Cross, Ganganagar",
+        "city": "Bengaluru 560 032"
+    }
+}

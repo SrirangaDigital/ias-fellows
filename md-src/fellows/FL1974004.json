@@ -1,0 +1,33 @@
+{
+    "id": "FL1974004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ram Prakash",
+            "last": "Bambah",
+            "display": "Bambah, Prof. Ram Prakash"
+        },
+        "sex": "M",
+        "birthDate": "1925-09-30",
+        "degree": "Sc.D. (Cantab)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Number Theory and Discrete Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "1275, Sector 19B",
+        "city": "Chandigarh 160 019",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(0172) 272 4863",
+            "mobile": "94172 24863"
+        },
+        "email": {
+            "personal": "bambahrp@rediffmail.com"
+        }
+    }
+}

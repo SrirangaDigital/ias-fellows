@@ -1,0 +1,37 @@
+{
+    "id": "FL1995010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Asit Baran",
+            "last": "Mandal",
+            "display": "Mandal, Dr Asit Baran"
+        },
+        "sex": "M",
+        "birthDate": "1952-01-13",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FRSC",
+        "specialization": "Electrochemistry, Thermodynamics, Ionic Liquids, Biophysical Chemistry, Organised Self-Assemblies and Nanomaterials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Central Glass & Ceramic Research Institute, 196, Raja SC Mullick Road, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2322 3402, (033) 2473 5829",
+            "residence": "80561 43732",
+            "mobile": "99401 21703",
+            "fax": "(033) 2473 0957, (033) 2483 9266"
+        },
+        "email": {
+            "official": "abmandal@cgcri.res.in",
+            "personal": "abmandal@hotmail.com"
+        },
+        "url": "http://www.clri.org/staff/prof_mandalprofile.htm"
+    }
+}

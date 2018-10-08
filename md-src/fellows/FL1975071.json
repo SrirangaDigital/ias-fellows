@@ -1,0 +1,37 @@
+{
+    "id": "FL1975071",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subramania",
+            "last": "Ranganathan",
+            "display": "Ranganathan, Prof. Subramania"
+        },
+        "sex": "M",
+        "birthDate": "1934-02-02",
+        "deathDate": "2016-01-08",
+        "degree": "Ph.D. (Ohio State)",
+        "honours": "FNASc, FNA",
+        "specialization": "Organic & Bio-Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975",
+        "councilservice": "Council Service: 1998-2000."
+    },
+    "contact": {
+        "address": "Distinguished Scientist, Organic Chemistry Division III, Indian Institute of Chemical Technology, Uppal Road",
+        "city": "Hyderabad 500 607",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 1648",
+            "residence": "(040) 2716 0040",
+            "mobile": "90000 90847",
+            "fax": "(040) 2716 0757"
+        },
+        "email": {
+            "personal": "srgiict@gmail.com"
+        }
+    }
+}

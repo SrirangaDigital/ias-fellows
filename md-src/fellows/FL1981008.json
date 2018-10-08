@@ -1,0 +1,33 @@
+{
+    "id": "FL1981008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nanjangud Sreekantaiah",
+            "last": "Rangaswamy",
+            "display": "Rangaswamy, Prof. Nanjangud Sreekantaiah"
+        },
+        "sex": "M",
+        "birthDate": "1932-05-08",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc",
+        "specialization": "Reproductive Physiology of Seed Plants, Plant Tissue Culture and Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Apt. No. 241, III Floor, Block B-2, Kendriya Vihar, Bellary Road, Yelahanka",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2846 1171, (011) 4703 7061",
+            "mobile": "98711 82002"
+        },
+        "email": {
+            "personal": "rlmc68@yahoo.co.in"
+        }
+    }
+}

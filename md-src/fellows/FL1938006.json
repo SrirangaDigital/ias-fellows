@@ -1,0 +1,19 @@
+{
+    "id": "FL1938006",
+    "profile": {
+        "name": {
+            "first": "Pavagada Krishna",
+            "last": "Rao",
+            "display": "Rao,  Pavagada Krishna"
+        },
+        "sex": "M",
+        "birthDate": "1899-06-15",
+        "deathDate": "1978-05-20",
+        "specialization": "Human Pathology, Tropical Medicine"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1938"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FH1991033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jean-Marie Pierre",
+            "last": "Lehn",
+            "display": "Lehn, Prof. Jean-Marie Pierre"
+        },
+        "sex": "M",
+        "birthDate": "1939-09-30",
+        "honours": "Nobel Laureate (Chemistry) - 1987"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "ISIS - ULP, CNRS UMR 7006, Universiti Louis Pasteur, 8 Alle Gaspard Monge, BP 70028",
+        "city": "F-67083 Strasbourg Cedex",
+        "country": "France",
+        "telephone": {
+            "office": "(+33-390) 24 5145",
+            "fax": "(+33-390) 24 5140"
+        },
+        "email": {
+            "official": "lehn@isis.u-strasbg.fr"
+        }
+    }
+}

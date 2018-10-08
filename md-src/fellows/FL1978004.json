@@ -1,0 +1,36 @@
+{
+    "id": "FL1978004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Palle Rama",
+            "last": "Rao",
+            "display": "Rao, Prof. Palle Rama"
+        },
+        "sex": "M",
+        "birthDate": "1937-06-30",
+        "degree": "Ph.D. (Banaras), F.Eng. (UK)",
+        "honours": "FNA, FNASc, FNAE, FASM, FTWAS, Foreign Member - US Natl. Acad. Engg.",
+        "specialization": "Deformation, Fracture and Materials Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1978",
+        "councilservice": "Council Service: 1989-2000; Vice-President: 1992-94; President: 1995-97"
+    },
+    "contact": {
+        "address": "Chairman, Governing Council, International Advanced Centre for Powder Metallurgy, and New Materials",
+        "city": "Hyderabad 500 005",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2444 3167",
+            "residence": "(040) 6661 4475",
+            "mobile": "98497 65123",
+            "fax": "(040) 2444 3168"
+        },
+        "email": {
+            "personal": "ramaraop37@gmail.com"
+        }
+    }
+}

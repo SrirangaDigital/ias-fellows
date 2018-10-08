@@ -1,0 +1,37 @@
+{
+    "id": "FL2015004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arindam",
+            "last": "Banerjee",
+            "display": "Banerjee, Prof. Arindam"
+        },
+        "sex": "M",
+        "birthDate": "1966-10-02",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FRSC",
+        "specialization": "Molecular Assembly, Soft Materials & Hybrid Nanomaterials, Bio-organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Senior Professor, Department of Biological Chemistry, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/1504",
+            "residence": "(033) 2381 8096",
+            "mobile": "96744 82237",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "bcab@iacs.res.in",
+            "personal": "arindamkol1966@gmail.com"
+        },
+        "url": "http://www.iacs.res.in/biochem/bcab/"
+    }
+}

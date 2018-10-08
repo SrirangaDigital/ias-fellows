@@ -1,0 +1,36 @@
+{
+    "id": "FL1999019",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Somdatta",
+            "last": "Sinha",
+            "display": "Sinha, Dr Somdatta"
+        },
+        "sex": "F",
+        "birthDate": "1951-10-14",
+        "degree": "Ph.D. (JNU)",
+        "honours": "FNASc, FNA",
+        "specialization": "Theoretical Biology, Complex Systems in Biology and Nonlinear Dynamics, and Computational Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1999",
+        "councilservice": "Council Service: 2007-12"
+    },
+    "contact": {
+        "address": "Professor of Biology, Indian Institute of Science Education and Research, Sector 81, Knowledge City, Manauli P.O., Mohali",
+        "city": "SAS Nagar 140 306",
+        "state": "Punjab",
+        "telephone": {
+            "office": "(0172) 229 3166",
+            "mobile": "89687 44849",
+            "fax": "(0172) 224 0266, (0172) 224 0124"
+        },
+        "email": {
+            "official": "ssinha@iisermohali.ac.in",
+            "personal": "somdattasinha@gmail.com"
+        }
+    }
+}

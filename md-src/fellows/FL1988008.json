@@ -1,0 +1,34 @@
+{
+    "id": "FL1988008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "George",
+            "last": "Joseph",
+            "display": "Joseph, Prof. George"
+        },
+        "sex": "M",
+        "birthDate": "1938-08-04",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc, FNAE",
+        "specialization": "Electro-optics, Space Instrumentation and Remote Sensing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "12/D1, Sterling City, Bopal",
+        "city": "Ahmedabad 380 058",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "(2717) 23 1535",
+            "mobile": "99782 88287"
+        },
+        "email": {
+            "personal": "georgejoseph1938@hotmail.com"
+        },
+        "url": "http://www.profgeorge.com/"
+    }
+}

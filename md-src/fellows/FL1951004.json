@@ -1,0 +1,27 @@
+{
+    "id": "FL1951004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Krishnamurthy",
+            "last": "Ganapathi",
+            "display": "Ganapathi, Dr Krishnamurthy"
+        },
+        "sex": "M",
+        "birthDate": "1911-08-18",
+        "deathDate": "2004-10-15",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Microbial Biochemistry, Fermentation Technology and Chemotherapy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1951"
+    },
+    "contact": {
+        "address": "c/o Dr L. Sankaran, 5809, Ipswich Road",
+        "city": "Bethesda, MD 20814",
+        "country": "USA"
+    }
+}

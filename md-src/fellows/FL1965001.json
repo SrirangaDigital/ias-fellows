@@ -1,0 +1,36 @@
+{
+    "id": "FL1965001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chintamani Nagesa Ramachandra",
+            "last": "Rao",
+            "display": "Rao, Prof. Chintamani Nagesa Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1934-06-30",
+        "degree": "D.Sc. (Mysore), Ph.D. (Purdue)",
+        "honours": "DSc (h.c.), ScD (h.c.), FNA, FNASc, FRS, Hon. FRSc, Foreign Assoc. (US Natl. Acad. Sci.), FTWAS, LLD",
+        "specialization": "Solid State Chemistry, Surface Science, Spectroscopy and Molecular Structure"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1965",
+        "councilservice": "Council Service:1971-94; President: 1989-91; Vice-President: 1974-76; 1983-85; Secretary: 1977-82; Editor of Publications: 1983-88"
+    },
+    "contact": {
+        "address": "Linus Pauling Research Professor, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2365 3075, (080) 2208 2761",
+            "residence": "(080) 2360 1410",
+            "fax": "(080) 2208 2760, (080) 2208 2766"
+        },
+        "email": {
+            "official": "cnrrao@jncasr.ac.in"
+        },
+        "url": "http://www.jncasr.ac.in/cnrrao"
+    }
+}

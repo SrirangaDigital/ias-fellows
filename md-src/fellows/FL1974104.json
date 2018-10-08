@@ -1,0 +1,21 @@
+{
+    "id": "FL1974104",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Thundil George",
+            "last": "Varghese",
+            "display": "Varghese, Dr Thundil George"
+        },
+        "sex": "M",
+        "birthDate": "1928-08-19",
+        "deathDate": "1977-11-14",
+        "degree": "M.Sc.",
+        "specialization": "Seismology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974"
+    }
+}

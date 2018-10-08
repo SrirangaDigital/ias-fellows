@@ -1,0 +1,20 @@
+{
+    "id": "FL1953001",
+    "profile": {
+        "name": {
+            "first": "Ganpathrao Vishramrao",
+            "last": "Jadhav",
+            "display": "Jadhav,  Ganpathrao Vishramrao"
+        },
+        "sex": "M",
+        "birthDate": "1900-04-12",
+        "deathDate": "1980-03-10",
+        "degree": "Ph.D. (Manchester)",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1953"
+    }
+}

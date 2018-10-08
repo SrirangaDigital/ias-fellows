@@ -1,0 +1,29 @@
+{
+    "id": "FH2008036",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Martin",
+            "last": "Jansen",
+            "display": "Jansen, Prof. Martin"
+        },
+        "sex": "M",
+        "birthDate": "1944-11-05"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Director, Max-Planck-Institut fur Festkorper-, forschung, Heisenbergstr 1",
+        "city": "D-70569 Stuttgart",
+        "country": "Germany",
+        "telephone": {
+            "office": "(+49-711) 689 1500",
+            "fax": "(+49-711) 689 1502"
+        },
+        "email": {
+            "official": "m.jansen@fkf.mpg.de"
+        }
+    }
+}

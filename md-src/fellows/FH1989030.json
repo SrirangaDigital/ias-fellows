@@ -1,0 +1,30 @@
+{
+    "id": "FH1989030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sydney",
+            "last": "Brenner",
+            "display": "Brenner, Prof. Sydney"
+        },
+        "sex": "M",
+        "birthDate": "1927-01-13",
+        "honours": "FRS, Nobel Laureate (Medicine) - 2002"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Distinguished Professor, Salk Institute, 10010, North Torrey, Pines Road",
+        "city": "La Jolla, CA 92037",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-858) 453 4100",
+            "residence": "(+1-858) 551 8802"
+        },
+        "email": {
+            "official": "sbrenner@salk.edu"
+        }
+    }
+}

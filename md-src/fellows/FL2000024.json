@@ -1,0 +1,33 @@
+{
+    "id": "FL2000024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pratima",
+            "last": "Sinha",
+            "display": "Sinha, Prof. Pratima"
+        },
+        "sex": "F",
+        "birthDate": "1952-11-14",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNASc",
+        "specialization": "Molecular Genetics of Yeast and Molecular Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "D7/9, SF, Exclusive Floors, DLR City, Phase 5",
+        "city": "Gurgaon 122 009",
+        "state": "Haryana",
+        "telephone": {
+            "residence": "(0124) 403 8150",
+            "mobile": "99104 64749"
+        },
+        "email": {
+            "personal": "pratima.sinha12@gmail.com"
+        }
+    }
+}

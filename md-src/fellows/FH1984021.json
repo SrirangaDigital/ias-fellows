@@ -1,0 +1,18 @@
+{
+    "id": "FH1984021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "(Frederick) Charles",
+            "last": "Frank",
+            "display": "Frank, Prof. (Frederick) Charles"
+        },
+        "sex": "M",
+        "birthDate": "1911-03-06",
+        "deathDate": "1998-04-05"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1984"
+    }
+}

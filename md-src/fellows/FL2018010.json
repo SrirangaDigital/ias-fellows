@@ -1,0 +1,33 @@
+{
+    "id": "FL2018010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vineet Kumar",
+            "last": "Gahalaut",
+            "display": "Gahalaut, Dr Vineet Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1966-09-26",
+        "degree": "Ph.D. (Roorkee)",
+        "specialization": "Seismology, Tectonic Geodesy, Geodynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "National Centre for Seismology, Ministry of Earth Sciences, IMD Complex, Lodi Road",
+        "city": "New Delhi 110 003",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2461 1305, 4382 4405",
+            "mobile": "98495 98161",
+            "fax": "(011) 2461 1305"
+        },
+        "email": {
+            "personal": "vkgahalaut@yahoo.com"
+        }
+    }
+}

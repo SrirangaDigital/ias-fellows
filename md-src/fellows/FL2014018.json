@@ -1,0 +1,35 @@
+{
+    "id": "FL2014018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chepuri Venkata",
+            "last": "Ramana",
+            "display": "Ramana, Dr Chepuri Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1968-05-10",
+        "degree": "Ph.D. (Hyderabad)",
+        "specialization": "Total Synthesis, Carbohydrate Chemistry, Transition Metal Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Division of Organic Chemistry, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 2577",
+            "residence": "(020) 2589 3642",
+            "mobile": "94235 82183",
+            "fax": "(020) 2590 2629"
+        },
+        "email": {
+            "official": "vr.chepuri@ncl.res.in"
+        },
+        "url": "http://academic.ncl.res.in/profile/vr.chepuri"
+    }
+}

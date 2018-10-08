@@ -1,0 +1,19 @@
+{
+    "id": "FH1935073",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Robert Andrews",
+            "last": "Millikan",
+            "display": "Millikan, Prof. Robert Andrews"
+        },
+        "sex": "M",
+        "birthDate": "1868-03-22",
+        "deathDate": "1953-12-19",
+        "honours": "Nobel Laureate (Physics) - 1923"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

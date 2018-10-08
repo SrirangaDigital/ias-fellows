@@ -1,0 +1,26 @@
+{
+    "id": "FL1992044",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Suhas Chandra",
+            "last": "Sanyal",
+            "display": "Sanyal, Prof. Suhas Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1942-01-01",
+        "deathDate": "2015-08-05",
+        "degree": "M.B.B.S. & Ph.D. (Calcutta), M.D. (Banaras)",
+        "honours": "FNA, FAMS",
+        "specialization": "Medical Microbiology, Pathogenicity, Nosocomial Infections, Infection Control and Antimicrobial Therapy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Udita, 09-0303, Nabami, 1050/1, Survey Park",
+        "city": "Kolkata 700 075"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2004016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thavarool Puthiyedath",
+            "last": "Radhakrishnan",
+            "display": "Radhakrishnan, Prof. Thavarool Puthiyedath"
+        },
+        "sex": "M",
+        "birthDate": "1960-05-25",
+        "degree": "Ph.D. (Princeton)",
+        "honours": "FNA, FNASc",
+        "specialization": "Materials Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4827, (040) 2301 1068",
+            "residence": "(040) 2980 2989",
+            "mobile": "94414 25794",
+            "fax": "(040) 2301 2460"
+        },
+        "email": {
+            "official": "tpr@uohyd.ac.in"
+        },
+        "url": "http://chemistry.uohyd.ac.in/~tpr/"
+    }
+}

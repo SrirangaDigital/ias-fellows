@@ -1,0 +1,22 @@
+{
+    "id": "FL1934120",
+    "profile": {
+        "name": {
+            "first": "Krishnasami",
+            "last": "Venkataraman",
+            "display": "Venkataraman,  Krishnasami"
+        },
+        "sex": "M",
+        "birthDate": "1901-06-07",
+        "deathDate": "1981-05-12",
+        "degree": "Ph.D., D.Sc. (Manchester)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934",
+        "councilservice": "1943-46, 1949-55, 1965-67; Vice President 1952-55"
+    }
+}

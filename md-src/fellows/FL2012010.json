@@ -1,0 +1,36 @@
+{
+    "id": "FL2012010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ranjan Kumar",
+            "last": "Mallik",
+            "display": "Mallik, Prof. Ranjan Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1964-11-15",
+        "degree": "Ph.D. (USC, Los Angeles)",
+        "honours": "FNAE, FNA, FNASc, FIEEE, FTWAS",
+        "specialization": "Wireless Communications, MIMO & Space-Time Systems, Co-operative Communications"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Electrical Engineering, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 1049",
+            "residence": "(011) 2659 1572",
+            "mobile": "98106 54162",
+            "fax": "(011) 2658 1606"
+        },
+        "email": {
+            "official": "rkmallik@ee.iitd.ernet.in",
+            "personal": "ranjankmallik@yahoo.co.in"
+        }
+    }
+}

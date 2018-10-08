@@ -1,0 +1,25 @@
+{
+    "id": "FL1964004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jaysukhlal Ranchoddas",
+            "last": "Merchant",
+            "display": "Merchant, Prof. Jaysukhlal Ranchoddas"
+        },
+        "sex": "M",
+        "birthDate": "1922-06-14",
+        "deathDate": "2004-02-08",
+        "degree": "D.Sc.(Zurich)",
+        "specialization": "Synthetic Organic Chemistry, Natural Products"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1964"
+    },
+    "contact": {
+        "address": "62, Bharat Mahal, Dongersi Road, Walkeshwar",
+        "city": "Mumbai 400 006"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL1993041",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rudrapatna Kallikote",
+            "last": "Shyamasundar",
+            "display": "Shyamasundar, Prof. Rudrapatna Kallikote"
+        },
+        "sex": "M",
+        "birthDate": "1950-01-11",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FNAE, FIEEE, FTWAS",
+        "specialization": "Specification & Verification, Real-Time Programs, Logic Programs, Mobile Computing and Computer & Information Security"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1993",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Distinguished V Professor, Computer Science & Engineering Department, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7708",
+            "residence": "(022) 2572 0001",
+            "mobile": "98183 20188",
+            "fax": "(022) 2572 3480"
+        },
+        "email": {
+            "official": "rkss@cse.iitb.ac.in",
+            "personal": "shyamasundar@gmail.com"
+        }
+    }
+}

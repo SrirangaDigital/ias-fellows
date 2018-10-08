@@ -1,0 +1,36 @@
+{
+    "id": "FL2013019",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Garikapati Narahari",
+            "last": "Sastry",
+            "display": "Sastry, Dr Garikapati Narahari"
+        },
+        "sex": "M",
+        "birthDate": "1966-01-17",
+        "degree": "Ph.D. (Hyderabad)",
+        "honours": "FNASc",
+        "specialization": "Computational Chemistry, Theoretical Chemistry, Computer-aided Drug Design"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Head, Centre for Molecular Modelling, Indian Institute of Chemical Technology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 3016",
+            "residence": "(040) 2705 0272",
+            "mobile": "99635 82996",
+            "fax": "(040) 2716 0512"
+        },
+        "email": {
+            "official": "gnsastry@iict.res.in",
+            "personal": "gnsastry@gmail.com"
+        }
+    }
+}

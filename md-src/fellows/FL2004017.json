@@ -1,0 +1,35 @@
+{
+    "id": "FL2004017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sujatha",
+            "last": "Ramdorai",
+            "display": "Ramdorai, Prof. Sujatha"
+        },
+        "sex": "F",
+        "birthDate": "1962-05-23",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNASc, FNA",
+        "specialization": "Algebra, Quadratic Forms, Number Theory and Iwasawa Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Professor, Department of Mathematics, University of British Columbia, 1984, Mathematics Road",
+        "city": "Vancouver V6T 1Z2",
+        "country": "Canada",
+        "telephone": {
+            "office": "(+1-1604) 822 3627",
+            "residence": "(080) 2567 8234",
+            "mobile": "99200 18274"
+        },
+        "email": {
+            "official": "sujatha@math.ubc.ca"
+        },
+        "url": "http://www.math.ubc.ca/~sujatha"
+    }
+}

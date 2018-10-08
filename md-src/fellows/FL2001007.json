@@ -1,0 +1,36 @@
+{
+    "id": "FL2001007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amitabh",
+            "last": "Joshi",
+            "display": "Joshi, Prof. Amitabh"
+        },
+        "sex": "M",
+        "birthDate": "1965-03-04",
+        "degree": "Ph.D. (Washington State)",
+        "honours": "FNASc, FNA",
+        "specialization": "Population &amp; Quantitative Genetics, Evolutionary Genetics and Population Ecology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Professor, Evolutionary &amp; Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O.",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2802, (080) 2208 2803",
+            "mobile": "93413 54233",
+            "fax": "(080) 2208 2767, (080) 2208 2766"
+        },
+        "email": {
+            "official": "ajoshi@jncasr.ac.in",
+            "personal": "joshiamitabh6@gmail.com"
+        },
+        "url": "http://www.jncasr.ac.in/eobu/ajoshi/"
+    }
+}

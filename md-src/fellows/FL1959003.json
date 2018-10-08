@@ -1,0 +1,27 @@
+{
+    "id": "FL1959003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Komaravolu",
+            "last": "Chandrasekharan",
+            "display": "Chandrasekharan, Dr Komaravolu"
+        },
+        "sex": "M",
+        "birthDate": "1920-11-21",
+        "deathDate": "2017-04-13",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Analysis and Theory of Numbers"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1959"
+    },
+    "contact": {
+        "address": "Professor Emertius, Eidg. Technische Hochschule, Mathematik, ETH Zentrum",
+        "city": "8092 Zurich",
+        "country": "Switzerland"
+    }
+}

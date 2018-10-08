@@ -1,0 +1,25 @@
+{
+    "id": "FL1995030",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Subashis",
+            "last": "Nag",
+            "display": "Nag, Dr Subashis"
+        },
+        "sex": "M",
+        "birthDate": "1955-08-14",
+        "deathDate": "1998-12-22",
+        "degree": "Ph.D. (Cornell)",
+        "specialization": "Complex Analysis, Analytic Geometry and Mathematical Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "The Institute of Mathematical, Sciences, Taramani, CIT Campus",
+        "city": "Madras 600 113"
+    }
+}

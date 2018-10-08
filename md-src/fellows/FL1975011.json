@@ -1,0 +1,32 @@
+{
+    "id": "FL1975011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chintamani",
+            "last": "Mande",
+            "display": "Mande, Prof. Chintamani"
+        },
+        "sex": "M",
+        "birthDate": "1925-10-28",
+        "degree": "D.Phil. (Allahabad), D.Sc. (Paris)",
+        "honours": "FNASc",
+        "specialization": "X-ray Spectroscopy and Solid State Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "c/o Dr Shekhar C Mande, Director's Residence, National Centre for Cell Science, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "98501 50633"
+        },
+        "email": {
+            "personal": "chintamanimande@gmail.com"
+        }
+    }
+}

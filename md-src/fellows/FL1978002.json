@@ -1,0 +1,35 @@
+{
+    "id": "FL1978002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Girjesh",
+            "last": "Govil",
+            "display": "Govil, Prof. Girjesh"
+        },
+        "sex": "M",
+        "birthDate": "1940-09-25",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Molecular Biophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "302, Vigyan Shila, Juhu-Varsova Link Road, 7 Bungalows",
+        "city": "Mumbai 400 061",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2371",
+            "residence": "(022) 2635 1251",
+            "mobile": "98675 74613",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "govil@tifr.res.in"
+        }
+    }
+}

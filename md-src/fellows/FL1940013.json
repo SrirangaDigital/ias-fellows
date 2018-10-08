@@ -1,0 +1,20 @@
+{
+    "id": "FL1940013",
+    "profile": {
+        "name": {
+            "first": "T",
+            "last": "Venkatarayudu",
+            "display": "Venkatarayudu,  T"
+        },
+        "sex": "M",
+        "birthDate": "1910-10-10",
+        "deathDate": "1979-11-29",
+        "degree": "Ph.D.",
+        "specialization": "Group Theory"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1940"
+    }
+}

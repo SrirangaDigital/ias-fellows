@@ -1,0 +1,22 @@
+{
+    "id": "FL1974063",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Coimbatore Ramadorai",
+            "last": "Krishna Murti",
+            "display": "Krishna Murti, Dr Coimbatore Ramadorai"
+        },
+        "sex": "M",
+        "birthDate": "1923-03-03",
+        "deathDate": "1990-06-30",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA, FNASc",
+        "specialization": "Nutrition, Biochemical Toxicology and Applied Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1974"
+    }
+}

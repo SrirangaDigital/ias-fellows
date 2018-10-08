@@ -1,0 +1,35 @@
+{
+    "id": "FL1987014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashok",
+            "last": "Sahni",
+            "display": "Sahni, Prof. Ashok"
+        },
+        "sex": "M",
+        "birthDate": "1941-08-19",
+        "degree": "Ph.D. (Minnesota)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Vertebrate Palaeontology, Palaeobiogeography and Electron Microscope Applications to Biomineralization"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth &amp; Planetary Sciences",
+        "yearelected": "1987",
+        "councilservice": "April 2018 -"
+    },
+    "contact": {
+        "address": "98, Mahatma Gandhi Marg",
+        "city": "Lucknow 226 001",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 274 0051",
+            "residence": "(0522) 223 5385",
+            "mobile": "99560 29934"
+        },
+        "email": {
+            "personal": "ashok.sahni@gmail.com"
+        }
+    }
+}

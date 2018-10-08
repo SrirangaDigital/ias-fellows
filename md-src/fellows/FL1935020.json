@@ -1,0 +1,18 @@
+{
+    "id": "FL1935020",
+    "profile": {
+        "name": {
+            "first": "K R K",
+            "last": "Iyengar",
+            "display": "Iyengar,  K R K"
+        },
+        "sex": "M",
+        "deathDate": "1947-07-20",
+        "specialization": "Malaria"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1935074",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Friedrich",
+            "last": "Paschen",
+            "display": "Paschen, Prof. Friedrich"
+        },
+        "sex": "M",
+        "birthDate": "1865-01-22",
+        "deathDate": "1947-02-25"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

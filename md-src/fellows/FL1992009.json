@@ -1,0 +1,36 @@
+{
+    "id": "FL1992009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asis",
+            "last": "Datta",
+            "display": "Datta, Prof. Asis"
+        },
+        "sex": "M",
+        "birthDate": "1944-02-02",
+        "degree": "Ph.D and D.Sc. (Calcutta)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Biochemistry, Molecular Biology and Genetic Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Distinguished Scientist, National Institute of Plant Genome Research, Aruna Asaf Ali Marg, P.O. Box 10531",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2673 5119, (011) 2674 2750",
+            "residence": "(0124) 420 5590",
+            "mobile": "98108 55666",
+            "fax": "(011) 2674 1759, (011) 2674 1658"
+        },
+        "email": {
+            "official": "asis_datta@nipgr.res.in",
+            "personal": "asis_datta@rediffmail.com"
+        }
+    }
+}

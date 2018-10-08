@@ -1,0 +1,27 @@
+{
+    "id": "FL1961001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jacob",
+            "last": "Chandy",
+            "display": "Chandy, Dr Jacob"
+        },
+        "sex": "M",
+        "birthDate": "1910-01-23",
+        "deathDate": "2007-06-23",
+        "degree": "MBBS (Madras)",
+        "honours": "FRCS (c)",
+        "specialization": "Neurology, Neurosurgery and Medical Education"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1961",
+        "councilservice": "Council Service: 1962-70."
+    },
+    "contact": {
+        "address": "Paarra, Matteethra",
+        "city": "Kottayam 686 004"
+    }
+}

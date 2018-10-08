@@ -1,0 +1,24 @@
+{
+    "id": "FL1957007",
+    "profile": {
+        "name": {
+            "first": "Mandagere Bharadwaj Ramachandra",
+            "last": "Rao",
+            "display": "Rao, Mr Mandagere Bharadwaj Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1906-08-05",
+        "deathDate": "1992-09-04",
+        "degree": "M.Sc. (Mysore)",
+        "specialization": "Geology and Exploration Geophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1957"
+    },
+    "contact": {
+        "address": "669, Third Block, Rajajinagar",
+        "city": "Bengaluru 560 010"
+    }
+}

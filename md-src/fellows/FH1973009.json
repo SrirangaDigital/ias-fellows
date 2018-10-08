@@ -1,0 +1,18 @@
+{
+    "id": "FH1973009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Stephen Denis",
+            "last": "Garrett",
+            "display": "Garrett, Prof. Stephen Denis"
+        },
+        "sex": "M",
+        "birthDate": "1906-11-01",
+        "deathDate": "1989-12-26"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1973"
+    }
+}

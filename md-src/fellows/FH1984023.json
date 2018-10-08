@@ -1,0 +1,18 @@
+{
+    "id": "FH1984023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "George William",
+            "last": "Series",
+            "display": "Series, Prof. George William"
+        },
+        "sex": "M",
+        "birthDate": "1920-02-22",
+        "deathDate": "1995-01-02"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1984"
+    }
+}

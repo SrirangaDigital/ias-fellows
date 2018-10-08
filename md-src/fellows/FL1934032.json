@@ -1,0 +1,16 @@
+{
+    "id": "FL1934032",
+    "profile": {
+        "name": {
+            "first": "C C",
+            "last": "John",
+            "display": "John,  C C"
+        },
+        "sex": "M"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934"
+    }
+}

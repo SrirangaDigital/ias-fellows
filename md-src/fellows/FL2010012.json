@@ -1,0 +1,35 @@
+{
+    "id": "FL2010012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Indranil",
+            "last": "Dasgupta",
+            "display": "Dasgupta, Prof. Indranil"
+        },
+        "sex": "M",
+        "birthDate": "1958-01-28",
+        "degree": "Ph.D. (JNU)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Plant-Virus Interactions, Transgenic Viral Resistance in Plants, Genome Organisation in Plant Viruses"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2411 1639",
+            "residence": "(011) 4277 8520",
+            "mobile": "99103 34110",
+            "fax": "(011) 2411 1208"
+        },
+        "email": {
+            "personal": "indranil58@yahoo.co.in"
+        }
+    }
+}

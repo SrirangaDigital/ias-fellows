@@ -1,0 +1,36 @@
+{
+    "id": "FL2007026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narayanaswamy",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Prof. Narayanaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1962-04-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Protein Functions, Structures & Evolution, Bioinformatics in Genomics and Metabolism & Signal Transduction"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, Molecular Biophysics Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2837",
+            "residence": "(080) 6717 6473",
+            "mobile": "93421 07047",
+            "fax": "(080) 2360 0535"
+        },
+        "email": {
+            "official": "ns@iisc.ac.in",
+            "personal": "iiscsrinivasan@gmail.com"
+        }
+    }
+}

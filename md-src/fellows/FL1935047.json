@@ -1,0 +1,19 @@
+{
+    "id": "FL1935047",
+    "profile": {
+        "name": {
+            "first": "Nihal Karan",
+            "last": "Sethi",
+            "display": "Sethi,  Nihal Karan"
+        },
+        "sex": "M",
+        "birthDate": "1893-07-08",
+        "deathDate": "1969-11-08",
+        "specialization": "Optics, Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1974074",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nihal Kishinchand",
+            "last": "Notani",
+            "display": "Notani, Dr Nihal Kishinchand"
+        },
+        "sex": "M",
+        "birthDate": "1930-01-21",
+        "deathDate": "1994-04-18",
+        "degree": "Ph.D. (Purdue)",
+        "honours": "FNA, FNASc",
+        "specialization": "Molecular Genetics and Radiobiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Bio-Medical Group, Bhabha Atomic Research Centre, Trombay",
+        "city": "Bombay 400 085"
+    }
+}

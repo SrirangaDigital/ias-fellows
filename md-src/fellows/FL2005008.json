@@ -1,0 +1,36 @@
+{
+    "id": "FL2005008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shankar Prasad",
+            "last": "Das",
+            "display": "Das, Prof. Shankar Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1959-03-16",
+        "degree": "Ph.D. (Chicago)",
+        "honours": "FNA",
+        "specialization": "Condensed Matter Theory, Statistical Physics and Stochastic Processes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "School of Physical Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2673 8768",
+            "residence": "(011) 2612 1583",
+            "mobile": "98996 74943",
+            "fax": "(011) 2671 7537, (011) 2674 2580"
+        },
+        "email": {
+            "official": "shankar@jnu.ac.in"
+        },
+        "url": "http://www.jnu.ac.in/Faculty/spdas"
+    }
+}

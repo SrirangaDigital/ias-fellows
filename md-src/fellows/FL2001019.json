@@ -1,0 +1,35 @@
+{
+    "id": "FL2001019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Diptiman",
+            "last": "Sen",
+            "display": "Sen, Prof. Diptiman"
+        },
+        "sex": "M",
+        "birthDate": "1959-01-17",
+        "degree": "Ph.D. (Princeton)",
+        "honours": "FNA, FNASc",
+        "specialization": "Theoretical Condensed Matter Physics and Quantum Field Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Professor, Centre for High Energy Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2974",
+            "residence": "(080) 2360 7073",
+            "fax": "(080) 2360 0683"
+        },
+        "email": {
+            "official": "diptiman@iisc.ac.in"
+        },
+        "url": "http://chep.iisc.ernet.in/personnel/diptiman.html"
+    }
+}

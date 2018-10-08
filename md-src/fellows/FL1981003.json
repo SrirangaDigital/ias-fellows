@@ -1,0 +1,36 @@
+{
+    "id": "FL1981003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dorairajan",
+            "last": "Balasubramanian",
+            "display": "Balasubramanian, Dr Dorairajan"
+        },
+        "sex": "M",
+        "birthDate": "1939-08-28",
+        "degree": "Ph.D. (Columbia)",
+        "honours": "FNA, FNASc, FTWAS, FAAAS, Chevalier de l'Ordre National du Merite (France)",
+        "specialization": "Biophysical Chemistry & Biochemistry of Eye Diseases and Public Understanding of Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1981",
+        "councilservice": "Council Service: 2001-12; Vice-President: 2004-2006; President:2007-2009"
+    },
+    "contact": {
+        "address": "Director of Research, Hyderabad Eye Research Foundation, LV Prasad Eye Institute, LV Prasad Marg, Banjara Hills",
+        "city": "Hyderabad 500 034",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2354 3652, (040) 3061 2501",
+            "residence": "(040) 2717 4787",
+            "mobile": "98850 19922",
+            "fax": "(040) 2354 8271"
+        },
+        "email": {
+            "official": "dbala@lvpei.org"
+        }
+    }
+}

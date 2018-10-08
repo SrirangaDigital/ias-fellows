@@ -1,0 +1,25 @@
+{
+    "id": "FL1974057",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shrinath Sheshagiri",
+            "last": "Kalbag",
+            "display": "Kalbag, Dr Shrinath Sheshagiri"
+        },
+        "sex": "M",
+        "birthDate": "1928-10-23",
+        "deathDate": "2003-07-30",
+        "degree": "M.Tech. (Mumbai), Ph.D. (Illinois)",
+        "specialization": "Technology, Technical & Science Education, and Chemical & Food Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Honorary Director, Vigyan Ashram",
+        "city": "Pabal 412 403 (Pune Dist.)"
+    }
+}

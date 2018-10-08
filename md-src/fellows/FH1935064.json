@@ -1,0 +1,19 @@
+{
+    "id": "FH1935064",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paul Adrien Maurice",
+            "last": "Dirac",
+            "display": "Dirac, Prof. Paul Adrien Maurice"
+        },
+        "sex": "M",
+        "birthDate": "1902-08-08",
+        "deathDate": "1984-10-20",
+        "honours": "Nobel Laureate (Physics) - 1933"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

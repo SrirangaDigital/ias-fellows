@@ -1,0 +1,35 @@
+{
+    "id": "FL2014021",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Susanta",
+            "last": "Roychoudhury",
+            "display": "Roychoudhury, Dr Susanta"
+        },
+        "sex": "M",
+        "birthDate": "1955-04-20",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Cancer Biology, Genomics, Human Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Molecular Biology Research & Diagnostic Laboratory, Saroj Gupta Cancer Centre & Research Institute, M.G. Road, Thakurpukur",
+        "city": "Kolkata 700 063",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2453 2781-83/2115",
+            "residence": "(033) 2358 1528",
+            "mobile": "94331 02986",
+            "fax": "(033) 2467 8002"
+        },
+        "email": {
+            "personal": "susantarc@gmail.com"
+        }
+    }
+}

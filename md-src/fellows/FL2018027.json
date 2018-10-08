@@ -1,0 +1,35 @@
+{
+    "id": "FL2018027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ravi",
+            "last": "Subrahmanyan",
+            "display": "Subrahmanyan, Prof. Ravi"
+        },
+        "sex": "M",
+        "birthDate": "1960-09-14",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Radio Astronomy, Observational Cosmology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Director, Raman Research Institute, CV Raman Avenue",
+        "city": "Bengaluru 560 080",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2361 1012",
+            "mobile": "97406 04339",
+            "fax": "(080) 2361 0492"
+        },
+        "email": {
+            "official": "rsubrahm@rri.res.in",
+            "personal": "subrahmanyan.ravi@gmail.com"
+        }
+    }
+}

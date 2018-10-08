@@ -1,0 +1,25 @@
+{
+    "id": "FL1981016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kappiareth Gopal",
+            "last": "Nair",
+            "display": "Nair, Dr Kappiareth Gopal"
+        },
+        "sex": "M",
+        "birthDate": "1931-07-02",
+        "deathDate": "2010-03-12",
+        "degree": "M.D., Ph.D. (Chicago)",
+        "specialization": "Clinical Cardiology, Cardiac Biochemistry & Physiology and General Medicine"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "8, Ashley House, 167-A, Colaba Road",
+        "city": "Mumbai 400 005"
+    }
+}

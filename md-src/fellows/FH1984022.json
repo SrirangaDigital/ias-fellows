@@ -1,0 +1,18 @@
+{
+    "id": "FH1984022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Goido",
+            "last": "Pontocorvo",
+            "display": "Pontocorvo, Prof. Goido"
+        },
+        "sex": "M",
+        "birthDate": "1907-11-29",
+        "deathDate": "1999-09-25"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1984"
+    }
+}

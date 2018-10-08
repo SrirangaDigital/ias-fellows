@@ -1,0 +1,26 @@
+{
+    "id": "FL1981017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajagopala",
+            "last": "Natarajan",
+            "display": "Natarajan, Prof. Rajagopala"
+        },
+        "sex": "M",
+        "birthDate": "1930-07-09",
+        "deathDate": "2003-12-02",
+        "degree": "Ph.D. (Annamalai)",
+        "honours": "FNASc",
+        "specialization": "Coastal Area Studies (Biology, Ecology, Microbiology, Biodegradation and Pollution Effects)"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "67/7 Teachers Colony, Adyar",
+        "city": "Chennai 600 020"
+    }
+}

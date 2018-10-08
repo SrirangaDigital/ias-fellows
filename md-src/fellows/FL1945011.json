@@ -1,0 +1,27 @@
+{
+    "id": "FL1945011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Toppur Sethapathy",
+            "last": "Sadasivan",
+            "display": "Sadasivan, Prof. Toppur Sethapathy"
+        },
+        "sex": "M",
+        "birthDate": "1913-05-22",
+        "deathDate": "2001-08-18",
+        "degree": "D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1945",
+        "councilservice": "Council Service: 1946-49, 1956-76; President: 1971-73 Vice-President: 1965-70; Secretary: 1956-58"
+    },
+    "contact": {
+        "address": "'Gokulam', 136, M K Amman Koil Street, Mylapore",
+        "city": "Chennai 600 004"
+    }
+}

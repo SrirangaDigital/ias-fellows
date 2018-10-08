@@ -1,0 +1,26 @@
+{
+    "id": "FL1968006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramachandran",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Prof. Ramachandran"
+        },
+        "sex": "M",
+        "birthDate": "1933-07-05",
+        "deathDate": "2004-09-19",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "X-ray Crystallography, Molecular Biophysics, Wide Line NMR and Informatics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1968"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Dept. of Crystallography &, Biophysics, University of Madras, Guindy Campus",
+        "city": "Chennai 600 025"
+    }
+}

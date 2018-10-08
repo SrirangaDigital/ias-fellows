@@ -8,13 +8,15 @@ define('PHY_BASE_URL', '/var/www/html/ias-fellows/');
 define('PHY_PUBLIC_URL', PHY_BASE_URL . 'public/');
 define('PHY_FLAT_URL', PHY_BASE_URL . 'application/views/flat/');
 
+define('PHY_FELLOW_MD_URL', PHY_BASE_URL . 'md-src/fellows/');
+
 define('DB_PREFIX', 'ias');
 define('DB_HOST', 'localhost');
 
 // photo will become iitmPHOTO inside
-define('DB_NAME', 'iasconf');
+define('DB_NAME', 'iasINFRA');
 
-define('iasconf_USER', 'root');
-define('iasconf_PASSWORD', 'mysql');
+define('iasINFRA_USER', 'root');
+define('iasINFRA_PASSWORD', 'mysql');
 
 ?>

@@ -1,0 +1,35 @@
+{
+    "id": "FL2011016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vedantam",
+            "last": "Rajshekhar",
+            "display": "Rajshekhar, Dr Vedantam"
+        },
+        "sex": "M",
+        "birthDate": "1959-04-15",
+        "degree": "M.Ch. (Vellore)",
+        "honours": "FAMS",
+        "specialization": "Neurosurgery, Cysticercosis, Cervical Spine Surgery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Department of Neurological Sciences, Christian Medical College",
+        "city": "Vellore 632 004",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(0416) 228 2767",
+            "residence": "(0416) 228 4214",
+            "mobile": "98947 74423",
+            "fax": "(0416) 223 2103"
+        },
+        "email": {
+            "official": "rajshekhar@cmcvellore.ac.in"
+        }
+    }
+}

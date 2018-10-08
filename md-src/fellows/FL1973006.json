@@ -1,0 +1,25 @@
+{
+    "id": "FL1973006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Perurmadom Ramaiyer",
+            "last": "Mahadevan",
+            "display": "Mahadevan, Dr Perurmadom Ramaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1928-05-20",
+        "deathDate": "2003-04-27",
+        "degree": "Ph.D. (Princeton)",
+        "specialization": "Molecular Biology, Mycobacteria, Leprosy and Industrial Biotechnology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1973"
+    },
+    "contact": {
+        "address": "Maanya Biotech Limited, Plot No. 151A, Road No. 12, MLAs' Colony, Banjara Hills",
+        "city": "Hyderabad 500 034"
+    }
+}

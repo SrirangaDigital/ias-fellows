@@ -1,0 +1,33 @@
+{
+    "id": "FL2009005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Renee M",
+            "last": "Borges",
+            "display": "Borges, Prof. Renee M"
+        },
+        "sex": "F",
+        "birthDate": "1959-02-25",
+        "degree": "Ph.D. (Miami)",
+        "specialization": "Evolutionary Biology & Behavioural Ecology, Plant-Animal Insect-Fungus Interactions, Chemical Ecology, Sensory Biology, Multi-Model Signalling, Olfactions & Visual Ecology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "JC Bose National Fellow, Centre for Ecological Sciences, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 2972, (080) 2293 3103",
+            "residence": "(080) 2341 7366",
+            "fax": "(080) 2360 1428"
+        },
+        "email": {
+            "official": "renee@iisc.ac.in"
+        }
+    }
+}

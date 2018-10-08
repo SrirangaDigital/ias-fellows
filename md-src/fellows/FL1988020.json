@@ -1,0 +1,35 @@
+{
+    "id": "FL1988020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manchanahalli Rangaswamy Satyanarayana",
+            "last": "Rao",
+            "display": "Rao, Prof. Manchanahalli Rangaswamy Satyanarayana"
+        },
+        "sex": "M",
+        "birthDate": "1948-01-21",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS, FAMS",
+        "specialization": "RNA Biology, Molecular Biology, Cell Biology, Neurooncology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1988",
+        "councilservice": "Council Service: 2013-15; Vice President: 2013-15"
+    },
+    "contact": {
+        "address": "Honorary Professor &amp; SERB Distinguished Fellow, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2754, (080) 2208 2864",
+            "residence": "(080) 2351 9131",
+            "fax": "(080) 2208 2758, (080) 2208 2766"
+        },
+        "email": {
+            "official": "mrsrao@jncasr.ac.in"
+        }
+    }
+}

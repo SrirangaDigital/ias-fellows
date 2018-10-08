@@ -1,0 +1,37 @@
+{
+    "id": "FL2013014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sangita",
+            "last": "Mukhopadhyay",
+            "display": "Mukhopadhyay, Dr Sangita"
+        },
+        "sex": "F",
+        "birthDate": "1966-01-01",
+        "degree": "Ph.D. (Utkal)",
+        "honours": "FNASc",
+        "specialization": "Immunology, Cell Signalling, Communicable Diseases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Group Leader, Molecular Cell Biology, Centre for DNA Fingerprinting & Diagnostics, Nampally",
+        "city": "Hyderabad 500 001",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2474 9423",
+            "residence": "(040) 2700 6994",
+            "mobile": "94907 51094",
+            "fax": "(040) 2478 5447"
+        },
+        "email": {
+            "official": "sangita@cdfd.org.in",
+            "personal": "sangitacdfd@gmail.com"
+        },
+        "url": "http://www.cdfd.org.in/labpages/sangita.html"
+    }
+}

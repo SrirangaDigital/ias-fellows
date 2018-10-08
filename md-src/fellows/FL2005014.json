@@ -1,0 +1,36 @@
+{
+    "id": "FL2005014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arunedra Nath",
+            "last": "Lahiri Majumder",
+            "display": "Lahiri Majumder, Prof. Arunedra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1946-03-01",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Biochemistry, Molecular Biology, Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "INSA Senior Professor, Division of Plant Biology, Bose Institute, P-1/12, CIT Scheme, VII M",
+        "city": "Kolkata 700 054",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2569 3232",
+            "residence": "(033) 2436 7219",
+            "mobile": "94330 27050",
+            "fax": "(033) 2334 3686"
+        },
+        "email": {
+            "official": "lahiri@jcbose.ac.in",
+            "personal": "alahirimajumder@yahoo.com"
+        }
+    }
+}

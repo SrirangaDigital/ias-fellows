@@ -1,0 +1,26 @@
+{
+    "id": "FL1967006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Samavedam Srinivasa",
+            "last": "Sriramachari",
+            "display": "Sriramachari, Dr Samavedam Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1925-06-25",
+        "deathDate": "2009-12-25",
+        "degree": "M.D. and D.Sc. (Andhra)",
+        "honours": "D.Sc.(h.c.), FNA, FAMS",
+        "specialization": "Nutritional, Hepatic, Osteo-Neuro & Toxicological Pathology, and Human Environmental Bio-Monitoring (HEBM)"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1967"
+    },
+    "contact": {
+        "address": "Vaisakhi, A/2/41, Azad Apartments, Sri Aurobindo Marg",
+        "city": "New Delhi 110 016"
+    }
+}

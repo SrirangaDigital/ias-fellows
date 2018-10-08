@@ -1,0 +1,32 @@
+{
+    "id": "FL2004018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhagyashri Achut",
+            "last": "Shanbhag",
+            "display": "Shanbhag, Prof. Bhagyashri Achut"
+        },
+        "sex": "F",
+        "birthDate": "1950-11-02",
+        "degree": "Ph.D. (Karnatak)",
+        "honours": "FNA, FNASc",
+        "specialization": "Comparative Endocrinology & Reproduction (Vertebrates), Herpetology and Animal Behaviour"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "FF-4, Trigunatmika Apts., Haliyal Road",
+        "city": "Dharwad 580 001",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "94481 84536"
+        },
+        "email": {
+            "personal": "bhagyashrishanbhag@gmail.com"
+        }
+    }
+}

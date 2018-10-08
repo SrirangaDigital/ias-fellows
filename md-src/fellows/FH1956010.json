@@ -1,0 +1,19 @@
+{
+    "id": "FH1956010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Harold Clayton",
+            "last": "Urey",
+            "display": "Urey, Prof. Harold Clayton"
+        },
+        "sex": "M",
+        "birthDate": "1893-04-29",
+        "deathDate": "1981-01-05",
+        "honours": "Nobel Laureate (Chemistry) - 1934"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1956"
+    }
+}

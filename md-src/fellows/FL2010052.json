@@ -1,0 +1,32 @@
+{
+    "id": "FL2010052",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Surendra Kumar",
+            "last": "Sharma",
+            "display": "Sharma, Dr Surendra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1951-02-22",
+        "degree": "Ph.D. (AIIMS), MD (PGIMER, Chandigarh)",
+        "honours": "FNASc, FNA",
+        "specialization": "Environmental Medicine, Infectious Diseases, Internal Medicine, Pulmonary & Critical Care and Sleep Medicine"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "B-5/3, B Block, Sector 13, RK Puram, Near Palika Bhawan",
+        "city": "New Delhi 110 066",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "98990 88092"
+        },
+        "email": {
+            "personal": "sksharma.aiims2@gmail.com,sksharma.aiims@yahoo.com"
+        }
+    }
+}

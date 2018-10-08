@@ -1,0 +1,34 @@
+{
+    "id": "FL2010035",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kavassery Sureswaran",
+            "last": "Narayan",
+            "display": "Narayan, Prof. Kavassery Sureswaran"
+        },
+        "sex": "M",
+        "birthDate": "1964-01-26",
+        "degree": "Ph.D. (Ohio State)",
+        "honours": "FNASc, FNA",
+        "specialization": "Organic/Polymer Electronics, Device Physics, Bioelectronics, Photovoltaics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Chemistry & Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O.",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2822",
+            "residence": "(080) 2351 1402",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "official": "narayan@jncasr.ac.in"
+        }
+    }
+}

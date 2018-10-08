@@ -1,0 +1,36 @@
+{
+    "id": "FL2010028",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ashish Kishore",
+            "last": "Lele",
+            "display": "Lele, Dr Ashish Kishore"
+        },
+        "sex": "M",
+        "birthDate": "1967-04-03",
+        "degree": "Ph.D. (Delaware)",
+        "honours": "FNAE",
+        "specialization": "PEM Fuel Cells, Polymer Dynamics, Rheology &amp; Processing, Rheology of Complex Fluids, Hydrogels and Gelation Processes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering &amp; Technology",
+        "yearelected": "2010",
+        "councilservice": "Council Service: 2017-"
+    },
+    "contact": {
+        "address": "Polymer Science &amp; Engineering Division, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 2199",
+            "residence": "(020) 2589 3089",
+            "mobile": "99600 65550",
+            "fax": "(020) 2590 2618"
+        },
+        "email": {
+            "personal": "aklele@gmail.com"
+        }
+    }
+}

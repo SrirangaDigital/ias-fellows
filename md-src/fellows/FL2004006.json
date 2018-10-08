@@ -1,0 +1,35 @@
+{
+    "id": "FL2004006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Debashish",
+            "last": "Chowdhury",
+            "display": "Chowdhury, Prof. Debashish"
+        },
+        "sex": "M",
+        "birthDate": "1957-09-10",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Statistical Physics, Condensed Matter Physics and Biological Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7039",
+            "residence": "(0512) 259 8465",
+            "fax": "(0512) 259 0914, (0512) 259 0260"
+        },
+        "email": {
+            "official": "debch@iitk.ac.in"
+        },
+        "url": "http://home.iik.ac.in/%7Edebch/index.html"
+    }
+}

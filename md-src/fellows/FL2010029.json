@@ -1,0 +1,36 @@
+{
+    "id": "FL2010029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalobaran",
+            "last": "Maiti",
+            "display": "Maiti, Prof. Kalobaran"
+        },
+        "sex": "M",
+        "birthDate": "1967-10-21",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Topologically Ordered Systems, Correlated Electron Systems, Magnetism & Superconductivity, Electron Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Condensed Matter Physics & Materials Science, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharasthra",
+        "telephone": {
+            "office": "(022) 2278 2748",
+            "residence": "(022) 2280 4919",
+            "mobile": "99691 85189",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "kbmaiti@tifr.res.in"
+        },
+        "url": "http://www.tifr.res.in/~kbmaiti"
+    }
+}

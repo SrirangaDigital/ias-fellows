@@ -1,0 +1,33 @@
+{
+    "id": "FL2007004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vikraman",
+            "last": "Balaji",
+            "display": "Balaji, Prof. Vikraman"
+        },
+        "sex": "M",
+        "birthDate": "1962-09-15",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Algebraic Geometry, Representation Theory and Topology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Chennai Mathematical Institute, H1, Sipcot IT Park, Padur Post, Siruseri",
+        "city": "Chennai 603 103",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 3298 3442, (044) 3298 3441",
+            "residence": "(044) 2235 2556, (044) 2235 1123",
+            "mobile": "98843 92556"
+        },
+        "email": {
+            "official": "balaji@cmi.ac.in"
+        }
+    }
+}

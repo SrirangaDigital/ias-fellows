@@ -1,0 +1,20 @@
+{
+    "id": "FL1964005",
+    "profile": {
+        "name": {
+            "first": "Dev",
+            "last": "Satya Nand",
+            "display": "Satya Nand,  Dev"
+        },
+        "sex": "M",
+        "birthDate": "1906-11-01",
+        "deathDate": "1978-01-28",
+        "degree": "M.B.B.S.",
+        "specialization": "Psychiatry and Psychoanalysis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1964"
+    }
+}

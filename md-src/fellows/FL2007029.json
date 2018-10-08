@@ -1,0 +1,35 @@
+{
+    "id": "FL2007029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Usha",
+            "last": "Vijayraghavan",
+            "display": "Vijayraghavan, Prof. Usha"
+        },
+        "sex": "F",
+        "birthDate": "1961-08-25",
+        "degree": "Ph.D. (Caltech)",
+        "honours": "FNA",
+        "specialization": "Plant Developmental Genetics, Microbial Genetics and Gene Regulation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, Microbiology & Cell Biology Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0168",
+            "residence": "(080) 2341 8504",
+            "mobile": "98443 32445",
+            "fax": "(080) 2360 0168, (080) 2360 2697"
+        },
+        "email": {
+            "official": "uvr@mcbl.iisc.ernet.in"
+        }
+    }
+}

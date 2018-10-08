@@ -1,0 +1,25 @@
+{
+    "id": "FL1943001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dattatreya Vaman",
+            "last": "Bal",
+            "display": "Bal, Dr Dattatreya Vaman"
+        },
+        "sex": "M",
+        "birthDate": "1905-08-25",
+        "deathDate": "1999-04-01",
+        "degree": "Ph.D. (Liverpool)",
+        "specialization": "Marine Zoology, Oceanography. Fisheries and Aquaculture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1943"
+    },
+    "contact": {
+        "address": "104, Swaroop Complex, Karve Road",
+        "city": "Pune 411 004"
+    }
+}

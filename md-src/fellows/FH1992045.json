@@ -1,0 +1,23 @@
+{
+    "id": "FH1992045",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gerhard",
+            "last": "Neuweiler",
+            "display": "Neuweiler, Prof. Gerhard"
+        },
+        "sex": "M",
+        "birthDate": "1935-05-18",
+        "deathDate": "2008-08-15"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Roseggerstrasse 9a",
+        "city": "D-82229 Seefeld",
+        "country": "Germany"
+    }
+}

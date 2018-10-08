@@ -1,0 +1,37 @@
+{
+    "id": "FL1995019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Abhijit",
+            "last": "Sen",
+            "display": "Sen, Prof. Abhijit"
+        },
+        "sex": "M",
+        "birthDate": "1946-01-04",
+        "degree": "Ph.D. (Tennessee)",
+        "honours": "FNASc, FNA",
+        "specialization": "Plasma Physics, Nonlinear Dynamics and Free Electron Lasers"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1995",
+        "councilservice": "Council Service: 2010-12"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Institute for Plasma Research, Bhat",
+        "city": "Gandhinagar 382 428",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2396 9023, (079) 2396 2048",
+            "residence": "(079) 2692 6749",
+            "mobile": "98250 51578",
+            "fax": "(079) 2396 9016-17"
+        },
+        "email": {
+            "official": "abhijit@ipr.res.in",
+            "personal": "senabhijit@gmail.com"
+        }
+    }
+}

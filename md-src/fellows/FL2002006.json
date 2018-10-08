@@ -1,0 +1,35 @@
+{
+    "id": "FL2002006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalasa Chandrasekhar Jois",
+            "last": "Kumara Swamy",
+            "display": "Kumara Swamy, Prof. Kalasa Chandrasekhar Jois"
+        },
+        "sex": "M",
+        "birthDate": "1957-01-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Organophosphorous Chemistry, Catalytic Organic Chemistry, Transformations Chemistry of Main-Group Elements"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4856",
+            "residence": "97049 05064",
+            "mobile": "98497 24004"
+        },
+        "email": {
+            "official": "kckssc@uohyd.ac.in",
+            "personal": "kckssc@yahoo.com"
+        }
+    }
+}

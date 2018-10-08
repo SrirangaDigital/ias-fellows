@@ -1,0 +1,20 @@
+{
+    "id": "FL1934075",
+    "profile": {
+        "name": {
+            "first": "B K Narayana",
+            "last": "Rao",
+            "display": "Rao,  B K Narayana"
+        },
+        "sex": "M",
+        "birthDate": "1884-03-12",
+        "deathDate": "1966-07-17",
+        "specialization": "Ophthalmology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934",
+        "councilservice": "1934-61; Vice President 1938-43"
+    }
+}

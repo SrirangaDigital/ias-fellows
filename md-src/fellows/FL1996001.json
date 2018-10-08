@@ -1,0 +1,35 @@
+{
+    "id": "FL1996001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Adi",
+            "last": "Adimurthi",
+            "display": "Adimurthi, Prof. Adi"
+        },
+        "sex": "M",
+        "birthDate": "1952-03-19",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Nonlinear Differential Equations"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "TIFR Centre for Applicable Mathematics, P.B. No. 6503, Sharada Nagar",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6695 3742, (080) 6695 3790-95",
+            "residence": "(080) 2341 1505",
+            "fax": "(080) 6695 3799"
+        },
+        "email": {
+            "official": "aditi@math.tifrbng.res.in",
+            "personal": "adiadimurthi@gmail.com"
+        }
+    }
+}

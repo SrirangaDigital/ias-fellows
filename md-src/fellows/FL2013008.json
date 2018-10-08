@@ -1,0 +1,36 @@
+{
+    "id": "FL2013008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivasan",
+            "last": "Gopalakrishnan",
+            "display": "Gopalakrishnan, Prof. Srinivasan"
+        },
+        "sex": "M",
+        "birthDate": "1960-06-25",
+        "degree": "Ph.D. (Purdue)",
+        "honours": "FNAE",
+        "specialization": "Wave Propagation, Structural Health Monitoring, Computational Mechanics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Aerospace Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3019",
+            "residence": "(080) 2360 4551",
+            "mobile": "99805 42142",
+            "fax": "(080) 2360 0134"
+        },
+        "email": {
+            "official": "krishnan@iisc.ac.in"
+        },
+        "url": "http://www.aero.iisc.ernet.in/users/gopalkrishan"
+    }
+}

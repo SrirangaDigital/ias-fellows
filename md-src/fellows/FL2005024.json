@@ -1,0 +1,35 @@
+{
+    "id": "FL2005024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vinod Kumar",
+            "last": "Singh",
+            "display": "Singh, Prof. Vinod Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1959-09-09",
+        "degree": "Ph.D. (Baroda), D.Sc. (h.c.)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Synthetic Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Science Education and Research, Bhopal-Indore Bypass Road, Bhauri",
+        "city": "Bhopal 462 066",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0755) 669 2316",
+            "residence": "(0755) 669 2400",
+            "mobile": "99811 44455",
+            "fax": "(0755) 669 2392"
+        },
+        "email": {
+            "official": "vinodks@iitk.ac.in"
+        }
+    }
+}

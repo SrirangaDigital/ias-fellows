@@ -1,0 +1,25 @@
+{
+    "id": "FL1948003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bijan Bihari",
+            "last": "Lal",
+            "display": "Lal, Dr Bijan Bihari"
+        },
+        "sex": "M",
+        "birthDate": "1913-08-04",
+        "deathDate": "2000-06-02",
+        "degree": "Ph.D. (Lucknow)",
+        "specialization": "Archaeological Chemistry, Archaeometry, Conservation and Environmental Archaeology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1948"
+    },
+    "contact": {
+        "address": "47, Subhas Road",
+        "city": "Dehra Dun 248 001"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL2012031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vijay Kumar",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Vijay Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1967-09-29",
+        "deathDate": "2016-10-24",
+        "degree": "Ph.D. (NEHU)",
+        "honours": "FNA",
+        "specialization": "Chronobiology, Evolution, Animal Behaviour"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Professor & Chairman, Chronobiology Lab., EOB Unit, JN Centre for Advanced Scientific Research, Jakkur P.O.",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2843",
+            "residence": "(080) 2362 2772",
+            "mobile": "94484 50067",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "official": "vsharma@jncasr.ac.in",
+            "personal": "vksharmas@gmail.com"
+        }
+    }
+}

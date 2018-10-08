@@ -1,0 +1,37 @@
+{
+    "id": "FL1996019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rahul",
+            "last": "Pandit",
+            "display": "Pandit, Prof. Rahul"
+        },
+        "sex": "M",
+        "birthDate": "1956-04-22",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Statistical Mechanics of Phase Transitions, Condensed Matter Theory, Spatiotemporal Chaos, Turbulence in Fluids, Plasmas and Mathematical Models for Cardiac Tissue"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2863, (080) 2293 2249",
+            "residence": "(080) 2664 7689",
+            "mobile": "98452 30684",
+            "fax": "(080) 2360 2602, (080) 2360 0683"
+        },
+        "email": {
+            "official": "rahul@iisc.ac.in",
+            "personal": "rahulpandi@gmail.com"
+        },
+        "url": "http://physics.iisc.ernet.in/~rahul"
+    }
+}

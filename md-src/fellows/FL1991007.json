@@ -1,0 +1,34 @@
+{
+    "id": "FL1991007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Samir Kumar",
+            "last": "Brahmachari",
+            "display": "Brahmachari, Dr Samir Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1952-01-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FNAE, FTWAS",
+        "specialization": "Functional Genetics and Genome Informatics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Institute of Genomics & Integrative Biology, Mathura Road",
+        "city": "New Delhi 110 020",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "98104 43272"
+        },
+        "email": {
+            "official": "skb@igib.in",
+            "personal": "brahmacharisk@gmail.com"
+        },
+        "url": "http://samirbrahmachari.rnabiology.org/"
+    }
+}

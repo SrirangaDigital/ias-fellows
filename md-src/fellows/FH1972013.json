@@ -1,0 +1,19 @@
+{
+    "id": "FH1972013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dorothy Crowfoot",
+            "last": "Hodgkin",
+            "display": "Hodgkin, Prof. Dorothy Crowfoot"
+        },
+        "sex": "M",
+        "birthDate": "1910-05-12",
+        "deathDate": "1994-07-29",
+        "honours": "Nobel Laureate (Chemistry) - 1964"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1972"
+    }
+}

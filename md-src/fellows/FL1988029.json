@@ -1,0 +1,33 @@
+{
+    "id": "FL1988029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gundlapalli Venkata",
+            "last": "Subba Rao",
+            "display": "Subba Rao, Prof. Gundlapalli Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1940-12-12",
+        "deathDate": "2017-12-24",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "Materials Science and Solid State Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "12, Westlake Drive",
+        "city": "South Barrington, IL 60010",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-847) 426 3987"
+        },
+        "email": {
+            "personal": "gvsr2012@gmail.com"
+        }
+    }
+}

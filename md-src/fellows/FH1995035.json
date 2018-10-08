@@ -1,0 +1,27 @@
+{
+    "id": "FH1995035",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Peter",
+            "last": "Day",
+            "display": "Day, Prof. Peter"
+        },
+        "sex": "M",
+        "birthDate": "1938-08-20",
+        "honours": "FRS, IUPAC Fellow"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "16, Dale Close",
+        "city": "Oxford OX1 1TU",
+        "country": "U.K.",
+        "email": {
+            "official": "profpday@msn.com"
+        },
+        "url": "http://www.ucl.ac.uk/chemistry/staff/emeritus/peter_day"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1987007",
+    "profile": {
+        "name": {
+            "first": "Dharmajit",
+            "last": "Guptasarma",
+            "display": "Guptasarma, Mr Dharmajit"
+        },
+        "sex": "M",
+        "birthDate": "1932-07-16",
+        "degree": "M.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Radiophysics & Electronics and Exploration Geophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "203, Kakatiya Apartments, Street No. 2, Habshiguda",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2715 2062",
+            "mobile": "94412 70692",
+            "fax": "(040) 2717 1564"
+        },
+        "email": {
+            "personal": "dguptasarma@gmail.com"
+        }
+    }
+}

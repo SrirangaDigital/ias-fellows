@@ -1,0 +1,20 @@
+{
+    "id": "FL1935016",
+    "profile": {
+        "name": {
+            "first": "Nand Lal",
+            "last": "Dutt",
+            "display": "Dutt,  Nand Lal"
+        },
+        "sex": "M",
+        "birthDate": "1900-00-00",
+        "deathDate": "1960-02-06",
+        "degree": "M.Sc.",
+        "specialization": "Cytology of Sugarcane"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    }
+}

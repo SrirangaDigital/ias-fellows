@@ -1,0 +1,26 @@
+{
+    "id": "FL1977016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ram Kumar",
+            "last": "Varma",
+            "display": "Varma, Prof. Ram Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1935-03-31",
+        "deathDate": "2014-05-14",
+        "degree": "Ph.D. (UC, San Diego)",
+        "honours": "FNASc, FNA",
+        "specialization": "Plasma Physics & Astrophysics, Foundations of Quantum Mechanics and Classical Quantum Relationship"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "303, Saraswati Nagar",
+        "city": "Ahmedabad 380 015"
+    }
+}

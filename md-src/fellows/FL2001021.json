@@ -1,0 +1,36 @@
+{
+    "id": "FL2001021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Raghavan",
+            "last": "Varadarajan",
+            "display": "Varadarajan, Prof. Raghavan"
+        },
+        "sex": "M",
+        "birthDate": "1960-11-27",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "FNA",
+        "specialization": "Protein Structure & Folding"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2001",
+        "councilservice": "Council Service: 2013-; Secretary: 2013-2015; Treasurer: 2016-"
+    },
+    "contact": {
+        "address": "Professor, Molecular Biophysics Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2612",
+            "residence": "(080) 2360 2332",
+            "fax": "(080) 2360 0535"
+        },
+        "email": {
+            "official": "varadar@iisc.ac.in"
+        },
+        "url": "http://mbu.iisc.ac.in/~rvgrp"
+    }
+}

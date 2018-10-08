@@ -1,0 +1,20 @@
+{
+    "id": "FL1942002",
+    "profile": {
+        "name": {
+            "first": "Norman Loftus",
+            "last": "Bor",
+            "display": "Bor,  Norman Loftus"
+        },
+        "sex": "M",
+        "birthDate": "1893-05-02",
+        "deathDate": "1972-12-22",
+        "honours": "FNA",
+        "specialization": "Asiatic Grasses"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1942"
+    }
+}

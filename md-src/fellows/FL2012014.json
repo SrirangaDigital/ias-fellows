@@ -1,0 +1,36 @@
+{
+    "id": "FL2012014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Govindasamy",
+            "last": "Mugesh",
+            "display": "Mugesh, Prof. Govindasamy"
+        },
+        "sex": "M",
+        "birthDate": "1970-05-29",
+        "degree": "Ph.D. (IIT, Bombay)",
+        "honours": "FNASc, FNA, FRSC",
+        "specialization": "Bioinorganic Chemistry, Chemical Biology, Medicinal Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Inorganic & Physical Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 2566",
+            "residence": "(080) 2360 5888",
+            "mobile": "94484 50108",
+            "fax": "(080) 2360 2566"
+        },
+        "email": {
+            "official": "mugesh@iisc.ac.in"
+        },
+        "url": "http://ipc.iisc.ernet.in/~mugesh/"
+    }
+}

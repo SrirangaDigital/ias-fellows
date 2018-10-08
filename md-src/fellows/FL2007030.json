@@ -1,0 +1,35 @@
+{
+    "id": "FL2007030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Veejendra Kumar",
+            "last": "Yadav",
+            "display": "Yadav, Prof. Veejendra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1956-06-13",
+        "degree": "Ph.D. (Baroda)",
+        "specialization": "Synthetic Organic Chemistry and Physical Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7439",
+            "residence": "(0512) 259 8544",
+            "mobile": "94151 34082",
+            "fax": "(0512) 259 6806"
+        },
+        "email": {
+            "official": "vijendra@iitk.ac.in"
+        },
+        "url": "http://home.iitk.ac.in/~vijendra"
+    }
+}

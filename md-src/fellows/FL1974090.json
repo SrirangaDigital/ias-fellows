@@ -1,0 +1,26 @@
+{
+    "id": "FL1974090",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sarukkai Krishnamachary",
+            "last": "Rangarajan",
+            "display": "Rangarajan, Prof. Sarukkai Krishnamachary"
+        },
+        "sex": "M",
+        "birthDate": "1932-09-09",
+        "deathDate": "2008-04-29",
+        "degree": "B.A. (Hons.) (Madras)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Electrochemistry and Theoretical Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "427, 5th Cross, III Phase, J.P. Nagar",
+        "city": "Bengaluru 560 078"
+    }
+}

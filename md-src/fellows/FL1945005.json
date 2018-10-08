@@ -1,0 +1,26 @@
+{
+    "id": "FL1945005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vishnu Madhav",
+            "last": "Ghatage",
+            "display": "Ghatage, Dr Vishnu Madhav"
+        },
+        "sex": "M",
+        "birthDate": "1908-10-24",
+        "deathDate": "1991-12-06",
+        "degree": "D. Phil. (Gottingen)",
+        "honours": "FNA",
+        "specialization": "Aerodynamics and Aircraft Structures"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1945"
+    },
+    "contact": {
+        "address": "Managing Director, Product Designers Private Limited, Everest Apartments, G-1, 152, 8th Main Road, Malleswaram",
+        "city": "Bengaluru 560 003"
+    }
+}

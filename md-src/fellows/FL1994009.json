@@ -1,0 +1,37 @@
+{
+    "id": "FL1994009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramakrishna Vijayacharya",
+            "last": "Hosur",
+            "display": "Hosur, Prof. Ramakrishna Vijayacharya"
+        },
+        "sex": "M",
+        "birthDate": "1953-05-16",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Structural Biology, NMR Spectroscopy and Protein Folding"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Senior Professor (I), Department of Chemical Sciences, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2488",
+            "residence": "(022) 2280 4635, (22) 2278 3488",
+            "mobile": "99870 51556",
+            "fax": "(022) 2280 4610, (022) 2280 4611"
+        },
+        "email": {
+            "official": "hosur@tifr.res.in",
+            "personal": "hosur53@gmail.com"
+        },
+        "url": "http://www.tifr.res.in/~hosur"
+    }
+}

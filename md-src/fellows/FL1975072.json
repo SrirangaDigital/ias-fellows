@@ -1,0 +1,26 @@
+{
+    "id": "FL1975072",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ajit Kumar",
+            "last": "Saha",
+            "display": "Saha, Prof. Ajit Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1925-05-25",
+        "deathDate": "1997-04-27",
+        "degree": "Ph.D. (Calcutta and Toronto)",
+        "honours": "FNA",
+        "specialization": "Petrology, Geochemistry, Precambrian Geology and Environmental Geology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Emeritus Professor of Geology, Department of Geology, Presidency College",
+        "city": "Calcutta 700 073"
+    }
+}

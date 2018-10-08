@@ -1,0 +1,25 @@
+{
+    "id": "FL1991032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Somenahalli Venkatesarao",
+            "last": "Subramanyam",
+            "display": "Subramanyam, Prof. Somenahalli Venkatesarao"
+        },
+        "sex": "M",
+        "birthDate": "1943-09-03",
+        "deathDate": "2015-08-01",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Condensed Matter Physics, Low Temperature Physics, High Pressure Physics, Carbon Films and Conducting Polymers"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "No. 1, 8th Main, Sharada Colony, Basaveswara Nagar",
+        "city": "Bengaluru 560 079"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1934052",
+    "profile": {
+        "name": {
+            "first": "George",
+            "last": "Mathai",
+            "display": "Mathai,  George"
+        },
+        "sex": "M",
+        "birthDate": "1887-11-13",
+        "deathDate": "1947-06-25",
+        "honours": "FNA, FNASc",
+        "specialization": "Madreporarian Corals"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934",
+        "councilservice": "1936-40"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2015015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Anuradha",
+            "last": "Dube",
+            "display": "Dube, Dr Anuradha"
+        },
+        "sex": "F",
+        "birthDate": "1955-11-27",
+        "degree": "Ph.D. (Kanpur)",
+        "honours": "FNA, FNASc",
+        "specialization": "Parasite (Leishmania), Immunobiology, Drug Vaccine Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Central Drug Research Institute, P.B. No. 173, New Campus, Sector 10, Sitapur Road, Janakipuram Vistar",
+        "city": "Lucknow 226 021",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 277 1940",
+            "mobile": "94509 31332",
+            "fax": "(0522) 277 1941"
+        },
+        "email": {
+            "official": "a_dube@cdri.res.in",
+            "personal": "anuradhadube@gmail.com"
+        }
+    }
+}

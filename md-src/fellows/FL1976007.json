@@ -1,0 +1,26 @@
+{
+    "id": "FL1976007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "John",
+            "last": "Barnabas",
+            "display": "Barnabas, Dr John"
+        },
+        "sex": "M",
+        "birthDate": "1929-10-12",
+        "deathDate": "1994-07-30",
+        "degree": "Ph.D. (Poona)",
+        "honours": "FNA, FNASc",
+        "specialization": "Molecular Evolution"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "Head, Biochemical Sciences, National Chemical Laboratory",
+        "city": "Pune 411 008"
+    }
+}

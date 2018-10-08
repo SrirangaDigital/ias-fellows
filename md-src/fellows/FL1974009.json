@@ -1,0 +1,36 @@
+{
+    "id": "FL1974009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudhanshu Shekhar",
+            "last": "Jha",
+            "display": "Jha, Prof. Sudhanshu Shekhar"
+        },
+        "sex": "M",
+        "birthDate": "1940-12-25",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Solid State Theory, Quantum Computing and Photonics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1989-94, Vice-President: 1989-91"
+    },
+    "contact": {
+        "address": "402, Vigyanshila, Juhu-Varsova Link Road, 7 Bungalows, Andheri (W)",
+        "city": "Mumbai 400 061",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7588",
+            "residence": "(022) 2632 7413",
+            "mobile": "98924 98234",
+            "fax": "(022) 2576 7552"
+        },
+        "email": {
+            "personal": "ss_jhain@hotmail.com"
+        }
+    }
+}

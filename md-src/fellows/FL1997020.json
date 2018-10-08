@@ -1,0 +1,36 @@
+{
+    "id": "FL1997020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rakesh",
+            "last": "Tuli",
+            "display": "Tuli, Dr Rakesh"
+        },
+        "sex": "M",
+        "birthDate": "1953-09-21",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc, FNAAS",
+        "specialization": "Plant Biotechnology, Genetic Engineering and Molecular Biology, Secondary Metabolism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Senior Research Adviser, University Institute of Engineering & Technology, Panjab University, Sector 25",
+        "city": "Chandigarh 160 014",
+        "state": "Panjab",
+        "telephone": {
+            "office": "(0172) 254 4107",
+            "residence": "(0172) 257 0765",
+            "mobile": "99150 35511",
+            "fax": "(0172) 254 7986"
+        },
+        "email": {
+            "official": "rtuli@pu.ac.in",
+            "personal": "rakeshtuli@hotmail.com"
+        }
+    }
+}

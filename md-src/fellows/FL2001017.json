@@ -1,0 +1,33 @@
+{
+    "id": "FL2001017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dinakar Mashnu",
+            "last": "Salunke",
+            "display": "Salunke, Dr Dinakar Mashnu"
+        },
+        "sex": "M",
+        "birthDate": "1955-07-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Structural Biology, Macromolecular Crystallography and Immunology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Director, International Centre for Genetic Engineering, & Biotechnology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 2371",
+            "fax": "(011) 2674 2316"
+        },
+        "email": {
+            "personal": "icgeb.director@gmail.com"
+        }
+    }
+}

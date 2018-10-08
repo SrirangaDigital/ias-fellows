@@ -1,0 +1,19 @@
+{
+    "id": "FH1937009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Irving",
+            "last": "Langmuir",
+            "display": "Langmuir, Prof. Irving"
+        },
+        "sex": "M",
+        "birthDate": "1881-01-31",
+        "deathDate": "1957-08-16",
+        "honours": "Nobel Laureate (Chemistry) - 1932"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1937"
+    }
+}

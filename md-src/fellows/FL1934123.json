@@ -1,0 +1,19 @@
+{
+    "id": "FL1934123",
+    "profile": {
+        "name": {
+            "first": "S",
+            "last": "Venkateswaran",
+            "display": "Venkateswaran,  S"
+        },
+        "sex": "M",
+        "deathDate": "1971-03-12",
+        "degree": "D.Sc.",
+        "specialization": "Raman Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934"
+    }
+}

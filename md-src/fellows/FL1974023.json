@@ -1,0 +1,35 @@
+{
+    "id": "FL1974023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Erode Subramanian",
+            "last": "Raja Gopal",
+            "display": "Raja Gopal, Prof. Erode Subramanian"
+        },
+        "sex": "M",
+        "birthDate": "1936-05-12",
+        "degree": "Ph.D. (IISc)",
+        "honours": "D.Sc. (h.c.), FNA, FNASc",
+        "specialization": "Solid State Physics, Statistical Physics and Instrumentation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Emeritus Scientist, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2529",
+            "residence": "(080) 2334 7449",
+            "mobile": "98800 93745",
+            "fax": "(080) 2360 2602"
+        },
+        "email": {
+            "official": "esrgopal@iisc.ac.in"
+        }
+    }
+}

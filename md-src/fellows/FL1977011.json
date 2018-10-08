@@ -1,0 +1,26 @@
+{
+    "id": "FL1977011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narayana Balakrishnan",
+            "last": "Nair",
+            "display": "Nair, Prof. Narayana Balakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1927-07-06",
+        "deathDate": "2010-04-21",
+        "degree": "Ph.D and D.Sc. (Madras), D.Sc. (h.c.)",
+        "honours": "FNA, FNASc, FNAAS, FTWAS",
+        "specialization": "Aquatic Biology & Fisheries and Ecology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "Swathi, Residency Road, Women's College Junction, Thycaud",
+        "city": "Thiruvananthapuram 695 014"
+    }
+}

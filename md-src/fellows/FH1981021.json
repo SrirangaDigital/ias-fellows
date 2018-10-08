@@ -1,0 +1,19 @@
+{
+    "id": "FH1981021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Alexander Robertus",
+            "last": "Todd",
+            "display": "Todd, Prof. Alexander Robertus"
+        },
+        "sex": "M",
+        "birthDate": "1907-10-02",
+        "deathDate": "1977-01-10",
+        "honours": "Nobel Laureate (Chemistry) - 1957"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1981"
+    }
+}

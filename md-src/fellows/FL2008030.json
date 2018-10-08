@@ -1,0 +1,33 @@
+{
+    "id": "FL2008030",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Raghunathan",
+            "last": "Srianand",
+            "display": "Srianand, Dr Raghunathan"
+        },
+        "sex": "M",
+        "birthDate": "1969-02-01",
+        "degree": "Ph.D. (Utkal)",
+        "specialization": "QSO Spectroscopy, Cosmology and Structure Formation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Scientist H, Inter-University Centre for Astronomy & Astrophysics, Post Bag 4, Ganeshkhind, Pune University Campus",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4220",
+            "residence": "(020) 2560 4412",
+            "fax": "(020) 2560 4699"
+        },
+        "email": {
+            "official": "anand@iucaa.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2010026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anurag",
+            "last": "Kumar",
+            "display": "Kumar, Prof. Anurag"
+        },
+        "sex": "M",
+        "birthDate": "1955-07-13",
+        "degree": "Ph.D. (Cornell)",
+        "honours": "FNA, FNAE, FIEEE, FTWAS",
+        "specialization": "Wireless Networks, Communication Networks, Stochastic Modelling, Analysis & Optimisation of Distributed Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0690, (080) 2293 2222",
+            "residence": "(080) 2341 5031",
+            "fax": "(080) 2360 0936"
+        },
+        "email": {
+            "official": "diroff@admin.iisc.ernet.in",
+            "personal": "anurageceiisc@gmail.com"
+        }
+    }
+}

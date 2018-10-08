@@ -1,0 +1,29 @@
+{
+    "id": "FH2013026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thomas",
+            "last": "Kailath",
+            "display": "Kailath, Prof. Thomas"
+        },
+        "sex": "M",
+        "birthDate": "1935-06-07"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "346, Greenoaks Drive",
+        "city": "Atherton, CA 94027-2116",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-650) 494 9401"
+        },
+        "email": {
+            "personal": "profkailath@yahoo.com"
+        },
+        "url": "www.stanford.edu/~tkailath"
+    }
+}

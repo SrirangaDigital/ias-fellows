@@ -1,0 +1,36 @@
+{
+    "id": "FL1973002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Roddam",
+            "last": "Narasimha",
+            "display": "Narasimha, Prof. Roddam"
+        },
+        "sex": "M",
+        "birthDate": "1933-07-20",
+        "degree": "B.E., Ph.D. (Caltech)",
+        "honours": "FNA, FNASc, FRS, FTWAS, Foreign Associate, Foreign Hon. Member, AAAS, US Natl. Acad. Engg. and US Na",
+        "specialization": "Aerospace Engineering, Fluid Mechanics and Atmospheric Science & Technology Policy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1973",
+        "councilservice": "Council Service: 1977-97; Secretary: 1980-85; Vice-President: 1986-91; President: 1992-94"
+    },
+    "contact": {
+        "address": "DST Year-of-Science Professor, Engineering Mechanics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2999",
+            "residence": "(080) 2341 2705",
+            "fax": "(080) 2208 2951"
+        },
+        "email": {
+            "official": "roddam@alumni.iisc.ac.in"
+        },
+        "url": "http://www.jncasr.ac.in/roddam/"
+    }
+}

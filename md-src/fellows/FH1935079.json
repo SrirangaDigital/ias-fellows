@@ -1,0 +1,19 @@
+{
+    "id": "FH1935079",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ernest (Lord)",
+            "last": "Rutherford",
+            "display": "Rutherford, Prof. Ernest (Lord)"
+        },
+        "sex": "M",
+        "birthDate": "1871-08-30",
+        "deathDate": "1937-10-19",
+        "honours": "Nobel Laureate (Chemistry) - 1908"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

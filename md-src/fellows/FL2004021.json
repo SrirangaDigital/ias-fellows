@@ -1,0 +1,34 @@
+{
+    "id": "FL2004021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Siva",
+            "last": "Umapathy",
+            "display": "Umapathy, Prof. Siva"
+        },
+        "sex": "M",
+        "birthDate": "1959-06-10",
+        "degree": "Ph.D. (Otago, New Zealand)",
+        "specialization": "Instrumentation Development, Microspectroscopy, Laser Spectroscopy, Photochemistry and Ultrafast Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Professor, Department of Inorganic & Physical, Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 1234, (080) 2293 2595",
+            "mobile": "94480 88381",
+            "fax": "(080) 2360 1552"
+        },
+        "email": {
+            "official": "umapathy@ipc.iisc.ernet.in",
+            "personal": "siva.umapathy@gmail.com"
+        }
+    }
+}

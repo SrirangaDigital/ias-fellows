@@ -1,0 +1,35 @@
+{
+    "id": "FL1992017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jayaraman",
+            "last": "Gowrishankar",
+            "display": "Gowrishankar, Dr Jayaraman"
+        },
+        "sex": "M",
+        "birthDate": "1956-03-24",
+        "degree": "M.B.B.S. (Madras), Ph.D. (Melbourne)",
+        "honours": "FNA, FNASc",
+        "specialization": "Microbial & Molecular Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Centre for DNA Fingerprinting and Diagnostics (CDFD), Uppal",
+        "city": "Hyderabad 500 039",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2474 9388-89",
+            "residence": "(040) 6576 1729, (040) 2352 3959",
+            "mobile": "91604 30111",
+            "fax": "(040) 2474 9448"
+        },
+        "email": {
+            "official": "lbg@cdfd.org.in"
+        }
+    }
+}

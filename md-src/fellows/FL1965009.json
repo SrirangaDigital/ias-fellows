@@ -1,0 +1,25 @@
+{
+    "id": "FL1965009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Anantharaman Kalyan",
+            "last": "Sundaram",
+            "display": "Sundaram, Dr Anantharaman Kalyan"
+        },
+        "sex": "M",
+        "birthDate": "1925-05-10",
+        "deathDate": "1994-01-27",
+        "degree": "Ph.D. (Bombay)",
+        "specialization": "Electrochemistry, Analytical Chemistry, Thermal Analysis and Solvent Extraction"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1965"
+    },
+    "contact": {
+        "address": "1/131, Sindhi Society, Chembur",
+        "city": "Bombay 400 071"
+    }
+}

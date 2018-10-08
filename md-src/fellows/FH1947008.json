@@ -1,0 +1,19 @@
+{
+    "id": "FH1947008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paul",
+            "last": "Karrer",
+            "display": "Karrer, Prof. Paul"
+        },
+        "sex": "M",
+        "birthDate": "1889-04-21",
+        "deathDate": "1971-06-18",
+        "honours": "Nobel Laureate (Chemistry) - 1937"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1947"
+    }
+}

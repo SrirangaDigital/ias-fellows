@@ -1,0 +1,21 @@
+{
+    "id": "FL1978011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sekharipuram Narayanaiyer",
+            "last": "Seshadri",
+            "display": "Seshadri, Dr Sekharipuram Narayanaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1937-03-15",
+        "deathDate": "1986-02-02",
+        "degree": "S.M. (MIT)",
+        "specialization": "Control Systems and Power Electronics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1978"
+    }
+}

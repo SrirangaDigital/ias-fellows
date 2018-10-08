@@ -1,0 +1,31 @@
+{
+    "id": "FL2007003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sunil",
+            "last": "Bajpai",
+            "display": "Bajpai, Prof. Sunil"
+        },
+        "sex": "M",
+        "birthDate": "1961-09-30",
+        "degree": "Ph.D. (Panjab)",
+        "honours": "FNASc",
+        "specialization": "Vertebrate Paleontology, Biostratigraphy and Paleobiogeography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth &amp; Planetary Sciences",
+        "yearelected": "2007",
+        "councilservice": "Council Service: 2016-"
+    },
+    "contact": {
+        "address": "Dept. of Earth Sciences, Indian Institute of Technology",
+        "city": "Roorkee 247 667",
+        "state": "U.P.",
+        "email": {
+            "official": "sunilfes@iitr.ac.in",
+            "personal": "sunilbajpai2001@yahoo.com"
+        }
+    }
+}

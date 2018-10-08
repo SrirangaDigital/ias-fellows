@@ -1,0 +1,25 @@
+{
+    "id": "FL1976017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Lalit Kumar",
+            "last": "Pandit",
+            "display": "Pandit, Prof. Lalit Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1932-06-28",
+        "deathDate": "2006-05-23",
+        "degree": "Dr. Phil. (Zurich)",
+        "specialization": "Theoretical High Energy Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "F-32, Green Park",
+        "city": "New Delhi 110 016"
+    }
+}

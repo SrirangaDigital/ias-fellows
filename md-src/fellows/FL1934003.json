@@ -1,0 +1,20 @@
+{
+    "id": "FL1934003",
+    "profile": {
+        "name": {
+            "first": "J J",
+            "last": "Asana",
+            "display": "Asana,  J J"
+        },
+        "sex": "M",
+        "birthDate": "1890-07-30",
+        "deathDate": "1954-12-16",
+        "degree": "M.A. (Baroda College)",
+        "specialization": "Reptiles"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934"
+    }
+}

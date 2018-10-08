@@ -1,0 +1,35 @@
+{
+    "id": "FL1994016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gaya Prasad",
+            "last": "Pal",
+            "display": "Pal, Dr Gaya Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1950-06-07",
+        "degree": "M.B.B.S. and M.S. (Indore), D.Sc. (S. Gujarat)",
+        "honours": "FNASc, FAMS",
+        "specialization": "Human Anatomy, Clinical Anatomy and Biomechanics of Spine"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "FASI Director, Modern Institute of Medical Sciences, Kanadia, Near Bypass Road",
+        "city": "Indore 452 016",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0731) 284 2234-35",
+            "residence": "(0731) 249 7600",
+            "mobile": "94254 96354",
+            "fax": "(0731) 284 2235"
+        },
+        "email": {
+            "personal": "gp_pal50@rediffmail.com"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "FL1935051",
+    "profile": {
+        "name": {
+            "first": "Tippur Subbarayashastry",
+            "last": "Subbaraya",
+            "display": "Subbaraya,  Tippur Subbarayashastry"
+        },
+        "sex": "M",
+        "birthDate": "1905-10-10",
+        "deathDate": "1975-04-10",
+        "degree": "D.Sc. (Am. Inst. Phys.)",
+        "specialization": "Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1935"
+    }
+}

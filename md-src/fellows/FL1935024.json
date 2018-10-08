@@ -1,0 +1,20 @@
+{
+    "id": "FL1935024",
+    "profile": {
+        "name": {
+            "first": "K L",
+            "last": "Khanna",
+            "display": "Khanna,  K L"
+        },
+        "sex": "M",
+        "deathDate": "1976-08-01",
+        "degree": "B.Sc. (Agri)",
+        "specialization": "Sugarcane Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935",
+        "councilservice": "1956-61"
+    }
+}

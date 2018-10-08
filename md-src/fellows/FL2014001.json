@@ -1,0 +1,35 @@
+{
+    "id": "FL2014001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jitendra Kumar",
+            "last": "Bera",
+            "display": "Bera, Prof. Jitendra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1968-10-24",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Organometallic Chemistry, Small Molecule Activation, Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 679 7336",
+            "residence": "(0512) 679 8450",
+            "mobile": "99563 90490",
+            "fax": "(0512) 679 6806"
+        },
+        "email": {
+            "official": "jbera@iitk.ac.in"
+        },
+        "url": "http://home.iitk.ac.in/~jbera"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1934121",
+    "profile": {
+        "name": {
+            "first": "Tiruvadi Sambasiva",
+            "last": "Venkataraman",
+            "display": "Venkataraman,  Tiruvadi Sambasiva"
+        },
+        "sex": "M",
+        "birthDate": "1884-06-15",
+        "deathDate": "1963-01-18",
+        "honours": "FNA",
+        "specialization": "Sugarcane Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934",
+        "councilservice": "1934-35; Vice President 1934-35"
+    }
+}

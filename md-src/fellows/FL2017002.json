@@ -1,0 +1,36 @@
+{
+    "id": "FL2017002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Suvendra Nath",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Dr Suvendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1975-10-04",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc",
+        "specialization": "Molecular Biology, Cell Biology, RNA Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Molecular & Human Genetics Division, Indian Institute of Chemical Biology, 4, Raja SC Mullick Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2499 5783",
+            "residence": "(033) 2427 9515",
+            "mobile": "98316 33460",
+            "fax": "(033) 2473 5197"
+        },
+        "email": {
+            "official": "suvendra@iicb.res.in"
+        },
+        "url": "http://rnabiolab.wixsite.com/suvendralab"
+    }
+}

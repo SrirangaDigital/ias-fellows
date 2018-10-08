@@ -1,0 +1,27 @@
+{
+    "id": "FL1971004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Palliakaranai Thirumalai",
+            "last": "Narasimhan",
+            "display": "Narasimhan, Prof. Palliakaranai Thirumalai"
+        },
+        "sex": "M",
+        "birthDate": "1928-07-28",
+        "deathDate": "2013-05-03",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA, FNASc",
+        "specialization": "Theoretical Chemistry and Magnetic Resonance"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1971"
+    },
+    "contact": {
+        "address": "1013, Lupine Drive",
+        "city": "Sunnyvale, CA 94086",
+        "country": "USA"
+    }
+}

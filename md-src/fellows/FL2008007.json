@@ -1,0 +1,35 @@
+{
+    "id": "FL2008007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Puspendu Kumar",
+            "last": "Das",
+            "display": "Das, Prof. Puspendu Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1958-05-22",
+        "degree": "Ph.D. (Columbia)",
+        "specialization": "Laser Spectroscopy & Dynamics and Nonlinear Optics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Department of Inorganic & Physical Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2662",
+            "residence": "(080) 2360 2223",
+            "mobile": "94802 58065",
+            "fax": "(080) 2360 1552"
+        },
+        "email": {
+            "official": "pkdas@iisc.ac.in",
+            "personal": "pkdasipc@gmail.com"
+        }
+    }
+}

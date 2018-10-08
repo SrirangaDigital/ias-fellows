@@ -1,0 +1,18 @@
+{
+    "id": "FH1935081",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Karl Manne Georg",
+            "last": "Siegbahn",
+            "display": "Siegbahn, Prof. Karl Manne Georg"
+        },
+        "sex": "M",
+        "birthDate": "1886-12-03",
+        "deathDate": "1978-09-24"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

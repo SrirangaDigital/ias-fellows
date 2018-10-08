@@ -1,0 +1,22 @@
+{
+    "id": "FL1934112",
+    "profile": {
+        "name": {
+            "first": "Nanasaheb Ramji",
+            "last": "Tawde",
+            "display": "Tawde,  Nanasaheb Ramji"
+        },
+        "sex": "M",
+        "birthDate": "1898-01-15",
+        "deathDate": "1984-12-25",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA",
+        "specialization": "Molecular Spectroscopy, Astrophysics, Chemical Physics and Combustion Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1968-70"
+    }
+}

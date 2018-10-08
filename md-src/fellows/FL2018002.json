@@ -1,0 +1,35 @@
+{
+    "id": "FL2018002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Balram",
+            "last": "Bhargava",
+            "display": "Bhargava, Prof. Balram"
+        },
+        "sex": "M",
+        "birthDate": "1961-07-21",
+        "degree": "MD & DM (Lucknow)",
+        "honours": "FNASc, FAMS, FRCP",
+        "specialization": "Cardiology, Medtech Innovation, Public Health"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Cardiology, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 3531",
+            "residence": "(011) 4175 0574",
+            "mobile": "98111 32407",
+            "fax": "(011) 2658 8641"
+        },
+        "email": {
+            "personal": "balrambhargava@yahoo.com"
+        }
+    }
+}

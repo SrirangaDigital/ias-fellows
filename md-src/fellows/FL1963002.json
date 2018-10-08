@@ -1,0 +1,26 @@
+{
+    "id": "FL1963002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gopal Shankar",
+            "last": "Hattiangdi",
+            "display": "Hattiangdi, Dr Gopal Shankar"
+        },
+        "sex": "M",
+        "birthDate": "1921-12-15",
+        "deathDate": "2003-05-16",
+        "degree": "Ph.D.",
+        "honours": "D.Phil. (h.c.), D.Litt. (h.c.)",
+        "specialization": "Colloid Science, Industrial Chemistry, Vedic Mathematics and Astronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1963"
+    },
+    "contact": {
+        "address": "Emeritus Scientist & Founder, Director, Vedic Workshop, 2, Laburnum Road",
+        "city": "Mumbai 400 007"
+    }
+}

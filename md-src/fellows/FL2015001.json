@@ -1,0 +1,33 @@
+{
+    "id": "FL2015001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Javed Naim",
+            "last": "Agrewala",
+            "display": "Agrewala, Dr Javed Naim"
+        },
+        "sex": "M",
+        "birthDate": "1961-05-14",
+        "degree": "Ph.D. (Agra)",
+        "honours": "FNA, FNASc",
+        "specialization": "Immunology, Vaccine, Drug Discovery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Centre for Biomedical Engineering,   Indian Institute of Technology",
+        "city": "Rupnagar 140 001",
+        "state": "Panjab",
+        "telephone": {
+            "mobile": "94178 69408"
+        },
+        "email": {
+            "official": "jagrewala@iitrpr.ac.in",
+            "personal": "jagrewala@gmail.com"
+        }
+    }
+}

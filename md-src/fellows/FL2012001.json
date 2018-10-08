@@ -1,0 +1,35 @@
+{
+    "id": "FL2012001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amita",
+            "last": "Aggarwal",
+            "display": "Aggarwal, Prof. Amita"
+        },
+        "sex": "F",
+        "birthDate": "1960-12-31",
+        "degree": "MD (AIIMS), DM (Lucknow)",
+        "honours": "FNASc, FAMS",
+        "specialization": "Clinical Immunology, Rheumatology, Juvenile Arthritis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Clinical Immunology, Sanjay Gandhi PG Institute of Medical Sciences",
+        "city": "Lucknow 226 014",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 249 4296",
+            "residence": "(0522) 249 4410",
+            "mobile": "94735 84267",
+            "fax": "(0522) 266 8017"
+        },
+        "email": {
+            "personal": "aa.amita@gmail.com"
+        }
+    }
+}

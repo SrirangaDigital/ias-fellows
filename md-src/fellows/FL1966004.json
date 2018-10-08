@@ -1,0 +1,26 @@
+{
+    "id": "FL1966004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nishtala Appala",
+            "last": "Narasimham",
+            "display": "Narasimham, Dr Nishtala Appala"
+        },
+        "sex": "M",
+        "birthDate": "1922-08-15",
+        "deathDate": "2002-04-08",
+        "degree": "Ph.D. (BHU)",
+        "honours": "FNA",
+        "specialization": "Spectroscopy, Astrophysics and Atomic & Molecular Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1966"
+    },
+    "contact": {
+        "address": "18, Saras Baug, Deonar",
+        "city": "Mumbai 400 088"
+    }
+}

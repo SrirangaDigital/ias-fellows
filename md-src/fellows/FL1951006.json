@@ -1,0 +1,21 @@
+{
+    "id": "FL1951006",
+    "profile": {
+        "name": {
+            "first": "Tryambak Sanker",
+            "last": "Mahabale",
+            "display": "Mahabale,  Tryambak Sanker"
+        },
+        "sex": "M",
+        "birthDate": "1909-10-19",
+        "deathDate": "1983-07-03",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Palaeobotany, Pteridophytes and Plant Anatomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1951"
+    }
+}

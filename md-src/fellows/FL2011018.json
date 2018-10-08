@@ -1,0 +1,33 @@
+{
+    "id": "FL2011018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Madan",
+            "last": "Rao",
+            "display": "Rao, Prof. Madan"
+        },
+        "sex": "M",
+        "birthDate": "1960-07-11",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Nonequilibrium Statistical Mechanics, Soft Condensed Matter Physics, Biological Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "National Centre for Biological Sciences, GKVK Campus",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2366 6270",
+            "residence": "(080) 2547 4705",
+            "fax": "(080) 2363 6662"
+        },
+        "email": {
+            "official": "madan@ncbs.res.in"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1935075",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ivan Petrovich",
+            "last": "Pavlov",
+            "display": "Pavlov, Prof. Ivan Petrovich"
+        },
+        "sex": "M",
+        "birthDate": "1849-09-27",
+        "deathDate": "1936-02-27",
+        "honours": "Nobel Laureate (Medicine) - 1904"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

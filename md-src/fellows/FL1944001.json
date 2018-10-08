@@ -1,0 +1,27 @@
+{
+    "id": "FL1944001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rappal Sangameswar",
+            "last": "Krishnan",
+            "display": "Krishnan, Prof. Rappal Sangameswar"
+        },
+        "sex": "M",
+        "birthDate": "1911-09-23",
+        "deathDate": "1999-10-02",
+        "degree": "Ph.D. (Cantab), D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Colloid Optics, X-ray Scattering, Nuclear Physics, Raman Spectroscopy, Light Scattering and Solid State Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1944",
+        "councilservice": "1949-55; Treasurer 19-11-55 to 31-12-55"
+    },
+    "contact": {
+        "address": "No.232, 18th Cross, Upper Palace Orchards, Sadashivanagar",
+        "city": "Bengaluru 560 080"
+    }
+}

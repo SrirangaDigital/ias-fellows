@@ -1,0 +1,33 @@
+{
+    "id": "FL1975013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Piravonu Mathews",
+            "last": "Mathews",
+            "display": "Mathews, Prof. Piravonu Mathews"
+        },
+        "sex": "M",
+        "birthDate": "1932-05-12",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Geoastronomy & Geodynamics, Quantum Theory of Particles & Fields, Statistical Mechanics and Mathematical Methods"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "No. 22/20, Lady Madhavan Road, Nungambakkam",
+        "city": "Chennai 600 034",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2817 2098, (044) 4218 1671",
+            "mobile": "99403 05041"
+        },
+        "email": {
+            "personal": "indi4272@yahoo.com"
+        }
+    }
+}

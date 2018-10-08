@@ -1,0 +1,34 @@
+{
+    "id": "FL2009003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gufran-Ullah",
+            "last": "Beig",
+            "display": "Beig, Dr Gufran-Ullah"
+        },
+        "sex": "M",
+        "birthDate": "1961-05-24",
+        "degree": "Ph.D. Ahmedabad",
+        "specialization": "Atmospheric Sciences, Global Change & Atmospheric Environment, Urban Air Pollution & Chemical-Climate Change, 2-D & 3-D Atmospheric Chemical Transport Modelling"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Deputy Director, Indian Institute of Tropical Meteorology, Homi Bhabha Road",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 4261",
+            "residence": "(020) 2295 3145",
+            "fax": "(020) 2589 3825"
+        },
+        "email": {
+            "official": "beig@tropmet.res.in"
+        },
+        "url": "http://envis.tropmet.res.in/beig/index.htm"
+    }
+}

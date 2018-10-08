@@ -1,0 +1,18 @@
+{
+    "id": "FH1938012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nikolai Ivanovich",
+            "last": "Vavilov",
+            "display": "Vavilov, Prof. Nikolai Ivanovich"
+        },
+        "sex": "M",
+        "birthDate": "1887-11-26",
+        "deathDate": "1943-01-26"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1938"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2002003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sanjeev Vishnu",
+            "last": "Dhurandhar",
+            "display": "Dhurandhar, Prof. Sanjeev Vishnu"
+        },
+        "sex": "M",
+        "birthDate": "1951-11-29",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc",
+        "specialization": "Gravitational Waves, General Relativity and Theoretical Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Professor, Inter-University Centre for Astronomy & Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4123",
+            "residence": "(020) 2569 4234",
+            "fax": "(020) 2560 4699"
+        },
+        "email": {
+            "official": "sanjeev@iucaa.in"
+        }
+    }
+}

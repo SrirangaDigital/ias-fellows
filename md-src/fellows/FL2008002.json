@@ -1,0 +1,36 @@
+{
+    "id": "FL2008002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shree Kumar",
+            "last": "Apte",
+            "display": "Apte, Dr Shree Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1952-10-18",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc, FNAAS",
+        "specialization": "Molecular Biology & Biotechnology, Physiology and Stress Biology of Bacteria & Plants"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Homi Bhabha National Institute, Anushakti Nagar",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2559 3638",
+            "residence": "(022) 2558 0177",
+            "mobile": "98694 80205",
+            "fax": "(022) 2550 5151, 2551 9613"
+        },
+        "email": {
+            "official": "aptesk@barc.gov.in",
+            "personal": "aptesk@yahoo.com"
+        }
+    }
+}

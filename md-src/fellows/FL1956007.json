@@ -1,0 +1,21 @@
+{
+    "id": "FL1956007",
+    "profile": {
+        "name": {
+            "first": "B '",
+            "last": "Sundara Raj",
+            "display": "Sundara Raj,  B '"
+        },
+        "sex": "M",
+        "birthDate": "1888-00-00",
+        "deathDate": "1974-01-22",
+        "degree": "M.A. (Madras)",
+        "honours": "FNA",
+        "specialization": "Fisheries"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1956"
+    }
+}

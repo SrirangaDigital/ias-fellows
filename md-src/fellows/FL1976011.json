@@ -1,0 +1,21 @@
+{
+    "id": "FL1976011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Devadas",
+            "last": "Devaprabhakara",
+            "display": "Devaprabhakara, Dr Devadas"
+        },
+        "sex": "M",
+        "birthDate": "1932-11-13",
+        "deathDate": "1978-01-12",
+        "degree": "Ph.D. (Texas)",
+        "specialization": "Organic Chemistry, Chemistry of Allenes"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1976"
+    }
+}

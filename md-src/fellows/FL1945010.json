@@ -1,0 +1,24 @@
+{
+    "id": "FL1945010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Basavapatna Narayana Balakrishna",
+            "last": "Rao",
+            "display": "Rao, Dr Basavapatna Narayana Balakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1910-01-21",
+        "deathDate": "1995-03-07",
+        "specialization": "Experimental Surgery and Urology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1945"
+    },
+    "contact": {
+        "address": "Consultant Surgeon, Manonidhi, 17/1 Vani Vilas Road, Basavanagudi",
+        "city": "Bengaluru 560 004"
+    }
+}

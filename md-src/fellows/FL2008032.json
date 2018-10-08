@@ -1,0 +1,36 @@
+{
+    "id": "FL2008032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jaya Sivaswami",
+            "last": "Tyagi",
+            "display": "Tyagi, Prof. Jaya Sivaswami"
+        },
+        "sex": "F",
+        "birthDate": "1954-05-19",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology, Mycobacteriology and Gene Regulation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Head, Department of Biotechnology, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 3306",
+            "residence": "(011) 2659 4544",
+            "mobile": "98104 09761",
+            "fax": "(011) 2658 8491"
+        },
+        "email": {
+            "official": "jstyagi@aiims.edu",
+            "personal": "jstyagi@gmail.com"
+        }
+    }
+}

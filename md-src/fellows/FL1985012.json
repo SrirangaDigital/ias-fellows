@@ -1,0 +1,35 @@
+{
+    "id": "FL1985012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mandakolathoor Subrahmanya",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Prof. Mandakolathoor Subrahmanya"
+        },
+        "sex": "M",
+        "birthDate": "1938-10-09",
+        "degree": "Ph.D. (Wellington)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Micropaleontology, Paleoceanography and Marine Geology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Department of Geology, Banaras Hindu University",
+        "city": "Varanasi 221 005",
+        "state": "U.P",
+        "telephone": {
+            "office": "(0542) 230 7310",
+            "residence": "(0542) 231 1887",
+            "mobile": "94505 31962",
+            "fax": "(0542) 236 8174"
+        },
+        "email": {
+            "personal": "mssrinivasan@rediffmail.com"
+        }
+    }
+}

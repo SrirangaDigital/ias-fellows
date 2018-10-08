@@ -1,0 +1,35 @@
+{
+    "id": "FL2011017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vivek Vinayak",
+            "last": "Ranade",
+            "display": "Ranade, Dr Vivek Vinayak"
+        },
+        "sex": "M",
+        "birthDate": "1963-10-15",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNAE",
+        "specialization": "Multiphase Flows & Reactors, Computational Flow Modelling, Process Intensification"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2011",
+        "councilservice": "Council Service: 2016"
+    },
+    "contact": {
+        "address": "School of Chemistry & Chemical Engineering, Queen's University, David Keir Building, Stranmillis Road",
+        "city": "Belfast, BT9 5AG",
+        "country": "U.K.",
+        "telephone": {
+            "office": "(+44-2890) 97 4592",
+            "residence": "(+44-2890) 97 4687"
+        },
+        "email": {
+            "official": "v.ranade@qub.ac.uk",
+            "personal": "vivekranade.ncl@gmail.com"
+        }
+    }
+}

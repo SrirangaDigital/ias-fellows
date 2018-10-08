@@ -1,0 +1,19 @@
+{
+    "id": "FL1934102",
+    "profile": {
+        "name": {
+            "first": "Therizhandur Panchapagasa Bhaskara",
+            "last": "Shastry",
+            "display": "Shastry,  Therizhandur Panchapagasa Bhaskara"
+        },
+        "sex": "M",
+        "birthDate": "1889-04-12",
+        "deathDate": "1950-06-26",
+        "specialization": "Astronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    }
+}

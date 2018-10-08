@@ -1,0 +1,33 @@
+{
+    "id": "FL1993021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nitai Chandra",
+            "last": "Mandal",
+            "display": "Mandal, Prof. Nitai Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1938-07-12",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Molecular Genetics and Molecular Biology of Prokaryotes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "E-5, Digantika, AH Block, Sector II, Salt Lake",
+        "city": "Kolkata 700 091",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2359 1356",
+            "mobile": "94775 85894"
+        },
+        "email": {
+            "personal": "mandalnc2003@yahoo.com"
+        }
+    }
+}

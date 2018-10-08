@@ -1,0 +1,21 @@
+{
+    "id": "FL1941002",
+    "profile": {
+        "name": {
+            "first": "Kramadhati Venkata",
+            "last": "Giri",
+            "display": "Giri,  Kramadhati Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1907-02-10",
+        "deathDate": "1958-07-17",
+        "degree": "D.Sc., A.I.I.Sc.",
+        "honours": "FNA",
+        "specialization": "Plant Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1941"
+    }
+}

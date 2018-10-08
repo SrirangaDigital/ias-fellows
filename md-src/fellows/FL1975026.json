@@ -1,0 +1,28 @@
+{
+    "id": "FL1975026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Taracad Narayanan",
+            "last": "Ananthakrishnan",
+            "display": "Ananthakrishnan, Prof. Taracad Narayanan"
+        },
+        "sex": "M",
+        "birthDate": "1925-12-15",
+        "deathDate": "2015-08-07",
+        "degree": "Ph.D. and D.Sc. (Madras)",
+        "honours": "FNA, FNAAS",
+        "specialization": "Entomology, Cecidology and Chemical Ecology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1975",
+        "councilservice": "Council Service: 1980-82."
+    },
+    "contact": {
+        "address": "4312, Zenith Avenue South",
+        "city": "Minneapolis, MN 55410",
+        "country": "USA"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL1996017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sankar Kumar",
+            "last": "Pal",
+            "display": "Pal, Prof. Sankar Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1950-09-13",
+        "degree": "Ph.D. (Calcutta and London)",
+        "honours": "FIEEE, FNA, FNASc, FNAE, FIAPR, FTWAS",
+        "specialization": "Computing with Words, Bioinformatics, Pattern Recognition & Machine Learning, Image Processing, Data Mining Web Intelligence and Soft Computing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Distinguished Scientist, Indian Statistical Institute, 203, BT Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2575 2040-41",
+            "residence": "(033) 2577 2030, (033) 2577 5099",
+            "mobile": "98311 01500",
+            "fax": "(033) 2578 8699, (033) 2578 3357"
+        },
+        "email": {
+            "official": "sankar@isical.ac.in",
+            "personal": "sankarpal@yahoo.com"
+        },
+        "url": "http://isical.ac.in/~sankar"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1987003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Asok Kumar",
+            "last": "Barua",
+            "display": "Barua, Dr Asok Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1936-07-01",
+        "degree": "Ph.D. (Calcutta)",
+        "specialization": "Solid State Materials, Thin Film Technology and Thin Film Solar Cells"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Honorary Emeritus Professor, Indian Institute of Engineering Science & Technology, Shibpur",
+        "city": "Howrah 711 103",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2668 4561-4/301",
+            "residence": "(033) 2477 2033",
+            "mobile": "98300 59351",
+            "fax": "(033) 2668 7375"
+        },
+        "email": {
+            "personal": "baruaasok@gmail.com"
+        }
+    }
+}

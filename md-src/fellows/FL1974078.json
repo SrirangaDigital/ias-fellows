@@ -1,0 +1,26 @@
+{
+    "id": "FL1974078",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ram Chand",
+            "last": "Paul",
+            "display": "Paul, Prof. Ram Chand"
+        },
+        "sex": "M",
+        "birthDate": "1919-10-20",
+        "deathDate": "2002-02-16",
+        "degree": "Ph.D. (Panjab and Cantab), Sc.D. (Cantab)",
+        "honours": "FNA, FNASc",
+        "specialization": "Inorganic and Physical Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "695, Sector 8-B",
+        "city": "Chandigarh 160 018"
+    }
+}

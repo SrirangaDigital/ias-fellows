@@ -1,0 +1,22 @@
+{
+    "id": "FL1934043",
+    "profile": {
+        "name": {
+            "first": "Kariamanikkam Srinivasa",
+            "last": "Krishnan",
+            "display": "Krishnan,  Kariamanikkam Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1898-12-04",
+        "deathDate": "1961-06-14",
+        "degree": "D.Sc.",
+        "honours": "FNA, FNASc",
+        "specialization": "Raman Effect, Crystal Magnetism, Magnetochemistry, Magnetic Anisotropy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1936-61; Vice President 1940-43, 1946-49"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FL2013015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tapan Kumar",
+            "last": "Nayak",
+            "display": "Nayak, Dr Tapan Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1958-06-18",
+        "degree": "Ph.D. (Michigan State)",
+        "honours": "FNASc",
+        "specialization": "Nuclear & High Energy Physics Experiment, QCD Phase Transition & Quark, Gluon Plasma, Phases of Nuclear Matter"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Head, EHEP Division, Variable Energy Cyclotron Centre, 1/AF, Bidhan Nagar",
+        "city": "Kolkata 700 064",
+        "state": "W.B.",
+        "email": {
+            "official": "tapan.nayak@cern.ch"
+        },
+        "url": "http://nayak.web.cern.ch"
+    }
+}

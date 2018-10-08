@@ -1,0 +1,35 @@
+{
+    "id": "FL2008033",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kunjukrishna Pillai",
+            "last": "Vijayamohanan",
+            "display": "Vijayamohanan, Dr Kunjukrishna Pillai"
+        },
+        "sex": "M",
+        "birthDate": "1960-05-28",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Electrochemical Power Sources, Functional Materials, Electrochemistry, Nanotechnology and Materials Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Director, Central Electrochemical Research Institute",
+        "city": "Karaikudi 630 003",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(04565) 22 7777-8",
+            "mobile": "94422 26929",
+            "fax": "(04565) 22 7779"
+        },
+        "email": {
+            "official": "vijay@cecri.res.in",
+            "personal": "director.cecri@gmail.com"
+        },
+        "url": "http://www.ncl-india.org/k.vijayamohanan"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1937011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Robert Williams",
+            "last": "Wood",
+            "display": "Wood, Prof. Robert Williams"
+        },
+        "sex": "M",
+        "birthDate": "1868-05-02",
+        "deathDate": "1955-08-11"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1937"
+    }
+}

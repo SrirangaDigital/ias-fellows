@@ -1,0 +1,35 @@
+{
+    "id": "FL2001002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Anil Kumar",
+            "display": "Anil Kumar, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1955-12-31",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNASc, FNA",
+        "specialization": "Chemical Thermodynamics, Physical Organic Chemistry and Biophysical Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Physical & Materials Chemistry Division, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 2278",
+            "residence": "(020) 2588 8712",
+            "mobile": "98220 74509",
+            "fax": "(020) 2590 2636"
+        },
+        "email": {
+            "official": "a.kumar@ncl.res.in",
+            "personal": "akncl@yahoo.com"
+        }
+    }
+}

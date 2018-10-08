@@ -1,0 +1,19 @@
+{
+    "id": "FH1949006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Patrick Maynerd Stuart.",
+            "last": "Blackett",
+            "display": "Blackett, Prof. Patrick Maynerd Stuart."
+        },
+        "sex": "M",
+        "birthDate": "1897-11-17",
+        "deathDate": "1974-07-14",
+        "honours": "Nobel Laureate (Physics) - 1948"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1949"
+    }
+}

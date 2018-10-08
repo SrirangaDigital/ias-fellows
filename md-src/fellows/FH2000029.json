@@ -1,0 +1,31 @@
+{
+    "id": "FH2000029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bill",
+            "last": "Sutherland",
+            "display": "Sutherland, Prof. Bill"
+        },
+        "sex": "M",
+        "birthDate": "1942-00-00"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Department of Physics, University of Utah, 115 S 1400 E Rm 201",
+        "city": "Salt Lake City, UT 8412-0830",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-801) 581 6424",
+            "residence": "(+1-801) 355 8342",
+            "fax": "(+1-801) 581 4801"
+        },
+        "email": {
+            "official": "suther@physics.utah.edu",
+            "personal": "vsuther@comcast.net"
+        }
+    }
+}

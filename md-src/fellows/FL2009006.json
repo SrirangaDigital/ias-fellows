@@ -1,0 +1,35 @@
+{
+    "id": "FL2009006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudip",
+            "last": "Chattopadhyay",
+            "display": "Chattopadhyay, Prof. Sudip"
+        },
+        "sex": "M",
+        "birthDate": "1960-08-01",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Developmental Biology and Signal Transduction"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Professor, Department of Biotechnology, National Institute of Technology, Mahatma Gandhi Avenue",
+        "city": "Durgapur 713 209",
+        "state": "W.B.",
+        "telephone": {
+            "office": "94347 88029",
+            "mobile": "96792 66581",
+            "fax": "(0343) 254 7375"
+        },
+        "email": {
+            "official": "sudip.chattopadhyay@bt.nitdgp.ac.in",
+            "personal": "sudipchatto@gmail.com"
+        }
+    }
+}

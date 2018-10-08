@@ -1,0 +1,33 @@
+{
+    "id": "FL2001012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nitin",
+            "last": "Nitsure",
+            "display": "Nitsure, Prof. Nitin"
+        },
+        "sex": "M",
+        "birthDate": "1957-11-09",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Algebraic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Professor, School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2247",
+            "residence": "(022) 2280 4751",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "nitsure@math.tifr.res.in"
+        }
+    }
+}

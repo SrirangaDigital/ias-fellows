@@ -1,0 +1,20 @@
+{
+    "id": "FL1959004",
+    "profile": {
+        "name": {
+            "first": "Shrinivasa Shridhar",
+            "last": "Dharmatti",
+            "display": "Dharmatti,  Shrinivasa Shridhar"
+        },
+        "sex": "M",
+        "birthDate": "1911-05-08",
+        "deathDate": "1965-05-02",
+        "degree": "Ph.D. (Bombay)",
+        "specialization": "Magnetochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1959"
+    }
+}

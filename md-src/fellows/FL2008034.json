@@ -1,0 +1,37 @@
+{
+    "id": "FL2008034",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Umesh Vasudeo",
+            "last": "Waghmare",
+            "display": "Waghmare, Dr Umesh Vasudeo"
+        },
+        "sex": "M",
+        "birthDate": "1968-09-19",
+        "degree": "Ph.D. (Yale)",
+        "honours": "FNASc, FNA",
+        "specialization": "Multi-functional Oxides &amp; Related Smart Materials, Nanostructures &amp; Materials for Energy &amp; Environment, Geometrics Phase &amp; Electronics Topology of Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2008",
+        "councilservice": "Council Service: 2016-Council Service: 2016-; Secretary: 2016-"
+    },
+    "contact": {
+        "address": "Theoretical Sciences Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O.",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2842",
+            "residence": "(080) 2233 2774",
+            "mobile": "94482 87711",
+            "fax": "(080) 2208 2767"
+        },
+        "email": {
+            "official": "waghmare@jncasr.ac.in"
+        },
+        "url": "http://www.jncasr.ac.in/waghmare"
+    }
+}

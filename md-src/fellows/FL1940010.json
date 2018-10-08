@@ -1,0 +1,20 @@
+{
+    "id": "FL1940010",
+    "profile": {
+        "name": {
+            "last": "Ram Behari",
+            "display": "Ram Behari,  "
+        },
+        "sex": "M",
+        "birthDate": "1897-04-25",
+        "deathDate": "1981-12-14",
+        "degree": "Ph.D. (Dublin)",
+        "honours": "FNA",
+        "specialization": "Differential Geometry and Theory of Relativity"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1940"
+    }
+}

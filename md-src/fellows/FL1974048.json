@@ -1,0 +1,24 @@
+{
+    "id": "FL1974048",
+    "profile": {
+        "name": {
+            "first": "Bhupendra Nath",
+            "last": "Bhargava",
+            "display": "Bhargava, Mr Bhupendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1919-12-25",
+        "deathDate": "2009-08-03",
+        "degree": "M.Sc. (Allahabad and Ohio)",
+        "specialization": "Geophysics, Geomagnetism and Electronics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "B-150, Shivalik, Malviya Nagar",
+        "city": "New Delhi 110 017"
+    }
+}

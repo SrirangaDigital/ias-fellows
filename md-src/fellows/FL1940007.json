@@ -1,0 +1,20 @@
+{
+    "id": "FL1940007",
+    "profile": {
+        "name": {
+            "first": "K N",
+            "last": "Menon",
+            "display": "Menon,  K N"
+        },
+        "sex": "M",
+        "deathDate": "1969-00-00",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1940"
+    }
+}

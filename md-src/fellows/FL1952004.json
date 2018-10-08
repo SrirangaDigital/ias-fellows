@@ -1,0 +1,26 @@
+{
+    "id": "FL1952004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Naladurga Srinivasarao",
+            "last": "Govinda Rao",
+            "display": "Govinda Rao, Dr Naladurga Srinivasarao"
+        },
+        "sex": "M",
+        "birthDate": "1907-02-06",
+        "deathDate": "1995-12-22",
+        "degree": "B.E.",
+        "honours": "FNA",
+        "specialization": "Hydraulics, Hydropower Development and Irrigation Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1952"
+    },
+    "contact": {
+        "address": "Apartment No. 103, K.T. Apartments, No. 89, Aa Na Kru Road(Diagonal Rd), Visveswarapuram",
+        "city": "Bengaluru 560 004"
+    }
+}

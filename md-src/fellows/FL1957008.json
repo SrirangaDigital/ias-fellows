@@ -1,0 +1,20 @@
+{
+    "id": "FL1957008",
+    "profile": {
+        "name": {
+            "first": "Taracad Venkatakrishna",
+            "last": "Venkataraman",
+            "display": "Venkataraman,  Taracad Venkatakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1910-00-00",
+        "deathDate": "1981-11-30",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Agricultural Entomology and Biological & Integrated Crop Pests Control"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1957"
+    }
+}

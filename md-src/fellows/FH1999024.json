@@ -1,0 +1,30 @@
+{
+    "id": "FH1999024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Claude Nessim",
+            "last": "Cohen-Tannoudji",
+            "display": "Cohen-Tannoudji, Prof. Claude Nessim"
+        },
+        "sex": "M",
+        "birthDate": "1933-04-01",
+        "honours": "Nobel Laureate (Physics) - 1997"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Laboratoire Kastler Brossel, Ecole Normale Supérieure, College de France, 24, rue Lhomond",
+        "city": "75231 Paris Cedex 05",
+        "country": "France",
+        "telephone": {
+            "residence": "(+33-1) 4535 0218"
+        },
+        "email": {
+            "official": "claude.cohen-tannoudji@lkb.ens.fr",
+            "personal": "claudect@gmail.com"
+        }
+    }
+}

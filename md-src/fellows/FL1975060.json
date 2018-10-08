@@ -1,0 +1,22 @@
+{
+    "id": "FL1975060",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chunibhai Chhotabhai",
+            "last": "Patel",
+            "display": "Patel, Dr Chunibhai Chhotabhai"
+        },
+        "sex": "M",
+        "birthDate": "1920-03-17",
+        "deathDate": "1987-12-15",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Inorganic Chemistry, Spectroscopy and Mineral Dressing"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    }
+}

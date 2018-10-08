@@ -1,0 +1,35 @@
+{
+    "id": "FL2002012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kolluri",
+            "last": "Sankara Rao",
+            "display": "Sankara Rao, Prof. Kolluri"
+        },
+        "sex": "M",
+        "birthDate": "1939-12-15",
+        "degree": "Ph.D. (Bangalore)",
+        "specialization": "Plant Developmental Biology, Biotechnology, Biodiversity Informatics & Plant Systematics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Distinguished Fellow, Centre for Ecological Sciences, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2506/261, 2293 2786",
+            "residence": "(080) 2341 1148",
+            "mobile": "98453 39826",
+            "fax": "(080) 2360 0814"
+        },
+        "email": {
+            "official": "shankarrao@iisc.ac.in",
+            "personal": "sankara.kolluri@gmail.com"
+        }
+    }
+}

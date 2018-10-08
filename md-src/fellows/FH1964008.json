@@ -1,0 +1,19 @@
+{
+    "id": "FH1964008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Robert Burns",
+            "last": "Woodward",
+            "display": "Woodward, Prof. Robert Burns"
+        },
+        "sex": "M",
+        "birthDate": "1917-04-10",
+        "deathDate": "1979-07-08",
+        "honours": "Nobel Laureate (Chemistry) - 1965"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1964"
+    }
+}

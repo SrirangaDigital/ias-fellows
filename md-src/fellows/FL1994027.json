@@ -1,0 +1,26 @@
+{
+    "id": "FL1994027",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Adusumilli",
+            "last": "Srikrishna",
+            "display": "Srikrishna, Dr Adusumilli"
+        },
+        "sex": "M",
+        "birthDate": "1955-01-01",
+        "deathDate": "2013-01-20",
+        "degree": "Ph.D. (Hyderabad)",
+        "honours": "FNASc, FNA",
+        "specialization": "Synthetic Organic Chemistry and Natural Products Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Professor, Department of Organic Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

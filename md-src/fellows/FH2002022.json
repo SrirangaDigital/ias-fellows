@@ -1,0 +1,30 @@
+{
+    "id": "FH2002022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ahmed Hassan",
+            "last": "Zewail",
+            "display": "Zewail, Prof. Ahmed Hassan"
+        },
+        "sex": "M",
+        "birthDate": "1946-02-26",
+        "deathDate": "2016-08-02",
+        "honours": "Nobel Laureate - Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "AAN Laboratory of Chemical Physics, California Institute of Technology, MC 127-72, 1200 E.California Blvd.",
+        "city": "Pasadena, CA 91125",
+        "country": "U.S.A.",
+        "telephone": {
+            "fax": "(+1 626) 792 8456"
+        },
+        "email": {
+            "official": "zewail@caltech.edu"
+        }
+    }
+}

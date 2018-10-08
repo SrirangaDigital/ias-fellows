@@ -1,0 +1,34 @@
+{
+    "id": "FL2015003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Siva Ramachandran",
+            "last": "Athreya",
+            "display": "Athreya, Prof. Siva Ramachandran"
+        },
+        "sex": "M",
+        "birthDate": "1971-01-07",
+        "degree": "Ph.D. (Washington)",
+        "specialization": "Probability Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Theoretical Statistics & Mathematics Division, Indian Statistical Institute, RV College PO",
+        "city": "Bengaluru 560 059",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2698 5465",
+            "mobile": "98862 93244",
+            "fax": "(080) 2848 4265"
+        },
+        "email": {
+            "official": "athreya@isibang.ac.in"
+        },
+        "url": "http://www.isibang.ac.in/~athreya"
+    }
+}

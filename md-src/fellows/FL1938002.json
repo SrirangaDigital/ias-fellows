@@ -1,0 +1,21 @@
+{
+    "id": "FL1938002",
+    "profile": {
+        "name": {
+            "first": "Faredoon Rustomjee",
+            "last": "Bharucha",
+            "display": "Bharucha,  Faredoon Rustomjee"
+        },
+        "sex": "M",
+        "birthDate": "1904-05-04",
+        "deathDate": "1981-03-30",
+        "degree": "D.Sc. (Montpellier, France)",
+        "honours": "FNA",
+        "specialization": "Plant Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1938"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "FL1939016",
+    "profile": {
+        "name": {
+            "first": "Sekharipuram Padmanabhaiyer",
+            "last": "Venkiteshwaran",
+            "display": "Venkiteshwaran,  Sekharipuram Padmanabhaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1905-02-15",
+        "deathDate": "1985-09-26",
+        "degree": "B.A. (Hons.)",
+        "honours": "FNA",
+        "specialization": "Instrumentation, Radio Meteorology and Wind Power"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1939",
+        "councilservice": "1965-67"
+    }
+}

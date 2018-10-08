@@ -1,0 +1,19 @@
+{
+    "id": "FH1935070",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Frederick Gowland",
+            "last": "Hopkins",
+            "display": "Hopkins, Prof. Frederick Gowland"
+        },
+        "sex": "M",
+        "birthDate": "1861-06-20",
+        "deathDate": "1947-05-16",
+        "honours": "Nobel Laureate (Medicine) - 1929"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

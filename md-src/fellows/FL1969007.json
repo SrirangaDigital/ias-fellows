@@ -1,0 +1,26 @@
+{
+    "id": "FL1969007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Padmanabha Krishnagopala",
+            "last": "Iyengar",
+            "display": "Iyengar, Dr Padmanabha Krishnagopala"
+        },
+        "sex": "M",
+        "birthDate": "1931-06-29",
+        "deathDate": "2011-12-21",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Solid State Physics, Nuclear Physics, Nuclear Engineering and National Security"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1969"
+    },
+    "contact": {
+        "address": "33, Saras Baug, Sion-Trombay Road, Deonar",
+        "city": "Mumbai 400 088"
+    }
+}

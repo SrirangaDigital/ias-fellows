@@ -1,0 +1,27 @@
+{
+    "id": "FL1974045",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bimal Kumar",
+            "last": "Bachhawat",
+            "display": "Bachhawat, Prof. Bimal Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1925-08-16",
+        "deathDate": "1996-09-23",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNASc, FNA",
+        "specialization": "Neurochemistry and Glycoconjugates"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1974",
+        "councilservice": "1977-82"
+    },
+    "contact": {
+        "address": "Department of Biochemistry, University of Delhi, South Campus",
+        "city": "New Delhi 110 021"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "FL1975066",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Madhavasetty Ramalingam",
+            "last": "Rajasekarasetty",
+            "display": "Rajasekarasetty, Dr Madhavasetty Ramalingam"
+        },
+        "sex": "M",
+        "birthDate": "1919-10-16",
+        "deathDate": "1982-07-03",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Genetics and Population Cytology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1975"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1995008",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Swaminathan",
+            "last": "Kailas",
+            "display": "Kailas, Dr Swaminathan"
+        },
+        "sex": "M",
+        "birthDate": "1949-05-30",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Nuclear Optical Model, Heavy-Ion induced Fission/Fusion and Accelerator-based Multidisciplinary Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Adjunct Faculty, University Centre for Excellence in Basic Sciences, University of Mumbai, Vidyanagari",
+        "city": "Mumbai 400 098",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2551 2291",
+            "mobile": "99691 53075"
+        },
+        "email": {
+            "personal": "swaminathankailas305@gmail.com"
+        }
+    }
+}

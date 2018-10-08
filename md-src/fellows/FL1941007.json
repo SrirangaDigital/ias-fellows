@@ -1,0 +1,22 @@
+{
+    "id": "FL1941007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Charles Solomon",
+            "last": "Pichamuthu",
+            "display": "Pichamuthu, Dr Charles Solomon"
+        },
+        "sex": "M",
+        "birthDate": "1900-03-10",
+        "deathDate": "1990-08-18",
+        "degree": "D.Sc. (Glasgow)",
+        "specialization": "Precambrian Geology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1941",
+        "councilservice": "1946-58; Secretary 1952-55"
+    }
+}

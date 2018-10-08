@@ -1,0 +1,35 @@
+{
+    "id": "FL2008019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashwini",
+            "last": "Nangia",
+            "display": "Nangia, Prof. Ashwini"
+        },
+        "sex": "M",
+        "birthDate": "1960-11-10",
+        "degree": "Ph.D. (Yale)",
+        "honours": "FRSC, FNA, FNASc",
+        "specialization": "Crystal Engineering, Supramolecular Chemistry and Polymorphism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4854, (040) 2301 1338",
+            "residence": "(040) 2332 7570",
+            "mobile": "98481 55416",
+            "fax": "(040) 2301 2460"
+        },
+        "email": {
+            "personal": "ashwini.nangia@gmail.com"
+        }
+    }
+}

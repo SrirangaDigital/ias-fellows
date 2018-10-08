@@ -1,0 +1,23 @@
+{
+    "id": "FH1981020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Edward Norton",
+            "last": "Lorenz",
+            "display": "Lorenz, Prof. Edward Norton"
+        },
+        "sex": "M",
+        "birthDate": "1917-05-23",
+        "deathDate": "2008-04-16"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Department of Earth, Atmospheric &, Planetary Sciences, Massachusetts Institute of, Technology",
+        "city": "Cambridge, MA 02139",
+        "country": "U.S.A."
+    }
+}

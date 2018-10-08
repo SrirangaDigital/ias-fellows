@@ -1,0 +1,26 @@
+{
+    "id": "FL1975024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Moizuddin Abdul Salim",
+            "last": "Ali",
+            "display": "Ali, Dr Moizuddin Abdul Salim"
+        },
+        "sex": "M",
+        "birthDate": "1896-11-12",
+        "deathDate": "1987-06-20",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "D.Sc. (h.c.), FNA",
+        "specialization": "Ecology, Zoogeography, Nature Conservation, Ornithology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "No. 46, Pali Hill",
+        "city": "Bombay 400 050"
+    }
+}

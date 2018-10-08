@@ -1,0 +1,37 @@
+{
+    "id": "FL1989004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivasan",
+            "last": "Chandrasekaran",
+            "display": "Chandrasekaran, Prof. Srinivasan"
+        },
+        "sex": "M",
+        "birthDate": "1945-11-15",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Synthetic Organic Chemistry, Natural Products and Organometallic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1989",
+        "councilservice": "Council Service: 2004-12; Secretary: 2004-2009; Treasurer: 2010-12"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Organic Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 2423, (080) 2293 2404",
+            "residence": "(080) 2351 2748",
+            "mobile": "98860 88344",
+            "fax": "(080) 2360 2423"
+        },
+        "email": {
+            "official": "scn@iisc.ac.in",
+            "personal": "chandraorgchem@gmail.com"
+        }
+    }
+}

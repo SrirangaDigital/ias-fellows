@@ -1,0 +1,35 @@
+{
+    "id": "FL1998013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Adarsh Kumar",
+            "last": "Kamra",
+            "display": "Kamra, Dr Adarsh Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1944-09-20",
+        "degree": "Ph.D. (Roorkee)",
+        "honours": "FIMS, FNA",
+        "specialization": "Atmospheric Electricity, Cloud Physics and Aerosol Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Honorary Scientist, Indian Institute of Tropical Meteorology, Dr Homi Bhabha Road, Pashan",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 4281",
+            "residence": "(020) 2588 7270",
+            "mobile": "97645 36103",
+            "fax": "(020) 2586 5142"
+        },
+        "email": {
+            "official": "kamra@tropmet.res.in"
+        }
+    }
+}

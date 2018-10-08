@@ -1,0 +1,34 @@
+{
+    "id": "FL1996013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anjan Sidhvantlal",
+            "last": "Joshipura",
+            "display": "Joshipura, Prof. Anjan Sidhvantlal"
+        },
+        "sex": "M",
+        "birthDate": "1950-06-11",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Theoretical High Energy Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Honorary Scientist, Theory Group, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4938",
+            "residence": "(079) 4005 8842",
+            "fax": "(079) 2631 4460"
+        },
+        "email": {
+            "official": "anjan@prl.res.in"
+        }
+    }
+}

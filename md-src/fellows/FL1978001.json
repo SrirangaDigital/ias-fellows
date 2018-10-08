@@ -1,0 +1,33 @@
+{
+    "id": "FL1978001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jagdish Chander",
+            "last": "Ahluwalia",
+            "display": "Ahluwalia, Prof. Jagdish Chander"
+        },
+        "sex": "M",
+        "birthDate": "1935-07-06",
+        "degree": "Ph.D. (Purdue)",
+        "honours": "FNA",
+        "specialization": "Thermodynamics of Biopolymers & Surfactants in Solutions and Solute-Solvent Interactions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "186, SFS Apartments, Hauz Khas",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2656 4519",
+            "mobile": "92137 36359"
+        },
+        "email": {
+            "personal": "jcahluwalia@yahoo.in"
+        }
+    }
+}

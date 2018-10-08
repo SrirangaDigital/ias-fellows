@@ -1,0 +1,36 @@
+{
+    "id": "FL1985008",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Alla Venkata",
+            "last": "Rama Rao",
+            "display": "Rama Rao, Dr Alla Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1935-04-02",
+        "degree": "Ph.D. (Tech.)(Mumbai), D.Sc. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Medicinal Chemistry, Drug Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Chairman & Managing Director, AVRA Laboratories Pvt. Ltd., AVRA House, 7-102/54, Sai Enclave, Habshiguda",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2717 8568-9",
+            "residence": "(040) 2717 3360",
+            "mobile": "98481 35163",
+            "fax": "(040) 2717 5605"
+        },
+        "email": {
+            "official": "ramarao@avralab.com"
+        },
+        "url": "http://www.avralab.com"
+    }
+}

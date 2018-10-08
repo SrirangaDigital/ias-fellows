@@ -1,0 +1,37 @@
+{
+    "id": "FL2000007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tavarekere Kalliah",
+            "last": "Chandrashekar",
+            "display": "Chandrashekar, Dr Tavarekere Kalliah"
+        },
+        "sex": "M",
+        "birthDate": "1956-01-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Bio-inorganic Chemistry, Synthetic Inorganic Chemistry and Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2000",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Senior Professor, School of Chemical Sciences, National Institute of Science Education & Research, Jatni P.O.",
+        "city": "Khordha 752 050",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 249 4444",
+            "residence": "(0674) 249 4333",
+            "mobile": "98188 44936",
+            "fax": "(0674) 249 4003"
+        },
+        "email": {
+            "official": "tkc@niser.ac.in"
+        },
+        "url": "http://www.iitk.ac.in/tkc.html"
+    }
+}

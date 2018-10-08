@@ -1,0 +1,34 @@
+{
+    "id": "FL1961006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mushi",
+            "last": "Santappa",
+            "display": "Santappa, Dr Mushi"
+        },
+        "sex": "M",
+        "birthDate": "1923-10-02",
+        "deathDate": "2017-02-26",
+        "degree": "Ph.D. (London and Manchester)",
+        "honours": "D.Sc. (h.c.), D.Litt. (h.c.), FNA, FNASc",
+        "specialization": "Photochemistry, Science & Technology of Leather and Polymer Chemistry & Industrial Pollution Control"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1961"
+    },
+    "contact": {
+        "address": "8 (old 73), Third Main Road, Kasturba Nagar, Adyar",
+        "city": "Chennai 600 020",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2441 5163",
+            "mobile": "98409 75032"
+        },
+        "email": {
+            "personal": "sunanda_cle@yahoo.co.in"
+        }
+    }
+}

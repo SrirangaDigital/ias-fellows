@@ -1,0 +1,38 @@
+{
+    "id": "FL1974059",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Predhiman Krishan",
+            "last": "Kaw",
+            "display": "Kaw, Prof. Predhiman Krishan"
+        },
+        "sex": "M",
+        "birthDate": "1948-01-15",
+        "deathDate": "2017-06-18",
+        "degree": "Ph.D. (IIT, Delhi)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plasma Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "DST Year of Science Chair professor, Institute for Plasma Research, Bhat",
+        "city": "Gandhinagar 382 428",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2396 9275",
+            "residence": "(079) 2692 7571-72",
+            "mobile": "98250 69415",
+            "fax": "(079) 2396 9016, (079) 2396 2277"
+        },
+        "email": {
+            "official": "kaw@ipr.res.in",
+            "personal": "predh@yahoo.com"
+        },
+        "url": "http://www.ipr.res.in/~theory/kaw_sir_home_page/kaw.htm"
+    }
+}

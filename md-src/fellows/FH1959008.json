@@ -1,0 +1,19 @@
+{
+    "id": "FH1959008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jaroslav",
+            "last": "Heyrovsky",
+            "display": "Heyrovsky, Prof. Jaroslav"
+        },
+        "sex": "M",
+        "birthDate": "1890-12-20",
+        "deathDate": "1967-03-27",
+        "honours": "Nobel Laureate (Chemistry) - 1959"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1959"
+    }
+}

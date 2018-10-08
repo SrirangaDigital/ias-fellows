@@ -1,0 +1,23 @@
+{
+    "id": "FH1985023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hans Wolfgang",
+            "last": "Liepmann",
+            "display": "Liepmann, Prof. Hans Wolfgang"
+        },
+        "sex": "M",
+        "birthDate": "1914-07-03",
+        "deathDate": "2009-06-24"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Theodore von Karman Professor of, Aeronautics (Emeritus), Graduate Aeronautical Laboratories, California Institute of Technology",
+        "city": "Pasadena, CA 91125",
+        "country": "U.S.A."
+    }
+}

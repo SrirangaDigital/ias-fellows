@@ -1,0 +1,34 @@
+{
+    "id": "FL2009024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gajendra Pal Singh",
+            "last": "Raghava",
+            "display": "Raghava, Dr Gajendra Pal Singh"
+        },
+        "sex": "M",
+        "birthDate": "1963-05-25",
+        "degree": "Ph.D. (Chandigarh)",
+        "honours": "FNASc",
+        "specialization": "Bioinformatics, Cancer Genomics, Immunoinformatics, Drug Design, Subunit Vaccine Design"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Head, Centre for Computational Biology, Indraprastha Institute of Information Technology, Okhla, Phase 3",
+        "city": "New Delhi 110 020",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2690 7444",
+            "fax": "(011) 2690 7410"
+        },
+        "email": {
+            "official": "raghava@iiitd.ac.in"
+        },
+        "url": "http://www.iiitd.ac.in/raghava/"
+    }
+}

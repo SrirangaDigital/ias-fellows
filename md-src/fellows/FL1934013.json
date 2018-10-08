@@ -1,0 +1,20 @@
+{
+    "id": "FL1934013",
+    "profile": {
+        "name": {
+            "first": "Satyendra Nath",
+            "last": "Chakravarthy",
+            "display": "Chakravarthy,  Satyendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1903-00-00",
+        "deathDate": "1945-08-28",
+        "honours": "FNA",
+        "specialization": "Forensic Sciences"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934"
+    }
+}

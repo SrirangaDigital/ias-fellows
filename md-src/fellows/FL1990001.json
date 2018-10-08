@@ -1,0 +1,35 @@
+{
+    "id": "FL1990001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prahlad Chandra",
+            "last": "Agrawal",
+            "display": "Agrawal, Prof. Prahlad Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1941-04-15",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc",
+        "specialization": "X-ray Astronomy and Experimental High Energy Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "405, Vigyan Scientists' CHS, Plot No. 23, Sector 17, Vashi",
+        "city": "Navi Mumbai 400 703",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2653 0230",
+            "residence": "(022) 2789 9894",
+            "mobile": "98673 43442"
+        },
+        "email": {
+            "official": "agrawal@cbs.ac.in",
+            "personal": "prahlad.agrawal@gmail.com"
+        }
+    }
+}

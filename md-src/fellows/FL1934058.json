@@ -1,0 +1,19 @@
+{
+    "id": "FL1934058",
+    "profile": {
+        "name": {
+            "first": "C V",
+            "last": "Natarajan",
+            "display": "Natarajan,  C V"
+        },
+        "sex": "M",
+        "birthDate": "1899-04-26",
+        "deathDate": "1964-11-11",
+        "specialization": "Anatomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934"
+    }
+}

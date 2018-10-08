@@ -1,0 +1,18 @@
+{
+    "id": "FH1948012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sergei Ivanovich",
+            "last": "Vavilov",
+            "display": "Vavilov, Prof. Sergei Ivanovich"
+        },
+        "sex": "M",
+        "birthDate": "1891-03-24",
+        "deathDate": "1951-01-25"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1948"
+    }
+}

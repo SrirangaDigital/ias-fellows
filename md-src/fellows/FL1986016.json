@@ -1,0 +1,32 @@
+{
+    "id": "FL1986016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nambrattil",
+            "last": "Sethunathan",
+            "display": "Sethunathan, Dr Nambrattil"
+        },
+        "sex": "M",
+        "birthDate": "1937-06-02",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA, FNAAS, FNASc",
+        "specialization": "Environmental Microbiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Flat No. 103, Ushodaya Apartments, Sri Venkateswara Officers' Colony, Ramakrishnapuram",
+        "city": "Secunderabad 500 056",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2799 0758"
+        },
+        "email": {
+            "personal": "sethunathan@hotmail.com"
+        }
+    }
+}

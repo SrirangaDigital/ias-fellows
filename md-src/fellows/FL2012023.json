@@ -1,0 +1,35 @@
+{
+    "id": "FL2012023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anindya",
+            "last": "Sarkar",
+            "display": "Sarkar, Prof. Anindya"
+        },
+        "sex": "M",
+        "birthDate": "1959-01-01",
+        "degree": "Ph.D. (PRL)",
+        "honours": "FNA",
+        "specialization": "Stable Isotope Geochemistry, Palaeoclimatology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Geology & Geophysics, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3392",
+            "residence": "(03222) 28 3393",
+            "mobile": "94340 43377",
+            "fax": "(03222) 28 2268"
+        },
+        "email": {
+            "official": "anindya@gg.iitkgp.ernet.in"
+        }
+    }
+}

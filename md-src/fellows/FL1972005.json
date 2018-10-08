@@ -1,0 +1,27 @@
+{
+    "id": "FL1972005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Parameswaran",
+            "last": "Hariharan",
+            "display": "Hariharan, Dr Parameswaran"
+        },
+        "sex": "M",
+        "birthDate": "1926-12-26",
+        "deathDate": "2015-07-26",
+        "degree": "Ph.D. (Kerala)",
+        "honours": "FNA, D.Sc. (Sydney) (h.c., Sydney)",
+        "specialization": "Optics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1972"
+    },
+    "contact": {
+        "address": "608, Baron Dekalb Road",
+        "city": "Wayne, PA 19087",
+        "country": "USA"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1975031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pran Nath",
+            "last": "Chhuttani",
+            "display": "Chhuttani, Prof. Pran Nath"
+        },
+        "sex": "M",
+        "birthDate": "1915-02-26",
+        "deathDate": "1996-07-19",
+        "degree": "M.D., D.Sc. (h.c.)",
+        "specialization": "Gastroenterology and Internal Medicine"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "House No. 22, Sector 4",
+        "city": "Chandigarh 160 001"
+    }
+}

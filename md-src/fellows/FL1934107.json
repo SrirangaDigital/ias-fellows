@@ -1,0 +1,20 @@
+{
+    "id": "FL1934107",
+    "profile": {
+        "name": {
+            "first": "Sahib Singh",
+            "last": "Sokhey",
+            "display": "Sokhey,  Sahib Singh"
+        },
+        "sex": "M",
+        "birthDate": "1887-12-15",
+        "deathDate": "1971-10-23",
+        "specialization": "Epidemiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934",
+        "councilservice": "1943-46; Vice President 1943-46"
+    }
+}

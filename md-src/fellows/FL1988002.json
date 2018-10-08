@@ -1,0 +1,33 @@
+{
+    "id": "FL1988002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Suhash Chandra",
+            "last": "Dutta Roy",
+            "display": "Dutta Roy, Prof. Suhash Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1937-11-01",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "Signal Processing, Network Theory and Electronic Circuits"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "164, SFS Apartments, Hauz Khas",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2696 3054",
+            "mobile": "98714 70136"
+        },
+        "email": {
+            "official": "scdroy@ee.iitd.ac.in"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1952010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Percy Williams",
+            "last": "Bridgman",
+            "display": "Bridgman, Prof. Percy Williams"
+        },
+        "sex": "M",
+        "birthDate": "1882-04-21",
+        "deathDate": "1961-08-20",
+        "honours": "Nobel Laureate (Physics) - 1946"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1952"
+    }
+}

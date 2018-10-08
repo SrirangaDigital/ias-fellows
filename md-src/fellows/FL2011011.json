@@ -1,0 +1,35 @@
+{
+    "id": "FL2011011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jayant Ramaswamy",
+            "last": "Haritsa",
+            "display": "Haritsa, Prof. Jayant Ramaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1964-03-10",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "FNAE, FNASc, FIEEE",
+        "specialization": "Database Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "FACM Professor, Dept. of Computational & Data Sciences, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2793",
+            "residence": "(080) 2657 8609",
+            "mobile": "94490 15894",
+            "fax": "(080) 2360 2648"
+        },
+        "email": {
+            "personal": "jharitsa@gmail.com"
+        }
+    }
+}

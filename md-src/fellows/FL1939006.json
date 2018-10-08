@@ -1,0 +1,20 @@
+{
+    "id": "FL1939006",
+    "profile": {
+        "name": {
+            "first": "Subramania",
+            "last": "Paramasivan",
+            "display": "Paramasivan,  Subramania"
+        },
+        "sex": "M",
+        "birthDate": "1903-00-00",
+        "deathDate": "1987-05-15",
+        "degree": "D.Sc. (Madras)",
+        "specialization": "Archaeological Chemistry, Archaeological Strata and Environment"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1939"
+    }
+}

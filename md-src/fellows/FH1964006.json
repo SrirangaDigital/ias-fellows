@@ -1,0 +1,18 @@
+{
+    "id": "FH1964006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Basil Williams",
+            "last": "Anderson",
+            "display": "Anderson, Prof. Basil Williams"
+        },
+        "sex": "M",
+        "birthDate": "1901-07-03",
+        "deathDate": "1984-02-24"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1964"
+    }
+}

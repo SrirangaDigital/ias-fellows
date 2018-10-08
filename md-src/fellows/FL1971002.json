@@ -1,0 +1,32 @@
+{
+    "id": "FL1971002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Krityunjai Prasad",
+            "last": "Sinha",
+            "display": "Sinha, Prof. Krityunjai Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1929-07-05",
+        "degree": "Ph.D. (Pune and Bristol)",
+        "honours": "FNA, FNASc",
+        "specialization": "Solid State Physics, Complex Systems, Non-Equilibrium Quantum Coupling, Low-energy Nuclear Reactions & Condensed Matter Nuclear Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1971"
+    },
+    "contact": {
+        "address": "Sterling Residency, D-105, RMV II Stage, Dollars Colony",
+        "city": "Bengaluru 560 094",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2351 8553"
+        },
+        "email": {
+            "personal": "kritpsinha@gmail.com,kpsin03@yahoo.com"
+        }
+    }
+}

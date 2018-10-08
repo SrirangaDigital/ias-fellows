@@ -1,0 +1,26 @@
+{
+    "id": "FL1976012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Usha Ranjan",
+            "last": "Ghatak",
+            "display": "Ghatak, Prof. Usha Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1931-02-26",
+        "deathDate": "2005-06-18",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Synthetic Organic Chemistry and Bio-Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "23/B, Naktala Lane (D.P.P. Road)",
+        "city": "Kolkata 700 047"
+    }
+}

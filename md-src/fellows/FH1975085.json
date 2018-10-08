@@ -1,0 +1,23 @@
+{
+    "id": "FH1975085",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Robert Hanbury",
+            "last": "Brown",
+            "display": "Brown, Prof. Robert Hanbury"
+        },
+        "sex": "M",
+        "birthDate": "1916-08-31",
+        "deathDate": "2002-01-16"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "White Cottage, Penton Mewsey, Near Andover",
+        "city": "Hampshire SP11 ORQ",
+        "country": "U.K."
+    }
+}

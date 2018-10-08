@@ -1,0 +1,36 @@
+{
+    "id": "FL2000009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Madhu",
+            "last": "Dikshit",
+            "display": "Dikshit, Dr Madhu"
+        },
+        "sex": "F",
+        "birthDate": "1957-11-21",
+        "degree": "Ph.D. (Kanpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Redox Biology, Cardiovascular Pharmacology, Molecular Pharmacology, Neutrophiles and Nitric Oxide Synthase"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2000",
+        "councilservice": "Council Service: 2016"
+    },
+    "contact": {
+        "address": "Department of Bioscience and Bioengineering, Indian Institute of Technology - Nagaur Road, Jodhpur",
+        "city": "Karwar 342 037",
+        "state": "Rajasthan",
+        "telephone": {
+            "office": "(0291) 280 1203",
+            "mobile": "94151 11766",
+            "fax": "(0522) 277 1941"
+        },
+        "email": {
+            "official": "madhudikshit@iitj.ac.in",
+            "personal": "drmadhudikshit@gmail.com"
+        }
+    }
+}

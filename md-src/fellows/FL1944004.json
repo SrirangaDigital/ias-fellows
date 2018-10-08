@@ -1,0 +1,21 @@
+{
+    "id": "FL1944004",
+    "profile": {
+        "name": {
+            "first": "Unni Sivaraman",
+            "last": "Nair",
+            "display": "Nair,  Unni Sivaraman"
+        },
+        "sex": "M",
+        "birthDate": "1904-01-22",
+        "deathDate": "1982-08-08",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Mathematical Statistics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1944"
+    }
+}

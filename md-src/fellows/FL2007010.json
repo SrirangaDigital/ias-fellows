@@ -1,0 +1,36 @@
+{
+    "id": "FL2007010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sanjay",
+            "last": "Jain",
+            "display": "Jain, Prof. Sanjay"
+        },
+        "sex": "M",
+        "birthDate": "1960-01-31",
+        "degree": "Ph.D. (Bombay)",
+        "specialization": "Mathematical Modelling of Complex Systems, Structure, Dynamics and Evolution of Biological & Social Networks, Theoretical Systems Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics & Astrophysics, University of Delhi",
+        "city": "Delhi 110 007",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2766 7725/1342",
+            "residence": "(011) 2245 6389",
+            "mobile": "98731 20534",
+            "fax": "(011) 2766 7061"
+        },
+        "email": {
+            "official": "jain@physics.du.ac.in",
+            "personal": "jain_physics@yahoo.co.in"
+        },
+        "url": "http://perople.du.ac.in/~jain/"
+    }
+}

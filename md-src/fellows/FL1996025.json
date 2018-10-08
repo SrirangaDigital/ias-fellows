@@ -1,0 +1,35 @@
+{
+    "id": "FL1996025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Subramanian",
+            "last": "Yashonath",
+            "display": "Yashonath, Dr Subramanian"
+        },
+        "sex": "M",
+        "birthDate": "1956-10-09",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Nanomorphology, Ionic Conduction in Solutions, Computational Chemistry & Intermolecular Forces and Diffusion within Porous & Dense Media"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Professor, Solid State & Structural Chemistry Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2568",
+            "residence": "(080) 2671 0482",
+            "fax": "(080) 2360 1310, (080) 2360 0683"
+        },
+        "email": {
+            "official": "yashonath@iisc.ac.in",
+            "personal": "yashonath@gmail.com"
+        },
+        "url": "http://sayuja.sscu.iisc.ernet.in"
+    }
+}

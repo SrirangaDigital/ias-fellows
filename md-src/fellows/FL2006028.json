@@ -1,0 +1,35 @@
+{
+    "id": "FL2006028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sandhya Srikant",
+            "last": "Visweswariah",
+            "display": "Visweswariah, Prof. Sandhya Srikant"
+        },
+        "sex": "F",
+        "birthDate": "1957-03-06",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA",
+        "specialization": "Biochemistry, Protein Structure & Function and Signal Transduction"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "JC Bose National Fellow, Department of Molecular Reproduction & Developmental, Genetics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2542",
+            "residence": "(080) 4213 4764",
+            "mobile": "99028 18616",
+            "fax": "(080) 2360 0999"
+        },
+        "email": {
+            "official": "sandhya@iisc.ac.in"
+        }
+    }
+}

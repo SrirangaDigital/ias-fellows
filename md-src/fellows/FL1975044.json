@@ -1,0 +1,26 @@
+{
+    "id": "FL1975044",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Daulat Singh",
+            "last": "Kothari",
+            "display": "Kothari, Dr Daulat Singh"
+        },
+        "sex": "M",
+        "birthDate": "1906-07-06",
+        "deathDate": "1993-02-04",
+        "degree": "Ph.D. (Cantab)",
+        "honours": "FNA, FNASc",
+        "specialization": "Statistical Mechanics and Astrophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "101, Bhopalpura",
+        "city": "Udaipur 313 001"
+    }
+}

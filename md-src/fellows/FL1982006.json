@@ -1,0 +1,32 @@
+{
+    "id": "FL1982006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chandra Lal",
+            "last": "Mehta",
+            "display": "Mehta, Prof. Chandra Lal"
+        },
+        "sex": "M",
+        "birthDate": "1938-07-31",
+        "degree": "Ph.D. (Rochester)",
+        "specialization": "Quantum & Statistical Optics and Mathematical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "B-43, Gyandeep Apartments, Mayur Vihar, Phase I",
+        "city": "New Delhi 110 091",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2279 6410",
+            "mobile": "90133 91375"
+        },
+        "email": {
+            "personal": "mehtacl@hotmail.com"
+        }
+    }
+}

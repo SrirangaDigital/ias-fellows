@@ -1,0 +1,35 @@
+{
+    "id": "FL1973001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manapurathu Verghese",
+            "last": "George",
+            "display": "George, Prof. Manapurathu Verghese"
+        },
+        "sex": "M",
+        "birthDate": "1928-10-03",
+        "degree": "Ph.D. (Agra)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Organic Photochemistry and Laser Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1973",
+        "councilservice": "Council Service: 1977-79"
+    },
+    "contact": {
+        "address": "Honorary Professor (JNCASR), Photosciences & Photonics Division, National Institute for Interdisciplinary Science &, Technology",
+        "city": "Thiruvananthapuram 695 019",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 249 0392",
+            "residence": "(0471) 243 6452",
+            "fax": "(0471) 249 0186"
+        },
+        "email": {
+            "personal": "mvgeorge@rediffmail.com"
+        }
+    }
+}

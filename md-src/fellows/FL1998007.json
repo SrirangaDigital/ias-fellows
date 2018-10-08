@@ -1,0 +1,32 @@
+{
+    "id": "FL1998007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sumit Ranjan",
+            "last": "Das",
+            "display": "Das, Prof. Sumit Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1955-12-11",
+        "degree": "Ph.D. (Chicago)",
+        "specialization": "Holography, String Theory, Quantum Aspects of Black Holes, Quantum Field Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics & Astronomy, University of Kentucky",
+        "city": "Lexington, KY 40506",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1 859) 257 4686",
+            "fax": "(+1 859) 323 2846"
+        },
+        "email": {
+            "official": "das@pa.uky.edu"
+        }
+    }
+}

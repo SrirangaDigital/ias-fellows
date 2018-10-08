@@ -1,0 +1,32 @@
+{
+    "id": "FL2011024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Yogendra",
+            "last": "Singh",
+            "display": "Singh, Dr Yogendra"
+        },
+        "sex": "M",
+        "birthDate": "1957-07-01",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc",
+        "specialization": "Bacterial Pathogenesis, Cell Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Department of Zoology, University of Delhi",
+        "city": "Delhi 110 007",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "98710 95673"
+        },
+        "email": {
+            "personal": "ysinghdu@gmail.com"
+        }
+    }
+}

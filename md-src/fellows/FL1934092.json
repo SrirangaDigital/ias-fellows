@@ -1,0 +1,19 @@
+{
+    "id": "FL1934092",
+    "profile": {
+        "name": {
+            "first": "Ruchi Ram",
+            "last": "Sahni",
+            "display": "Sahni,  Ruchi Ram"
+        },
+        "sex": "M",
+        "birthDate": "1863-04-05",
+        "deathDate": "1948-00-00",
+        "specialization": "Meteorology, Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    }
+}

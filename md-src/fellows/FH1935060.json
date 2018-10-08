@@ -1,0 +1,19 @@
+{
+    "id": "FH1935060",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arthur Holly",
+            "last": "Compton",
+            "display": "Compton, Prof. Arthur Holly"
+        },
+        "sex": "M",
+        "birthDate": "1892-09-10",
+        "deathDate": "1962-03-15",
+        "honours": "Nobel Laureate (Physics) - 1927"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

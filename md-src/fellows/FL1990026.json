@@ -1,0 +1,35 @@
+{
+    "id": "FL1990026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jayanta Kumar",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Jayanta Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1937-05-22",
+        "deathDate": "2017-09-30",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc.",
+        "specialization": "Bayesian Mathematical Statistics &amp; Applications"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Indian Statistical Institute, 203, BT Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2575 3401",
+            "residence": "(033) 2486 1681"
+        },
+        "email": {
+            "official": "jayanta@isical.ac.in",
+            "personal": "jayantag1@gmail.com"
+        }
+    }
+}

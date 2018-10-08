@@ -1,0 +1,34 @@
+{
+    "id": "FL1974003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Krishna Balasundaram",
+            "last": "Athreya",
+            "display": "Athreya, Prof. Krishna Balasundaram"
+        },
+        "sex": "M",
+        "birthDate": "1939-12-12",
+        "degree": "Ph.D. (Stanford)",
+        "specialization": "Probability Theory, Stochastic Processes and Mathematical Statistics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Distinguished Professor Emeritus, Departments of Mathematics & Statistics, Iowa State University",
+        "city": "Ames, Iowa 50011",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-515) 294 2617, 294 5864",
+            "residence": "(+1-515) 450 5398",
+            "mobile": "51577 91878",
+            "fax": "(+1-515) 294 4040"
+        },
+        "email": {
+            "official": "kba@iastate.edu,kba@math.iisc.ernet.in"
+        }
+    }
+}

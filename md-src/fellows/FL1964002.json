@@ -1,0 +1,26 @@
+{
+    "id": "FL1964002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tanjore Ramachandra",
+            "last": "Anantharaman",
+            "display": "Anantharaman, Prof. Tanjore Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1927-11-25",
+        "deathDate": "2009-06-19",
+        "degree": "D.Phil. and D.Sc. (Oxon)",
+        "honours": "FNA, FNAE",
+        "specialization": "Physical Metallurgy, Materials Technology and India's Scientific Heritage"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1964"
+    },
+    "contact": {
+        "address": "Kula-Acharya, Ashram - Atma Deep, Post Box No. 3, G-9/14, DLF City",
+        "city": "Gurgaon 122 002"
+    }
+}

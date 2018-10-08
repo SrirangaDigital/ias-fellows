@@ -1,0 +1,36 @@
+{
+    "id": "FL1995026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anil Kumar",
+            "last": "Tyagi",
+            "display": "Tyagi, Prof. Anil Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1951-04-02",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology, Biochemistry and Microbiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Vice Chancellor, Guru Gobind Singh Indraprastha University, Sector 16C, Dwaraka",
+        "city": "New Delhi 110 078",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2411 0970, (011) 2530 2104",
+            "residence": "(011) 2659 4544",
+            "mobile": "93122 66218",
+            "fax": "(011) 2411 5270, (011) 2803 5243"
+        },
+        "email": {
+            "official": "aniltyagi@south.du.ac.in",
+            "personal": "akt1003@rediffmail.com"
+        }
+    }
+}

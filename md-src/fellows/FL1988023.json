@@ -1,0 +1,33 @@
+{
+    "id": "FL1988023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rishi Narain",
+            "last": "Singh",
+            "display": "Singh, Dr Rishi Narain"
+        },
+        "sex": "M",
+        "birthDate": "1943-07-17",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA",
+        "specialization": "Geophysics and Geophysical Environmental, Earth System Modelling"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "visiting Professor, Indian Institute of Technology, Palaj",
+        "city": "Gandhinagar 382 355",
+        "state": "Gujarat",
+        "telephone": {
+            "mobile": "93463 52339"
+        },
+        "email": {
+            "official": "rnsingh@iitgn.ac.in",
+            "personal": "rishiprema@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1937010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paul",
+            "last": "Niggli",
+            "display": "Niggli, Prof. Paul"
+        },
+        "sex": "M",
+        "birthDate": "1888-06-26",
+        "deathDate": "1953-01-13"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1937"
+    }
+}

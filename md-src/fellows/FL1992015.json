@@ -1,0 +1,34 @@
+{
+    "id": "FL1992015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gomathy",
+            "last": "Gopinath",
+            "display": "Gopinath, Prof. Gomathy"
+        },
+        "sex": "F",
+        "birthDate": "1940-01-24",
+        "degree": "M.B.B.S. and M.S. (Anat.) (AIIMS)",
+        "honours": "FAMS, FNASc",
+        "specialization": "Developmental Neurobiology, Environment & Neural Plasticity and Neural Transplantation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Flat No. 001, Kanchanjunga Apartments, 122/2, Nagavarapalya, CV Raman Nagar PO",
+        "city": "Bengaluru 560 093",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2524 7584",
+            "mobile": "98453 38134",
+            "fax": "(080) 2524 7817"
+        },
+        "email": {
+            "personal": "gomathygopinathnair@gmail.com,@gmail.com,gomathyg@hotmail.com"
+        }
+    }
+}

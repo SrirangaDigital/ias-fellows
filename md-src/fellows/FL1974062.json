@@ -1,0 +1,21 @@
+{
+    "id": "FL1974062",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Maddaly Gopala",
+            "last": "Krishna",
+            "display": "Krishna, Dr Maddaly Gopala"
+        },
+        "sex": "M",
+        "birthDate": "1922-07-18",
+        "deathDate": "1978-06-05",
+        "degree": "Ph.D. (Leeds)",
+        "specialization": "Fuel Technology and Chemical Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    }
+}

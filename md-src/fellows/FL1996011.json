@@ -1,0 +1,32 @@
+{
+    "id": "FL1996011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Atul",
+            "last": "Gurtu",
+            "display": "Gurtu, Prof. Atul"
+        },
+        "sex": "M",
+        "birthDate": "1946-01-16",
+        "degree": "Ph.D.(Panjab)",
+        "specialization": "Experimental High Energy Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "B-303, Vigyanshila, Juhu-Versova Link Road, Seven Bungalows, Andheri (West)",
+        "city": "Mumbai 400 061",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2631 1621",
+            "mobile": "96198 47035"
+        },
+        "email": {
+            "personal": "atul.gurtu@gmail.com"
+        }
+    }
+}

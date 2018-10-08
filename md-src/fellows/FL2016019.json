@@ -1,0 +1,35 @@
+{
+    "id": "FL2016019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tharmalingam",
+            "last": "Punniyamurthy",
+            "display": "Punniyamurthy, Prof. Tharmalingam"
+        },
+        "sex": "M",
+        "birthDate": "1964-06-03",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FRSC",
+        "specialization": "Synthetic Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Guwahati 781 039",
+        "state": "Assam",
+        "telephone": {
+            "office": "(0361) 258 2309",
+            "residence": "(0361) 258 4309",
+            "mobile": "94351 02462",
+            "fax": "(0361) 258 2349"
+        },
+        "email": {
+            "official": "tpunni@iitg.ernet.in"
+        }
+    }
+}

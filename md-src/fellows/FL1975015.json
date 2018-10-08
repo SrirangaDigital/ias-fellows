@@ -1,0 +1,34 @@
+{
+    "id": "FL1975015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narasimhaiengar",
+            "last": "Mukunda",
+            "display": "Mukunda, Prof. Narasimhaiengar"
+        },
+        "sex": "M",
+        "birthDate": "1939-01-25",
+        "degree": "Ph.D. (Rochesster)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Theoretical Particle Physics, Mathematical Physics, Mechanics and Theoretical Optics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1975",
+        "councilservice": "Council Service: 1989-91, 1998-2012; Editor of Publications: 1998-2012 ; Vice-President 2001-12"
+    },
+    "contact": {
+        "address": "103, 6th Main Road, Malleswaram",
+        "city": "Bengaluru 560 003",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2334 8657"
+        },
+        "email": {
+            "official": "nmukunda@ias.ernet.in",
+            "personal": "nmukunda@gmail.com"
+        }
+    }
+}

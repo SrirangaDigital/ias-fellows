@@ -1,0 +1,27 @@
+{
+    "id": "FL1953003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ennapadam Sundara",
+            "last": "Narayanan",
+            "display": "Narayanan, Dr Ennapadam Sundara"
+        },
+        "sex": "M",
+        "birthDate": "1904-02-15",
+        "deathDate": "1991-02-23",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA",
+        "specialization": "Insect Parasitism, Biological Control of Insect Pests & Noxious Weeds, Apiculture, Sericulture and General Entomology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1953",
+        "councilservice": "1962-70"
+    },
+    "contact": {
+        "address": "Sri Girija Shankar Nivas, B-122, Sravodaya Enclave, Sri Aurobindo Marg",
+        "city": "New Delhi 110 017"
+    }
+}

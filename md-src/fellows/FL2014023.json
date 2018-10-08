@@ -1,0 +1,37 @@
+{
+    "id": "FL2014023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Venkatesan",
+            "last": "Subramanian",
+            "display": "Subramanian, Dr Venkatesan"
+        },
+        "sex": "M",
+        "birthDate": "1962-03-11",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNASc",
+        "specialization": "Computational Chemistry, Non-Covalent Interactions, Biomolecular Simulations"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Senior Principal Scientist, Chemical Laboratory, Central Leather Research Institute, Adyar",
+        "city": "Chennai 600 020",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2441 1630, (044) 2443 7150",
+            "residence": "(044) 2238 3031",
+            "mobile": "98402 64151",
+            "fax": "(044) 2491 2150"
+        },
+        "email": {
+            "official": "subbu@clri.res.in",
+            "personal": "subuchem@hotmail.com"
+        },
+        "url": "http://www.clri.res.in/subramanian/index.html"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2010046",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tanusri",
+            "last": "Saha-Dasgupta",
+            "display": "Saha-Dasgupta, Dr Tanusri"
+        },
+        "sex": "F",
+        "birthDate": "1966-11-12",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc",
+        "specialization": "Condensed Matter Physics, Computational Materials Science, Electronic Structure Calculations"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Senior Professor, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/2184",
+            "residence": "(033) 2324 1232",
+            "mobile": "98312 09592",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "personal": "t.sahadasgupta@gmail.com"
+        },
+        "url": "http://www.bose.res.in/~tanushri/"
+    }
+}

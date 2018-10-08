@@ -1,0 +1,19 @@
+{
+    "id": "FH1935071",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Irene",
+            "last": "Joliot-Curie",
+            "display": "Joliot-Curie, Prof. Irene"
+        },
+        "sex": "M",
+        "birthDate": "1897-09-12",
+        "deathDate": "1956-03-17",
+        "honours": "Nobel Laureate (Chemistry) - 1935"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

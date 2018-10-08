@@ -1,0 +1,30 @@
+{
+    "id": "FH2007031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "David J",
+            "last": "Gross",
+            "display": "Gross, Prof. David J"
+        },
+        "sex": "M",
+        "birthDate": "1941-00-00"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Kavli Institute for Theoretical, Physics, University of California",
+        "city": "Santa Barbara, CA 93106-4030",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-805) 893 7337",
+            "residence": "(+1-805) 963 8324",
+            "fax": "(+1-893) 893 2431"
+        },
+        "email": {
+            "official": "gross@kitp.ucsb.edu"
+        }
+    }
+}

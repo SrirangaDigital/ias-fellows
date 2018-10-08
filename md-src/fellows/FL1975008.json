@@ -1,0 +1,32 @@
+{
+    "id": "FL1975008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prabhakar Vasudeo",
+            "last": "Kulkarni",
+            "display": "Kulkarni, Prof. Prabhakar Vasudeo"
+        },
+        "sex": "M",
+        "birthDate": "1930-10-09",
+        "degree": "Ph.D. (Pune)",
+        "specialization": "Atmospheric Optics, Aeronomy and Infrared Astronomy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "c/o Dr Narendra P. Kulkarni, 202, Sadguru Co-op. Housing Society, Sector 19, Flat 20, Kharghar",
+        "city": "Navi Mumbai 410 210",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2774 5204",
+            "mobile": "99670 31930"
+        },
+        "email": {
+            "personal": "nanapvk@gmail.com"
+        }
+    }
+}

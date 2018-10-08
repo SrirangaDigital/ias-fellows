@@ -1,0 +1,33 @@
+{
+    "id": "FL1981001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Girish S",
+            "last": "Agarwal",
+            "display": "Agarwal, Prof Girish S"
+        },
+        "sex": "M",
+        "birthDate": "1946-07-07",
+        "degree": "Ph.D. (Rochester)",
+        "honours": "FNA, FNASc, FTWAS,FRS",
+        "specialization": "Nano & Biophotonics, Quantum Optics, Plasmonics, Stochastic Processes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Texas A&M University",
+        "city": "College Station, TX 77840",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1=405) 714 1566"
+        },
+        "email": {
+            "official": "girish.agarwal@tamu.edu"
+        },
+        "url": "http://physics.okstate.edu/agarwal/index.html"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1974089",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Guruvayur Subramanian",
+            "last": "Ramaswamy",
+            "display": "Ramaswamy, Dr Guruvayur Subramanian"
+        },
+        "sex": "M",
+        "birthDate": "1923-10-03",
+        "deathDate": "2002-03-09",
+        "degree": "B.E. (Hons.), C.E. (Hons.), M.S. & C.E.(Caltech)",
+        "honours": "FNA",
+        "specialization": "Structural Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "'Sans Souci', E 119, 16th Cross Road, Besantnagar",
+        "city": "Chennai 600 090"
+    }
+}

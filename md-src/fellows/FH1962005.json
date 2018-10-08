@@ -1,0 +1,18 @@
+{
+    "id": "FH1962005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Earle Keith",
+            "last": "Plyler",
+            "display": "Plyler, Prof. Earle Keith"
+        },
+        "sex": "M",
+        "birthDate": "1897-04-26",
+        "deathDate": "1976-05-08"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1962"
+    }
+}

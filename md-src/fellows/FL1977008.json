@@ -1,0 +1,26 @@
+{
+    "id": "FL1977008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramavarapu Venu",
+            "last": "Gopala Rao",
+            "display": "Gopala Rao, Prof. Ramavarapu Venu"
+        },
+        "sex": "M",
+        "birthDate": "1927-12-03",
+        "deathDate": "2010-09-03",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "honours": "FNA",
+        "specialization": "Physics & Chemistry of Liquids, Solids & Molecular Acoustics and High Temperature Superconductivity"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "Flat No. 103, SBH Officers' Colony, Saidabad",
+        "city": "Hyderabad 500 059"
+    }
+}

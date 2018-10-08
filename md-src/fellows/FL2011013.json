@@ -1,0 +1,35 @@
+{
+    "id": "FL2011013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gagandeep",
+            "last": "Kang",
+            "display": "Kang, Dr Gagandeep"
+        },
+        "sex": "F",
+        "birthDate": "1962-11-03",
+        "degree": "Ph.D. (Vellore)",
+        "honours": "FNA, FNASc, FRC (Path., London)",
+        "specialization": "Nutrition, Public Health, Enteric Virology, Vaccines"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Department of Gastrointestinal Sciences, Christian Medical College",
+        "city": "Vellore 632 004",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(0416) 228 2052",
+            "residence": "(0416) 228 4266",
+            "mobile": "98940 70266",
+            "fax": "(0416) 228 2486"
+        },
+        "email": {
+            "official": "gkang@cmcvellore.ac.in,gkang@thsti.res.in"
+        }
+    }
+}

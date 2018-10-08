@@ -1,0 +1,36 @@
+{
+    "id": "FL2003006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pijush Kanti",
+            "last": "Das",
+            "display": "Das, Dr Pijush Kanti"
+        },
+        "sex": "M",
+        "birthDate": "1952-11-13",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Cell Biology, Immunology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "NASI Senior Scientist, Indian Institute of Chemical Biology, 4, Raja SC Mullick Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 0492, 2473 3491",
+            "residence": "(033) 2476 9216",
+            "mobile": "98313 41358",
+            "fax": "(033) 2473 5197"
+        },
+        "email": {
+            "official": "pijushdas@iicb.res.in",
+            "personal": "pijush52@gmail.com"
+        }
+    }
+}

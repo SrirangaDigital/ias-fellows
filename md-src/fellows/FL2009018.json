@@ -1,0 +1,33 @@
+{
+    "id": "FL2009018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arun Kumar",
+            "last": "Nandi",
+            "display": "Nandi, Prof. Arun Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1955-02-21",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Polymer Crystallisation & Gelation, Polymer Blends & Hybrids, Polymer Nanocomposites, Supramolecular Polymers"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Polymer Science Unit, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/1561",
+            "residence": "(033) 2435 1340",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "psuakn@iacs.res.in"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1989028",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Lalji",
+            "last": "Singh",
+            "display": "Singh, Dr Lalji"
+        },
+        "sex": "M",
+        "birthDate": "1947-07-05",
+        "deathDate": "2017-12-10",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA, FNASc, FAMS, FNAAS, FTWAS",
+        "specialization": "Molecular Biology, DNA Fingerprinting, Wildlife Conservation and Genetic Diversity"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Managing Director, Genome Foundation, Prasad Hospital, 44-617/12, IDA Nacharam",
+        "city": "Hyderabad 500 076",
+        "state": "A.P.",
+        "telephone": {
+            "mobile": "98480 37558"
+        },
+        "email": {
+            "personal": "laljisinghdr@gmail.com,genomefoundation@gmail.com"
+        }
+    }
+}

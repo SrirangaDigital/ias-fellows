@@ -1,0 +1,35 @@
+{
+    "id": "FL1995017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Brindaban Chandra",
+            "last": "Ranu",
+            "display": "Ranu, Prof. Brindaban Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1949-08-01",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNA",
+        "specialization": "Visible Light Photocatalysed Reactions, Green Chemistry, Indium-mediated Supported Metal and Metal Nanoparticle-catalysed Reactions, Organic Synthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Department of Organic Chemistry, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/1404",
+            "mobile": "94330 53856",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "ocbcr@iacs.res.in",
+            "personal": "bcranu@gmail.com"
+        }
+    }
+}

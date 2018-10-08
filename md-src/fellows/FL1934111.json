@@ -1,0 +1,20 @@
+{
+    "id": "FL1934111",
+    "profile": {
+        "name": {
+            "first": "Vaidyanathan",
+            "last": "Subrahmanyan",
+            "display": "Subrahmanyan,  Vaidyanathan"
+        },
+        "sex": "M",
+        "birthDate": "1902-09-16",
+        "deathDate": "1979-01-30",
+        "honours": "FNA"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934",
+        "councilservice": "1934-37; Treasurer 1934-37"
+    }
+}

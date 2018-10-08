@@ -1,0 +1,34 @@
+{
+    "id": "FL1999009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anand",
+            "last": "Mohan",
+            "display": "Mohan, Prof. Anand"
+        },
+        "sex": "M",
+        "birthDate": "1957-09-29",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNASc",
+        "specialization": "Metamorphic Petrology, Mineralogy, Thermodynamics and Precambrian Geology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Registrar, Dayalbagh Educational Institute, Dayalbagh",
+        "city": "Agra 282 005",
+        "state": "U.P",
+        "telephone": {
+            "office": "(0562) 654 4855",
+            "residence": "70605 20949",
+            "mobile": "93369 07431"
+        },
+        "email": {
+            "personal": "anand.abhu@gmail.com,registrar.dei@gmail.com"
+        }
+    }
+}

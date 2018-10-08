@@ -1,0 +1,19 @@
+{
+    "id": "FH1958011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hideki",
+            "last": "Yukawa",
+            "display": "Yukawa, Prof. Hideki"
+        },
+        "sex": "M",
+        "birthDate": "1907-01-23",
+        "deathDate": "1981-09-08",
+        "honours": "Nobel Laureate (Physics) - 1949"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1958"
+    }
+}

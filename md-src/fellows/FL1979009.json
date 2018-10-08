@@ -1,0 +1,26 @@
+{
+    "id": "FL1979009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jagdish Chandra",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Prof. Jagdish Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1930-09-01",
+        "deathDate": "2012-06-04",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Experimental Astrophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1979"
+    },
+    "contact": {
+        "address": "1-1711, CR Park",
+        "city": "New Delhi 110 019"
+    }
+}

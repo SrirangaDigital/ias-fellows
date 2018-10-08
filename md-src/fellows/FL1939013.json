@@ -1,0 +1,20 @@
+{
+    "id": "FL1939013",
+    "profile": {
+        "name": {
+            "first": "Bettadapur Narasimhaiah",
+            "last": "Sreenivasaiah",
+            "display": "Sreenivasaiah,  Bettadapur Narasimhaiah"
+        },
+        "sex": "M",
+        "birthDate": "1904-07-24",
+        "deathDate": "1987-02-16",
+        "degree": "M.Sc. (Calcutta)",
+        "specialization": "Meteorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1939"
+    }
+}

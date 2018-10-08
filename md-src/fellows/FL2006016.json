@@ -1,0 +1,36 @@
+{
+    "id": "FL2006016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Hemanta Kumar",
+            "last": "Majumder",
+            "display": "Majumder, Dr Hemanta Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1950-05-05",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Biochemistry, Molecular Biology and Parasitology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "NASI Senior Scientist, Indian Institute of Chemical Biology, 4, Raja SC Mullick Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2499 5727",
+            "residence": "(033) 2359 1532",
+            "mobile": "98319 26491",
+            "fax": "(033) 2473 5197"
+        },
+        "email": {
+            "official": "hkmajumder@iicb.res.in",
+            "personal": "hemantamajumder@yahoo.co.in"
+        }
+    }
+}

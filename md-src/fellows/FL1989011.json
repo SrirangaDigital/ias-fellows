@@ -1,0 +1,31 @@
+{
+    "id": "FL1989011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kittur Subbarao",
+            "last": "Krishna Swamy",
+            "display": "Krishna Swamy, Prof. Kittur Subbarao"
+        },
+        "sex": "M",
+        "birthDate": "1938-04-23",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "specialization": "Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Flat 1905, Tower C, Oberoi Springs, Opp. City Mall, Andheri Link Road, Andheri West",
+        "city": "Mumbai 400 053",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2674 1864"
+        },
+        "email": {
+            "personal": "swamyks205@gmail.com"
+        }
+    }
+}

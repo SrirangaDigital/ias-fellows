@@ -1,0 +1,35 @@
+{
+    "id": "FL2014022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Annapurni",
+            "last": "Subramaniam",
+            "display": "Subramaniam, Prof. Annapurni"
+        },
+        "sex": "F",
+        "birthDate": "1968-05-04",
+        "degree": "Ph.D. (Bangalore)",
+        "honours": "FNASc",
+        "specialization": "Astrosat Mission & UV Studies, Stellar Population, Nearby Galaxies, Star Clusters, Stellar Evolution, Galactic Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Indian Institute of Astrophysics, Sarjapur Road",
+        "city": "Bengaluru 560 034",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2254 1318",
+            "residence": "(080) 2553 2088",
+            "mobile": "98451 71233",
+            "fax": "(080) 2553 4043"
+        },
+        "email": {
+            "official": "purni@iiap.res.in"
+        }
+    }
+}

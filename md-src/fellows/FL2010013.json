@@ -1,0 +1,36 @@
+{
+    "id": "FL2010013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajan Ramakant",
+            "last": "Dighe",
+            "display": "Dighe, Prof. Rajan Ramakant"
+        },
+        "sex": "M",
+        "birthDate": "1951-03-21",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Endocrinology, Reproductive Biology, Biochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Molecular Reproduction &amp; Developmental Genetics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3261, (080) 2293 2660",
+            "residence": "(080) 2366 3313",
+            "mobile": "99019 03513",
+            "fax": "(080) 2360 0999"
+        },
+        "email": {
+            "official": "rdighe@alumni.iisc.ac.in",
+            "personal": "digherr@gmail.com"
+        }
+    }
+}

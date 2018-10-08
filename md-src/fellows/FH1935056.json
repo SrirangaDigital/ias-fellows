@@ -1,0 +1,18 @@
+{
+    "id": "FH1935056",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Serafino",
+            "last": "Belfanti",
+            "display": "Belfanti, Prof. Serafino"
+        },
+        "sex": "M",
+        "birthDate": "1860-03-28",
+        "deathDate": "1939-03-06"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

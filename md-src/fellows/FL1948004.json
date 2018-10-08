@@ -1,0 +1,18 @@
+{
+    "id": "FL1948004",
+    "profile": {
+        "name": {
+            "first": "Makanji Kalyanji",
+            "last": "Patel",
+            "display": "Patel,  Makanji Kalyanji"
+        },
+        "sex": "M",
+        "birthDate": "1899-11-06",
+        "specialization": "Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1948"
+    }
+}

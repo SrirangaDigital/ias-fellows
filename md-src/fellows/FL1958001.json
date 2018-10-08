@@ -1,0 +1,31 @@
+{
+    "id": "FL1958001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bokinakere Ramakrishnaiya",
+            "last": "Subba Rao",
+            "display": "Subba Rao, Dr Bokinakere Ramakrishnaiya"
+        },
+        "sex": "M",
+        "birthDate": "1925-08-25",
+        "degree": "Ph.D. and D.Sc. (Mysore)",
+        "specialization": "Biological Control, Entomology and Taxonomy of Chalcidoidea"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1958"
+    },
+    "contact": {
+        "address": "29, Osward Road",
+        "city": "London SW17 7SS",
+        "country": "UK",
+        "telephone": {
+            "residence": "(+44-20) 8767 7121"
+        },
+        "email": {
+            "personal": "raosubba@yahoo.com"
+        }
+    }
+}

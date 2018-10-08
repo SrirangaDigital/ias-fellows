@@ -1,0 +1,18 @@
+{
+    "id": "FH1935062",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Harvey",
+            "last": "Cushing",
+            "display": "Cushing, Prof. Harvey"
+        },
+        "sex": "M",
+        "birthDate": "1869-04-08",
+        "deathDate": "1939-10-07"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

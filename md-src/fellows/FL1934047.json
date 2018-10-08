@@ -1,0 +1,21 @@
+{
+    "id": "FL1934047",
+    "profile": {
+        "name": {
+            "first": "Krishna Bindu",
+            "last": "Madhava",
+            "display": "Madhava,  Krishna Bindu"
+        },
+        "sex": "M",
+        "birthDate": "1895-03-13",
+        "deathDate": "1984-04-26",
+        "degree": "M.A. (Madras), A.I.A. (London)",
+        "honours": "FNA",
+        "specialization": "Statistics and Actuarial Science"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1934"
+    }
+}

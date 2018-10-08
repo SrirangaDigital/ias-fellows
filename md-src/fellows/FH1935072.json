@@ -1,0 +1,18 @@
+{
+    "id": "FH1935072",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gilbert Newton",
+            "last": "Lewis",
+            "display": "Lewis, Prof. Gilbert Newton"
+        },
+        "sex": "M",
+        "birthDate": "1875-10-25",
+        "deathDate": "1946-03-24"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

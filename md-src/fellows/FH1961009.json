@@ -1,0 +1,18 @@
+{
+    "id": "FH1961009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "San-ichiro",
+            "last": "Mizushima",
+            "display": "Mizushima, Prof. San-ichiro"
+        },
+        "sex": "M",
+        "birthDate": "1899-03-21",
+        "deathDate": "1983-08-03"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1961"
+    }
+}

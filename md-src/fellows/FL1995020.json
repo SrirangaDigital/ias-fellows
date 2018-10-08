@@ -1,0 +1,31 @@
+{
+    "id": "FL1995020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Subramanian",
+            "last": "Sivasanker",
+            "display": "Sivasanker, Dr Subramanian"
+        },
+        "sex": "M",
+        "birthDate": "1944-10-25",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Industrial Catalysis, Petroleum Refining and Petrochemical Production and Green Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Consultant, Industrial Catalysis, Residency C-6, Phase 3, Dakshin Avenue, Unamanchery",
+        "city": "Kolapakkam 600 127",
+        "state": "T.N.",
+        "telephone": {
+            "mobile": "98401 03865"
+        },
+        "email": {
+            "personal": "ssivasanker@gmail.com,ssivasanker@yahoo.com"
+        }
+    }
+}

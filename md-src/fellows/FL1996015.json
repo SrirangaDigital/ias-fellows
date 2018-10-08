@@ -1,0 +1,35 @@
+{
+    "id": "FL1996015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mohan Gopalkrishna",
+            "last": "Kulkarni",
+            "display": "Kulkarni, Dr Mohan Gopalkrishna"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-14",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNAE",
+        "specialization": "Polymer Science & Engineering, Intellectual Property"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Emeritus Scientist, Unit for R&D of Information Products, Tapovan, NCL Campus, Pashan Road",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 6900 0864",
+            "residence": "(020) 2588 2189",
+            "mobile": "94223 09762",
+            "fax": "(020) 2538 3558"
+        },
+        "email": {
+            "official": "mohank@urdip.res.in"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1935063",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Henry Hallett",
+            "last": "Dale",
+            "display": "Dale, Prof. Henry Hallett"
+        },
+        "sex": "M",
+        "birthDate": "1875-06-09",
+        "deathDate": "1968-07-23",
+        "honours": "Nobel Laureate (Medicine) - 1936"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL2013018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nittala Venkata Chalapathi",
+            "last": "Rao",
+            "display": "Rao, Prof. Nittala Venkata Chalapathi"
+        },
+        "sex": "M",
+        "birthDate": "1969-05-23",
+        "degree": "Ph.D. (Osmania & Cantab)",
+        "specialization": "EPMA & SEM,Mineralogy, Igneous Petrology, Mantle Geochemistry, Geodynamics, Mineral Resources"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Geology, Banaras Hindu University",
+        "city": "Varanasi 221 005",
+        "state": "U.P.",
+        "telephone": {
+            "mobile": "99356 47365"
+        },
+        "email": {
+            "personal": "nvcr100@gmail.com,nvcraobhu@gmail.com"
+        },
+        "url": "http://www.bhu.ac.in/geology/nvcrao.html"
+    }
+}

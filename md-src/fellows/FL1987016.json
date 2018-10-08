@@ -1,0 +1,32 @@
+{
+    "id": "FL1987016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ram Prakash",
+            "last": "Sharma",
+            "display": "Sharma, Dr Ram Prakash"
+        },
+        "sex": "M",
+        "birthDate": "1939-01-05",
+        "degree": "Ph.D. (Aligarh and London)",
+        "specialization": "Natural Products Chemistry and New Synthetic Methods"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "E-45, DGS Housing Society, Sector 22, Plot No. 6, Dwaraka",
+        "city": "New Delhi 110 045",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2805 1102",
+            "mobile": "95600 28402"
+        },
+        "email": {
+            "personal": "ramprakashsharma39@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FL1995025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pazhamaneri Subramaniam",
+            "last": "Thiagarajan",
+            "display": "Thiagarajan, Dr Pazhamaneri Subramaniam"
+        },
+        "sex": "M",
+        "birthDate": "1948-11-09",
+        "degree": "Ph.D. (Rice)",
+        "honours": "FNASc",
+        "specialization": "Distributed Probabilistic Systems, Hybrid Systems and Computational Systems Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Laboratory of System Pharmacology, Harvard Medical School, 200, Longwood Avenue",
+        "city": "Boston, MA 02115",
+        "country": "USA",
+        "email": {
+            "official": "thiagu@hms.harvard.edu"
+        },
+        "url": "http://comp.nus.edu.sg/~thiagu"
+    }
+}

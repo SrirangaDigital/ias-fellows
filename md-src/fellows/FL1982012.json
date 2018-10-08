@@ -1,0 +1,26 @@
+{
+    "id": "FL1982012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mahendra Nath",
+            "last": "Bose",
+            "display": "Bose, Dr Mahendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1925-03-23",
+        "deathDate": "2011-04-27",
+        "degree": "Ph.D. (Lucknow)",
+        "honours": "FNA, Member, Norvegian Academy of Science & Literature",
+        "specialization": "Palaeobotany and Palynology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "1947, Sector 4",
+        "city": "Gurgaon 122 001"
+    }
+}

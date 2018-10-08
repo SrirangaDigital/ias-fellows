@@ -1,0 +1,25 @@
+{
+    "id": "FL1992019",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Niranjan Vasudeo",
+            "last": "Joshi",
+            "display": "Joshi, Dr Niranjan Vasudeo"
+        },
+        "sex": "M",
+        "birthDate": "1951-12-14",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Statistical Analysis, Mathematical Modelling in Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "email": {
+            "official": "nvjoshi@iisc.ac.in"
+        }
+    }
+}

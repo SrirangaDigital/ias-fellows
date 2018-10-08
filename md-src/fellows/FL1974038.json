@@ -1,0 +1,35 @@
+{
+    "id": "FL1974038",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Eleswarapu Chinna",
+            "last": "Subbarao",
+            "display": "Subbarao, Prof. Eleswarapu Chinna"
+        },
+        "sex": "M",
+        "birthDate": "1928-08-08",
+        "degree": "Ph.D. (Penn. State)",
+        "honours": "FNA, FNAE",
+        "specialization": "Materials Science, Renewable Energy, and R&D Management"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Chief Consulting Adviser, Tata Consultancy Services Limited, 54B, Hadapsar Ind. Estate, Hadapsar",
+        "city": "Pune 411 013",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2681 2226, (020) 6608 6267",
+            "mobile": "98509 65686",
+            "fax": "(020) 6608 6399"
+        },
+        "email": {
+            "official": "ec.subbarao@tcs.com",
+            "personal": "ecsubbarao@gmail.com"
+        }
+    }
+}

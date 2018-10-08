@@ -1,0 +1,29 @@
+{
+    "id": "FL2013024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Soumya",
+            "last": "Swaminathan",
+            "display": "Swaminathan, Dr Soumya"
+        },
+        "sex": "F",
+        "birthDate": "1959-05-02",
+        "degree": "MD (AIIMS)",
+        "honours": "FNASc, FAMS, FNA",
+        "specialization": "Paediatrics, Tuberculosis, HIV Co-infection, TB Pathogenesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Deputy Director - General (Programs), World Health Organisation, 20, Avenue Appia",
+        "city": "1211, Geneva",
+        "country": "Switzerland",
+        "email": {
+            "personal": "directorsoumya@yahoo.com"
+        }
+    }
+}

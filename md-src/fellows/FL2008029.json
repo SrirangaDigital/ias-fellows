@@ -1,0 +1,35 @@
+{
+    "id": "FL2008029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kumaravel",
+            "last": "Somasundaram",
+            "display": "Somasundaram, Prof. Kumaravel"
+        },
+        "sex": "M",
+        "birthDate": "1962-10-08",
+        "degree": "Ph.D. (MKU)",
+        "honours": "FNA, FNASc",
+        "specialization": "Cancer Biology, Genetics and Virology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Microbiology &amp; Cell Biology Laboratory, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 7171",
+            "residence": "(080) 2360 2136",
+            "fax": "(080) 2360 2697"
+        },
+        "email": {
+            "official": "skumar@mcbl.iisc.ernet.in",
+            "personal": "ksomasundaram1@gmail.com"
+        }
+    }
+}

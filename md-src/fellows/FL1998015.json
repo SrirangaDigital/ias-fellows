@@ -1,0 +1,34 @@
+{
+    "id": "FL1998015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Partha Pratim",
+            "last": "Majumder",
+            "display": "Majumder, Prof. Partha Pratim"
+        },
+        "sex": "M",
+        "birthDate": "1952-09-06",
+        "degree": "Ph.D. (ISI, Calcutta)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Biostatistics, Human Genetics and Population Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1998",
+        "councilservice": "Council Service: 2016-"
+    },
+    "contact": {
+        "address": "Distinguished Professor, National Institute of Biomedical Genomics, Post Netaji Subhas Sanitorium",
+        "city": "Kalyani 741 251",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2589 2150-51",
+            "residence": "(033) 2565 4314"
+        },
+        "email": {
+            "official": "ppm1@nibmg.ac.in"
+        }
+    }
+}

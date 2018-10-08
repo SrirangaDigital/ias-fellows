@@ -1,0 +1,26 @@
+{
+    "id": "FL1978010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Samarendra Nath",
+            "last": "Sarkar",
+            "display": "Sarkar, Dr Samarendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1920-04-22",
+        "deathDate": "2004-09-10",
+        "degree": "Ph.D. (Edinburgh)",
+        "honours": "FNA",
+        "specialization": "Precambrian Stratigraphy, Structural Geology and Geochronology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "95-A, Ballygunge Gardens",
+        "city": "Kolkata 700 029"
+    }
+}

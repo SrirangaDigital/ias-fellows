@@ -1,0 +1,19 @@
+{
+    "id": "FH1936016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Albert",
+            "last": "Einstein",
+            "display": "Einstein, Prof. Albert"
+        },
+        "sex": "M",
+        "birthDate": "1879-03-14",
+        "deathDate": "1955-04-18",
+        "honours": "Nobel Laureate (Physics) - 1921"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1936"
+    }
+}

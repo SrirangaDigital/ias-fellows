@@ -1,0 +1,19 @@
+{
+    "id": "FH1965010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Carl Peter Henrik",
+            "last": "Dam",
+            "display": "Dam, Prof. Carl Peter Henrik"
+        },
+        "sex": "M",
+        "birthDate": "1895-02-21",
+        "deathDate": "1976-04-17",
+        "honours": "Nobel Laureate (Medicine) - 1943"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1965"
+    }
+}

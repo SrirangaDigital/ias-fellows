@@ -1,0 +1,33 @@
+{
+    "id": "FL1974030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ram Gopal",
+            "last": "Rastogi",
+            "display": "Rastogi, Prof. Ram Gopal"
+        },
+        "sex": "M",
+        "birthDate": "1929-12-26",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc.",
+        "specialization": "Ionospheric Physics, Geomagnetism and Space Weather Disturbance"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "22B Lad Society, Sandesh Press Road, Bodakdev",
+        "city": "Ahmedabad 380 054",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "(079) 2685 0958",
+            "mobile": "96249 24030"
+        },
+        "email": {
+            "personal": "profrgrastogi@yahoo.com"
+        }
+    }
+}

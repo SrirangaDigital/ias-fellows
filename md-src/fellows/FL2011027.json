@@ -1,0 +1,35 @@
+{
+    "id": "FL2011027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sandeep",
+            "last": "Verma",
+            "display": "Verma, Prof. Sandeep"
+        },
+        "sex": "M",
+        "birthDate": "1966-06-24",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNASc, FRSC, FNA",
+        "specialization": "Bioorganic Chemistry, Chemical Biology Responsive Soft Structures"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Head, Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7643",
+            "residence": "(0512) 259 8786",
+            "mobile": "99350 81810",
+            "fax": "(0512) 259 7436"
+        },
+        "email": {
+            "official": "sverma@iitk.ac.in"
+        }
+    }
+}

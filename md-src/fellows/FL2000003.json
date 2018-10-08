@@ -1,0 +1,32 @@
+{
+    "id": "FL2000003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Santanu",
+            "last": "Bhattacharya",
+            "display": "Bhattacharya, Prof. Santanu"
+        },
+        "sex": "M",
+        "birthDate": "1958-04-23",
+        "degree": "Ph.D. (Rutgers)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Chemical Biology, Molecular Theranostics, Soft Materials, Supramolecular Analytical Chemistry, Nanoscience & Nanotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Director, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4688"
+        },
+        "email": {
+            "official": "director@iacs.res.in,sb@orgchem.iisc.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL2001016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Girish",
+            "last": "Sahni",
+            "display": "Sahni, Dr Girish"
+        },
+        "sex": "M",
+        "birthDate": "1956-03-02",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Protein Engineering, Molecular Biology, Biotechnology and Enzymology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Director General, Council of Scientific & Industrial Research, Anusandhan Bhavan, 2, Rafi Marg",
+        "city": "New Delhi 110 001",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2371 0472, (011) 2371 7053",
+            "fax": "(011) 2371 0618"
+        },
+        "email": {
+            "official": "dg@csir.res.in,dgcsir@csir.res.in"
+        }
+    }
+}

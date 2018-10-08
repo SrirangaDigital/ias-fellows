@@ -1,0 +1,19 @@
+{
+    "id": "FL1949003",
+    "profile": {
+        "name": {
+            "first": "Govind Malhar",
+            "last": "Nabar",
+            "display": "Nabar,  Govind Malhar"
+        },
+        "sex": "M",
+        "birthDate": "1904-07-02",
+        "deathDate": "1986-07-20",
+        "specialization": "Textile Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1949"
+    }
+}

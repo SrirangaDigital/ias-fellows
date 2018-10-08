@@ -1,0 +1,36 @@
+{
+    "id": "FL2013006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Hirendra Nath",
+            "last": "Ghosh",
+            "display": "Ghosh, Dr Hirendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1966-08-16",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc",
+        "specialization": "Radiation & Photochemistry, Quantum Dot & Nanomaterials, Ultrafast Spectroscopy in Condense Phase"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Radiation & Photochemistry Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2559 0300",
+            "residence": "(022) 2550 7917",
+            "mobile": "99201 65111",
+            "fax": "(022) 2550 5151"
+        },
+        "email": {
+            "official": "hnghosh@barc.gov.in",
+            "personal": "hnghosh2004@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1984014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Avul Pakir Jainulabdeen Abdul",
+            "last": "Kalam",
+            "display": "Kalam, Prof. Avul Pakir Jainulabdeen Abdul"
+        },
+        "sex": "M",
+        "birthDate": "1931-10-15",
+        "deathDate": "2015-07-27",
+        "degree": "D.M.I.T. (Aero Engg.) (Madras)",
+        "honours": "D.Sc.(h.c.), D.Engg. (h.c.), FNASc",
+        "specialization": "Composite Material Technology and Rocket Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "10, Rajaji Marg",
+        "city": "New Delhi 110 011"
+    }
+}

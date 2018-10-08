@@ -1,0 +1,36 @@
+{
+    "id": "FL1974036",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bam Bahadur",
+            "last": "Singh",
+            "display": "Singh, Dr Bam Bahadur"
+        },
+        "sex": "M",
+        "birthDate": "1938-01-28",
+        "degree": "Ph.D. (Shrivenham, UK)",
+        "honours": "FNASc",
+        "specialization": "Radiation Biology, Biophysics, Intellectual Property Rights, Nuclear & Constitutional Law"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "D-7, Fair Lawn, V.N. Purav Marg, Chembur",
+        "city": "Mumbai 400 071",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2204 9723",
+            "residence": "(022) 2520 7210",
+            "mobile": "98210 05336",
+            "fax": "(022) 2204 0664"
+        },
+        "email": {
+            "official": "drbbsingh@mtnl.net.in",
+            "personal": "drbbsingh2010@gmail.com"
+        }
+    }
+}

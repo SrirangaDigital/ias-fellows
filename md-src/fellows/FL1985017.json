@@ -1,0 +1,26 @@
+{
+    "id": "FL1985017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mukkattu Ramachandra",
+            "last": "Das",
+            "display": "Das, Dr Mukkattu Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1937-07-02",
+        "deathDate": "2003-04-01",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Molecular Biology and Molecular Virology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Flat 4B1, Nikunjam Royale Apts., DPI Junction, Jagathy",
+        "city": "Thiruvananthapuram 695 014"
+    }
+}

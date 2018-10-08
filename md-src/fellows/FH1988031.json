@@ -1,0 +1,19 @@
+{
+    "id": "FH1988031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Abdus",
+            "last": "Salam",
+            "display": "Salam, Prof. Abdus"
+        },
+        "sex": "M",
+        "birthDate": "1926-01-29",
+        "deathDate": "1996-11-21",
+        "honours": "Nobel Laureate (Physics) - 1979"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1988"
+    }
+}

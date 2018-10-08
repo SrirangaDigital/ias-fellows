@@ -1,0 +1,21 @@
+{
+    "id": "FL1974060",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Purushottam Kashinath",
+            "last": "Kelkar",
+            "display": "Kelkar, Dr Purushottam Kashinath"
+        },
+        "sex": "M",
+        "birthDate": "1909-06-01",
+        "deathDate": "1990-10-23",
+        "degree": "Ph.D. (Liverpool)",
+        "specialization": "Electrical Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    }
+}

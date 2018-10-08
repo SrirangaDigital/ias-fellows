@@ -1,0 +1,34 @@
+{
+    "id": "FL1995023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramasubbu",
+            "last": "Sunder",
+            "display": "Sunder, Dr Ramasubbu"
+        },
+        "sex": "M",
+        "birthDate": "1953-08-08",
+        "degree": "Ph.D. (Kiev)",
+        "specialization": "Materials & Structural Test Technology, Fatigue & Fracture Testing for Strength & Endurance, and Field Data Acquisition"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Director, R&D, BISS, 41A, 1st A Cross, AECS, RMV Extension, Second Stage",
+        "city": "Bengaluru 560 094",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2836 0184",
+            "residence": "(080) 2341 4133",
+            "mobile": "98804 32322",
+            "fax": "(080) 2836 0047"
+        },
+        "email": {
+            "official": "rs@biss.in"
+        }
+    }
+}

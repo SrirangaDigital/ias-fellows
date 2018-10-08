@@ -1,0 +1,33 @@
+{
+    "id": "FL2018001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Anirban",
+            "last": "Basu",
+            "display": "Basu, Dr Anirban"
+        },
+        "sex": "M",
+        "birthDate": "1968-11-16",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Neurovirology, Neurobiology, Molecular Medicine"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "National Brain Research Centre",
+        "city": "Manesar 122 051",
+        "state": "Haryana",
+        "telephone": {
+            "office": "(0124) 284 5225",
+            "mobile": "98186 22540"
+        },
+        "email": {
+            "personal": "anirban.nbrc@gmail.com"
+        }
+    }
+}

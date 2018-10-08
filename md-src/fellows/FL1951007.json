@@ -1,0 +1,20 @@
+{
+    "id": "FL1951007",
+    "profile": {
+        "name": {
+            "first": "Yedatore",
+            "last": "Nagappa",
+            "display": "Nagappa,  Yedatore"
+        },
+        "sex": "M",
+        "birthDate": "1907-10-02",
+        "deathDate": "1960-10-30",
+        "honours": "FNA",
+        "specialization": "Applied Palaeontology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1951"
+    }
+}

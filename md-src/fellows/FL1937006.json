@@ -1,0 +1,19 @@
+{
+    "id": "FL1937006",
+    "profile": {
+        "name": {
+            "first": "Niranjan Lal",
+            "last": "Sharma",
+            "display": "Sharma,  Niranjan Lal"
+        },
+        "sex": "M",
+        "birthDate": "1901-11-12",
+        "deathDate": "1988-01-14",
+        "specialization": "Petrology, Economic Geology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1937"
+    }
+}

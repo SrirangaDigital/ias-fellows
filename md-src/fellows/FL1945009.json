@@ -1,0 +1,26 @@
+{
+    "id": "FL1945009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vishwambhar",
+            "last": "Puri",
+            "display": "Puri, Prof. Vishwambhar"
+        },
+        "sex": "M",
+        "birthDate": "1909-12-10",
+        "deathDate": "2002-10-09",
+        "degree": "D.Sc. (Agra)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Morphology, General Biology, Taxonomy and Floral Anatomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1945"
+    },
+    "contact": {
+        "address": "13, Tilak Road",
+        "city": "Meerut 250 001"
+    }
+}

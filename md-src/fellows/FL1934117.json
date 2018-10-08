@@ -1,0 +1,19 @@
+{
+    "id": "FL1934117",
+    "profile": {
+        "name": {
+            "first": "V I",
+            "last": "Vaidhianathan",
+            "display": "Vaidhianathan,  V I"
+        },
+        "sex": "M",
+        "birthDate": "1897-08-28",
+        "deathDate": "1965-00-00",
+        "specialization": "Magnetism, X-rays"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1934076",
+    "profile": {
+        "name": {
+            "first": "Basrur Sanjiva",
+            "last": "Rao",
+            "display": "Rao,  Basrur Sanjiva"
+        },
+        "sex": "M",
+        "birthDate": "1895-02-23",
+        "deathDate": "1975-03-03",
+        "honours": "FNA",
+        "specialization": "Mineral Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934",
+        "councilservice": "1938-55; Treasurer 1938-55"
+    }
+}

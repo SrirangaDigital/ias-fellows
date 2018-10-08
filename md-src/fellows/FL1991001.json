@@ -1,0 +1,33 @@
+{
+    "id": "FL1991001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vijay Hanumappa",
+            "last": "Arakeri",
+            "display": "Arakeri, Prof. Vijay Hanumappa"
+        },
+        "sex": "M",
+        "birthDate": "1945-08-09",
+        "degree": "Ph.D. (Caltech)",
+        "specialization": "Cavitation, Hydrodynamics and Two-phase Flows"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Department of Mechanical Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2670",
+            "residence": "(080) 2367 2267",
+            "fax": "(080) 2360 0683"
+        },
+        "email": {
+            "official": "vijay@mecheng.iisc.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2015012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shantanu",
+            "last": "Chowdhury",
+            "display": "Chowdhury, Dr Shantanu"
+        },
+        "sex": "M",
+        "birthDate": "1968-09-09",
+        "degree": "Ph.D. (Osmania)",
+        "honours": "FNASc",
+        "specialization": "Structural & Molecular Biology, Genomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Principal Scientist, Institute of Genomics & Integrative Biology, Sukhdev Vihar, Mathura Road",
+        "city": "New Delhi 110 025",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2987 9487",
+            "mobile": "98109 53135"
+        },
+        "email": {
+            "official": "shantanuc@igib.res.in"
+        },
+        "url": "http://www.igib.res.in/?q=ShantanuChowdhury"
+    }
+}

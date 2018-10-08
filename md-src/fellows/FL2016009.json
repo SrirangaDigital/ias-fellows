@@ -1,0 +1,36 @@
+{
+    "id": "FL2016009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subramaniam",
+            "last": "Ganesh",
+            "display": "Ganesh, Prof. Subramaniam"
+        },
+        "sex": "M",
+        "birthDate": "1968-05-23",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNASc",
+        "specialization": "Human Molecular Genetics, Neurobiology of Disease, Stress Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Biological Sciences & Bioengineering, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 4040",
+            "residence": "(0512) 259 8590",
+            "mobile": "94530 41967",
+            "fax": "(0512) 259 4010"
+        },
+        "email": {
+            "official": "sganesh@iitk.ac.in",
+            "personal": "ganpil@gmail.com"
+        }
+    }
+}

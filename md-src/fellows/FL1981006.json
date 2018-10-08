@@ -1,0 +1,29 @@
+{
+    "id": "FL1981006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vispy Minocher",
+            "last": "Meher-Homji",
+            "display": "Meher-Homji, Prof. Vispy Minocher"
+        },
+        "sex": "M",
+        "birthDate": "1932-01-18",
+        "degree": "D.Sc. (Toulouse), Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Ecology, Plant Geography and Bio-Climatology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "20D, Sagar Sangeet, 58, Colaba Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2215 0120"
+        }
+    }
+}

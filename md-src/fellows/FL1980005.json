@@ -1,0 +1,36 @@
+{
+    "id": "FL1980005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Khadg Singh",
+            "last": "Valdiya",
+            "display": "Valdiya, Prof. Khadg Singh"
+        },
+        "sex": "M",
+        "birthDate": "1937-03-20",
+        "degree": "Ph.D. (Lucknow)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Sedimentary Geology, Tectonics and Environmental Geology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1980",
+        "councilservice": "Council Service: 1983-88"
+    },
+    "contact": {
+        "address": "Honorary Professor, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2787",
+            "residence": "(080) 6562 9285, (080) 4112 0784",
+            "mobile": "98970 78756",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "official": "valdiya@jncasr.ac.in"
+        }
+    }
+}

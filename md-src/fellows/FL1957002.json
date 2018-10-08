@@ -1,0 +1,26 @@
+{
+    "id": "FL1957002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dilip Kumar",
+            "last": "Banerjee",
+            "display": "Banerjee, Prof. Dilip Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1912-01-16",
+        "deathDate": "1993-06-10",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1957"
+    },
+    "contact": {
+        "address": "51/39, 1st Main Road, Lower Palace Orchards",
+        "city": "Bengaluru 560 003"
+    }
+}

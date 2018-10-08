@@ -1,0 +1,33 @@
+{
+    "id": "FL1992006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Boyapati Manoranjan",
+            "last": "Choudary",
+            "display": "Choudary, Dr Boyapati Manoranjan"
+        },
+        "sex": "M",
+        "birthDate": "1946-08-10",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA",
+        "specialization": "Homogeneous & Heterogeneous Catalysis, Flow Reactions, Nanotechnology, Nanomedicine"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Flat No. 312, New MLA & MP Colony, Road No. 10C, Jubilee Hills",
+        "city": "Hyderabad 500 034",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "91009 91400",
+            "mobile": "70130 92010"
+        },
+        "email": {
+            "personal": "bmchoudary@gmail.com"
+        }
+    }
+}

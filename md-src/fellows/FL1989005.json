@@ -1,0 +1,33 @@
+{
+    "id": "FL1989005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Laxmi Chand",
+            "last": "Gupta",
+            "display": "Gupta, Prof. Laxmi Chand"
+        },
+        "sex": "M",
+        "birthDate": "1938-12-12",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Superconductivity & Magnetism in Quaternary Borocarbide and other Rare Earth based Materials, Nuclear/Magnetic Quadrupole Resonance Studies, Phenomena of Mixed Valance & Heavy Fermions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "No. 403, Vigyanshila Co-op. Housing Society, Juhu-Varsova Link Road, Andheri (West)",
+        "city": "Mumbai 400 061",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2631 4555"
+        },
+        "email": {
+            "official": "lcgupta@tifr.res.in",
+            "personal": "lcgupta38@yahoo.com"
+        }
+    }
+}

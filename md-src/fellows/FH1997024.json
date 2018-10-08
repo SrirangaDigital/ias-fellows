@@ -1,0 +1,24 @@
+{
+    "id": "FH1997024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sir Hermann",
+            "last": "Bondi",
+            "display": "Bondi, Prof. Sir Hermann"
+        },
+        "sex": "M",
+        "birthDate": "1919-11-01",
+        "deathDate": "2005-09-10",
+        "honours": "KCB, FRS"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Fellow, Churchill College",
+        "city": "Cambridge, CB3 0DS",
+        "country": "U.K."
+    }
+}

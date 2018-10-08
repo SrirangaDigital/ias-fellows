@@ -1,0 +1,19 @@
+{
+    "id": "FL1935021",
+    "profile": {
+        "name": {
+            "first": "M P Venkataramana",
+            "last": "Iyer",
+            "display": "Iyer,  M P Venkataramana"
+        },
+        "sex": "M",
+        "birthDate": "1902-00-00",
+        "deathDate": "1936-04-27",
+        "specialization": "Colloid Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1975055",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bala Krishnan",
+            "last": "Nayar",
+            "display": "Nayar, Prof. Bala Krishnan"
+        },
+        "sex": "M",
+        "birthDate": "1927-09-19",
+        "deathDate": "2012-05-12",
+        "degree": "D.Phil. (Gauhati)",
+        "specialization": "Pteridology, Anatomy, Palynology and Evolution"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "20/601, Panniyankara, Kallai P.O.",
+        "city": "Calicut 673 003"
+    }
+}

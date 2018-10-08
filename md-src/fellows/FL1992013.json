@@ -1,0 +1,35 @@
+{
+    "id": "FL1992013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rohini Madhusudan",
+            "last": "Godbole",
+            "display": "Godbole, Prof. Rohini Madhusudan"
+        },
+        "sex": "F",
+        "birthDate": "1952-11-12",
+        "degree": "Ph.D. (SUNY, Stony Brook), D.Litt. (SNDTWU)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Elementary Particle Physics, Field Theory and Phenomenology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "JC Bose Fellow & Professor, Centre for High Energy Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2845, (080) 2360 7798",
+            "residence": "(080) 2360 8357",
+            "mobile": "94481 18357",
+            "fax": "(080) 2360 0683"
+        },
+        "email": {
+            "official": "rohini@iisc.ac.in"
+        }
+    }
+}

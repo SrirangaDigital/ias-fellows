@@ -1,0 +1,20 @@
+{
+    "id": "FL1935041",
+    "profile": {
+        "name": {
+            "first": "Yelseti Ramachandra",
+            "last": "Rao",
+            "display": "Rao,  Yelseti Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1885-09-11",
+        "deathDate": "1972-06-01",
+        "degree": "M.A.",
+        "specialization": "Entomology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1935"
+    }
+}

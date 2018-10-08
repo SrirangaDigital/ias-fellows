@@ -1,0 +1,24 @@
+{
+    "id": "FH1987028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Baruch Samuel",
+            "last": "Blumberg",
+            "display": "Blumberg, Prof. Baruch Samuel"
+        },
+        "sex": "M",
+        "birthDate": "1925-07-28",
+        "deathDate": "2011-04-05",
+        "honours": "Nobel Laureate (Medicine) - 1976"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Distinguished Scientist, Fox Chase Cancer Center, 333, Cottman Avenue",
+        "city": "Philadelphia, PA 19111",
+        "country": "U.S.A."
+    }
+}

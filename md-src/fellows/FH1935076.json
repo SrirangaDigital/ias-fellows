@@ -1,0 +1,19 @@
+{
+    "id": "FH1935076",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Owen Willians",
+            "last": "Richardson",
+            "display": "Richardson, Prof. Owen Willians"
+        },
+        "sex": "M",
+        "birthDate": "1879-04-26",
+        "deathDate": "1959-02-15",
+        "honours": "Nobel Laureate (Physics) - 1928"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

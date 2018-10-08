@@ -1,0 +1,33 @@
+{
+    "id": "FL1986009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shrikant",
+            "last": "Lele",
+            "display": "Lele, Prof. Shrikant"
+        },
+        "sex": "M",
+        "birthDate": "1943-01-24",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA, FNASc, FNAE",
+        "specialization": "Physical Metallurgy and Materials Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "377, Mahatma Society, Kothrud",
+        "city": "Pune 411 038",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 2536 0906",
+            "mobile": "97664 33322"
+        },
+        "email": {
+            "personal": "drslele@gmail.com"
+        }
+    }
+}

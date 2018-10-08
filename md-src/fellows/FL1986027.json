@@ -1,0 +1,25 @@
+{
+    "id": "FL1986027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Surjit Singh",
+            "display": "Surjit Singh, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1940-06-12",
+        "deathDate": "1997-09-06",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "Physical Chemistry, Molecular Spectroscopy, Intermolecular Interactions and Force Fields"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Department of Chemistry (RSIC), Indian Institute of Technology",
+        "city": "Madras 600 036"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1963003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Lachman Das",
+            "last": "Kapoor",
+            "display": "Kapoor, Prof. Lachman Das"
+        },
+        "sex": "M",
+        "birthDate": "1916-09-27",
+        "deathDate": "2002-04-16",
+        "degree": "Ph.D. (London)",
+        "specialization": "Pharmacognosy, Plant Anatomy and Medicinal & Aromatic Plants"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1963"
+    },
+    "contact": {
+        "address": "20, West Brook Court",
+        "city": "Bridgewater, NJ 08807",
+        "country": "USA"
+    }
+}

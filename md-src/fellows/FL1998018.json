@@ -1,0 +1,30 @@
+{
+    "id": "FL1998018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Trivandrum Ramakrishnan",
+            "last": "Ramadas",
+            "display": "Ramadas, Dr Trivandrum Ramakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1955-03-30",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Geometry and Mathematical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Professor, Chennai Mathematical Institute, H-1, SIPCOT IT Park, Siruseri, Kelambakkam",
+        "city": "Chennai 603 103",
+        "telephone": {
+            "mobile": "87545 76434"
+        },
+        "email": {
+            "official": "ramadas@cmi.ac.in"
+        }
+    }
+}

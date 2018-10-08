@@ -1,0 +1,21 @@
+{
+    "id": "FL1936013",
+    "profile": {
+        "name": {
+            "first": "Bhoj Raj",
+            "last": "Seth",
+            "display": "Seth,  Bhoj Raj"
+        },
+        "sex": "M",
+        "birthDate": "1907-08-27",
+        "deathDate": "1979-12-12",
+        "degree": "Ph.D. (London), D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Applied Mathematics and Applied Mechanics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1936"
+    }
+}

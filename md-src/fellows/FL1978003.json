@@ -1,0 +1,37 @@
+{
+    "id": "FL1978003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramamurti",
+            "last": "Rajaraman",
+            "display": "Rajaraman, Prof. Ramamurti"
+        },
+        "sex": "M",
+        "birthDate": "1939-03-11",
+        "degree": "Ph.D. (Cornell)",
+        "honours": "FNA",
+        "specialization": "Theories of Elementary Particles, Quantum Field Theory & Many-Body Theory, Military & Civilian Nuclear Policy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "Emeritus Professor, School of Physical Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 2507, (011) 2670 4785",
+            "residence": "(011) 2612 3485",
+            "mobile": "98181 60651",
+            "fax": "(011) 2674 1537"
+        },
+        "email": {
+            "official": "doug0700@mail.jnu.ac.in",
+            "personal": "prof_rajaraman@yahoo.com"
+        },
+        "url": "http://www.jnu.ac.in/faculty/rajaraman"
+    }
+}

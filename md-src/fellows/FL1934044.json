@@ -1,0 +1,20 @@
+{
+    "id": "FL1934044",
+    "profile": {
+        "name": {
+            "first": "Kumarapuram Vythilinga",
+            "last": "Krishnan",
+            "display": "Krishnan,  Kumarapuram Vythilinga"
+        },
+        "sex": "M",
+        "birthDate": "1896-07-04",
+        "deathDate": "1978-03-30",
+        "honours": "FNA",
+        "specialization": "Microbiology, Rural Hygiene"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934"
+    }
+}

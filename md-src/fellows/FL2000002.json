@@ -1,0 +1,36 @@
+{
+    "id": "FL2000002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Somendra Mohan",
+            "last": "Bhattacharjee",
+            "display": "Bhattacharjee, Prof. Somendra Mohan"
+        },
+        "sex": "M",
+        "birthDate": "1957-01-24",
+        "degree": "Ph.D. (Carnegie Mellon)",
+        "honours": "FNA",
+        "specialization": "Statistical Physics and Condensed Matter Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Institute of Physics, Sachivalaya Marg",
+        "city": "Bhubaneswar 751 005",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 230 6405",
+            "residence": "(0674) 230 6605",
+            "mobile": "94379 66448",
+            "fax": "(0674) 230 0142"
+        },
+        "email": {
+            "official": "somen@iopb.res.in"
+        },
+        "url": "http://www.iopb.res.in/~somen"
+    }
+}

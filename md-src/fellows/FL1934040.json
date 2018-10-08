@@ -1,0 +1,19 @@
+{
+    "id": "FL1934040",
+    "profile": {
+        "name": {
+            "first": "Sri",
+            "last": "Krishna",
+            "display": "Krishna,  Sri"
+        },
+        "sex": "M",
+        "birthDate": "1896-07-06",
+        "deathDate": "1984-10-03",
+        "honours": "FNA"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934"
+    }
+}

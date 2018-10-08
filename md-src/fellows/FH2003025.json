@@ -1,0 +1,24 @@
+{
+    "id": "FH2003025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "George Guy",
+            "last": "Dodson",
+            "display": "Dodson, Prof. George Guy"
+        },
+        "sex": "M",
+        "birthDate": "1937-01-13",
+        "deathDate": "2012-12-24",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Division of Protein Structure, National Institute for Medical, Research, Mill Hill",
+        "city": "London NW7 1AA",
+        "country": "U.K."
+    }
+}

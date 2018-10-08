@@ -1,0 +1,37 @@
+{
+    "id": "FL2010024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ravinder Kumar",
+            "last": "Kohli",
+            "display": "Kohli, Prof. Ravinder Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1953-12-02",
+        "degree": "Ph.D. (GNDU, Amritsar)",
+        "honours": "FNASc, FNAAS, FNA",
+        "specialization": "Experimental Ecology, Weed Science, Plantation Forestry and Urban Forestry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Vice Chancellor, Central University of Punjab, Mansa Road",
+        "city": "Bathinda 151 001",
+        "state": "Panjab",
+        "telephone": {
+            "office": "(0164) 243 0586",
+            "residence": "(0164) 224 1550",
+            "mobile": "98722 01516",
+            "fax": "(0164) 286 4111"
+        },
+        "email": {
+            "official": "vc@cup.ac.in",
+            "personal": "rkkohli45@yahoo.com,rkkohli45@gmail.com"
+        },
+        "url": "http://www.rkkohli.com"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "FL1934033",
+    "profile": {
+        "name": {
+            "first": "Shridar Sarvottam",
+            "last": "Joshi",
+            "display": "Joshi,  Shridar Sarvottam"
+        },
+        "sex": "M",
+        "birthDate": "1898-10-16",
+        "deathDate": "1984-07-25",
+        "degree": "D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Physical & Inorganic Chemistry and Reactors under Electric Discharge"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934",
+        "councilservice": "1934-35, 1946-52, 1965-70"
+    }
+}

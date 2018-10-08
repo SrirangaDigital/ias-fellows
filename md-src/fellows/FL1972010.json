@@ -1,0 +1,25 @@
+{
+    "id": "FL1972010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mahendra Singh",
+            "last": "Vardya",
+            "display": "Vardya, Prof. Mahendra Singh"
+        },
+        "sex": "M",
+        "birthDate": "1933-02-22",
+        "deathDate": "2013-01-20",
+        "degree": "Ph.D. (Yale)",
+        "specialization": "Astrophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1972"
+    },
+    "contact": {
+        "address": "502, 'Vigyan Shila', Juhu-Versova Link Road, Seven Bungalows",
+        "city": "Mumbai 400 061"
+    }
+}

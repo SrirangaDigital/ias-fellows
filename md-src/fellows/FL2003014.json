@@ -1,0 +1,33 @@
+{
+    "id": "FL2003014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramaswamy",
+            "last": "Pitchappan",
+            "display": "Pitchappan, Dr Ramaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1946-04-02",
+        "degree": "Ph.D. (MKU)",
+        "honours": "FAMS",
+        "specialization": "Human Immunogenetics, Immunology of Infectious Diseases and Human Genomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Flat No. 676, 8th Street, Karpaga Nagar, K Pudur",
+        "city": "Madurai 625 007",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "94430 66798",
+            "mobile": "98424 66798"
+        },
+        "email": {
+            "personal": "pitchappanrm@yahoo.co.uk"
+        }
+    }
+}

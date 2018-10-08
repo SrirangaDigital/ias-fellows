@@ -1,0 +1,34 @@
+{
+    "id": "FL1974020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalyanapuram Rangachari",
+            "last": "Parthasarathy",
+            "display": "Parthasarathy, Prof. Kalyanapuram Rangachari"
+        },
+        "sex": "M",
+        "birthDate": "1936-06-25",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Probability Theory, Group Representations, Quantum Probability, Computing and Information"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Indian Statistical Institute, 7, SJS Sansanwal Marg",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 4149 3923, (011) 4149 3901",
+            "residence": "(011) 4984 6959",
+            "fax": "(011) 4149 3981"
+        },
+        "email": {
+            "official": "krp@isid.ac.in"
+        }
+    }
+}

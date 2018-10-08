@@ -1,0 +1,37 @@
+{
+    "id": "FL1996014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Devang Vipin",
+            "last": "Khakhar",
+            "display": "Khakhar, Prof. Devang Vipin"
+        },
+        "sex": "M",
+        "birthDate": "1959-04-07",
+        "degree": "Ph.D. (Massachusetts)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "Granular Flow & Mixing, Polymer Processing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1996",
+        "councilservice": "Council Service: 2010-12"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2572 3488, (022) 2576 7001",
+            "residence": "(022) 2572 3738",
+            "mobile": "98206 05351",
+            "fax": "(022) 2572 3546"
+        },
+        "email": {
+            "official": "khakhar@iitb.ac.in,director@iitb.ac.in"
+        },
+        "url": "http://www.che.iitb.ac.in/faculty/dvk.html"
+    }
+}

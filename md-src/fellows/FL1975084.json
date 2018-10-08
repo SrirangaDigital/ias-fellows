@@ -1,0 +1,21 @@
+{
+    "id": "FL1975084",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Minakshisundaram",
+            "last": "Venkataraman",
+            "display": "Venkataraman, Dr Minakshisundaram"
+        },
+        "sex": "M",
+        "birthDate": "1923-12-31",
+        "deathDate": "1990-11-18",
+        "degree": "Ph.D. (Annamalai)",
+        "specialization": "Mathematics as Theory of Structures"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    }
+}

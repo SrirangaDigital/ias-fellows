@@ -1,0 +1,19 @@
+{
+    "id": "FH1955009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gerhard",
+            "last": "Herzberg",
+            "display": "Herzberg, Prof. Gerhard"
+        },
+        "sex": "M",
+        "birthDate": "1904-12-25",
+        "deathDate": "1999-03-04",
+        "honours": "Nobel Laureate (Chemistry) - 1971"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1955"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1992005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Raghunath Vitthal",
+            "last": "Chaudhari",
+            "display": "Chaudhari, Prof. Raghunath Vitthal"
+        },
+        "sex": "M",
+        "birthDate": "1948-04-17",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNAE",
+        "specialization": "Homogeneous and Heterogeneous Catalysis, Biomass Conversion; Multiphase Reactors, Chemical Reaction Engineering and Kinetics & Mechanism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Deane E Ackers Distinguished Professor, Department of Chemical & Petroleum Engineering, CEBC, The University of Kansas, 1501, Wakarusa Dr A, Suite 110",
+        "city": "Lawrence, KS 66047-1803",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-785) 864 1634",
+            "residence": "(+1-785) 218 0036"
+        },
+        "email": {
+            "official": "rvc1948@ku.edu"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1974044",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Fakhruddin",
+            "last": "Ahmad",
+            "display": "Ahmad, Dr Fakhruddin"
+        },
+        "sex": "M",
+        "birthDate": "1916-01-04",
+        "deathDate": "1996-03-23",
+        "degree": "Ph.D. (Tasmania)",
+        "honours": "FNA",
+        "specialization": "Geotectonics, Stratigraphy and Sedimentology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "DS/MIG - 16, Sitapur Road",
+        "city": "Lucknow 226 020"
+    }
+}

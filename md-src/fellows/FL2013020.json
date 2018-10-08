@@ -1,0 +1,35 @@
+{
+    "id": "FL2013020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vijay Balakrishna",
+            "last": "Shenoy",
+            "display": "Shenoy, Prof. Vijay Balakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1971-01-07",
+        "degree": "Ph.D. (Brown)",
+        "specialization": "Condensed Matter Theory, Strongly-correlated Systems, Cold Atom Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2888",
+            "residence": "(080) 2360 5620",
+            "mobile": "94490 55620",
+            "fax": "(080) 2360 2315"
+        },
+        "email": {
+            "official": "shenoy@iisc.ac.in"
+        },
+        "url": "http://www.physics.iisc.ernet.in/~shenoy"
+    }
+}

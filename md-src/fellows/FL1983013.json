@@ -1,0 +1,27 @@
+{
+    "id": "FL1983013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Maroli Krishnayya",
+            "last": "Chandrashekaran",
+            "display": "Chandrashekaran, Prof. Maroli Krishnayya"
+        },
+        "sex": "M",
+        "birthDate": "1937-01-04",
+        "deathDate": "2009-07-02",
+        "degree": "Ph.D. (Madras), D.Sc. (Madurai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Chronobiology and Animal Behaviour"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1983",
+        "councilservice": "Council Service: 1992-97."
+    },
+    "contact": {
+        "address": "Evolutionary and Organismal Biology Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064"
+    }
+}

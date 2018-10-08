@@ -1,0 +1,21 @@
+{
+    "id": "FL1940005",
+    "profile": {
+        "name": {
+            "first": "Pamadi Raghavendra",
+            "last": "Krishna Rao",
+            "display": "Krishna Rao,  Pamadi Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1906-07-25",
+        "deathDate": "1985-11-07",
+        "degree": "B.Sc. (Mysore)",
+        "specialization": "Meteorology, Hydrology and Agricultural Meteorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1940",
+        "councilservice": "1968-73"
+    }
+}

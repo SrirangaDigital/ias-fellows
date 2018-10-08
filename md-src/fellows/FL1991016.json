@@ -1,0 +1,33 @@
+{
+    "id": "FL1991016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kushal Kumar",
+            "last": "Mahajan",
+            "display": "Mahajan, Dr Kushal Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1939-12-12",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA",
+        "specialization": "Atmospheric & Space Science, Ionosphere, Atmospheres of Earth & Planets"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "C1/121, Janak Puri",
+        "city": "New Delhi 110 058",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2553 6334, 4985 4698",
+            "mobile": "98100 92120"
+        },
+        "email": {
+            "personal": "kkmahajan@yahoo.com,kkmahajan121239@gmail.com"
+        }
+    }
+}

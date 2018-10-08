@@ -1,0 +1,26 @@
+{
+    "id": "FL1984017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Purushottam Lal",
+            "last": "Sachdev",
+            "display": "Sachdev, Prof. Purushottam Lal"
+        },
+        "sex": "M",
+        "birthDate": "1937-01-06",
+        "deathDate": "2009-02-15",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc",
+        "specialization": "Applied Mathematics: Nonlinear Waves, Nonlinear Diffusion, Dynamical Systems, Fluid Mechanics and Differential Equations"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012"
+    }
+}

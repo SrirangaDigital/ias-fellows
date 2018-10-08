@@ -1,0 +1,19 @@
+{
+    "id": "FH1963009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Otto Heinrich",
+            "last": "Warburg",
+            "display": "Warburg, Prof. Otto Heinrich"
+        },
+        "sex": "M",
+        "birthDate": "1883-10-08",
+        "deathDate": "1970-08-01",
+        "honours": "Nobel Laureate (Medicine) - 1931"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1963"
+    }
+}

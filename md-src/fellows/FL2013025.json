@@ -1,0 +1,35 @@
+{
+    "id": "FL2013025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Avesh Kumar",
+            "last": "Tyagi",
+            "display": "Tyagi, Dr Avesh Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1964-06-25",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc, FRSC",
+        "specialization": "Chemistry of Functional Materials, Nanomaterials, Nuclear Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Head, Solid State Chemistry Section, Chemistry Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2559 5330",
+            "residence": "(022) 2550 3020",
+            "mobile": "98694 43020",
+            "fax": "(022) 2550 5151"
+        },
+        "email": {
+            "official": "aktyagi@barc.gov.in"
+        }
+    }
+}

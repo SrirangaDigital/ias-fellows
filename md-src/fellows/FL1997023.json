@@ -1,0 +1,34 @@
+{
+    "id": "FL1997023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Krishnaswamy",
+            "last": "VijayRaghavan",
+            "display": "VijayRaghavan, Prof. Krishnaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1954-02-03",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FRS, FTWAS, Foreign Assoc. (US Natl. Acad. Sci.)",
+        "specialization": "Developmental Biology, Genetics and Neurogenetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1997",
+        "councilservice": "Council Service: 2007-2009"
+    },
+    "contact": {
+        "address": "Secretary, Department of Biotechnology, Block 2, CGO Complex, Lodi Road",
+        "city": "New Delhi 110 003",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2436 2950",
+            "fax": "(011) 2436 0747"
+        },
+        "email": {
+            "official": "vijay.dbt@nic.in"
+        }
+    }
+}

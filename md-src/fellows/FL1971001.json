@@ -1,0 +1,35 @@
+{
+    "id": "FL1971001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Conjeevaram Srirangachari",
+            "last": "Seshadri",
+            "display": "Seshadri, Prof. Conjeevaram Srirangachari"
+        },
+        "sex": "M",
+        "birthDate": "1932-02-29",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FRS",
+        "specialization": "Algebraic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1971"
+    },
+    "contact": {
+        "address": "Director-Emeritus, Chennai Mathematical Institute, H1, Sipcot IT Park, Siruseri, Kelambakkam",
+        "city": "Chennai 603 103",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 6748 0921",
+            "residence": "(044) 2446 4572",
+            "mobile": "94440 87810",
+            "fax": "(044) 2747 0225"
+        },
+        "email": {
+            "official": "css@cmi.ac.in"
+        }
+    }
+}

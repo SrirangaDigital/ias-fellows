@@ -1,0 +1,30 @@
+{
+    "id": "FH1993047",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bernard",
+            "last": "Raveau",
+            "display": "Raveau, Prof. Bernard"
+        },
+        "sex": "M",
+        "birthDate": "1940-07-20"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Professor, University of Caen, FNSICAEN-CNRS, 6, Boulevard Mareichal Juin",
+        "city": "14050 Caen Cedex 4,",
+        "country": "France",
+        "telephone": {
+            "office": "(+33-2) 3145 2616",
+            "residence": "(+33-2) 3144 3040",
+            "fax": "(+33-2) 3195 1600"
+        },
+        "email": {
+            "official": "bernard.raveau@ensicaen.fr"
+        }
+    }
+}

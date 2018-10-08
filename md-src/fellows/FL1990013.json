@@ -1,0 +1,32 @@
+{
+    "id": "FL1990013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kattigari Madhava",
+            "last": "Madyastha",
+            "display": "Madyastha, Prof. Kattigari Madhava"
+        },
+        "sex": "M",
+        "birthDate": "1937-07-22",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNASc",
+        "specialization": "Bio-organic Chemistry, Xenobiotics Metabolism, Plant Biochemistry and Microbial Transformations"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "162, Srikrishna, 5th Main, 4th Cross, NGEF Layout, Sanjay Nagar",
+        "city": "Bengaluru 560 094",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2341 5584"
+        },
+        "email": {
+            "personal": "kmm1937@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1949010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "R.B. Seymour",
+            "last": "Sewell",
+            "display": "Sewell, Prof. R.B. Seymour"
+        },
+        "sex": "M",
+        "birthDate": "1880-03-05",
+        "deathDate": "1964-02-10"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1949"
+    }
+}

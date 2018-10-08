@@ -1,0 +1,35 @@
+{
+    "id": "FL2009026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Saurabh Dilsukhray",
+            "last": "Rindani",
+            "display": "Rindani, Prof. Saurabh Dilsukhray"
+        },
+        "sex": "M",
+        "birthDate": "1952-06-13",
+        "degree": "Ph.D. (IIT, Bombay)",
+        "honours": "FNA, FNASc",
+        "specialization": "Particle Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "JC Bose National Fellow, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4938",
+            "residence": "(02717) 24 3107",
+            "fax": "(079) 2631 4900"
+        },
+        "email": {
+            "official": "saurabh@prl.res.in",
+            "personal": "sdrindani@gmail.com"
+        }
+    }
+}

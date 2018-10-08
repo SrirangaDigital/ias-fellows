@@ -1,0 +1,36 @@
+{
+    "id": "FL2008027",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Imran",
+            "last": "Siddiqi",
+            "display": "Siddiqi, Dr Imran"
+        },
+        "sex": "M",
+        "birthDate": "1957-09-07",
+        "degree": "Ph.D. (Oregon)",
+        "honours": "FNA",
+        "specialization": "Genetics, Plant Development, Genetic Recombination"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Scientist EII, Centre for Cellular & Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2570",
+            "residence": "(040) 2715 8119",
+            "mobile": "98666 33195",
+            "fax": "(040) 2716 0591"
+        },
+        "email": {
+            "official": "imran@ccmb.res.in",
+            "personal": "imransiddi@gmail.com"
+        }
+    }
+}

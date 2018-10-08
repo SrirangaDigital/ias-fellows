@@ -1,0 +1,21 @@
+{
+    "id": "FL1934125",
+    "profile": {
+        "name": {
+            "first": "Tirukkannapuram",
+            "last": "Vijayaraghavan",
+            "display": "Vijayaraghavan,  Tirukkannapuram"
+        },
+        "sex": "M",
+        "birthDate": "1902-11-30",
+        "deathDate": "1955-04-20",
+        "degree": "Ph.D.",
+        "honours": "FNA",
+        "specialization": "Pure Mathematics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1934"
+    }
+}

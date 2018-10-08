@@ -1,0 +1,18 @@
+{
+    "id": "FL1960002",
+    "profile": {
+        "name": {
+            "first": "Gopal Singh",
+            "last": "Puri",
+            "display": "Puri,  Gopal Singh"
+        },
+        "sex": "M",
+        "birthDate": "1915-08-18",
+        "deathDate": "1995-04-18"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1960"
+    }
+}

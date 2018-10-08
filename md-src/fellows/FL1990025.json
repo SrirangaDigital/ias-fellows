@@ -1,0 +1,26 @@
+{
+    "id": "FL1990025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mrinal Kumar",
+            "last": "Das Gupta",
+            "display": "Das Gupta, Prof. Mrinal Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1923-09-01",
+        "deathDate": "2005-11-28",
+        "degree": "Ph.D. (Manchester)",
+        "honours": "FNA",
+        "specialization": "Radio Astronomy, Solar Terrestrial Physics and Electronics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "BC-211, Sector I, Bidhan Nagar",
+        "city": "Kolkata 700 064"
+    }
+}

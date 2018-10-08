@@ -1,0 +1,22 @@
+{
+    "id": "FL1979012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Yerramilli Sreerama",
+            "last": "Murty",
+            "display": "Murty, Dr Yerramilli Sreerama"
+        },
+        "sex": "M",
+        "birthDate": "1925-05-15",
+        "deathDate": "1988-02-21",
+        "degree": "Ph.D. (Agra)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Morphology, Taxonomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1979"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1989013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mahendra Ganpatrao",
+            "last": "Nadkarni",
+            "display": "Nadkarni, Prof. Mahendra Ganpatrao"
+        },
+        "sex": "M",
+        "birthDate": "1939-01-17",
+        "degree": "Ph.D. (Brown)",
+        "honours": "FNA",
+        "specialization": "Ergodic Theory and Commutative Harmonic Analysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Department of Mathematics, University of Bombay, Vidyanagari, Kalina",
+        "city": "Mumbai 400 098",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2652 8871",
+            "residence": "(022) 2444 1093",
+            "mobile": "94797 25236"
+        },
+        "email": {
+            "personal": "mgnadkarni@gmail.com"
+        }
+    }
+}

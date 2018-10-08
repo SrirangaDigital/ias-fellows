@@ -1,0 +1,34 @@
+{
+    "id": "FL2010042",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Upadrasta",
+            "last": "Ramamurty",
+            "display": "Ramamurty, Prof. Upadrasta"
+        },
+        "sex": "M",
+        "birthDate": "1967-07-15",
+        "degree": "Ph.D. (Brown)",
+        "honours": "FNAE, FNA, FTWAS",
+        "specialization": "Mechanical Behaviour of Materials, Advanced Materials, Nanotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Materials Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3241",
+            "residence": "(080) 2351 8918",
+            "fax": "(080) 2360 0472"
+        },
+        "email": {
+            "official": "ramu@iisc.ac.in"
+        }
+    }
+}

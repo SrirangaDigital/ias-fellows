@@ -1,0 +1,37 @@
+{
+    "id": "FL2001023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rengaswamy",
+            "last": "Ramesh",
+            "display": "Ramesh, Prof. Rengaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1956-06-02",
+        "deathDate": "2018-04-02",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Palaeoclimatology &amp; Climate Modelling, Mass Spectrometry, and Oceanography"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth &amp; Planetary Sciences",
+        "yearelected": "2001",
+        "councilservice": "Council Service: 2016 - April 2018"
+    },
+    "contact": {
+        "address": "Senior Professor, Department of Earth &amp; Planetary Sciences, National Institute of Science Education &amp; Research, Jatni P.O.",
+        "city": "Khordha 752 050",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 249 4348",
+            "mobile": "90999 22878",
+            "fax": "(0674) 249 4642"
+        },
+        "email": {
+            "official": "rramesh@niser.ac.in"
+        },
+        "url": "http://www.prl.res.in/~rramesh/"
+    }
+}

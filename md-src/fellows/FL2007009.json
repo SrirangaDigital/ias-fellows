@@ -1,0 +1,32 @@
+{
+    "id": "FL2007009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pradeep Kumar",
+            "last": "Gupta",
+            "display": "Gupta, Dr Pradeep Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1954-08-16",
+        "degree": "Ph.D. (Heriot Watt University)",
+        "honours": "FNASc",
+        "specialization": "Lasers, Biomedical Applications of Lasers, Nonlinear Optics, Laser Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Visiting Professor, Department of Physics, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "91311 81110"
+        },
+        "email": {
+            "personal": "pkgupta54@gmail.com"
+        }
+    }
+}

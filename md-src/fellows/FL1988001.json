@@ -1,0 +1,33 @@
+{
+    "id": "FL1988001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mihir Kanti",
+            "last": "Chaudhuri",
+            "display": "Chaudhuri, Prof. Mihir Kanti"
+        },
+        "sex": "M",
+        "birthDate": "1947-07-21",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "Dr rer nat (FRG), FNA",
+        "specialization": "Synthesis, Structure & Reactivity, Newer Reagents and Methodologies and Green Chemical Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Adviser (Education), Government of Assam, Sachivalaya, Dispur",
+        "city": "Guwahati 781 006",
+        "state": "Assam",
+        "telephone": {
+            "mobile": "99544 49454",
+            "fax": "(0361) 223 7241"
+        },
+        "email": {
+            "official": "mihirkanti.chaudhury@gov.in,mkc@tezu.ernet.in"
+        }
+    }
+}

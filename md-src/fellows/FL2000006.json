@@ -1,0 +1,35 @@
+{
+    "id": "FL2000006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Partha Pratim",
+            "last": "Chakrabarti",
+            "display": "Chakrabarti, Prof. Partha Pratim"
+        },
+        "sex": "M",
+        "birthDate": "1962-10-01",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNA, FNAE",
+        "specialization": "Artificial Intelligence, Computer Aided Design for VLSI and Algorithms"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 2004, (03222) 28 2006",
+            "mobile": "94340 13691",
+            "fax": "(03222) 27 7190, (03222) 27 8985,"
+        },
+        "email": {
+            "official": "ppchak@cse.iitkgp.ernet.in,director@iitkgp.ernet.in"
+        },
+        "url": "http:/www.geocities.com/ppchakrabarti"
+    }
+}

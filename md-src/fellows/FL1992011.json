@@ -1,0 +1,33 @@
+{
+    "id": "FL1992011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kotiganahalli Narayanagowda",
+            "last": "Ganeshaiah",
+            "display": "Ganeshaiah, Prof. Kotiganahalli Narayanagowda"
+        },
+        "sex": "M",
+        "birthDate": "1953-05-10",
+        "degree": "Ph.D. (UAS, Bangalore)",
+        "honours": "FNA, FNAAS",
+        "specialization": "Plant Evolutionary Biology, Plant Genetics & Breeding, Foraging Ecology of Ants and Biodiversity & Conservation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "7, Pungavee Santosh Vihar, 9th Cross, Jakkur Road",
+        "city": "Bengaluru 560 092",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 4127 5765",
+            "mobile": "93421 60639"
+        },
+        "email": {
+            "personal": "knganeshaiah@gmail.com"
+        }
+    }
+}

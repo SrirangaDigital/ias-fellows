@@ -1,0 +1,36 @@
+{
+    "id": "FL2016011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Saman",
+            "last": "Habib",
+            "display": "Habib, Dr Saman"
+        },
+        "sex": "F",
+        "birthDate": "1968-08-16",
+        "degree": "Ph.D. (JNU)",
+        "honours": "FNASc",
+        "specialization": "Parasitology, Molecular & Cell Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Molecular & Structural Biology Division, Central Drug Research Institute, 10, Janakipuram Extn., Sitapur Road",
+        "city": "Lucknow 226 031",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 277 2477/4447",
+            "residence": "(0522) 220 4430",
+            "mobile": "93352 48113",
+            "fax": "(0522) 277 1941"
+        },
+        "email": {
+            "official": "saman_habib@cdri.res.in",
+            "personal": "saman.habib@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1979002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hombe Gowda Sharat",
+            "last": "Chandra",
+            "display": "Chandra, Prof. Hombe Gowda Sharat"
+        },
+        "sex": "M",
+        "birthDate": "1938-03-11",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Genetics and Evolution"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1979",
+        "councilservice": "Council Service: 1986-91, 1998-2000; Secretary: 1986-91; Vice-President: 1998-2000."
+    },
+    "contact": {
+        "address": "Centre for Human Genetics, Biotech Park, Phase I, Electronic City",
+        "city": "Bengaluru 560 100",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2852 1831, 2852 1833",
+            "residence": "(080) 2663 9353",
+            "fax": "(080) 2852 1832"
+        },
+        "email": {
+            "official": "sharat@iisc.ac.in,sharat@chg.res.in"
+        }
+    }
+}

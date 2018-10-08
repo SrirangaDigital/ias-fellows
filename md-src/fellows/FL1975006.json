@@ -1,0 +1,33 @@
+{
+    "id": "FL1975006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Prafulla Kumar",
+            "last": "Jena",
+            "display": "Jena, Dr Prafulla Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1931-12-27",
+        "degree": "Ph.D. (Utkal)",
+        "specialization": "Extractive Metallurgy, Mineral Processing, Environmental Engineering and Materials Processing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Chairman, Institute of Advance Technology and Environmental Studies, 80A-831A Lewis Road",
+        "city": "Bhubaneswar 751 002",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 243 0243, (0674) 243 6956",
+            "residence": "(0674) 243 0363",
+            "mobile": "94376 97999"
+        },
+        "email": {
+            "personal": "prof.pkjena_iates@yahoo.com,iatesbbsr@gmail.com"
+        }
+    }
+}

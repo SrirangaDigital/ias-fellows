@@ -1,0 +1,26 @@
+{
+    "id": "FL1974082",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Lakkaraj",
+            "last": "Ramachandra Row",
+            "display": "Ramachandra Row, Prof. Lakkaraj"
+        },
+        "sex": "M",
+        "birthDate": "1916-12-14",
+        "deathDate": "1991-09-22",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "FNA",
+        "specialization": "Lignans, Terpenes, Alkaloids and Polioxy Steroids"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Saroja, 10-2-1A, Siripuram",
+        "city": "Visakhapatnam 530 003"
+    }
+}

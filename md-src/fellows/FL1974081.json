@@ -1,0 +1,26 @@
+{
+    "id": "FL1974081",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Barry",
+            "last": "Ramachandra Rao",
+            "display": "Ramachandra Rao, Prof. Barry"
+        },
+        "sex": "M",
+        "birthDate": "1922-11-21",
+        "deathDate": "2005-09-24",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "D.Sc. (h.c.), FNA, FNASc",
+        "specialization": "Space Physics, Ultrasonics and Electronics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Flat No. 407, S.K.'s Fort House, 1-1-572, Golconda X Roads",
+        "city": "Hyderabad 500 020"
+    }
+}

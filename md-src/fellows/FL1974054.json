@@ -1,0 +1,27 @@
+{
+    "id": "FL1974054",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Lakshmangudi Krishnamurthy",
+            "last": "Doraiswamy",
+            "display": "Doraiswamy, Dr Lakshmangudi Krishnamurthy"
+        },
+        "sex": "M",
+        "birthDate": "1927-05-13",
+        "deathDate": "2012-06-02",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "D.Sc. (h.c.), FNA, FNASc",
+        "specialization": "Chemical Reaction Engineering, Fluidization and Organic Synthesis Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Anson Marston Distinguished Professor Emeritus, Department of Chemical Engineering, Iowa State University, 1031, Sweeney Hall",
+        "city": "Ames, Iowa 50011-2230",
+        "country": "USA"
+    }
+}

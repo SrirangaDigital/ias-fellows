@@ -1,0 +1,29 @@
+{
+    "id": "FL1986008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Umakant Waman",
+            "last": "Kenkare",
+            "display": "Kenkare, Prof. Umakant Waman"
+        },
+        "sex": "M",
+        "birthDate": "1927-03-03",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Biochemistry, Molecular Biology and Neurochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "D/3 Deeplakshmi Coop. Hsg Soc. Ltd, Hatiskar Marg, Prabhadevi Sea Beach, Prabhadevi",
+        "city": "Mumbai 400 025",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "96197 71978"
+        }
+    }
+}

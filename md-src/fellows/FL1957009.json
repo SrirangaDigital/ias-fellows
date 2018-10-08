@@ -1,0 +1,27 @@
+{
+    "id": "FL1957009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Putcha",
+            "last": "Venkateswarlu",
+            "display": "Venkateswarlu, Prof. Putcha"
+        },
+        "sex": "M",
+        "birthDate": "1921-10-25",
+        "deathDate": "1997-08-08",
+        "degree": "D.Sc.",
+        "honours": "FNA",
+        "specialization": "Spectroscopy, Lasers, Magnetic Resonance and Nonlinear Optics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1957"
+    },
+    "contact": {
+        "address": "Department of Physics, Alabama A & M University",
+        "city": "Normal (Huntsville), Alabama 35762",
+        "country": "USA"
+    }
+}

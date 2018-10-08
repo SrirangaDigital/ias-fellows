@@ -1,0 +1,23 @@
+{
+    "id": "FH1977018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vitaly Lasazevich",
+            "last": "Ginzburg",
+            "display": "Ginzburg, Prof. Vitaly Lasazevich"
+        },
+        "sex": "M",
+        "birthDate": "1916-10-04",
+        "deathDate": "2009-11-08"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "Professor and Member of the Russian, Academy of Sciences, P N Lebedev Physical Institute, Leninsky Prospekt 53",
+        "city": "119991 GSP Moscow B-333",
+        "country": "Russia"
+    }
+}

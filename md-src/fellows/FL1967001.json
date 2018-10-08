@@ -1,0 +1,35 @@
+{
+    "id": "FL1967001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Govind",
+            "last": "Swarup",
+            "display": "Swarup, Prof. Govind"
+        },
+        "sex": "M",
+        "birthDate": "1929-03-23",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "FRS, FNA, FNASc, FTWAS",
+        "specialization": "Radio Astronomy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1967"
+    },
+    "contact": {
+        "address": "10, Cozy Retreat, Road No. 3, Sindh Society, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2571 9277",
+            "residence": "(020) 2585 1630",
+            "mobile": "89757 82096",
+            "fax": "(020) 2569 2149, (020) 2569 7257"
+        },
+        "email": {
+            "personal": "gswarup29@gmail.com"
+        }
+    }
+}

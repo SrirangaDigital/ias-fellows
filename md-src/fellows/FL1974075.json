@@ -1,0 +1,31 @@
+{
+    "id": "FL1974075",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manoj Kumar",
+            "last": "Pal",
+            "display": "Pal, Prof. Manoj Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1932-10-26",
+        "deathDate": "2016-03-03",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Apartment 1B, 41, Lala Lajpat Rai Sarani",
+        "city": "Kolkata 700 020",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2475 6829",
+            "mobile": "94335 81746"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL2009004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Anil",
+            "last": "Bhardwaj",
+            "display": "Bhardwaj, Dr Anil"
+        },
+        "sex": "M",
+        "birthDate": "1967-06-01",
+        "degree": "Ph.D. (BHU)",
+        "honours": "FNA, FNASc",
+        "specialization": "Planetary Missions & Exploration, Solar System Sciences, Planetary and Space Sciences, Multi Wavelength, Atmospheres and Ionospheres, Lunar-Solar Wind Interactions."
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Director, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4855, 2631 4854",
+            "residence": "(079) 2630 1527",
+            "mobile": "99471 49290",
+            "fax": "(079) 2630 0374"
+        },
+        "email": {
+            "official": "abardwaj@prl.res.in",
+            "personal": "bhardwaj_spl@yahoo.com"
+        },
+        "url": "http://spl.gov.in/anilbhardwaj"
+    }
+}

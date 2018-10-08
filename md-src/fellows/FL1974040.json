@@ -1,0 +1,34 @@
+{
+    "id": "FL1974040",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gursaran Parshad",
+            "last": "Talwar",
+            "display": "Talwar, Prof. Gursaran Parshad"
+        },
+        "sex": "M",
+        "birthDate": "1926-10-02",
+        "degree": "D.Sc. (Sorbonne)",
+        "honours": "FNA, FNASc, FAMS",
+        "specialization": "Endocrinology, Reproductive Health and Immunology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Director - Research, The Talwar Research Foundation, E-6&8, NEB Valley, Neb Sarai",
+        "city": "New Delhi 110 068",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 6502 2405, (011) 6502 2408",
+            "residence": "(011) 6528 4873",
+            "mobile": "88003 22055"
+        },
+        "email": {
+            "personal": "gptalwar@gmail.com"
+        }
+    }
+}

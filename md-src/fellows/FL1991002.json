@@ -1,0 +1,35 @@
+{
+    "id": "FL1991002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Biman",
+            "last": "Bagchi",
+            "display": "Bagchi, Prof. Biman"
+        },
+        "sex": "M",
+        "birthDate": "1954-01-01",
+        "degree": "Ph.D. (Brown)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Glass Transition, Physical & Biophysical Chemistry, Statistical Mechanics of Liquids, Molecular Relaxation and Chemical Reaction Dynamics in Liquids & Biological Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Professor, Solid State and Structural Chemistry Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2926, 2293 2336",
+            "residence": "(080) 2360 0236",
+            "fax": "(080) 2360 1310"
+        },
+        "email": {
+            "official": "bbagchi@iisc.ac.in",
+            "personal": "bagchibiman@yahoo.com"
+        }
+    }
+}

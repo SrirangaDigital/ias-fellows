@@ -1,0 +1,25 @@
+{
+    "id": "FH2009034",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Richard N",
+            "last": "Zare",
+            "display": "Zare, Prof. Richard N"
+        },
+        "sex": "M",
+        "birthDate": "1939-11-19"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Stanford University",
+        "city": "Stanford, CA 94305-5080",
+        "country": "USA",
+        "email": {
+            "official": "zare@stanford.edu"
+        }
+    }
+}

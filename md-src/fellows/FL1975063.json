@@ -1,0 +1,21 @@
+{
+    "id": "FL1975063",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Charles S J",
+            "last": "Racine",
+            "display": "Racine, Dr Charles S J"
+        },
+        "sex": "M",
+        "birthDate": "1897-07-22",
+        "deathDate": "1976-07-08",
+        "honours": "FNA",
+        "specialization": "Partial Differential Operators"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1975"
+    }
+}

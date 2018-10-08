@@ -1,0 +1,18 @@
+{
+    "id": "FL1934071",
+    "profile": {
+        "name": {
+            "first": "S G Manavala",
+            "last": "Ramanujan",
+            "display": "Ramanujan,  S G Manavala"
+        },
+        "sex": "M",
+        "birthDate": "1893-08-26",
+        "specialization": "Entomology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934"
+    }
+}

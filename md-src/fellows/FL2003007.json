@@ -1,0 +1,35 @@
+{
+    "id": "FL2003007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajiv Vasantrao",
+            "last": "Gavai",
+            "display": "Gavai, Prof. Rajiv Vasantrao"
+        },
+        "sex": "M",
+        "birthDate": "1954-07-25",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "High Energy Physics, Quantum Field Theory, Lattice Field Theories, Quark-Gluon Plasma, and Relativistic Heavy Ion Collisions and Early Universe"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Senior Professor, Theoretical Physics Department, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2430",
+            "residence": "(022) 2280 4585, (022) 2278 3430",
+            "fax": "(022) 2280 4610, (022) 2280 4611"
+        },
+        "email": {
+            "official": "gavai@tifr.res.in"
+        },
+        "url": "http://theory.tifr.res.in/~gavai"
+    }
+}

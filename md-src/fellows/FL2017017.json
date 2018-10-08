@@ -1,0 +1,36 @@
+{
+    "id": "FL2017017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sudhakar",
+            "last": "Panda",
+            "display": "Panda, Prof. Sudhakar"
+        },
+        "sex": "M",
+        "birthDate": "1959-02-23",
+        "degree": "Ph.D. (IoP, Bhubaneswar)",
+        "honours": "FNA, FNASc",
+        "specialization": "High Energy Physics, String Theory, Cosmology, Quantum Field Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Director, Institute of Physics, Sachivalaya Marg",
+        "city": "Bhubaneswar 751 005",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 230 1825, 230 6404",
+            "residence": "(0674) 230 1367, 230 6601",
+            "mobile": "94375 59215",
+            "fax": "(0674) 230 0142"
+        },
+        "email": {
+            "official": "panda@ipb.res.in"
+        },
+        "url": "http://www.iopb.res.in/member/panda"
+    }
+}

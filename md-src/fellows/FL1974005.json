@@ -1,0 +1,35 @@
+{
+    "id": "FL1974005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rajagopala",
+            "last": "Chidambaram",
+            "display": "Chidambaram, Dr Rajagopala"
+        },
+        "sex": "M",
+        "birthDate": "1936-11-12",
+        "degree": "Ph.D. and D.Sc. (IISc), DSc (h.c.)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "High Pressure Physics, Neutron Crystallography, Materials Science and Nuclear Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1989-97; Vice-President: 1992-97"
+    },
+    "contact": {
+        "address": "Principal Scientific Adviser to the Government of India, 318, Vigyan Bhavan Annexe, Maulana Azad Road",
+        "city": "New Delhi 110 001",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2302 2112",
+            "residence": "(022) 2556 1315",
+            "fax": "(011) 2302 2113, (022) 2550 5132"
+        },
+        "email": {
+            "official": "rc@barc.gov.in,rajachid@gov.in"
+        }
+    }
+}

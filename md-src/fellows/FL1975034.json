@@ -1,0 +1,26 @@
+{
+    "id": "FL1975034",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ajay Shrinivas",
+            "last": "Divatia",
+            "display": "Divatia, Dr Ajay Shrinivas"
+        },
+        "sex": "M",
+        "birthDate": "1927-02-17",
+        "deathDate": "1993-01-07",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "FNA",
+        "specialization": "Nuclear Physics and Accelerator Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Nuclear Physics Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Bombay 400 085"
+    }
+}

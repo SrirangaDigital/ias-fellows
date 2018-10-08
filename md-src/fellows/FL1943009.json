@@ -1,0 +1,21 @@
+{
+    "id": "FL1943009",
+    "profile": {
+        "name": {
+            "first": "Inderjit",
+            "last": "Singh",
+            "display": "Singh,  Inderjit"
+        },
+        "sex": "M",
+        "birthDate": "1909-08-20",
+        "deathDate": "1972-06-05",
+        "honours": "FNA",
+        "specialization": "Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1943",
+        "councilservice": "1962-64"
+    }
+}

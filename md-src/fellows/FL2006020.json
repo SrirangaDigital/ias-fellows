@@ -1,0 +1,27 @@
+{
+    "id": "FL2006020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ram",
+            "last": "Rajasekharan",
+            "display": "Rajasekharan, Prof. Ram"
+        },
+        "sex": "M",
+        "birthDate": "1960-12-25",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNAAS, FNASc",
+        "specialization": "Fats &amp; Oils Metabolism and Plant Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Central Food Technological Research Institute",
+        "email": {
+            "official": "director@cftri.res.in"
+        }
+    }
+}

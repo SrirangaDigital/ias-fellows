@@ -1,0 +1,33 @@
+{
+    "id": "FL2007016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dipak Kumar",
+            "last": "Palit",
+            "display": "Palit, Dr Dipak Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1957-01-02",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNASc, FNA",
+        "specialization": "Ultrafast Spectroscopy, Photo & Radiation Chemistry and Chemical Reaction Dynamics in Condensed Phase"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Flat No. B-22-03,Neptune Building, Suncity Housing Complex, AS Marg, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2578 4128",
+            "mobile": "99691 49589"
+        },
+        "email": {
+            "personal": "palitdk@gmail.com,dkpalit1957@rediffmail.com"
+        }
+    }
+}

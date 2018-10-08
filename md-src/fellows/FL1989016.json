@@ -1,0 +1,33 @@
+{
+    "id": "FL1989016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashit Baran",
+            "last": "Roy",
+            "display": "Roy, Prof. Ashit Baran"
+        },
+        "sex": "M",
+        "birthDate": "1938-03-18",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNA",
+        "specialization": "Precambrian Geology and Geology of Indian Shield"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Flat No. 3/2G, Niloy Apartment, 46A, Ramanath Das Road, Dhakurja P.O.",
+        "city": "Kolkata 700 031",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2405 3671",
+            "mobile": "94330 87685"
+        },
+        "email": {
+            "personal": "abroy_g@yahoo.com,ashitbaranroy@gmail.com"
+        }
+    }
+}

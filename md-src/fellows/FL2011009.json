@@ -1,0 +1,35 @@
+{
+    "id": "FL2011009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chinnakonda Subramanian",
+            "last": "Gopinath",
+            "display": "Gopinath, Dr Chinnakonda Subramanian"
+        },
+        "sex": "M",
+        "birthDate": "1964-06-04",
+        "degree": "Ph.D. (IIT, Madras)",
+        "specialization": "Water Splitting, Materials Science, Surface Science, Heterogeneous Catalysis, Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Senior Principal Scientist, Catalysis Division, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 2043",
+            "residence": "(020) 2589 8875",
+            "mobile": "70285 57277",
+            "fax": "(020) 2590 2633"
+        },
+        "email": {
+            "official": "cs.gopinath@ncl.res.in"
+        },
+        "url": "http://academic.ncl.res.in/cs.gopinath"
+    }
+}

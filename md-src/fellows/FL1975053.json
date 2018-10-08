@@ -1,0 +1,26 @@
+{
+    "id": "FL1975053",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bhyravabhotla Radhakrishna",
+            "last": "Murty",
+            "display": "Murty, Dr Bhyravabhotla Radhakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1928-04-04",
+        "deathDate": "2003-05-16",
+        "degree": "Ph.D. (Cornell)",
+        "honours": "FNA, F.R.S.S.",
+        "specialization": "Genetics, Biometry, Mutation Breeding, Interdisciplinary Research Management, Human & Natural Resource Development and Policy Planning in Agriculture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "5087, Sector B, Pocket 7, Vasant Kunj",
+        "city": "New Delhi 110 070"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL2010018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pushpito Kumar",
+            "last": "Ghosh",
+            "display": "Ghosh, Dr Pushpito Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1954-05-29",
+        "degree": "Ph.D. (Princeton)",
+        "specialization": "Processes Research, Water Purification, Renewable Energy, R&D Management"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "A-604, Punit Park, Plot No. 182/C, Sector 17, Merol",
+        "city": "Navi Mumbai 400 706",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2770 1153",
+            "mobile": "98203 63115"
+        },
+        "email": {
+            "personal": "pushpitokghosh@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1987001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Anil Kumar",
+            "display": "Anil Kumar, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1941-06-25",
+        "degree": "Ph.D. (IIT Kanpur)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Nuclear Magnetic Resonance Spectroscopy, NMR Techniques & its Applications to Biomolecules and Quantum Computing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Department of Physics, NMR Research Centre, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2724",
+            "residence": "(080) 2366 2757",
+            "mobile": "98454 21938",
+            "fax": "(080) 2360 1550"
+        },
+        "email": {
+            "official": "anilnmr@iisc.ac.in"
+        },
+        "url": "http://www.nrc.iisc.ac.in/anil"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL2017006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashutosh",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Ashutosh"
+        },
+        "sex": "M",
+        "birthDate": "1959-12-29",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Co-ordination Chemistry, Crystal Structure, Magnetic Properties & Catalysis, Analytical Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Department of Chemistry, University College of Science, University of Calcutta, 92, APC Road",
+        "city": "Kolkata 700 009",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2359 9298",
+            "mobile": "94333 44484"
+        },
+        "email": {
+            "personal": "ghosh_59@yahoo.com"
+        }
+    }
+}

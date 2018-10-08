@@ -1,0 +1,21 @@
+{
+    "id": "FL1934069",
+    "profile": {
+        "name": {
+            "first": "Chandrasekhara Venkata",
+            "last": "Raman",
+            "display": "Raman,  Chandrasekhara Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1888-11-07",
+        "deathDate": "1970-11-21",
+        "honours": "FNA",
+        "specialization": "Wave Optics, Light & X-ray Scattering, Crystallography, Vibration & Musical Instruments"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1934-70; President 1934-70"
+    }
+}

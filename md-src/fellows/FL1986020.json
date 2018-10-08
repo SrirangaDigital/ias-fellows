@@ -1,0 +1,26 @@
+{
+    "id": "FL1986020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sethunathasarma",
+            "last": "Krishnaswami",
+            "display": "Krishnaswami, Prof. Sethunathasarma"
+        },
+        "sex": "M",
+        "birthDate": "1945-05-21",
+        "deathDate": "2015-07-20",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Nuclear Oceanography and Low Temperature Geochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009"
+    }
+}

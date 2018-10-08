@@ -1,0 +1,22 @@
+{
+    "id": "FL1934091",
+    "profile": {
+        "name": {
+            "first": "Mulk Raj",
+            "last": "Sahni",
+            "display": "Sahni,  Mulk Raj"
+        },
+        "sex": "M",
+        "birthDate": "1899-03-01",
+        "deathDate": "1983-01-13",
+        "degree": "Sc.D. (Cantab), Ph.D. & D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Palaeobotany"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934",
+        "councilservice": "Council Service: 1935-40"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2003021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shobhona",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Shobhona"
+        },
+        "sex": "F",
+        "birthDate": "1953-02-05",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Molecular Parasitology, Parasite Immunology and Parasite Metabolism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Senior Professor & Chairperson, Department of Biological Sciences, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2625, (022) 2278 2865",
+            "residence": "(022) 2280 4745, 99872 60961",
+            "mobile": "98923 52830",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "sharma@tifr.res.in",
+            "personal": "shobhona@gmail.com"
+        }
+    }
+}

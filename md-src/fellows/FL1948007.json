@@ -1,0 +1,20 @@
+{
+    "id": "FL1948007",
+    "profile": {
+        "name": {
+            "first": "Toppur Seethapathy",
+            "last": "Subramanian",
+            "display": "Subramanian,  Toppur Seethapathy"
+        },
+        "sex": "M",
+        "birthDate": "1911-09-24",
+        "deathDate": "1987-09-19",
+        "degree": "D.Sc. (Liverpool)",
+        "specialization": "Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1948"
+    }
+}

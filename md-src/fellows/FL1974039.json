@@ -1,0 +1,31 @@
+{
+    "id": "FL1974039",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Sukh Dev",
+            "display": "Sukh Dev, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1923-06-17",
+        "degree": "Ph.D. (Panjab), D.Sc. (IISc), D.Sc. (h.c.)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Synthesis, Natural Products, Drug Discovery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "120, Iscon Mega City",
+        "city": "Bhavnagar 364 001",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "(0278) 649 9072"
+        },
+        "email": {
+            "personal": "sdlala1924@gmail.com"
+        }
+    }
+}

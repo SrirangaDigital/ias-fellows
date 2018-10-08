@@ -1,0 +1,26 @@
+{
+    "id": "FL1979010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Asoke Gopal",
+            "last": "Datta",
+            "display": "Datta, Dr Asoke Gopal"
+        },
+        "sex": "M",
+        "birthDate": "1928-01-20",
+        "deathDate": "2005-12-09",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Enzymology and Biochemical Endocrinology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1979"
+    },
+    "contact": {
+        "address": "9A, Ballygunge Place",
+        "city": "Kolkata 700 019"
+    }
+}

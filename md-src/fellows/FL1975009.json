@@ -1,0 +1,33 @@
+{
+    "id": "FL1975009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Har Darshan",
+            "last": "Kumar",
+            "display": "Kumar, Prof. Har Darshan"
+        },
+        "sex": "M",
+        "birthDate": "1934-02-25",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA, FNASc",
+        "specialization": "Algology, Microbial Biotechnology, Genetics, Ecology and Environment"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Mrigtrishna, B.32/32, H.K. 214, Saketnagar Colony, Naria",
+        "city": "Varanasi 221 005",
+        "state": "U.P.",
+        "telephone": {
+            "residence": "(0542) 231 5180",
+            "fax": "(0542) 231 5180"
+        },
+        "email": {
+            "personal": "hdk71@yahoo.co.in,hdkumar@rediffmail.com"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1949007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jean",
+            "last": "Cabannes",
+            "display": "Cabannes, Prof. Jean"
+        },
+        "sex": "M",
+        "birthDate": "1885-08-12",
+        "deathDate": "1959-10-31"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1949"
+    }
+}

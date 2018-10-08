@@ -1,0 +1,33 @@
+{
+    "id": "FL2001014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramachandra Raghavendra",
+            "last": "Rao",
+            "display": "Rao, Dr Ramachandra Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1945-09-22",
+        "degree": "Ph.D. (Mysore)",
+        "honours": "FNASc, FNA",
+        "specialization": "Plant Taxonomy, Ethnobotany, Phytogeography and Biodiversity & Conservation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "No. C-303, Sharada Nivas, 15th Cross, 6th Main, Indiranagar II Stage",
+        "city": "Bengaluru 560 038",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "91132 15570",
+            "mobile": "94488 52356"
+        },
+        "email": {
+            "personal": "raocimap@gmail.com"
+        }
+    }
+}

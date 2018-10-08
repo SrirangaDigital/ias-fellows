@@ -1,0 +1,35 @@
+{
+    "id": "FL1976006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Uppugunduri",
+            "last": "Aswathanarayana",
+            "display": "Aswathanarayana, Prof. Uppugunduri"
+        },
+        "sex": "M",
+        "birthDate": "1928-07-01",
+        "deathDate": "2016-03-07",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Nuclear Geology, Natural Resources Management and Environmental Geochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "Shanti Shikara Apartments, B-16, Raj Bhavan Road, Somajiguda",
+        "city": "Hyderabad 500 082",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2339 9440",
+            "mobile": "98663 31137",
+            "fax": "(040) 2332 9145"
+        },
+        "email": {
+            "personal": "uaswathanarayana84@gmail.com"
+        }
+    }
+}

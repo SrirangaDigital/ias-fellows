@@ -1,0 +1,38 @@
+{
+    "id": "FL1992018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Eluvathingal Devassy",
+            "last": "Jemmis",
+            "display": "Jemmis, Prof. Eluvathingal Devassy"
+        },
+        "sex": "M",
+        "birthDate": "1951-10-31",
+        "degree": "Ph.D. (Princeton)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Theoretical & Computational Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 2001-2003"
+    },
+    "contact": {
+        "address": "Inorganic & Physical Chemistry Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3347, (080) 2293 3348",
+            "residence": "(080) 2367 0324",
+            "mobile": "94835 98097",
+            "fax": "(080) 2360 1552"
+        },
+        "email": {
+            "official": "jemmis@iisc.ac.in",
+            "personal": "jemmis@gmail.com"
+        },
+        "url": "http://ipc.iisc.ac.in/jemmis.php"
+    }
+}

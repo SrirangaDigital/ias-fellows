@@ -1,0 +1,34 @@
+{
+    "id": "FL2010009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Debajyoti",
+            "last": "Choudhury",
+            "display": "Choudhury, Prof. Debajyoti"
+        },
+        "sex": "M",
+        "birthDate": "1964-08-18",
+        "degree": "Ph.D. (PRL)",
+        "honours": "FNA, FNASc",
+        "specialization": "Cosmology, High Energy Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Physics & Astrophysics, University of Delhi",
+        "city": "Delhi 110 007",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2766 7061",
+            "residence": "(011) 2726 1536",
+            "mobile": "92132 11830"
+        },
+        "email": {
+            "personal": "debajyoti.choudhury@gmail.com"
+        }
+    }
+}

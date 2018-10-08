@@ -1,0 +1,29 @@
+{
+    "id": "FL1974032",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vaidyanathaswamy",
+            "last": "Santhanam",
+            "display": "Santhanam, Dr Vaidyanathaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1925-07-31",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Plant Breeding & Genetics, Research Management and Cotton Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "'Shri Abhirami', 107, Venkataswamy Road West, R S Puram Post",
+        "city": "Coimbatore 641 002",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(0422) 254 6857",
+            "mobile": "99946 22260"
+        }
+    }
+}

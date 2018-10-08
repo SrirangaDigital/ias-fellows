@@ -1,0 +1,35 @@
+{
+    "id": "FL1992043",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Spenta Rustom",
+            "last": "Wadia",
+            "display": "Wadia, Prof. Spenta Rustom"
+        },
+        "sex": "M",
+        "birthDate": "1950-08-01",
+        "degree": "Ph.D. (New York)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Statistical Mechanics, Quantum Field Theory, String Theory and Quantum Gravity"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Infosys Homi Bhabha Chair Professor, International Centre for Theoretical Sciences, Sivakote, Hesaraghatta Post",
+        "city": "Bengal;uru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 4653 6010"
+        },
+        "email": {
+            "official": "spenta.wadia@icts.res.in",
+            "personal": "spenta.wadia@gmail.com"
+        },
+        "url": "http://www.icts.res.in/people/spenta-wadia"
+    }
+}

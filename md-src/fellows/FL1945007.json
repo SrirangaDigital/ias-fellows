@@ -1,0 +1,21 @@
+{
+    "id": "FL1945007",
+    "profile": {
+        "name": {
+            "first": "Baburao Sankararao",
+            "last": "Kadam",
+            "display": "Kadam,  Baburao Sankararao"
+        },
+        "sex": "M",
+        "birthDate": "1903-10-25",
+        "deathDate": "1985-07-24",
+        "degree": "Ph.D. (Cornell)",
+        "honours": "FNA",
+        "specialization": "Plant Breedings, Cytogenetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1945"
+    }
+}

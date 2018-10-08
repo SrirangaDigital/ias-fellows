@@ -1,0 +1,19 @@
+{
+    "id": "FH1939020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thomas Hunt",
+            "last": "Morgan",
+            "display": "Morgan, Prof. Thomas Hunt"
+        },
+        "sex": "M",
+        "birthDate": "1866-09-25",
+        "deathDate": "1945-12-04",
+        "honours": "Nobel Laureate (Medicine) - 1933"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1939"
+    }
+}

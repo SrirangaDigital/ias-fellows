@@ -1,0 +1,35 @@
+{
+    "id": "FL1993028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kootalai Ananthaiyer",
+            "last": "Natarajan",
+            "display": "Natarajan, Prof. Kootalai Ananthaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1942-06-15",
+        "degree": "Ph.D. (Minnesota), D.Sc. (IISc)",
+        "honours": "FNASc, FNAE",
+        "specialization": "Mineral Processing, Hydrometallurgy, Biomineral Technology and Corrosion Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "NASI Honorary Scientist & Platinum Jubilee Fellow, Department of Materials Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0120, 2293 2679",
+            "residence": "(080) 2364 6499",
+            "mobile": "98802 50091",
+            "fax": "(080) 2360 0472"
+        },
+        "email": {
+            "official": "kan@iisc.ac.in"
+        }
+    }
+}

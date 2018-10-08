@@ -1,0 +1,32 @@
+{
+    "id": "FL1991027",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vikram Chandra",
+            "last": "Thakur",
+            "display": "Thakur, Dr Vikram Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1940-01-15",
+        "degree": "Ph.D. (London)",
+        "specialization": "Structural Geology, Tectonics of Himalayan Geology and Active Tectonics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "9/12 (Lane 9), Ashirwad Eclave",
+        "city": "Dehra Dun 248 001",
+        "state": "Uttarakhand",
+        "telephone": {
+            "residence": "(0135) 276 1271",
+            "mobile": "98970 46455"
+        },
+        "email": {
+            "personal": "thakurvc12@gmail.com"
+        }
+    }
+}

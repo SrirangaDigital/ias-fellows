@@ -1,0 +1,18 @@
+{
+    "id": "FH1953008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Geoffrey Ingram",
+            "last": "Taylor",
+            "display": "Taylor, Prof. Geoffrey Ingram"
+        },
+        "sex": "M",
+        "birthDate": "1886-03-07",
+        "deathDate": "1975-06-27"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1953"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2007014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anuradha",
+            "last": "Lohia",
+            "display": "Lohia, Prof. Anuradha"
+        },
+        "sex": "F",
+        "birthDate": "1956-06-11",
+        "degree": "Ph.D. (Calcutta)",
+        "specialization": "Cell Cycle of Protozoan Parasite, Molecular Genetics & Genomics and Regulation of Gene Expression"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2007",
+        "councilservice": "Council Service: 2010-12"
+    },
+    "contact": {
+        "address": "Vice Chancellor, Presidency University, 86/1, College Street",
+        "city": "Kolkata 700 073",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2257 3770",
+            "mobile": "98310 79838",
+            "fax": "(033) 2241 2738"
+        },
+        "email": {
+            "official": "vc@presiuniv.ac.in",
+            "personal": "amoeba22@gmail.com"
+        }
+    }
+}

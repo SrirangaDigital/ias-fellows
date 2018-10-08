@@ -1,0 +1,28 @@
+{
+    "id": "FH2011030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tobin J",
+            "last": "Marks",
+            "display": "Marks, Prof. Tobin J"
+        },
+        "sex": "M",
+        "birthDate": "1944-11-25"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Prof. of Materials Sci. & Engg., Department of Chemistry, Northwestern University, 2145, Sheridan Road",
+        "city": "Evanston, IL 60208",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-847) 491 5658"
+        },
+        "email": {
+            "official": "t-marks@northwestern.edu"
+        }
+    }
+}

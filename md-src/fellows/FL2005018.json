@@ -1,0 +1,33 @@
+{
+    "id": "FL2005018",
+    "profile": {
+        "name": {
+            "salutation": "prof.",
+            "first": "Velayudhan Anandavally",
+            "last": "Raghunathan",
+            "display": "Raghunathan, prof. Velayudhan Anandavally"
+        },
+        "sex": "M",
+        "birthDate": "1960-11-25",
+        "degree": "Ph.D. (Mysore)",
+        "specialization": "Soft Matter Physics and Scattering Techniques"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Professor, Raman Research Institute",
+        "city": "Bengaluru 560 080",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "94808 36154",
+            "residence": "(080) 2344 8940",
+            "fax": "(080) 2361 0492"
+        },
+        "email": {
+            "official": "varaghu@rri.res.in"
+        }
+    }
+}

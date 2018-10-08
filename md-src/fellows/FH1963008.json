@@ -1,0 +1,19 @@
+{
+    "id": "FH1963008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bernardo Alberto",
+            "last": "Houssay",
+            "display": "Houssay, Prof. Bernardo Alberto"
+        },
+        "sex": "M",
+        "birthDate": "1887-04-10",
+        "deathDate": "1971-09-21",
+        "honours": "Nobel Laureate (Medicine) - 1947"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1963"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL1999014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Agepati Srinivasa",
+            "last": "Raghavendra",
+            "display": "Raghavendra, Prof. Agepati Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-17",
+        "degree": "Ph.D. (SV Univ.)",
+        "honours": "FNA, FNASc, FNAAS, FTWAS",
+        "specialization": "Plant Molecular Physiology/Plant Biochemistry, Plant Metabolomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1999",
+        "councilservice": "Council Service: 2010-12"
+    },
+    "contact": {
+        "address": "Professor, Department of Plant Sciences, School of Life Sciences, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2301 0630, 6679 4555",
+            "residence": "(040) 4851 4460",
+            "mobile": "98491 07190",
+            "fax": "(040) 2301 0145"
+        },
+        "email": {
+            "official": "asrsl@uohyd.ernet.in",
+            "personal": "as_raghavendra@yahoo.com"
+        }
+    }
+}

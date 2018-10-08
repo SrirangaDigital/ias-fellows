@@ -1,0 +1,30 @@
+{
+    "id": "FL1990018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Thirumalachari",
+            "last": "Ramasami",
+            "display": "Ramasami, Dr Thirumalachari"
+        },
+        "sex": "M",
+        "birthDate": "1948-04-15",
+        "degree": "Ph.D. (Leeds)",
+        "honours": "FNA, FNASc, FTWAS, FNAE",
+        "specialization": "Physical Inorganic Chemistry, Bio-Inorganic Chemistry and Leather Science & Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1990",
+        "councilservice": "Council Service: 2004-2009; Vice-President: 2007-2009"
+    },
+    "contact": {
+        "address": "Central Leather Research Institute, Adyar",
+        "city": "Chennai 600 020",
+        "state": "T.N.",
+        "email": {
+            "personal": "samisrisailam@gmail.com"
+        }
+    }
+}

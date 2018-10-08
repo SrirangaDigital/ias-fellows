@@ -1,0 +1,21 @@
+{
+    "id": "FL1934064",
+    "profile": {
+        "name": {
+            "first": "Gopal Ramachandra",
+            "last": "Paranjpe",
+            "display": "Paranjpe,  Gopal Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1891-01-30",
+        "deathDate": "1981-03-07",
+        "degree": "M.Sc. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Instrumentation, Raman Effect"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    }
+}

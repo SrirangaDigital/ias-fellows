@@ -1,0 +1,21 @@
+{
+    "id": "FL1955004",
+    "profile": {
+        "name": {
+            "first": "Narayanaswamy",
+            "last": "Jayaraman",
+            "display": "Jayaraman,  Narayanaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1911-02-12",
+        "deathDate": "1971-03-13",
+        "degree": "D.Sc.",
+        "specialization": "Mineralogy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1955",
+        "councilservice": "1965-70"
+    }
+}

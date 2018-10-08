@@ -1,0 +1,25 @@
+{
+    "id": "FL1935002",
+    "profile": {
+        "name": {
+            "first": "P R",
+            "last": "Awati",
+            "display": "Awati,  P R"
+        },
+        "sex": "M",
+        "birthDate": "1887-12-18",
+        "deathDate": "1966-02-16",
+        "degree": "D.Ic. (Canterbury)",
+        "honours": "FNA",
+        "specialization": "Zoology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1935"
+    },
+    "contact": {
+        "address": "Royal Institute of Science",
+        "city": "Bombay"
+    }
+}

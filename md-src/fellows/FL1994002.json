@@ -1,0 +1,37 @@
+{
+    "id": "FL1994002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narayanaswamy",
+            "last": "Balakrishnan",
+            "display": "Balakrishnan, Prof. Narayanaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1950-06-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNAE, FNA, FNASc, FTWAS",
+        "specialization": "Numerical Electromagnetics, Information Security, Complex Networks, and Aerospace Electronic Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1994",
+        "councilservice": "Council Service: 1998-2006; Secretary: 1998-2003; Treasurer: 2004-2006"
+    },
+    "contact": {
+        "address": "SERC, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0325",
+            "residence": "(080) 2351 6160",
+            "fax": "(080) 2293 3438"
+        },
+        "email": {
+            "official": "balki@iisc.ac.in",
+            "personal": "balki.iisc@gmail.com"
+        },
+        "url": "http://www.serc.iisc.in/~balki"
+    }
+}

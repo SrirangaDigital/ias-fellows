@@ -1,0 +1,26 @@
+{
+    "id": "FL1974043",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pandurang Ganpatrao",
+            "last": "Adyalkar",
+            "display": "Adyalkar, Dr Pandurang Ganpatrao"
+        },
+        "sex": "M",
+        "birthDate": "1927-12-03",
+        "deathDate": "2007-11-13",
+        "degree": "Ph.D. (Nagpur)",
+        "honours": "FNASc",
+        "specialization": "Geology, Hydrogeology, Seismology and Mining & Environment"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Millennium Shopping Mall, 265, Bajaj Nagar, West High Court Road",
+        "city": "Nagpur 440 010"
+    }
+}

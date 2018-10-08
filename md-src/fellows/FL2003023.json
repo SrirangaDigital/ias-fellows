@@ -1,0 +1,35 @@
+{
+    "id": "FL2003023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gundabathula",
+            "last": "Venkateswara Rao",
+            "display": "Venkateswara Rao, Dr Gundabathula"
+        },
+        "sex": "M",
+        "birthDate": "1944-11-09",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNAE",
+        "specialization": "Finite Element Methods, Structural Analysis (Linear & Nonlinear) and Smart Structures"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "No. 502, Reliance Mariam Villa, Street No. 6, Plot No. 70, West Marredpally",
+        "city": "Secunderabad 500 026",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(08413) 25 3335",
+            "residence": "95020 36831",
+            "mobile": "93913 68231",
+            "fax": "(040) 2764 0394"
+        },
+        "email": {
+            "personal": "hydrao1944@yahoo.co.in"
+        }
+    }
+}

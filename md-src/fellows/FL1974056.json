@@ -1,0 +1,33 @@
+{
+    "id": "FL1974056",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Venkataraman",
+            "last": "Jagannathan",
+            "display": "Jagannathan, Dr Venkataraman"
+        },
+        "sex": "M",
+        "birthDate": "1921-06-15",
+        "deathDate": "2015-12-02",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "FNA, FNASc",
+        "specialization": "Biochemistry and Plant Tissue Culture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "F-1, Kumar Classics, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 2588 1959"
+        },
+        "email": {
+            "personal": "hema1440@gmail.com"
+        }
+    }
+}

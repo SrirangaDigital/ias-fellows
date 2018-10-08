@@ -1,0 +1,37 @@
+{
+    "id": "FL1995009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chandrasekharan Cheranellore",
+            "last": "Kartha",
+            "display": "Kartha, Dr Chandrasekharan Cheranellore"
+        },
+        "sex": "M",
+        "birthDate": "1951-12-14",
+        "degree": "M.B.B.S. (Kerala), M.D. (AIIMS)",
+        "honours": "FNASc, FIC (Path.), FAMS, FIACS",
+        "specialization": "Cardiac Pathology, Cardiac Biology and Cell-based Therapies"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1995",
+        "councilservice": "Council Service: 2007-2009"
+    },
+    "contact": {
+        "address": "Hon. Distinguished Professor, MM&DB, Rajiv Gandhi Centre for Biotechnology, Jagathi",
+        "city": "Thiruvananthapuram 695 014",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 252 9448",
+            "residence": "(0471) 243 4108",
+            "mobile": "99472 64108",
+            "fax": "(0471) 252 9505"
+        },
+        "email": {
+            "official": "cckartha@rgcb.res.in",
+            "personal": "cckartha@yahoo.com,cckartha@gmail.com"
+        }
+    }
+}

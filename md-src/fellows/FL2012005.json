@@ -1,0 +1,33 @@
+{
+    "id": "FL2012005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Abhishek",
+            "last": "Dhar",
+            "display": "Dhar, Prof. Abhishek"
+        },
+        "sex": "M",
+        "birthDate": "1970-08-31",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Nonequilibrium Statistical Physics, Condensed Matter Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Professor, International Centre for Theoretical Sciences, Shivakote, Hesaraghatta Post",
+        "city": "Bengal;uru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2308 9117",
+            "mobile": "91641 83540",
+            "fax": "(080) 4653 6002"
+        },
+        "email": {
+            "official": "abhishek.dhar@icts.res.in"
+        }
+    }
+}

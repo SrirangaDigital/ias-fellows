@@ -1,0 +1,34 @@
+{
+    "id": "FL2010032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jarugu Narasimha",
+            "last": "Moorthy",
+            "display": "Moorthy, Prof. Jarugu Narasimha"
+        },
+        "sex": "M",
+        "birthDate": "1964-07-01",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Organic Photochemistry, Supramolecular Chemistry, Organic Synthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7438",
+            "residence": "(0512) 259 8527",
+            "mobile": "94503 43016",
+            "fax": "(0512) 259 6806"
+        },
+        "email": {
+            "official": "moorthy@iitk.ac.in"
+        }
+    }
+}

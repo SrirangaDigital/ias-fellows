@@ -1,0 +1,36 @@
+{
+    "id": "FL1998005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pinakpani",
+            "last": "Chakrabarti",
+            "display": "Chakrabarti, Prof. Pinakpani"
+        },
+        "sex": "M",
+        "birthDate": "1955-01-01",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "X-ray Crystallography, Structural Biochemistry and Bioinformatics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Department of Biochemistry & Bioinformatics Centre, Bose Institute, P-1/12, CIT Scheme, VII M",
+        "city": "Kolkata 700 054",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2569 3253",
+            "mobile": "98307 51009",
+            "fax": "(033) 2355 3886"
+        },
+        "email": {
+            "official": "pinak@jcbose.ac.in",
+            "personal": "pinak.chak@gmail.com"
+        },
+        "url": "http://www.jcbose.ac.in/faculty-details/pinakpani-chakrabarti"
+    }
+}

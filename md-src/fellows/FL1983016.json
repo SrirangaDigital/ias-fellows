@@ -1,0 +1,25 @@
+{
+    "id": "FL1983016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pradip Ranjan",
+            "last": "Roy",
+            "display": "Roy, Prof. Pradip Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1936-07-21",
+        "deathDate": "1991-04-21",
+        "degree": "B.E. (Calcutta)",
+        "specialization": "Plutonium Metallurgy, Nuclear Fuel Technology and Powder Metallurgy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "Director, Materials Group, Bhabha Atomic Research Centr, Trombay",
+        "city": "Bombay 400 085"
+    }
+}

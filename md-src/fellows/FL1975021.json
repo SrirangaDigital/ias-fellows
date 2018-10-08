@@ -1,0 +1,32 @@
+{
+    "id": "FL1975021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramaswami",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Prof. Ramaswami"
+        },
+        "sex": "M",
+        "birthDate": "1931-12-15",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Lattice Dynamics, Cryogenics and Laser Cooling of Atoms"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "143, V Cross, III Main Road, First stage, Vijayanagar Extension",
+        "city": "Mysore 570 017",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(0821) 251 7504",
+            "fax": "(080) 2361 0492"
+        },
+        "email": {
+            "personal": "rsvmys@gmail.com"
+        }
+    }
+}

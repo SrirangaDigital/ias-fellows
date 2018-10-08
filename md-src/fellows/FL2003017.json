@@ -1,0 +1,34 @@
+{
+    "id": "FL2003017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arjula Ramachandra",
+            "last": "Reddy",
+            "display": "Reddy, Prof. Arjula Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1945-06-05",
+        "degree": "Ph.D. (Osmania)",
+        "specialization": "Genetics, Plant Molecular Genetics and Plant Genomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Emeritus Professor, School of Life Sciences, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4750",
+            "residence": "(040) 6776 8765",
+            "mobile": "97031 01477",
+            "fax": "(08562) 22 5419"
+        },
+        "email": {
+            "personal": "arjula.rama@gmail.com,arjulsl@yahoo.com"
+        }
+    }
+}

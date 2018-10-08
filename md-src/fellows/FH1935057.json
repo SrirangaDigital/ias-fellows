@@ -1,0 +1,19 @@
+{
+    "id": "FH1935057",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Niels Henrik David",
+            "last": "Bohr",
+            "display": "Bohr, Prof. Niels Henrik David"
+        },
+        "sex": "M",
+        "birthDate": "1885-10-07",
+        "deathDate": "1962-11-18",
+        "honours": "Nobel Laureate (Physics) - 1922"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

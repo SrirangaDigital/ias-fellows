@@ -1,0 +1,36 @@
+{
+    "id": "FL1996018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sourav",
+            "last": "Pal",
+            "display": "Pal, Dr Sourav"
+        },
+        "sex": "M",
+        "birthDate": "1955-05-12",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Electronic Structure Theory, ab initio Quantum Chemistry, Chemical Reactivity and ab initio Molecular Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Science Education & Research",
+        "city": "Mohanpur 741 246",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 6634 0012",
+            "residence": "(033) 6634 0013",
+            "mobile": "98903 35662",
+            "fax": "(033) 2502 8002"
+        },
+        "email": {
+            "official": "s.pal@iiserkol.ac.in,director@iiserkol.ac.in"
+        },
+        "url": "http://www.chem.iitb.iitb.ac.in/people/faculty/prof.html"
+    }
+}

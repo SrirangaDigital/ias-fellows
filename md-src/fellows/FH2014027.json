@@ -1,0 +1,31 @@
+{
+    "id": "FH2014027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Brian P",
+            "last": "Schmidt",
+            "display": "Schmidt, Prof. Brian P"
+        },
+        "sex": "M",
+        "birthDate": "1967-02-24",
+        "honours": "Nobel Laureate (Physics), FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Vice Chancellor, The Australian National University, via Cotter Road",
+        "city": "Weston Creek, ACT 2611",
+        "country": "Australia",
+        "telephone": {
+            "office": "(+61-2) 6125 2510",
+            "fax": "(+61-2) 6125 0260"
+        },
+        "email": {
+            "official": "vc@anu.edu.au"
+        },
+        "url": "http://www.mso.anu.edu.au/~brian/"
+    }
+}

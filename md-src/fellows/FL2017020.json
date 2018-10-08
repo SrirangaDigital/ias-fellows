@@ -1,0 +1,35 @@
+{
+    "id": "FL2017020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sethuraman",
+            "last": "Sankararaman",
+            "display": "Sankararaman, Prof. Sethuraman"
+        },
+        "sex": "M",
+        "birthDate": "1957-10-15",
+        "degree": "Ph.D. (Victoria)",
+        "specialization": "Organometallic Chemistry, Organic Photochemistry, Time-resolved Spectroscopy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4210",
+            "residence": "(044) 2257 6210",
+            "mobile": "94443 85211",
+            "fax": "(044) 2257 0545, 2257 4202"
+        },
+        "email": {
+            "official": "sanka@iitm.ac.in"
+        },
+        "url": "http://chem.iitm.ac.in/faculty/sankararaman"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1948011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Albert",
+            "last": "Szent-Gyorgyi",
+            "display": "Szent-Gyorgyi, Prof. Albert"
+        },
+        "sex": "M",
+        "birthDate": "1893-09-16",
+        "deathDate": "1986-10-22",
+        "honours": "Nobel Laureate (Medicine) - 1937"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1948"
+    }
+}

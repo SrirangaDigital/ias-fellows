@@ -1,0 +1,34 @@
+{
+    "id": "FL2000011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mrinal Kanti",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Mrinal Kanti"
+        },
+        "sex": "M",
+        "birthDate": "1956-11-25",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc",
+        "specialization": "Stochastic Control, Stochastic Differential Games and Stochastic Finance"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Professor, Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3210",
+            "residence": "(080) 2360 1380",
+            "fax": "(080) 2360 0146"
+        },
+        "email": {
+            "official": "mkg@iisc.ac.in"
+        }
+    }
+}

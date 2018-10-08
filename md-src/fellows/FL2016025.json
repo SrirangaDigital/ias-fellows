@@ -1,0 +1,33 @@
+{
+    "id": "FL2016025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Palakurissi Balagopal",
+            "last": "Sunil Kumar",
+            "display": "Sunil Kumar, Prof. Palakurissi Balagopal"
+        },
+        "sex": "M",
+        "birthDate": "1964-05-30",
+        "degree": "Ph.d. (Bangalore)",
+        "specialization": "Soft Condensed Matter Physics, Biological Physics, Computational Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Technology, Ahalia Integrated Campus, Kozhippara Post",
+        "city": "Palakkad 678 557",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(04923) 22 6501",
+            "mobile": "98403 29487"
+        },
+        "email": {
+            "official": "sunil@iitpkd.ac.in,sunil@iitm.ac.in"
+        },
+        "url": "https://physics.iitm.ac.in/sunil"
+    }
+}

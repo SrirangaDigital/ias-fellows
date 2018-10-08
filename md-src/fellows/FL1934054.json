@@ -1,0 +1,21 @@
+{
+    "id": "FL1934054",
+    "profile": {
+        "name": {
+            "first": "Edward Parr",
+            "last": "Metcalfe",
+            "display": "Metcalfe,  Edward Parr"
+        },
+        "sex": "M",
+        "birthDate": "1881-00-00",
+        "deathDate": "1950-00-00",
+        "honours": "FNA",
+        "specialization": "Pure & Applied Mathematics, Astronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1934-37; Vice-President 1934-37"
+    }
+}

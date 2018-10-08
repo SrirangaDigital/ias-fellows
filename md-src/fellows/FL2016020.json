@@ -1,0 +1,34 @@
+{
+    "id": "FL2016020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sathees C",
+            "last": "Raghavan",
+            "display": "Raghavan, Prof. Sathees C"
+        },
+        "sex": "M",
+        "birthDate": "1970-05-10",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNASc",
+        "specialization": "DNA Double-Strand Break Repair, Genomic Instability, Cancer Therapeutics, Cancer Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Biochemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2674",
+            "mobile": "97310 17736",
+            "fax": "(080) 2360 0814"
+        },
+        "email": {
+            "official": "sathees@iisc.ac.in"
+        }
+    }
+}

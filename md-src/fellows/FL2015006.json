@@ -1,0 +1,35 @@
+{
+    "id": "FL2015006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Nita",
+            "last": "Bhandari",
+            "display": "Bhandari, Dr Nita"
+        },
+        "sex": "F",
+        "birthDate": "1955-11-09",
+        "degree": "Ph.D. (JNU)",
+        "honours": "FAMS",
+        "specialization": "Nutrition-Infection Interaction, Child Health, Nutritional Interventions, Clinical Evaluation of Vaccine"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "President & Director, Centre for Health R&D Society for Applied Studies, 45, Kalu Sarai",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 4604 3751-55",
+            "residence": "(011) 4174 8476",
+            "mobile": "98991 44123",
+            "fax": "(011) 4604 3756"
+        },
+        "email": {
+            "official": "nita.bhandari@sas.org.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1992024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramakrishnan",
+            "last": "Nagaraj",
+            "display": "Nagaraj, Dr Ramakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1953-02-10",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc",
+        "specialization": "Peptide Conformation; Membrane Biochemistry, Host-Defence Peptides, Protein Nanostructures"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "NASI Senior Scientist, Centre for Cellular and Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2589",
+            "mobile": "98483 03895",
+            "fax": "(040) 2716 0591, (040) 2716 0311"
+        },
+        "email": {
+            "official": "nraj@ccmb.res.in",
+            "personal": "nrajccmb@gmail.com"
+        }
+    }
+}

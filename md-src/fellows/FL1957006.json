@@ -1,0 +1,27 @@
+{
+    "id": "FL1957006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pisharoth Raman",
+            "last": "Pisharoty",
+            "display": "Pisharoty, Prof. Pisharoth Raman"
+        },
+        "sex": "M",
+        "birthDate": "1909-02-10",
+        "deathDate": "2002-09-24",
+        "degree": "Ph.D. (Univ. Calif., Los Angeles)",
+        "honours": "FNA",
+        "specialization": "Atmospheric Sciences, Remote Sensing and Hydrology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1957",
+        "councilservice": "Council Service: 1965-67"
+    },
+    "contact": {
+        "address": "E-1/2, Chitraban Residency, Off ITI Road, Aundh",
+        "city": "Pune 411 007"
+    }
+}

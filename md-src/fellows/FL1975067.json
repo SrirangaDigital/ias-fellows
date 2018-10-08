@@ -1,0 +1,25 @@
+{
+    "id": "FL1975067",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vallabhaneni Sita",
+            "last": "Rama Das",
+            "display": "Rama Das, Prof. Vallabhaneni Sita"
+        },
+        "sex": "M",
+        "birthDate": "1933-02-05",
+        "degree": "D.Phil. (Oxon)",
+        "honours": "FNA, FNAAS",
+        "specialization": "C4Plants, Light Regime in C4Plants and Photosynthesis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "9, Vijetha Apartments, Nalanda College Road, Gayatri Nagar",
+        "city": "Vijayawada 520 008"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1993043",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chelur Ramachandra",
+            "last": "Subrahmanya",
+            "display": "Subrahmanya, Dr Chelur Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1948-11-24",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Real-Time Signal Processing for Radio Telescopes, Observational Cosmology, Satellite Orbit Estimation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Raman Research Institute, CV Raman Avenue",
+        "city": "Bengaluru 560 080",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "94808 36126",
+            "residence": "(080) 2658 8355",
+            "fax": "(080) 2361 0492"
+        },
+        "email": {
+            "official": "crs@rri.res.in"
+        }
+    }
+}

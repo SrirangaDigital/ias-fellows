@@ -1,0 +1,19 @@
+{
+    "id": "FL1941009",
+    "profile": {
+        "name": {
+            "first": "Gnanabishagam",
+            "last": "Samuel",
+            "display": "Samuel,  Gnanabishagam"
+        },
+        "sex": "M",
+        "birthDate": "1898-05-26",
+        "deathDate": "1975-00-00",
+        "specialization": "Tuberculosis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1941"
+    }
+}

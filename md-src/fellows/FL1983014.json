@@ -1,0 +1,38 @@
+{
+    "id": "FL1983014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narendra",
+            "last": "Kumar",
+            "display": "Kumar, Prof. Narendra"
+        },
+        "sex": "M",
+        "birthDate": "1940-02-01",
+        "deathDate": "2017-08-28",
+        "degree": "M.Tech. (IIT, Kharagpur), Ph.D. (IIT, Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Condensed Matter Physics, Stochastic Transport Processes & Statistical Physics, High Temperature Superconductivity and Localization in Disordered Systems"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1983",
+        "councilservice": "Council Service: 1995-2006; President: 1998-2000"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Raman Research Institute, CV Raman Avenue",
+        "city": "Bengaluru 560 080",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2361 1016, 94808 36222",
+            "residence": "(080) 2341 0549",
+            "mobile": "94484 95421",
+            "fax": "(080) 2361 0492"
+        },
+        "email": {
+            "official": "nkumar@rri.res.in"
+        },
+        "url": "http://www.rri.res.in/~nkumar"
+    }
+}

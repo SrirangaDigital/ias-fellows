@@ -1,0 +1,18 @@
+{
+    "id": "FL1935008",
+    "profile": {
+        "name": {
+            "first": "George William",
+            "last": "Burley",
+            "display": "Burley,  George William"
+        },
+        "sex": "M",
+        "birthDate": "1885-03-30",
+        "deathDate": "1967-05-31"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1935"
+    }
+}

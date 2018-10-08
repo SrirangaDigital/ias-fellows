@@ -1,0 +1,26 @@
+{
+    "id": "FH1994030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Saburo",
+            "last": "Nagakura",
+            "display": "Nagakura, Prof. Saburo"
+        },
+        "sex": "M",
+        "birthDate": "1920-10-03"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "President, The Japan Academy, 7-32, Ueno Park, Taito-ku",
+        "city": "Tokyo 110-0007",
+        "country": "Japan",
+        "telephone": {
+            "office": "(+81-3) 3822 2101",
+            "fax": "(+81-3) 3822 2105"
+        }
+    }
+}

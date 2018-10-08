@@ -1,0 +1,26 @@
+{
+    "id": "FL1973005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Venkataram",
+            "last": "Chandrasekharan",
+            "display": "Chandrasekharan, Prof. Venkataram"
+        },
+        "sex": "M",
+        "birthDate": "1925-11-12",
+        "deathDate": "2003-09-05",
+        "degree": "D.Sc. (Mysore)",
+        "specialization": "Spectroscopy and Crystal Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1973"
+    },
+    "contact": {
+        "address": "96, Fontain au Roi",
+        "city": "75011 Paris",
+        "country": "France"
+    }
+}

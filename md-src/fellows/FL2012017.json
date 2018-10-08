@@ -1,0 +1,35 @@
+{
+    "id": "FL2012017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amiya Kumar",
+            "last": "Pani",
+            "display": "Pani, Prof. Amiya Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1957-06-03",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNASc",
+        "specialization": "Numerical Analysis, Partial Differential Equations, Industrial Mathematics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Chair Professor, Department of Mathematics, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7481",
+            "residence": "(022) 2576 8481",
+            "mobile": "97696 97481",
+            "fax": "(022) 2572 2545"
+        },
+        "email": {
+            "official": "akp@math.iitb.ac.in"
+        }
+    }
+}

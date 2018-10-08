@@ -1,0 +1,18 @@
+{
+    "id": "FH1947005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vilheim Friman Koren",
+            "last": "Bjerknes",
+            "display": "Bjerknes, Prof. Vilheim Friman Koren"
+        },
+        "sex": "M",
+        "birthDate": "1862-03-14",
+        "deathDate": "1951-04-09"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1947"
+    }
+}

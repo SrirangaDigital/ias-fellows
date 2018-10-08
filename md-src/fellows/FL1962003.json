@@ -1,0 +1,25 @@
+{
+    "id": "FL1962003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ishwar Chander",
+            "last": "Chopra",
+            "display": "Chopra, Dr Ishwar Chander"
+        },
+        "sex": "M",
+        "birthDate": "1911-01-08",
+        "deathDate": "1996-10-18",
+        "degree": "M.R.C.S.",
+        "specialization": "Pharmacology, Toxicology and Indian Medicinal Plants"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1962"
+    },
+    "contact": {
+        "address": "C-116, Defence Colony",
+        "city": "New Delhi 110 024"
+    }
+}

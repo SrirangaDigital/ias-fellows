@@ -1,0 +1,35 @@
+{
+    "id": "FL1996006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vijay",
+            "last": "Chandru",
+            "display": "Chandru, Prof. Vijay"
+        },
+        "sex": "M",
+        "birthDate": "1953-06-07",
+        "degree": "Ph.D. (MIT)",
+        "specialization": "Data Science, Computational Mathematics and Computational Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Chairman, Strand Life Sciences, 591, III Main Road, Sadashivanagar",
+        "city": "Bengaluru 560 080",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 4078 7301",
+            "residence": "(080) 2361 5038",
+            "mobile": "98452 02820",
+            "fax": "(080) 4078 7299"
+        },
+        "email": {
+            "official": "chandru@alum.mit.edu,vijaychandru@iisc.ac.in"
+        },
+        "url": "http://in.linkedin.com/in/vijaychandru"
+    }
+}

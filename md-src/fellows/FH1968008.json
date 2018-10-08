@@ -1,0 +1,19 @@
+{
+    "id": "FH1968008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "John Carew",
+            "last": "Eccles",
+            "display": "Eccles, Prof. John Carew"
+        },
+        "sex": "M",
+        "birthDate": "1903-01-27",
+        "deathDate": "1997-05-02",
+        "honours": "Nobel Laureate (Medicine) - 1963"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1968"
+    }
+}

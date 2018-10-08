@@ -1,0 +1,34 @@
+{
+    "id": "FL2008005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Joydev",
+            "last": "Chattopadhyay",
+            "display": "Chattopadhyay, Prof. Joydev"
+        },
+        "sex": "M",
+        "birthDate": "1963-11-29",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Mathematical Modelling on Ecology & Epidemiology and Eco-epidemiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Agricultural & Ecological Research Unit, Indian Statistical Institute, 203, B.T. Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2575 3231",
+            "residence": "(033) 2553 9920",
+            "mobile": "98305 46490",
+            "fax": "(033) 2577 3049"
+        },
+        "email": {
+            "official": "joydev@isical.ac.in"
+        }
+    }
+}

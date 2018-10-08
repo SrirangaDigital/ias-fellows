@@ -1,0 +1,37 @@
+{
+    "id": "FL1987026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Durga Prasad",
+            "last": "Roy",
+            "display": "Roy, Prof. Durga Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1941-07-29",
+        "deathDate": "2017-03-17",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Particle Physics, Astroparticle Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "INSA Honorary Scientist, Homi Bhabha Centre for Science Education, V N Purav Marg, Mankhurd",
+        "city": "Mumbai 400 088",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2507 2440",
+            "residence": "(022) 2789 8101",
+            "mobile": "97697 33915",
+            "fax": "(022) 2556 6803"
+        },
+        "email": {
+            "official": "dproy@hbcse.tifr.res.in",
+            "personal": "dproy1@gmail.com"
+        }
+    }
+}

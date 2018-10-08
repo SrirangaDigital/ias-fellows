@@ -1,0 +1,33 @@
+{
+    "id": "FL2010036",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ranganath Ramarao",
+            "last": "Navalgund",
+            "display": "Navalgund, Prof. Ranganath Ramarao"
+        },
+        "sex": "M",
+        "birthDate": "1948-03-17",
+        "degree": "Ph.D. (Bombay)",
+        "specialization": "Remote Sensing, Space Applications, Magnetic Resonance"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Vikram Sarabhai Professor, ISRO Head Quarters, Antariksh Bhavan, New BEL Road",
+        "city": "Bengaluru 560 231",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2351 5593",
+            "residence": "(080) 2362 0682",
+            "mobile": "99000 36229"
+        },
+        "email": {
+            "personal": "navalrr@gmail.com"
+        }
+    }
+}

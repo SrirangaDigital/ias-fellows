@@ -1,0 +1,20 @@
+{
+    "id": "FL1939005",
+    "profile": {
+        "name": {
+            "first": "Duraiswami",
+            "last": "Narayanamurti",
+            "display": "Narayanamurti,  Duraiswami"
+        },
+        "sex": "M",
+        "birthDate": "1904-09-11",
+        "deathDate": "1975-03-09",
+        "honours": "FNA",
+        "specialization": "Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1939"
+    }
+}

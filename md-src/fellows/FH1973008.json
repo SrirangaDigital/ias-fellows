@@ -1,0 +1,18 @@
+{
+    "id": "FH1973008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Satyendra Nath",
+            "last": "Bose",
+            "display": "Bose, Prof. Satyendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1894-01-01",
+        "deathDate": "1974-02-04"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1973"
+    }
+}

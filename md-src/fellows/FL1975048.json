@@ -1,0 +1,22 @@
+{
+    "id": "FL1975048",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Hirdaya Behari",
+            "last": "Mathur",
+            "display": "Mathur, Dr Hirdaya Behari"
+        },
+        "sex": "M",
+        "birthDate": "1928-05-27",
+        "deathDate": "1980-01-12",
+        "degree": "Ph.D. (California)",
+        "honours": "FNA",
+        "specialization": "Physical & Nuclear Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1999004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Satish Kumar",
+            "last": "Gupta",
+            "display": "Gupta, Dr Satish Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1953-04-20",
+        "degree": "Ph.D. (AIIMS)",
+        "honours": "FNA, FNASc, FAMS",
+        "specialization": "Immunology, Reproductive Immunology and Reproductive Biology, Vaccines, Anti-Body Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Emeritus Scientist, Reproductive Cell Biology Unit, National Institute of Immunology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 1249",
+            "mobile": "98109 66357",
+            "fax": "(011) 2674 2125"
+        },
+        "email": {
+            "official": "skgupta@nii.ac.in"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL2003019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anunay",
+            "last": "Samanta",
+            "display": "Samanta, Prof. Anunay"
+        },
+        "sex": "M",
+        "birthDate": "1956-01-16",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Photophysics, Ultrafast Processes in Molecular Systems, Solvation Dynamics, Charge Carrier dynamics in Semiconductor & Perovskite Nanocrystals"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4813, (040) 2301 1594",
+            "residence": "(040) 2301 0715",
+            "mobile": "94404 99681",
+            "fax": "(040) 2301 1594"
+        },
+        "email": {
+            "official": "anunay@uohyd.ac.in",
+            "personal": "anunay.samanta@gmail.com"
+        },
+        "url": "http://chemistry.uohyd.ac.in/~as/"
+    }
+}

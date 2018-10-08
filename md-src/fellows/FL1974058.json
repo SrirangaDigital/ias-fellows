@@ -1,0 +1,21 @@
+{
+    "id": "FL1974058",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gopinath",
+            "last": "Kartha",
+            "display": "Kartha, Dr Gopinath"
+        },
+        "sex": "M",
+        "birthDate": "1927-01-26",
+        "deathDate": "1984-06-18",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "X-ray Diffraction, Protein Structure, Molecular Biology and Biophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    }
+}

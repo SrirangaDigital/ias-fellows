@@ -1,0 +1,26 @@
+{
+    "id": "FL1977009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ravinder Lal",
+            "last": "Kapur",
+            "display": "Kapur, Prof. Ravinder Lal"
+        },
+        "sex": "M",
+        "birthDate": "1938-07-07",
+        "deathDate": "2006-11-24",
+        "degree": "Ph.D. (Edinburgh).,.",
+        "honours": "FRC Psych.",
+        "specialization": "Psychiatry, Psychiatric Epidemiology and Yoga"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "Emeritus Professor, National Institute of Advanced Studies, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012"
+    }
+}

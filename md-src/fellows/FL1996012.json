@@ -1,0 +1,35 @@
+{
+    "id": "FL1996012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arun Mallojirao",
+            "last": "Jayannavar",
+            "display": "Jayannavar, Prof. Arun Mallojirao"
+        },
+        "sex": "M",
+        "birthDate": "1956-07-22",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc",
+        "specialization": "Condensed Matter Physics, Stochastic Processes & their Applications to Physical Problems, Classical & Quantum Transport Problems in Random Media and Physics of Mesoscopic Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Senior Professor, Institute of Physics, Sachivalaya Marg",
+        "city": "Bhubaheswar 751 005",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 230 1825",
+            "residence": "(0674) 230 6604",
+            "mobile": "99372 03925",
+            "fax": "(0674) 230 0142"
+        },
+        "email": {
+            "official": "jayan@iopb.res.in"
+        }
+    }
+}

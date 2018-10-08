@@ -1,0 +1,29 @@
+{
+    "id": "FL1985014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mirza Mohammad",
+            "last": "Taqui Khan",
+            "display": "Taqui Khan, Prof. Mirza Mohammad"
+        },
+        "sex": "M",
+        "birthDate": "1931-11-03",
+        "degree": "Ph.D. (Clark)",
+        "honours": "FNA, FNASc",
+        "specialization": "Co-ordination Chemistry, Bioinorganic Chemistry and Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "17-3-479, Yakutpura",
+        "city": "Hyderabad 500 023",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2452 4371"
+        }
+    }
+}

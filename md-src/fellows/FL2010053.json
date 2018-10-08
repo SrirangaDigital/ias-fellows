@@ -1,0 +1,28 @@
+{
+    "id": "FL2010053",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ganaganor Visweswara",
+            "last": "Shivashankar",
+            "display": "Shivashankar, Dr Ganaganor Visweswara"
+        },
+        "sex": "M",
+        "birthDate": "1968-08-01",
+        "degree": "Ph.D. (Rockefeller)",
+        "specialization": "Biophysics, Cell Biology, Gene Expression"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Deputy Director, Mechanobiology Institute, National University of Singapore, 5A Engineering Drive 1",
+        "city": "Singapore 117 411",
+        "country": "Singapore",
+        "email": {
+            "personal": "shiva.gvs@gmail.com"
+        }
+    }
+}

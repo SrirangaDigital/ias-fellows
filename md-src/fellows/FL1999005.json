@@ -1,0 +1,31 @@
+{
+    "id": "FL1999005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dilip Govind",
+            "last": "Kanhere",
+            "display": "Kanhere, Prof. Dilip Govind"
+        },
+        "sex": "M",
+        "birthDate": "1950-01-06",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "Condensed Matter Theory, Computational Physics, Strongly Correlated Systems and Density Functional Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Distinguished Professor, Centre for Modelling & Simulations, University of Pune, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "94210 06705"
+        },
+        "email": {
+            "personal": "dgkanhere@gmail.com"
+        }
+    }
+}

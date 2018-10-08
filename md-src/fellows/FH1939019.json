@@ -1,0 +1,18 @@
+{
+    "id": "FH1939019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Karl Wilhelm Friedrich",
+            "last": "Kohlrausch",
+            "display": "Kohlrausch, Prof. Karl Wilhelm Friedrich"
+        },
+        "sex": "M",
+        "birthDate": "1884-07-07",
+        "deathDate": "1953-09-17"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1939"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL1991025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ajay Kumar",
+            "last": "Sood",
+            "display": "Sood, Prof. Ajay Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1951-06-26",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS, FRS",
+        "specialization": "Raman Spectroscopy, Time-resolved Ultrafast Spectroscopy, Nanosystems such as Graphene, Nanotubes, Physics of Soft Condensed Matter"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1991",
+        "councilservice": "Council Service: 2001-15; Secretary 2001-2006; Treasurer: 2007-2009; President: 2010-12"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 2238, (80) 2293 2964",
+            "fax": "(080) 2360 2602"
+        },
+        "email": {
+            "official": "asood@iisc.ac.in",
+            "personal": "asood1951@gmail.com"
+        },
+        "url": "http://www.physics.iisc.ac.in/~asood/"
+    }
+}

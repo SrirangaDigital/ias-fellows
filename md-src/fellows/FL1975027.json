@@ -1,0 +1,25 @@
+{
+    "id": "FL1975027",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Moodalagiri Kushalrao",
+            "last": "Asundi",
+            "display": "Asundi, Dr Moodalagiri Kushalrao"
+        },
+        "sex": "M",
+        "birthDate": "1930-05-01",
+        "deathDate": "2003-12-01",
+        "degree": "Ph.D. (London)",
+        "specialization": "Physical Metallurgy and Structural & Mechanical Properties of Materials"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Consulting Metallurgist, No. 44, 'VIBHA', Ramakrishna Paramahamsa Marg, Bandra East",
+        "city": "Mumbai 400 051"
+    }
+}

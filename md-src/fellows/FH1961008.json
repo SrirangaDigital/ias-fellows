@@ -1,0 +1,18 @@
+{
+    "id": "FH1961008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Theodore von",
+            "last": "Karman",
+            "display": "Karman, Prof. Theodore von"
+        },
+        "sex": "M",
+        "birthDate": "1881-05-11",
+        "deathDate": "1963-05-06"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1961"
+    }
+}

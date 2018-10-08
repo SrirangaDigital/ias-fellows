@@ -1,0 +1,35 @@
+{
+    "id": "FL1992007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chandan",
+            "last": "Dasgupta",
+            "display": "Dasgupta, Dr Chandan"
+        },
+        "sex": "M",
+        "birthDate": "1951-12-17",
+        "degree": "Ph.D. (Pennsylvania)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Theoretical Condensed Matter Physics and Statistical Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Professor, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3278",
+            "residence": "(080) 2334 5417",
+            "fax": "(080) 2360 2602"
+        },
+        "email": {
+            "official": "cdgupta@iisc.ac.in"
+        },
+        "url": "http://physics.iisc.ac.in/~cdgupta/"
+    }
+}

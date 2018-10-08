@@ -1,0 +1,19 @@
+{
+    "id": "FL1934028",
+    "profile": {
+        "name": {
+            "first": "Kombur Sesha Kuppuswamy",
+            "last": "Iyengar",
+            "display": "Iyengar,  Kombur Sesha Kuppuswamy"
+        },
+        "sex": "M",
+        "birthDate": "1899-08-29",
+        "deathDate": "1944-06-23",
+        "specialization": "Set Theory"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1934"
+    }
+}

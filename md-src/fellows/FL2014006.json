@@ -1,0 +1,33 @@
+{
+    "id": "FL2014006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mudlappa",
+            "last": "Jayananda",
+            "display": "Jayananda, Prof. Mudlappa"
+        },
+        "sex": "M",
+        "birthDate": "1959-07-01",
+        "degree": "Ph.D. (Bangalore)",
+        "honours": "FNASc",
+        "specialization": "Solid Earth Geochemistry, Archean Magmatism, Continental Growth, Tectonics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Centre for Earth, Ocean & Atmospheric Sciences, University of Hyderabad, Gachibowli",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 2676",
+            "mobile": "86184 21127"
+        },
+        "email": {
+            "personal": "mjayan.geol@gmail.com"
+        }
+    }
+}

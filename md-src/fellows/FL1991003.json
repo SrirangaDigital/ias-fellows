@@ -1,0 +1,34 @@
+{
+    "id": "FL1991003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kalpattu Kuppusamy",
+            "last": "Balasubramanian",
+            "display": "Balasubramanian, Dr Kalpattu Kuppusamy"
+        },
+        "sex": "M",
+        "birthDate": "1939-09-05",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Molecular Rearrangements, Carbohydrate Chemistry, Organic Electrophotochemistry, Synthetic Organic Chemistry and Heterocyclic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "No. 47 (old 24), Padmanabhanagar, 5th Street, Adayar",
+        "city": "Chennai 600 020",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2446 1595, (044) 2446 1558",
+            "mobile": "94449 10297"
+        },
+        "email": {
+            "official": "kkb@bsauniv.ac.in",
+            "personal": "kkbalu@hotmail.com,kkbadayar@gmail.com"
+        }
+    }
+}

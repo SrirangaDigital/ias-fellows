@@ -1,0 +1,25 @@
+{
+    "id": "FL1994025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kuduvalli Ramaswamaiah",
+            "last": "Anantharamaiah",
+            "display": "Anantharamaiah, Prof. Kuduvalli Ramaswamaiah"
+        },
+        "sex": "M",
+        "birthDate": "1952-09-02",
+        "deathDate": "2001-10-29",
+        "degree": "Ph.D. (Bangalore)",
+        "specialization": "Radio Astronomy, Interstellar Medium and Galaxies"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Professor, Raman Research Institute, CV Raman Avenue",
+        "city": "Bengaluru 560 080"
+    }
+}

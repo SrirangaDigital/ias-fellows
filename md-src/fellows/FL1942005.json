@@ -1,0 +1,19 @@
+{
+    "id": "FL1942005",
+    "profile": {
+        "name": {
+            "first": "N G",
+            "last": "Shabde",
+            "display": "Shabde,  N G"
+        },
+        "sex": "M",
+        "birthDate": "1906-04-12",
+        "deathDate": "1961-00-00",
+        "specialization": "Special Functions, Field Theory"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1942"
+    }
+}

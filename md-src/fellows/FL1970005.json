@@ -1,0 +1,25 @@
+{
+    "id": "FL1970005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Devi Datt",
+            "last": "Pant",
+            "display": "Pant, Prof. Devi Datt"
+        },
+        "sex": "M",
+        "birthDate": "1918-08-14",
+        "deathDate": "2008-06-11",
+        "degree": "D.Sc. (Banaras)",
+        "specialization": "Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1970"
+    },
+    "contact": {
+        "address": "F/6 Judge Farm",
+        "city": "Haldwani 263 139 (Nainital Dist.)"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1952012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hans von",
+            "last": "Euler-Chelpin",
+            "display": "Euler-Chelpin, Prof. Hans von"
+        },
+        "sex": "M",
+        "birthDate": "1873-02-15",
+        "deathDate": "1964-11-06",
+        "honours": "Nobel Laureate (Chemistry) - 1929"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1952"
+    }
+}

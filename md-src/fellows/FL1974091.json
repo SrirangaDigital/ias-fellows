@@ -1,0 +1,26 @@
+{
+    "id": "FL1974091",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ayyagari Sambasiva",
+            "last": "Rao",
+            "display": "Rao, Dr Ayyagari Sambasiva"
+        },
+        "sex": "M",
+        "birthDate": "1914-09-20",
+        "deathDate": "2003-10-31",
+        "degree": "D.Engg. (Stanford)",
+        "honours": "D.Sc. (h.c.), FNASc",
+        "specialization": "Electronics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "1-32, Snehapuri, Nacharam",
+        "city": "Hyderabad 500 076"
+    }
+}

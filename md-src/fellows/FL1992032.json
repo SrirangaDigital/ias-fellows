@@ -1,0 +1,31 @@
+{
+    "id": "FL1992032",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pattamadai Narasimhan",
+            "last": "Shankar",
+            "display": "Shankar, Dr Pattamadai Narasimhan"
+        },
+        "sex": "M",
+        "birthDate": "1944-08-13",
+        "degree": "Ph.D. (Caltech)",
+        "specialization": "Engineering Science and Fluid Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "33/1, Kasturba Road Cross",
+        "city": "Bengaluru 560 001",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2221 7404"
+        },
+        "email": {
+            "personal": "pnshankar55@gmail.com"
+        }
+    }
+}

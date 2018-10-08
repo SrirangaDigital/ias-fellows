@@ -1,0 +1,27 @@
+{
+    "id": "FL1955006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sivaraj",
+            "last": "Ramaseshan",
+            "display": "Ramaseshan, Prof. Sivaraj"
+        },
+        "sex": "M",
+        "birthDate": "1923-10-10",
+        "deathDate": "2003-12-29",
+        "degree": "D.Sc. (Nagpur)",
+        "honours": "FNA",
+        "specialization": "Materials Science, Crystallography and Solid State Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1955",
+        "councilservice": "Council Service: 1968-88; President: 1983-85; Vice-President: 1971-79; Editor of Publications: 1977-82"
+    },
+    "contact": {
+        "address": "Distinguished Professor-Emeritus, Raman Research Institute, and Editor Current Science, CV Raman Avenue",
+        "city": "Bengaluru 560 080"
+    }
+}

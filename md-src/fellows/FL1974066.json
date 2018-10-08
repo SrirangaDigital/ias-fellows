@@ -1,0 +1,25 @@
+{
+    "id": "FL1974066",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kalyanasundaram Subra",
+            "last": "Mani",
+            "display": "Mani, Dr Kalyanasundaram Subra"
+        },
+        "sex": "M",
+        "birthDate": "1928-10-18",
+        "deathDate": "2001-03-28",
+        "degree": "M.D. (Madras)",
+        "specialization": "Neurology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Consultant Neurologist, Neurological Clinic, No.1, Old Veterinary Hospital Road, Basavanagudi",
+        "city": "Bengaluru 560 004"
+    }
+}

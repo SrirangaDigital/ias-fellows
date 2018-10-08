@@ -1,0 +1,26 @@
+{
+    "id": "FL2004024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vinod",
+            "last": "Bhakuni",
+            "display": "Bhakuni, Dr Vinod"
+        },
+        "sex": "M",
+        "birthDate": "1962-05-24",
+        "deathDate": "2011-07-15",
+        "degree": "Ph.D. (Lucknow)",
+        "honours": "FNASc, FNA",
+        "specialization": "Protein Folding and Molecular Biophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Division of Molecular & Structural Biology, Central Drug Research Institute, P.B. No. 173",
+        "city": "Lucknow 226 001"
+    }
+}

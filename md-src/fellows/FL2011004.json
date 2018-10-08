@@ -1,0 +1,35 @@
+{
+    "id": "FL2011004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Srivari",
+            "last": "Chandrasekhar",
+            "display": "Chandrasekhar, Dr Srivari"
+        },
+        "sex": "M",
+        "birthDate": "1964-03-09",
+        "degree": "Ph.D. (Osmania)",
+        "honours": "FNASc, FNA",
+        "specialization": "Natural Product Synthesis, Green Chemistry, Combinatorial Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Director, Indian Institute of Chemical Technology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 3030, 2719 3210",
+            "residence": "(040) 2742 3675",
+            "mobile": "98480 35908",
+            "fax": "(040) 2716 0512"
+        },
+        "email": {
+            "official": "srivaric@iict.res.in,director@iict.res.in"
+        }
+    }
+}

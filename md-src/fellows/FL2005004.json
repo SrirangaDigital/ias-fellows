@@ -1,0 +1,34 @@
+{
+    "id": "FL2005004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramesh Chandra",
+            "last": "Budhani",
+            "display": "Budhani, Dr Ramesh Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1955-02-03",
+        "degree": "Ph.D. (IIT, Delhi)",
+        "honours": "FNASc, FNA",
+        "specialization": "Renewable Energy, Nanoscale Systems, Experimental Condensed Matter Physics, Superconductivity and Magnetism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Department of Physics, Lasers & Photonics, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7185, (0512) 259 7955",
+            "fax": "(0512) 259 0914"
+        },
+        "email": {
+            "official": "rcb@iitk.ac.in"
+        },
+        "url": "http://home.iitk.ac.in/~rcb/"
+    }
+}

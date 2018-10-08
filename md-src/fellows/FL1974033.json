@@ -1,0 +1,28 @@
+{
+    "id": "FL1974033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Satya Prakash",
+            "display": "Satya Prakash, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1929-07-01",
+        "degree": "Ph.D. (Gujarat)",
+        "honours": "FNA, FNASc",
+        "specialization": "Planetary, Atmospheric and Space Plasmas"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "c/o Meena Rajagopal, 53, Sarah Way",
+        "city": "Concord, MA 01742",
+        "country": "USA",
+        "email": {
+            "personal": "sprakash_prl@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2017012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vijay",
+            "last": "Kodiyalam",
+            "display": "Kodiyalam, Prof. Vijay"
+        },
+        "sex": "M",
+        "birthDate": "1966-08-25",
+        "degree": "Ph.D. (Purdue)",
+        "honours": "FNASc",
+        "specialization": "Operator Algebras, Subfactor Theory, Commutative Algebra"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3212",
+            "residence": "(044) 2442 2188",
+            "mobile": "94454 14376",
+            "fax": "(044) 2254 1586"
+        },
+        "email": {
+            "official": "vijay@imsc.res.in"
+        },
+        "url": "http://www.imsc.res.in/~vijay"
+    }
+}

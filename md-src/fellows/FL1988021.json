@@ -1,0 +1,34 @@
+{
+    "id": "FL1988021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ranganathan",
+            "last": "Shashidhar",
+            "display": "Shashidhar, Prof. Ranganathan"
+        },
+        "sex": "M",
+        "birthDate": "1946-01-01",
+        "degree": "Ph.D. (Mysore)",
+        "honours": "FNASc",
+        "specialization": "Nanoscience & Nanotechnology, Nanostructured Materials, Liquid Crystals & Display Devices, Molecular & Organic Electronics, Nanoelectronics and Nanomaterials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Senior Vice President, Polestar Technologies Inc, 1727, King Street, Suite 311",
+        "city": "Alexandria, VA 22314",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-703) 615 1023",
+            "residence": "(+1-703) 303 6904"
+        },
+        "email": {
+            "official": "rshashidhar@polestartech.com",
+            "personal": "nathan.shash@gmail.com"
+        }
+    }
+}

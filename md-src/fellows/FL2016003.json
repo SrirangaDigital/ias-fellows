@@ -1,0 +1,35 @@
+{
+    "id": "FL2016003",
+    "profile": {
+        "name": {
+            "salutation": "prof.",
+            "first": "Tirthankar",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, prof. Tirthankar"
+        },
+        "sex": "M",
+        "birthDate": "1968-02-07",
+        "degree": "Ph.D. (ISI)",
+        "specialization": "Functional Analysis, Hilbert Space, Operator Theory, Several Complex Variables"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2710",
+            "residence": "(080)2360 0273",
+            "mobile": "94482 79673",
+            "fax": "(080) 2360 0146"
+        },
+        "email": {
+            "official": "tirtha@iisc.ac.in"
+        },
+        "url": "http://math.iisc.ac.in/~tirtha"
+    }
+}

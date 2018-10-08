@@ -1,0 +1,20 @@
+{
+    "id": "FL1967005",
+    "profile": {
+        "name": {
+            "first": "John Edwin George",
+            "last": "Raymont",
+            "display": "Raymont,  John Edwin George"
+        },
+        "sex": "M",
+        "birthDate": "1915-04-06",
+        "deathDate": "1979-08-30",
+        "degree": "D.Sc.",
+        "specialization": "Zooplankton"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1967"
+    }
+}

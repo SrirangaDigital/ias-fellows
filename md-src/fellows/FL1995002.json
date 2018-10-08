@@ -1,0 +1,37 @@
+{
+    "id": "FL1995002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Akhil Ranjan",
+            "last": "Chakravarty",
+            "display": "Chakravarty, Prof. Akhil Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1953-05-20",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Bioinorganic Chemistry, Co-ordination Chemistry and Metal-based Anti-Cancer Agents"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Professor, Department of Inorganic & Physical Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2533",
+            "residence": "(080) 2351 5407",
+            "mobile": "94482 75407",
+            "fax": "(080) 2360 1552, (080) 2360 0683"
+        },
+        "email": {
+            "official": "arc@iisc.ac.in",
+            "personal": "akhilchakravarty@gmail.com"
+        },
+        "url": "http://ipc.iisc.ac.in/arc.html"
+    }
+}

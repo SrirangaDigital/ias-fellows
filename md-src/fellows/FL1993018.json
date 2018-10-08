@@ -1,0 +1,35 @@
+{
+    "id": "FL1993018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Romesh Kumar",
+            "last": "Kaul",
+            "display": "Kaul, Prof. Romesh Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1952-08-01",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA",
+        "specialization": "Particle Physics, Quantum Field Theory and Quantum Gravity"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Professor, The Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3317",
+            "residence": "(044) 2445 3508",
+            "mobile": "94449 24065",
+            "fax": "(044) 2254 1586"
+        },
+        "email": {
+            "official": "kaul@imsc.res.in"
+        }
+    }
+}

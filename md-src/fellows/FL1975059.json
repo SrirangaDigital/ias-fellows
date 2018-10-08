@@ -1,0 +1,25 @@
+{
+    "id": "FL1975059",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ambalal Ranchhodhbhai",
+            "last": "Patel",
+            "display": "Patel, Prof. Ambalal Ranchhodhbhai"
+        },
+        "sex": "M",
+        "birthDate": "1917-05-12",
+        "deathDate": "2000-12-03",
+        "degree": "Ph.D. (London)",
+        "specialization": "Solid State Physics, Crystal Growth and Imperfections"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Honorary Professor, Department of Physics, Sardar Patel University",
+        "city": "Vallabh Vidyanagar 388 120"
+    }
+}

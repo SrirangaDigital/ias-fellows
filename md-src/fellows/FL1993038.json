@@ -1,0 +1,36 @@
+{
+    "id": "FL1993038",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Handanahal Subbarao",
+            "last": "Savithri",
+            "display": "Savithri, Prof. Handanahal Subbarao"
+        },
+        "sex": "F",
+        "birthDate": "1951-03-18",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Plant Molecular Virology, Protein Chemistry, and Enzymology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Biochemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 1561, (080) 2293 2310",
+            "residence": "(080) 2337 2981",
+            "mobile": "94483 79380",
+            "fax": "(080) 2360 0814"
+        },
+        "email": {
+            "official": "hss@alumni.iisc.ac.in",
+            "personal": "hssavithri@gmail.com"
+        }
+    }
+}

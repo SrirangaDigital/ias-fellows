@@ -1,0 +1,33 @@
+{
+    "id": "FL1998001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhaskar",
+            "last": "Bagchi",
+            "display": "Bagchi, Prof. Bhaskar"
+        },
+        "sex": "M",
+        "birthDate": "1954-02-01",
+        "degree": "Ph.D. (ISI, Calcutta)",
+        "specialization": "Finite Geometry, Combinatorial Topology and Operator Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Professor,, Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, R V College Post, Mysore Road",
+        "city": "Bengaluru 560 059",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2848 3002-06/455",
+            "residence": "(080) 2848 2009",
+            "fax": "(080) 2848 4265"
+        },
+        "email": {
+            "official": "bbagchi@isibang.ac.in"
+        }
+    }
+}

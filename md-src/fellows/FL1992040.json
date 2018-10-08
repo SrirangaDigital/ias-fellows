@@ -1,0 +1,35 @@
+{
+    "id": "FL1992040",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Viakalathur Shankar",
+            "last": "Sunder",
+            "display": "Sunder, Prof. Viakalathur Shankar"
+        },
+        "sex": "M",
+        "birthDate": "1952-04-06",
+        "degree": "Ph.D. (Indiana)",
+        "honours": "FNASc, FNA",
+        "specialization": "Von Neumann Algebras and Subfactors"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 2004-2006"
+    },
+    "contact": {
+        "address": "Shivani Apartments, E-1, Block III, 40, East Coast Road, Thiruvanmayur",
+        "city": "Chennai 600 041",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2451 6082",
+            "mobile": "94449 50534"
+        },
+        "email": {
+            "personal": "viakalathursunder@gmail.com"
+        },
+        "url": "http://www.imsc.res.in/~sunder"
+    }
+}

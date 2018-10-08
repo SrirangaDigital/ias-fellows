@@ -1,0 +1,37 @@
+{
+    "id": "FL2009030",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Narendra",
+            "last": "Tuteja",
+            "display": "Tuteja, Dr Narendra"
+        },
+        "sex": "M",
+        "birthDate": "1955-01-05",
+        "degree": "Ph.D. & D.Sc. (Lucknow)",
+        "honours": "FNA, FNASc, FNAAS, FTWAS",
+        "specialization": "Molecular Biology, DNA Replication, Plant Abiotic Stress Tolerance, Signal Transduction and Tissue Culture & Plant Transformation, Calcium-powered Forisomes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Visiting Scientist, International Centre for Genetic Engineering & Biotechnology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 2357",
+            "residence": "(011) 2689 0983",
+            "mobile": "98112 33350",
+            "fax": "(011) 2674 2316"
+        },
+        "email": {
+            "official": "narendra@icgeb.res.in",
+            "personal": "narendratuteja@gmail.com"
+        },
+        "url": "http://www.icgeb.org/pi-tuteja.htm"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1982003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Balebail Anantha",
+            "last": "Dasannacharya",
+            "display": "Dasannacharya, Dr Balebail Anantha"
+        },
+        "sex": "M",
+        "birthDate": "1937-10-06",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Neutron & X-ray Spectrometry and Condensed Matter Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "No. 4, Beach Resort CHS, Sector 10-A, Flat 1, Vashi",
+        "city": "Navi Mumbai 400 703",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2766 3957",
+            "mobile": "98690 24550"
+        },
+        "email": {
+            "personal": "adasannacharya@gmail.com"
+        }
+    }
+}

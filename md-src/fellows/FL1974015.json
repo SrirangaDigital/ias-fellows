@@ -1,0 +1,32 @@
+{
+    "id": "FL1974015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thuppalay Kochugovinda",
+            "last": "Menon",
+            "display": "Menon, Prof. Thuppalay Kochugovinda"
+        },
+        "sex": "M",
+        "birthDate": "1928-12-19",
+        "degree": "Ph.D. (Harvard)",
+        "specialization": "Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "106-2803, 41st Avenue",
+        "city": "Vancouver, British Columbia V6N 4B4",
+        "country": "Canada",
+        "telephone": {
+            "office": "(+1-604) 822 0330",
+            "residence": "(+1-604) 266 1789"
+        },
+        "email": {
+            "official": "menon@astro.ubc.ca"
+        }
+    }
+}

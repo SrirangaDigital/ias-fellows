@@ -1,0 +1,26 @@
+{
+    "id": "FL1988027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ardhendu Sekhar",
+            "last": "Mukherjee",
+            "display": "Mukherjee, Prof. Ardhendu Sekhar"
+        },
+        "sex": "M",
+        "birthDate": "1935-01-01",
+        "deathDate": "2004-11-15",
+        "degree": "Ph.D. (Univ. Calif., Berkeley)",
+        "honours": "FNA",
+        "specialization": "Genetics, Cell Biology and Cytogenetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Professor, Genetic Research Unit, Department of Zoology, University of Calcutta, 35, Ballygunge Circular Road",
+        "city": "Kolkata 700 019"
+    }
+}

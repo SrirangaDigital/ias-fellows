@@ -1,0 +1,33 @@
+{
+    "id": "FL1992028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhagavatula Lakshmi Surya",
+            "last": "Prakasa Rao",
+            "display": "Prakasa Rao, Prof. Bhagavatula Lakshmi Surya"
+        },
+        "sex": "M",
+        "birthDate": "1942-10-06",
+        "degree": "Ph.D. (Michigan State)",
+        "honours": "FNA, FNASc",
+        "specialization": "Statistics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Apt. 510, Vishnu Residency, C Block, Gandhinagar",
+        "city": "Hyderabad 500 080",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2766 0162",
+            "mobile": "99491 85041"
+        },
+        "email": {
+            "personal": "blsprao@gmail.com"
+        }
+    }
+}

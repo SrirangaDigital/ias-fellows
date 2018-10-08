@@ -1,0 +1,26 @@
+{
+    "id": "FL1983015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kshitindramohan",
+            "last": "Naha",
+            "display": "Naha, Prof. Kshitindramohan"
+        },
+        "sex": "M",
+        "birthDate": "1932-01-02",
+        "deathDate": "1996-05-24",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Structural Geology and Precambrian Geology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "CSIR Emeritus Scientist, Dept. of Geology and Geophysics, Indian Institute of Technology",
+        "city": "Kharagpur 721 302"
+    }
+}

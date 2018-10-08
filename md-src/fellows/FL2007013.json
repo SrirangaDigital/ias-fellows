@@ -1,0 +1,33 @@
+{
+    "id": "FL2007013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vishwa Mohan",
+            "last": "Katoch",
+            "display": "Katoch, Dr Vishwa Mohan"
+        },
+        "sex": "M",
+        "birthDate": "1953-02-18",
+        "degree": "MD (AIIMS)",
+        "honours": "FAMS, FNASc, FNA",
+        "specialization": "Molecular Biology and Functional Genomics of Mycobacteria, Taxonomy, Epidemiology of Mycobacterial Diseases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2007",
+        "councilservice": "Council Service: 2010-12"
+    },
+    "contact": {
+        "address": "Secretary, Department of Health Research and, Director General, Indian Council of Medical Research, Ramalingaswami Bhavan, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2658 8204, (011) 2658 9620",
+            "residence": "(011) 2649 8214",
+            "mobile": "94122 62721",
+            "fax": "(011) 2658 8662"
+        }
+    }
+}

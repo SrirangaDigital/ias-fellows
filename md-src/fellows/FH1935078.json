@@ -1,0 +1,18 @@
+{
+    "id": "FH1935078",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "John",
+            "last": "Russell",
+            "display": "Russell, Prof. John"
+        },
+        "sex": "M",
+        "birthDate": "1872-10-31",
+        "deathDate": "1965-07-12"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

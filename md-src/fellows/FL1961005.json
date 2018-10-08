@@ -1,0 +1,24 @@
+{
+    "id": "FL1961005",
+    "profile": {
+        "name": {
+            "first": "Kokarachedu Nagabhushana",
+            "last": "Rao",
+            "display": "Rao, Mr Kokarachedu Nagabhushana"
+        },
+        "sex": "M",
+        "birthDate": "1913-09-13",
+        "deathDate": "1991-01-01",
+        "degree": "M.Sc. (Mysore)",
+        "specialization": "Mathematical Physics, Meteorology, Hydrology and Geomagnetism"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1961"
+    },
+    "contact": {
+        "address": "23/1, First Floor, 7th Main Road, Saraswathipuram",
+        "city": "Mysore 570 009"
+    }
+}

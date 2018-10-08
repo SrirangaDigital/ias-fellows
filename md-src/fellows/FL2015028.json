@@ -1,0 +1,34 @@
+{
+    "id": "FL2015028",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vedula Venkata Subrahmanya Srinivasa",
+            "last": "Sarma",
+            "display": "Sarma, Dr Vedula Venkata Subrahmanya Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1969-06-15",
+        "degree": "Ph.D. (Goa)",
+        "specialization": "Biogeochemistry, Stable Isotopes, Remote Sensing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "National Institute of Oceanography, Regional Centre, 176, Lawsons Bay Colony",
+        "city": "Visakhapatnam 530 017",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(0891) 253 9180",
+            "residence": "(0891) 274 4799",
+            "mobile": "98484 57779",
+            "fax": "(0891) 254 3595"
+        },
+        "email": {
+            "official": "sarmav@nio.org"
+        }
+    }
+}

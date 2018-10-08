@@ -1,0 +1,20 @@
+{
+    "id": "FL1935053",
+    "profile": {
+        "name": {
+            "first": "R",
+            "last": "Vaidyanathaswamy",
+            "display": "Vaidyanathaswamy,  R"
+        },
+        "sex": "M",
+        "birthDate": "1894-10-09",
+        "deathDate": "1960-03-17",
+        "specialization": "Topology, Set Theory"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1935",
+        "councilservice": "1934-35"
+    }
+}

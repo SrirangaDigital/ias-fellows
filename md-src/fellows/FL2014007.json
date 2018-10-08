@@ -1,0 +1,35 @@
+{
+    "id": "FL2014007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manchikanti",
+            "last": "Krishnamurthy",
+            "display": "Krishnamurthy, Prof. Manchikanti"
+        },
+        "sex": "M",
+        "birthDate": "1969-04-21",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Intense Laser Plasma Physics, Atomic & Molecular Physics, Optical Sciences"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Department of Nuclear & Atomic Physics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2685",
+            "residence": "(022) 2280 4657",
+            "mobile": "90046 80294",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "mkrism@tifr.res.in"
+        },
+        "url": "http://www.tifr.res.in/~uphill"
+    }
+}

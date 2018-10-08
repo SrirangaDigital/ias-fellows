@@ -1,0 +1,33 @@
+{
+    "id": "FL1974017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Venkatesh",
+            "last": "Narayanamurti",
+            "display": "Narayanamurti, Dr Venkatesh"
+        },
+        "sex": "M",
+        "birthDate": "1939-09-09",
+        "degree": "Ph.D. (Cornell)",
+        "specialization": "Solid State, Nanoscience, Electronic Materials, Science Policy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Benjamin Peirce Professor of Technology & Public Policy, Harvard University, 107D, Pierce Hall, 29, Oxford Street",
+        "city": "Cambridge, MA 02138",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-617) 384 8211",
+            "residence": "(+1-508) 432 2075",
+            "fax": "(+1-617) 496 5264"
+        },
+        "email": {
+            "official": "venky@seas.harvard.edu"
+        }
+    }
+}

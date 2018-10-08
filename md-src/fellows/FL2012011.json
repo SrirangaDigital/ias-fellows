@@ -1,0 +1,35 @@
+{
+    "id": "FL2012011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rakesh K",
+            "last": "Mishra",
+            "display": "Mishra, Dr Rakesh K"
+        },
+        "sex": "M",
+        "birthDate": "1961-04-14",
+        "degree": "Ph.D. (Allahabad)",
+        "honours": "FNASc, FNA",
+        "specialization": "Genomics, Chromatin, Epigenetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Director, Centre for Cellular & Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2600",
+            "residence": "(040) 2720 6400",
+            "mobile": "94419 02188",
+            "fax": "(040) 2716 0591"
+        },
+        "email": {
+            "official": "mishra@ccmb.res.in"
+        }
+    }
+}

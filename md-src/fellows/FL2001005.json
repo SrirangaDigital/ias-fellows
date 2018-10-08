@@ -1,0 +1,36 @@
+{
+    "id": "FL2001005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bhudev Chandra",
+            "last": "Das",
+            "display": "Das, Dr Bhudev Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1948-05-01",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNASc, FAMS, FNA",
+        "specialization": "Molecular Virology, Human Genetics and Stem Cell Biology, Molecular Oncology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Chairman & HG Khorana Chair Professor, AIMMSCR, Amity University, Sector 125",
+        "city": "Noida 201 313",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0120) 458 6855",
+            "residence": "98105 37835",
+            "mobile": "98105 66870",
+            "fax": "(0120) 439 2114"
+        },
+        "email": {
+            "official": "bcdas@amity.edu",
+            "personal": "bcdas48@hotmail.com"
+        }
+    }
+}

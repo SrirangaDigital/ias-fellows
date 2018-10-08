@@ -1,0 +1,25 @@
+{
+    "id": "FL1977012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Changalur Raman",
+            "last": "Narayanan",
+            "display": "Narayanan, Dr Changalur Raman"
+        },
+        "sex": "M",
+        "birthDate": "1916-12-17",
+        "deathDate": "1993-01-15",
+        "degree": "D.Phil. (Allahabad)",
+        "specialization": "NMR Spectroscopy, Chemistry of Natural Products,. Stereochemistry and Conformation"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "D-43, No.3, Aundh Road, Khadki",
+        "city": "Pune 411 003"
+    }
+}

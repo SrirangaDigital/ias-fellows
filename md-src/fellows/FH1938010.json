@@ -1,0 +1,18 @@
+{
+    "id": "FH1938010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Robert Thomson",
+            "last": "Leiper",
+            "display": "Leiper, Prof. Robert Thomson"
+        },
+        "sex": "M",
+        "birthDate": "1881-04-17",
+        "deathDate": "1969-05-21"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1938"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1992042",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mathukumalli",
+            "last": "Vidyasagar",
+            "display": "Vidyasagar, Dr Mathukumalli"
+        },
+        "sex": "M",
+        "birthDate": "1947-09-29",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "FNA, FNAE, FTWAS, FRS",
+        "specialization": "Control & System Theory, Machine Learning, Computational Cancer Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "Cecil & Ida Green Chair of Systems Biology Science, Erik Jonsson School of Engineering & Computer Science, The University of Texas at Dallas, 800 W. Campbell Road, EC39",
+        "city": "Richardson, TX 75080-3021",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-972) 883 4679",
+            "mobile": "(+1-972) 489 5705"
+        },
+        "email": {
+            "official": "m.vidyasagar@utdallas.edu"
+        },
+        "url": "http://www.utdallas.edu/~m.vidyasagar"
+    }
+}

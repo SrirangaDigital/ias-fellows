@@ -1,0 +1,33 @@
+{
+    "id": "FL1990022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Satinder Kumar",
+            "last": "Sikka",
+            "display": "Sikka, Dr Satinder Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1942-11-22",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "High Pressure Physics, X-ray &amp; Neutron Diffraction, Band Theory and Nuclear Explosions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "House No. 538, Sector 17",
+        "city": "Faridabad 121 002",
+        "state": "Haryana",
+        "telephone": {
+            "residence": "(0129) 408 6016",
+            "mobile": "99588 57056"
+        },
+        "email": {
+            "personal": "sksikka42@gmail.com"
+        }
+    }
+}

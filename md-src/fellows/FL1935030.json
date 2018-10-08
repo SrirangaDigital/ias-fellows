@@ -1,0 +1,22 @@
+{
+    "id": "FL1935030",
+    "profile": {
+        "name": {
+            "first": "Nagesh Subbarao",
+            "last": "Nagendra Nath",
+            "display": "Nagendra Nath,  Nagesh Subbarao"
+        },
+        "sex": "M",
+        "birthDate": "1912-05-10",
+        "deathDate": "1979-09-02",
+        "degree": "Ph.D. (Cantab)",
+        "honours": "FNA",
+        "specialization": "Applied Mathematics and Theoretical Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1935",
+        "councilservice": "1962-64, 1968-70; Vice President 1962-64, 1968-70"
+    }
+}

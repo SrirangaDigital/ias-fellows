@@ -1,0 +1,25 @@
+{
+    "id": "FL1977003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chanduri Venkatasatya Kusumahara",
+            "last": "Baba",
+            "display": "Baba, Prof. Chanduri Venkatasatya Kusumahara"
+        },
+        "sex": "M",
+        "birthDate": "1937-10-02",
+        "deathDate": "2006-12-05",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Nuclear Reactions"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1977"
+    },
+    "contact": {
+        "address": "8-3-169/113, 2D,, Pallavi Apartments, Siddarthnagar",
+        "city": "Hyderabad 500 890"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1952006",
+    "profile": {
+        "name": {
+            "first": "Subodhchandra Manmukhram",
+            "last": "Mehta",
+            "display": "Mehta,  Subodhchandra Manmukhram"
+        },
+        "sex": "M",
+        "birthDate": "1902-05-04",
+        "deathDate": "1970-03-29",
+        "degree": "M.Sc.",
+        "honours": "FNA",
+        "specialization": "Physical Chemistry, Inorganic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1952"
+    }
+}

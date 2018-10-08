@@ -1,0 +1,32 @@
+{
+    "id": "FL1993035",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Aditya Prasad",
+            "last": "Roy",
+            "display": "Roy, Dr Aditya Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1939-10-16",
+        "degree": "Ph.D. (McMaster)",
+        "specialization": "Condensed Matter Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "C-504, Springfields Apartments, 19/20, Ambalipura, Varthur Hobli, Sarjapura Main Road",
+        "city": "Bengaluru 560 102",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 4110 4915",
+            "mobile": "99202 53215"
+        },
+        "email": {
+            "personal": "aproy11@gmail.com"
+        }
+    }
+}

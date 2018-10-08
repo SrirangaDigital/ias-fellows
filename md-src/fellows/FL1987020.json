@@ -1,0 +1,35 @@
+{
+    "id": "FL1987020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shyam Narayan",
+            "last": "Tandon",
+            "display": "Tandon, Prof. Shyam Narayan"
+        },
+        "sex": "M",
+        "birthDate": "1944-12-06",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc",
+        "specialization": "Cosmic Rays, Infra-Red Astronomy, Ultraviolet Astronomy and Instrumentation for Astronomy & Space Astronomy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Emeritus Professor, Inter-University Centre for Astronomy & Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4100, (020) 2560 4110",
+            "residence": "(020) 2588 7051",
+            "mobile": "94230 36270",
+            "fax": "(020) 2560 4699"
+        },
+        "email": {
+            "official": "sntandon@iucaa.in"
+        }
+    }
+}

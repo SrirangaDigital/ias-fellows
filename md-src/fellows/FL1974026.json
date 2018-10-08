@@ -1,0 +1,31 @@
+{
+    "id": "FL1974026",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sundaresan",
+            "last": "Ramachandran",
+            "display": "Ramachandran, Dr Sundaresan"
+        },
+        "sex": "M",
+        "birthDate": "1930-08-17",
+        "degree": "D.Sc. (MIT)",
+        "specialization": "Alloy & Stainless Steel Making and Process Metallurgical Design & Development"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "'Vidya Theertha Kripa', No. 1, Siva Sundar Avenue, Thiruvanmiyur",
+        "city": "Chennai 600 041",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2441 0185"
+        },
+        "email": {
+            "official": "sram@ureach.com"
+        }
+    }
+}

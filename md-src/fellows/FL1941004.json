@@ -1,0 +1,21 @@
+{
+    "id": "FL1941004",
+    "profile": {
+        "name": {
+            "first": "Mangalore Gopala",
+            "last": "Kini",
+            "display": "Kini,  Mangalore Gopala"
+        },
+        "sex": "M",
+        "birthDate": "1893-08-05",
+        "deathDate": "1952-08-22",
+        "degree": "M.B.B.S.",
+        "honours": "FNA",
+        "specialization": "Orthopaedic Surgery, Anesthetic Technique"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1941"
+    }
+}

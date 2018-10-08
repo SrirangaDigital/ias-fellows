@@ -1,0 +1,21 @@
+{
+    "id": "FL1953006",
+    "profile": {
+        "name": {
+            "first": "Jillella",
+            "last": "Venkateswarlu",
+            "display": "Venkateswarlu,  Jillella"
+        },
+        "sex": "M",
+        "birthDate": "1912-03-21",
+        "deathDate": "1978-05-20",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "FNA",
+        "specialization": "Plant Morphology and Cytogenetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1953"
+    }
+}

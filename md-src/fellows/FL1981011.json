@@ -1,0 +1,31 @@
+{
+    "id": "FL1981011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chindu Sona",
+            "last": "Warke",
+            "display": "Warke, Prof. Chindu Sona"
+        },
+        "sex": "M",
+        "birthDate": "1931-11-23",
+        "degree": "Ph.D. (UC, San Diego)",
+        "specialization": "Theoretical Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "203, Vigyanshila, Juhu-Varsova Link Road, Andheri (West)",
+        "city": "Mumbai 400 061",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2631 5616"
+        },
+        "email": {
+            "personal": "cswarke@rediffmail.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL1993032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Addicam Jagannadha",
+            "last": "Rao",
+            "display": "Rao, Prof. Addicam Jagannadha"
+        },
+        "sex": "M",
+        "birthDate": "1942-07-11",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FAMS",
+        "specialization": "Regulation of Placental Function, Cellular Differentiation, Primate Biology, Oocyte Maturation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Biochemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 8660, (080) 2293 2308",
+            "residence": "(080) 2650 7124",
+            "mobile": "98458 02391",
+            "fax": "(080) 2360 0814"
+        },
+        "email": {
+            "official": "ajrao@iisc.ac.in",
+            "personal": "ajrao2006@gmail.com"
+        }
+    }
+}

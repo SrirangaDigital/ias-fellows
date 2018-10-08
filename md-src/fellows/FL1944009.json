@@ -1,0 +1,20 @@
+{
+    "id": "FL1944009",
+    "profile": {
+        "name": {
+            "first": "Keshava Prabhakar",
+            "last": "Rode",
+            "display": "Rode,  Keshava Prabhakar"
+        },
+        "sex": "M",
+        "birthDate": "1902-11-08",
+        "deathDate": "1985-12-02",
+        "degree": "Ph.D. (Zurich)",
+        "specialization": "Geology, World Tectonics and Petrology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1944"
+    }
+}

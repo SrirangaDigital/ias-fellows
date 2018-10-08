@@ -1,0 +1,25 @@
+{
+    "id": "FL1995029",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bhaskar",
+            "last": "Datta",
+            "display": "Datta, Dr Bhaskar"
+        },
+        "sex": "M",
+        "birthDate": "1949-07-01",
+        "deathDate": "1999-12-03",
+        "degree": "Ph.D. (New York)",
+        "specialization": "Nuclear Astrophysics and General Relativity"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Indian Institute of Astrophysics, Sarjapur Road, Koramangala",
+        "city": "Bengaluru 560 034"
+    }
+}

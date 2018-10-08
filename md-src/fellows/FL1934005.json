@@ -1,0 +1,24 @@
+{
+    "id": "FL1934005",
+    "profile": {
+        "name": {
+            "first": "T V Ramakrishna",
+            "last": "Ayyar",
+            "display": "Ayyar,  T V Ramakrishna"
+        },
+        "sex": "M",
+        "birthDate": "1880-00-00",
+        "deathDate": "1952-02-13",
+        "degree": "Ph.D. (Stanford)",
+        "specialization": "Entomology, Taxonomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934"
+    },
+    "contact": {
+        "address": "Government Agricultural College",
+        "city": "Coimbatore"
+    }
+}

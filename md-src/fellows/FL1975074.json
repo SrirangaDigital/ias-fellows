@@ -1,0 +1,26 @@
+{
+    "id": "FL1975074",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jagdish",
+            "last": "Shankar",
+            "display": "Shankar, Dr Jagdish"
+        },
+        "sex": "M",
+        "birthDate": "1912-10-03",
+        "deathDate": "1992-01-31",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Nuclear & Radiation Chemistry and Solid State Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "4, Saras Baug, Deonar",
+        "city": "Bombay 400 088"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1945001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Wasudeo Vithal",
+            "last": "Bhagwat",
+            "display": "Bhagwat, Dr Wasudeo Vithal"
+        },
+        "sex": "M",
+        "birthDate": "1906-10-10",
+        "deathDate": "2000-01-28",
+        "degree": "D.Sc. (Allahabad)",
+        "specialization": "Physical Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1945"
+    },
+    "contact": {
+        "address": "c/o Dr V W Bhagwat, F 2/17 University Campus, Vikram University,, Kothi Road",
+        "city": "Ujjain 456 010"
+    }
+}

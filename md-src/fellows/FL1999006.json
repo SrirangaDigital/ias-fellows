@@ -1,0 +1,34 @@
+{
+    "id": "FL1999006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Viswanathan",
+            "last": "Kumaran",
+            "display": "Kumaran, Prof. Viswanathan"
+        },
+        "sex": "M",
+        "birthDate": "1966-06-17",
+        "degree": "Ph.D. (Cornell)",
+        "honours": "FNA, FNAE",
+        "specialization": "Hydrodynamic Stability, Dynamics of Complex Fluids and Granular Flows"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Professor, Department of Chemical Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3112",
+            "residence": "(080) 2360 1034",
+            "fax": "(080) 2360 8121"
+        },
+        "email": {
+            "official": "kumaran@iisc.ac.in"
+        }
+    }
+}

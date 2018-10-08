@@ -1,0 +1,35 @@
+{
+    "id": "FL2010057",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jhillu Singh",
+            "last": "Yadav",
+            "display": "Yadav, Dr Jhillu Singh"
+        },
+        "sex": "M",
+        "birthDate": "1950-08-04",
+        "degree": "Ph.D. (Baroda)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Biologically Active Natural Products, Agrochemicals & Pheromones, Development of New Methodologies for Sustainable Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Director of Research, Indrashil Institute of Science & Technology, Post Rajpur",
+        "city": "Mehsana 3382 730",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(02754) 27 8813, 27 8815",
+            "residence": "70690 76528",
+            "mobile": "98492 40801"
+        },
+        "email": {
+            "official": "jsyadav@iist.edu.in",
+            "personal": "yadavfna@gmail.com"
+        }
+    }
+}

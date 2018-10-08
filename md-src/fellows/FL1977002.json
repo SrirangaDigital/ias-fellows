@@ -1,0 +1,37 @@
+{
+    "id": "FL1977002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Marthanda Varma Sankaran",
+            "last": "Valiathan",
+            "display": "Valiathan, Prof. Marthanda Varma Sankaran"
+        },
+        "sex": "M",
+        "birthDate": "1934-05-24",
+        "degree": "Ch.M. (Liverpool)",
+        "honours": "FRCS (England, Edinburgh & Canada), FRCP (London), D.Sc. (h.c.), FNA, FNASc, FNAE, FAMS, FTWAS",
+        "specialization": "Cardiac Surgery, Cardiovascular Materials and Ayurveda"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1977",
+        "councilservice": "Council Service: 1980-91; Vice-President: 1986-91"
+    },
+    "contact": {
+        "address": "National Research Professor, School of Life Sciences, Manipal Academy of Higher Education, Dr TMA Pai Planetarium Complex, Madhav Nagar",
+        "city": "Manipal 576 104",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(0820) 292 2342, 257 1201/22342",
+            "residence": "(0820) 257 0491",
+            "mobile": "94483 81547",
+            "fax": "(0820) 257 1919, 257 0062"
+        },
+        "email": {
+            "official": "ms.valiathan@manipal.edu",
+            "personal": "msvaliathan@gmail.com"
+        }
+    }
+}

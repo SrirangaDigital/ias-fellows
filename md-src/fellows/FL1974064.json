@@ -1,0 +1,26 @@
+{
+    "id": "FL1974064",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ganesh Shrikrishna",
+            "last": "Laddha",
+            "display": "Laddha, Prof. Ganesh Shrikrishna"
+        },
+        "sex": "M",
+        "birthDate": "1922-08-26",
+        "deathDate": "2010-09-30",
+        "degree": "Ph.D. (Purdue)",
+        "honours": "FNAE",
+        "specialization": "Chemical Engineering and Chemical Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "4th Floor, KGR Govardhan, New No. 37 (old no. 17), Besant Avenue, Adyar",
+        "city": "Chennai 600 020"
+    }
+}

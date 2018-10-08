@@ -1,0 +1,36 @@
+{
+    "id": "FL2011003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rakesh",
+            "last": "Bhatnagar",
+            "display": "Bhatnagar, Prof. Rakesh"
+        },
+        "sex": "M",
+        "birthDate": "1951-07-11",
+        "degree": "Ph.D. (Kanpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Vaccine Development, Genetic Engineering, Molecular Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "School of Biotechnology, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "Delhi",
+        "telephone": {
+            "office": "(011) 2670 4079, 2670 4715",
+            "residence": "(011) 2674 2258",
+            "mobile": "99711 52004",
+            "fax": "(011) 2674 2040"
+        },
+        "email": {
+            "official": "rakeshbhatnagar@jnu.ac.in"
+        },
+        "url": "http://www.jnu.ac.in/faculty/rbhatnagar/"
+    }
+}

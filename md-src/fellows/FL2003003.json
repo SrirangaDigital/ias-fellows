@@ -1,0 +1,34 @@
+{
+    "id": "FL2003003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tushar Kanti",
+            "last": "Chakraborty",
+            "display": "Chakraborty, Dr Tushar Kanti"
+        },
+        "sex": "M",
+        "birthDate": "1957-04-10",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Peptides & Peptidomimetics, Organic Synthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Department of Organic Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2215",
+            "fax": "(080) 2360 0529"
+        },
+        "email": {
+            "official": "tushar@iisc.ac.in",
+            "personal": "tusharkantichakraborty@gmail.com"
+        }
+    }
+}

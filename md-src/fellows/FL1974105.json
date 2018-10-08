@@ -1,0 +1,26 @@
+{
+    "id": "FL1974105",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gopalasamudram Sitaram",
+            "last": "Venkataraman",
+            "display": "Venkataraman, Dr Gopalasamudram Sitaram"
+        },
+        "sex": "M",
+        "birthDate": "1930-02-01",
+        "deathDate": "1998-10-03",
+        "degree": "D.Sc. (Banaras)",
+        "honours": "FNA",
+        "specialization": "Algology and Microbiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "19A, 29th Street, Nanganallur",
+        "city": "Madras 600 061"
+    }
+}

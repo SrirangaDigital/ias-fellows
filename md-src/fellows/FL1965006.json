@@ -1,0 +1,26 @@
+{
+    "id": "FL1965006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jagat Narain",
+            "last": "Kapur",
+            "display": "Kapur, Dr Jagat Narain"
+        },
+        "sex": "M",
+        "birthDate": "1923-12-07",
+        "deathDate": "2002-09-04",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc",
+        "specialization": "Applied & Industrial Mathematics, Entropy Optimization Principles, Mathematical Modelling and Biomathematics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1965"
+    },
+    "contact": {
+        "address": "C-766, New Friends Colony",
+        "city": "New Delhi 110 065"
+    }
+}

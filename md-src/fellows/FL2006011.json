@@ -1,0 +1,36 @@
+{
+    "id": "FL2006011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tayur Narasingarao",
+            "last": "Guru Row",
+            "display": "Guru Row, Prof. Tayur Narasingarao"
+        },
+        "sex": "M",
+        "birthDate": "1951-09-26",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FRSC",
+        "specialization": "Chemical Crystallography, Charge Density Analysis, Functional Materials Polymorphism & Drug Design"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Professor, Solid State and Structural Chemistry Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2796",
+            "residence": "(080) 2242 6423",
+            "mobile": "98805 09225",
+            "fax": "(080) 2360 1310"
+        },
+        "email": {
+            "official": "gururow@iisc.ac.in",
+            "personal": "gururow@gmail.com"
+        }
+    }
+}

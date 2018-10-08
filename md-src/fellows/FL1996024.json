@@ -1,0 +1,33 @@
+{
+    "id": "FL1996024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Siddhartha",
+            "last": "Roy",
+            "display": "Roy, Prof. Siddhartha"
+        },
+        "sex": "M",
+        "birthDate": "1954-04-01",
+        "degree": "Ph.D. (Delaware)",
+        "honours": "FNA",
+        "specialization": "Chemical Biology, Protein-Nucleic Acid Interaction, Peptide Therapeutics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Dean of Studies, Bose Institute, P-1/12, CIT Scheme VII M",
+        "city": "Kolkata 700 054",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2355 9544",
+            "residence": "(033) 2412 1261"
+        },
+        "email": {
+            "personal": "sidroykolkata@gmail.com"
+        }
+    }
+}

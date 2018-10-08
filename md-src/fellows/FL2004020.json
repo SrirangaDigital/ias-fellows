@@ -1,0 +1,34 @@
+{
+    "id": "FL2004020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Akhilesh Kumar",
+            "last": "Tyagi",
+            "display": "Tyagi, Prof. Akhilesh Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1956-05-15",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc, FNAAS, FTWAS",
+        "specialization": "Genomics, Regulation Biology and Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Department of Plant Molecular Biology, University of Delhi - South Campus, Benito Juarez Road",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2411 5095",
+            "residence": "(011) 2411 0195",
+            "mobile": "98712 77558"
+        },
+        "email": {
+            "official": "akhilesh@genomeindia.org"
+        }
+    }
+}

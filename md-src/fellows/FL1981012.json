@@ -1,0 +1,25 @@
+{
+    "id": "FL1981012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Trichnopoly Chelvaraj",
+            "last": "Anand Kumar",
+            "display": "Anand Kumar, Dr Trichnopoly Chelvaraj"
+        },
+        "sex": "M",
+        "birthDate": "1936-06-18",
+        "deathDate": "2010-01-26",
+        "degree": "Ph.D. (Rajasthan), D.Sc. (Mumbai)",
+        "specialization": "Human Reproduction"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Chairman, Hope Infertility Clinic & Research Foundation, 33/1, Aga Abbas Ali Road",
+        "city": "Bengaluru 560 042"
+    }
+}

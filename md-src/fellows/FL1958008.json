@@ -1,0 +1,25 @@
+{
+    "id": "FL1958008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kunapuli",
+            "last": "Venkateswarlu",
+            "display": "Venkateswarlu, Prof. Kunapuli"
+        },
+        "sex": "M",
+        "birthDate": "1916-06-03",
+        "deathDate": "2005-07-02",
+        "degree": "D.Sc. (Andhra)",
+        "specialization": "Raman Spectroscopy and Molecular Dynamics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1958"
+    },
+    "contact": {
+        "address": "2/460, Teacher Colony, Chinnayam Palayam",
+        "city": "Coimbatore 641 014"
+    }
+}

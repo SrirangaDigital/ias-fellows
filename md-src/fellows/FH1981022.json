@@ -1,0 +1,30 @@
+{
+    "id": "FH1981022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sir John Meurig",
+            "last": "Thomas",
+            "display": "Thomas, Prof. Sir John Meurig"
+        },
+        "sex": "M",
+        "birthDate": "1932-12-15",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Department of Materials Science and, Metallurgy, New Museums Site, 27, Babbage Road",
+        "city": "Cambridge CB3 0FS",
+        "country": "U.K.",
+        "telephone": {
+            "office": "(+44-1223) 33 4300",
+            "fax": "(+44-1223) 33 4567"
+        },
+        "email": {
+            "official": "jmt2@cam.ac.uk"
+        }
+    }
+}

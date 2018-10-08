@@ -1,0 +1,34 @@
+{
+    "id": "FL1991008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shridhar Ramchandra",
+            "last": "Gadre",
+            "display": "Gadre, Prof. Shridhar Ramchandra"
+        },
+        "sex": "M",
+        "birthDate": "1950-05-20",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "Quantum Chemistry and Computer Applications"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Interdisciplinary School of Scientific Computing, University of Pune, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 1406",
+            "residence": "(020) 2421 4664",
+            "mobile": "99606 24664"
+        },
+        "email": {
+            "official": "gadre@unipune.ac.in"
+        }
+    }
+}

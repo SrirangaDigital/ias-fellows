@@ -1,0 +1,33 @@
+{
+    "id": "FL1990008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kandukuri Sivananda",
+            "last": "Gandhi",
+            "display": "Gandhi, Prof. Kandukuri Sivananda"
+        },
+        "sex": "M",
+        "birthDate": "1942-12-23",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "specialization": "Batteries and Fuel Cells, Multiphase Fluid Systems and Polymer Reaction Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Department of Chemical Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2320",
+            "fax": "(080) 2360 8121"
+        },
+        "email": {
+            "official": "gandhi@iisc.ac.in"
+        },
+        "url": "http://chemeng.iisc.ac.in/gandhi/home.html"
+    }
+}

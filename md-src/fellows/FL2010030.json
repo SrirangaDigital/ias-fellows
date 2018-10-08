@@ -1,0 +1,35 @@
+{
+    "id": "FL2010030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Birendra Nath",
+            "last": "Mallick",
+            "display": "Mallick, Prof. Birendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1956-08-01",
+        "degree": "Ph.D. (AIIMS)",
+        "honours": "FNA, FNASc",
+        "specialization": "Neuropharmacology, Neurophysiology, Sleep-Wakefulness-REM Sleep, Neuro-cognitive Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "School of Life Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2670 4522",
+            "residence": "(011) 2674 1370",
+            "mobile": "98106 60572",
+            "fax": "(011) 2674 2558"
+        },
+        "email": {
+            "personal": "remsbnm@yahoo.com"
+        }
+    }
+}

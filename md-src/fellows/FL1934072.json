@@ -1,0 +1,21 @@
+{
+    "id": "FL1934072",
+    "profile": {
+        "name": {
+            "first": "Lakshminarayanapuram Ananthakrishnan",
+            "last": "Ramdas",
+            "display": "Ramdas,  Lakshminarayanapuram Ananthakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1900-06-03",
+        "deathDate": "1979-01-01",
+        "degree": "Ph.D.",
+        "honours": "FNA, FNASc",
+        "specialization": "Atmospheric Physics and Meteorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934"
+    }
+}

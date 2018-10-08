@@ -1,0 +1,34 @@
+{
+    "id": "FL2012019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arikkala Raghurama",
+            "last": "Rao",
+            "display": "Rao, Prof. Arikkala Raghurama"
+        },
+        "sex": "M",
+        "birthDate": "1954-06-14",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "X-ray Astronomy, X-ray Instrumentation, High Energy Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Astronomy & Astrophysics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2375",
+            "residence": "(022) 2280 4793",
+            "mobile": "98694 58091",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "arrao@tifr.res.in"
+        }
+    }
+}

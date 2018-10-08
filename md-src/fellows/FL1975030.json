@@ -1,0 +1,26 @@
+{
+    "id": "FL1975030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asima",
+            "last": "Chatterjee",
+            "display": "Chatterjee, Prof. Asima"
+        },
+        "sex": "F",
+        "birthDate": "1917-09-23",
+        "deathDate": "2006-11-22",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "D.Sc. (h.c.), FNA",
+        "specialization": "Natural Products & Drug Development, Reaction Mechanism, Stereochemistry and Synthetic Studies"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Flat 3, Block 1, 108 Manictala Main Road",
+        "city": "Kolkata 700 054"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1935001",
+    "profile": {
+        "name": {
+            "first": "Rango Krishna",
+            "last": "Asundi",
+            "display": "Asundi,  Rango Krishna"
+        },
+        "sex": "M",
+        "birthDate": "1895-08-14",
+        "deathDate": "1982-02-02",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA, FNASc",
+        "specialization": "Molecular Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1935",
+        "councilservice": "1965-70"
+    },
+    "contact": {
+        "address": "Om Shakti, 12, Main Avenue, 16th Road, Santa Cruz (West)",
+        "city": "Bombay 400 054"
+    }
+}

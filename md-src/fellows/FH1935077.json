@@ -1,0 +1,19 @@
+{
+    "id": "FH1935077",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Robort",
+            "last": "Robinson",
+            "display": "Robinson, Prof. Robort"
+        },
+        "sex": "M",
+        "birthDate": "1886-09-13",
+        "deathDate": "1975-02-08",
+        "honours": "Nobel Laureate (Chemistry) - 1947"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

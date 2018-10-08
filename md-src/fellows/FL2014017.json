@@ -1,0 +1,35 @@
+{
+    "id": "FL2014017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Karumanchi Srisaila Mallikarjuna S",
+            "last": "Raghavarao",
+            "display": "Raghavarao, Dr Karumanchi Srisaila Mallikarjuna S"
+        },
+        "sex": "M",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNAE, FNAAS",
+        "specialization": "Food Engineering, Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Chief Scientist, Department of Food Engineering, Central Food Technological Research Institute",
+        "city": "Mysore 570 020",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(0821) 251 2520",
+            "residence": "(0821) 234 0988",
+            "mobile": "94835 40988",
+            "fax": "(0821) 251 7233"
+        },
+        "email": {
+            "official": "raghavarao@cftri.res.in",
+            "personal": "ksmsraghavarao@gmail.com"
+        }
+    }
+}

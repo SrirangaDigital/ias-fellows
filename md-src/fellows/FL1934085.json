@@ -1,0 +1,19 @@
+{
+    "id": "FL1934085",
+    "profile": {
+        "name": {
+            "first": "Raghavendra",
+            "last": "Row",
+            "display": "Row,  Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1871-11-16",
+        "deathDate": "1953-11-14",
+        "honours": "FNA"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934"
+    }
+}

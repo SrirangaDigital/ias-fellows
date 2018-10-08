@@ -1,0 +1,34 @@
+{
+    "id": "FL1999001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Samit",
+            "last": "Adhya",
+            "display": "Adhya, Dr Samit"
+        },
+        "sex": "M",
+        "birthDate": "1953-09-29",
+        "degree": "Ph.D. (New York)",
+        "honours": "FNA",
+        "specialization": "Mitochondrial Biology, Molecular Genetics of Parasites, Intracellular RNA Trafficking and DNA Diagnostics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "CSIR Emeritus Scientist, Indian Inst. of Chemical Biology, 4, Raja S.C. Mullick Road",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2499 5736",
+            "residence": "(033) 2280 0123",
+            "mobile": "94326 69883"
+        },
+        "email": {
+            "personal": "nilugrandson@gmail.com"
+        }
+    }
+}

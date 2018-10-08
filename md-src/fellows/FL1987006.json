@@ -1,0 +1,33 @@
+{
+    "id": "FL1987006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Santosh Kumar",
+            "last": "Gupta",
+            "display": "Gupta, Prof. Santosh Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1946-07-19",
+        "degree": "Ph.D. (Pennsylvania)",
+        "honours": "FNASc, FNAE",
+        "specialization": "Polymer Engineering & Science, Bio-mimetic Adaptations of Multi-objective Evolutionary Algorithm and Experimental Online Optimal Control"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "Distinguished Professor, Department of Chemical Engineering, University of Petroleum & Energy Studies, Energy Acres, PO Bidholi",
+        "city": "Dehra Dun 248 007",
+        "state": "Uttarakhand",
+        "telephone": {
+            "mobile": "95542 72320"
+        },
+        "email": {
+            "official": "skgupta@ddn.upes.ac.in,skgupta@iitk.ac.in"
+        },
+        "url": "http://www.iitk.ac.in/che/faculty/skgupta.htm"
+    }
+}

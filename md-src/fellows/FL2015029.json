@@ -1,0 +1,34 @@
+{
+    "id": "FL2015029",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kumarasamy",
+            "last": "Thangaraj",
+            "display": "Thangaraj, Dr Kumarasamy"
+        },
+        "sex": "M",
+        "birthDate": "1963-06-02",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Population Genetics, Evolutionary Biology, Clinical & Medical Genetics, Ancient DNA & Forensic Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Centre for Cellular & Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2716 0012, 2719 2634",
+            "residence": "(040) 2717 3822",
+            "mobile": "99082 13822",
+            "fax": "(040) 2716 0591"
+        },
+        "email": {
+            "official": "thangs@ccmb.res.in"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "FL2006013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Achuthan",
+            "last": "Jayaraman",
+            "display": "Jayaraman, Prof. Achuthan"
+        },
+        "sex": "M",
+        "birthDate": "1957-06-21",
+        "degree": "Ph.D. (Gujarat)",
+        "specialization": "Atmospheric Science, Aerosols and Radiative Transfer"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "telephone": {
+            "mobile": "70226 06214"
+        },
+        "email": {
+            "personal": "jayaraman.achuthan@gmail.com"
+        }
+    }
+}

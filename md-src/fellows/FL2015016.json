@@ -1,0 +1,35 @@
+{
+    "id": "FL2015016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arindam",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Arindam"
+        },
+        "sex": "M",
+        "birthDate": "1969-07-09",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Experimental Condensed Matter Physics, Semiconductor Physics, Nanodevice Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3288",
+            "residence": "(080) 6568 4779",
+            "mobile": "98800 64200",
+            "fax": "(080) 2360 2602"
+        },
+        "email": {
+            "official": "arindam@iisc.ac.in"
+        }
+    }
+}

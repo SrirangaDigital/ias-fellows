@@ -1,0 +1,21 @@
+{
+    "id": "FL1934128",
+    "profile": {
+        "name": {
+            "first": "Thomas Sherlock",
+            "last": "Wheeler",
+            "display": "Wheeler,  Thomas Sherlock"
+        },
+        "sex": "M",
+        "birthDate": "1899-04-30",
+        "deathDate": "1962-12-13",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934",
+        "councilservice": "1934-37; Vice President 1934-37"
+    }
+}

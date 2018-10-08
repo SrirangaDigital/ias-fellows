@@ -1,0 +1,35 @@
+{
+    "id": "FL2006029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Charusita",
+            "last": "Chakravarty",
+            "display": "Chakravarty, Prof. Charusita"
+        },
+        "sex": "F",
+        "birthDate": "1964-05-05",
+        "deathDate": "2016-03-29",
+        "degree": "Ph.D. (Cambridge)",
+        "specialization": "Chemical Physics, Theoretical & Computational Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Professor, Department of Chemistry, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 1510",
+            "residence": "(011) 2674 1109",
+            "mobile": "98108 04202",
+            "fax": "(011) 4716 5550"
+        },
+        "email": {
+            "official": "charus@chemistry.iitd.ernet.in"
+        }
+    }
+}

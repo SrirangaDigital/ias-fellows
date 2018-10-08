@@ -1,0 +1,26 @@
+{
+    "id": "FL1980006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chintala Raja Ram Mohan",
+            "last": "Reddy",
+            "display": "Reddy, Dr Chintala Raja Ram Mohan"
+        },
+        "sex": "M",
+        "birthDate": "1929-01-16",
+        "deathDate": "2012-12-12",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "D.Sc. (h.c.), FNA",
+        "specialization": "Pathology, Parasitology and Cancer Epidemiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1980"
+    },
+    "contact": {
+        "address": "404, Mount Kailash Apartments, Road No.4, Banjara Hills",
+        "city": "Hyderabad 500 034"
+    }
+}

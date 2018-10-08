@@ -1,0 +1,33 @@
+{
+    "id": "FL1983018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Noshir Hormusji",
+            "last": "Wadia",
+            "display": "Wadia, Dr Noshir Hormusji"
+        },
+        "sex": "M",
+        "birthDate": "1925-01-20",
+        "deathDate": "2016-04-10",
+        "degree": "M.D. (Mumbai)",
+        "honours": "FRCP (London), FAMS, FNA, D.Sc.",
+        "specialization": "Clinical Neurology and Neurosciences"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1983"
+    },
+    "contact": {
+        "address": "6, Om Ratan, 70, Pochkhanawala Road, Worli",
+        "city": "Mumbai 400 030",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2496 4799, (022) 2496 6045"
+        },
+        "email": {
+            "personal": "wadianh@gmail.com"
+        }
+    }
+}

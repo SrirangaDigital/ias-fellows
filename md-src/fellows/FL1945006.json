@@ -1,0 +1,20 @@
+{
+    "id": "FL1945006",
+    "profile": {
+        "name": {
+            "first": "Abdul Khwaja",
+            "last": "Hamied",
+            "display": "Hamied,  Abdul Khwaja"
+        },
+        "sex": "M",
+        "birthDate": "1898-10-31",
+        "deathDate": "1972-06-23",
+        "degree": "Ph.D. (Berlin)",
+        "specialization": "Pharmaceutical Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1945"
+    }
+}

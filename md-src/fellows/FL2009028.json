@@ -1,0 +1,36 @@
+{
+    "id": "FL2009028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivasan",
+            "last": "Sampath",
+            "display": "Sampath, Prof. Srinivasan"
+        },
+        "sex": "M",
+        "birthDate": "1961-05-25",
+        "degree": "Ph.D. (IIT, Madras)",
+        "honours": "FNA, FNAE",
+        "specialization": "Layered Chalcogenides, Interfacial Electrochemistry, Nanostructured Materials, Fuel Cells & Supercapacitors, SERS and Electrochemical Sensors"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Inorganic & Physical Chemistry Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3315",
+            "residence": "(080) 2351 1974",
+            "mobile": "94837 42993",
+            "fax": "(080) 2360 6867"
+        },
+        "email": {
+            "official": "sampath@ipc.iisc.ernet.in"
+        },
+        "url": "http://ipc.iisc.ernet.in/sampath.html"
+    }
+}

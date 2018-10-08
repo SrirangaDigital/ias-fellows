@@ -1,0 +1,33 @@
+{
+    "id": "FL2006021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Balakrishnan Siddartha",
+            "last": "Ramakrishna",
+            "display": "Ramakrishna, Prof. Balakrishnan Siddartha"
+        },
+        "sex": "M",
+        "birthDate": "1952-10-26",
+        "degree": "MD, DM & Ph.D. (Madras)",
+        "honours": "FAMS, FNA",
+        "specialization": "Gastroenterology, Nutrition, Inflammatory Bowel Disease, Gastrointestinal Microbiome Stem Cells"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Flat No. 202-2-03, GVSPL Green Park, 342, Vaidyanathan Street, Nungambakkam",
+        "city": "Chennai 600 034",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2362 6314",
+            "mobile": "99946 14890"
+        },
+        "email": {
+            "personal": "wurama@hotmail.com"
+        }
+    }
+}

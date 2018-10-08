@@ -1,0 +1,25 @@
+{
+    "id": "FL1989025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nidumolu Venkata Gurunadha",
+            "last": "Sarma",
+            "display": "Sarma, Prof. Nidumolu Venkata Gurunadha"
+        },
+        "sex": "M",
+        "birthDate": "1932-09-16",
+        "deathDate": "2008-12-05",
+        "degree": "M.Sc. (Andhra)",
+        "specialization": "Radio Astronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "13-6-434/C/3, Maruthi Nagar, Langar House P.O.",
+        "city": "Hyderabad 500 008"
+    }
+}

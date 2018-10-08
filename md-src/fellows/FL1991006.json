@@ -1,0 +1,34 @@
+{
+    "id": "FL1991006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Maharaj Kishan",
+            "last": "Bhan",
+            "display": "Bhan, Prof. Maharaj Kishan"
+        },
+        "sex": "M",
+        "birthDate": "1947-11-09",
+        "degree": "MBBS (AFMC, Pune), MD (Delhi)",
+        "honours": "FAMS, FNA, FNASc",
+        "specialization": "Paediatrics, Gastroenterology, Infectious Diseases and Nutrition"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1991",
+        "councilservice": "Council Service: 2013-15; Vice President: 2013-15"
+    },
+    "contact": {
+        "address": "National Science Professor, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2651 3953",
+            "residence": "(011) 4165 5439"
+        },
+        "email": {
+            "personal": "rajkbhan@gmail.com"
+        }
+    }
+}

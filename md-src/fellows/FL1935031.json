@@ -1,0 +1,19 @@
+{
+    "id": "FL1935031",
+    "profile": {
+        "name": {
+            "first": "Mandyam Jeersannidhi",
+            "last": "Narasimhan",
+            "display": "Narasimhan,  Mandyam Jeersannidhi"
+        },
+        "sex": "M",
+        "birthDate": "1891-07-01",
+        "deathDate": "1970-09-24",
+        "specialization": "Mycology, Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    }
+}

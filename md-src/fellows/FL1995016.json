@@ -1,0 +1,32 @@
+{
+    "id": "FL1995016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hassan Annegowda",
+            "last": "Ranganath",
+            "display": "Ranganath, Prof. Hassan Annegowda"
+        },
+        "sex": "M",
+        "birthDate": "1948-06-16",
+        "degree": "Ph.D. (Mysore)",
+        "honours": "FNASc, FNA",
+        "specialization": "Zoology, Genetics and Evolution"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Centenary Visitors' House, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "99023 00909"
+        },
+        "email": {
+            "personal": "haranganath@gmail.com"
+        }
+    }
+}

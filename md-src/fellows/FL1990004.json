@@ -1,0 +1,33 @@
+{
+    "id": "FL1990004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narendra",
+            "last": "Bhandari",
+            "display": "Bhandari, Prof Narendra"
+        },
+        "sex": "M",
+        "birthDate": "1941-10-10",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Planetary Sciences, Nuclear Geophysics and Exploration of Moon & Mars"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "2, Nilima Flats, Vijay Crossing, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "residence": "(079) 2791 2332",
+            "mobile": "98240 77890"
+        },
+        "email": {
+            "personal": "nnbhandari@yahoo.com"
+        }
+    }
+}

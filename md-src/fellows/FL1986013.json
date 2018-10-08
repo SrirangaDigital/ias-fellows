@@ -1,0 +1,34 @@
+{
+    "id": "FL1986013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Inder Bir Singh",
+            "last": "Passi",
+            "display": "Passi, Prof. Inder Bir Singh"
+        },
+        "sex": "M",
+        "birthDate": "1939-08-20",
+        "degree": "Ph.D. (Exon)",
+        "honours": "FNA, FNASc",
+        "specialization": "Algebra"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "381, Sector 38-A",
+        "city": "Chandigarh 160 014",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(0172) 466 8381",
+            "mobile": "98724 48638"
+        },
+        "email": {
+            "official": "passi@pu.ac.in",
+            "personal": "ibspassi@yahoo.co.in"
+        }
+    }
+}

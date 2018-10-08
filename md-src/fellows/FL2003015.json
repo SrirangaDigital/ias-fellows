@@ -1,0 +1,33 @@
+{
+    "id": "FL2003015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Guntupalli Veera Raghavendra",
+            "last": "Prasad",
+            "display": "Prasad, Prof. Guntupalli Veera Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1958-11-22",
+        "degree": "Ph.D. (Panjab)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Vertebrate Palaeontology, Mesozoic Mammals and Cretaceous Palaeobiogeography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Professor, Department of Geology, Centre for Advanced Studies, University of Delhi",
+        "city": "Delhi 110 007",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2766 7073",
+            "mobile": "98682 07140"
+        },
+        "email": {
+            "personal": "pguntupalli@rediffmail.com,guntupalli.vrprasad@gmail.com"
+        }
+    }
+}

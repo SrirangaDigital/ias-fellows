@@ -1,0 +1,35 @@
+{
+    "id": "FL1992037",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jayaraman",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Prof. Jayaraman"
+        },
+        "sex": "M",
+        "birthDate": "1947-09-26",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "FNA, FNAE",
+        "specialization": "Climate Science and Solar Energy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering &amp; Technology",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 2007-15; Secretary: 2007-12; Treasurer: 2013-15"
+    },
+    "contact": {
+        "address": "Honorary Professor, Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 3331",
+            "residence": "(080) 2331 4998",
+            "fax": "(080) 2293 3425"
+        },
+        "email": {
+            "official": "jayes@iisc.ac.in"
+        }
+    }
+}

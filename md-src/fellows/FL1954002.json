@@ -1,0 +1,20 @@
+{
+    "id": "FL1954002",
+    "profile": {
+        "name": {
+            "first": "Tirukkanangindi Natesa",
+            "last": "Seshadri",
+            "display": "Seshadri,  Tirukkanangindi Natesa"
+        },
+        "sex": "M",
+        "birthDate": "1905-06-15",
+        "deathDate": "1975-11-01",
+        "degree": "Ph.D.",
+        "specialization": "Wireless Communication, Engineering Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1954"
+    }
+}

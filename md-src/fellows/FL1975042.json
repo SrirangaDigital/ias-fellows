@@ -1,0 +1,26 @@
+{
+    "id": "FL1975042",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Madhu Sudan",
+            "last": "Kanungo",
+            "display": "Kanungo, Prof. Madhu Sudan"
+        },
+        "sex": "M",
+        "birthDate": "1927-04-01",
+        "deathDate": "2011-07-26",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNA, FNASc, FAMS",
+        "specialization": "Biochemistry & Molecular Biology of Development & Ageing and Neuroscience"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "9GF, Old Medical Enclave, Banaras Hindu University Campus",
+        "city": "Varanasi 221 005"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2011001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anuranjan",
+            "last": "Anand",
+            "display": "Anand, Prof. Anuranjan"
+        },
+        "sex": "M",
+        "birthDate": "1965-04-05",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Human Genetics & Genomics, Neurogenetics, Developmental Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Molecular Biology & Genetics Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2804",
+            "residence": "(080) 4099 5014",
+            "mobile": "98458 04923",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "official": "anand@jncasr.ac.in"
+        }
+    }
+}

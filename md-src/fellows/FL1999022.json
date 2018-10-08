@@ -1,0 +1,26 @@
+{
+    "id": "FL1999022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shyam Lal",
+            "last": "Yadava",
+            "display": "Yadava, Dr Shyam Lal"
+        },
+        "sex": "M",
+        "birthDate": "1953-07-05",
+        "deathDate": "2007-06-07",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA",
+        "specialization": "Nonlinear Differential Equations"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Professor, TIFR Centre, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012"
+    }
+}

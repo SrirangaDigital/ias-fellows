@@ -1,0 +1,20 @@
+{
+    "id": "FL1935013",
+    "profile": {
+        "name": {
+            "first": "Shirishkant Varjray",
+            "last": "Desai",
+            "display": "Desai,  Shirishkant Varjray"
+        },
+        "sex": "M",
+        "birthDate": "1900-00-00",
+        "deathDate": "1984-00-00",
+        "degree": "Ph.D. (London), D.Sc. (London)",
+        "specialization": "Biochemistry, Microbiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1935"
+    }
+}

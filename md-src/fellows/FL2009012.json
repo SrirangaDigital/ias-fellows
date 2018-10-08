@@ -1,0 +1,34 @@
+{
+    "id": "FL2009012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajesh",
+            "last": "Gopakumar",
+            "display": "Gopakumar, Prof. Rajesh"
+        },
+        "sex": "M",
+        "birthDate": "1967-12-14",
+        "degree": "Ph.D. (Princeton)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Theoretical Physics, Quantum Field Theory and String Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Director, International Centre for Theoretical Sciences, Shivakote, Hesaraghatta Post",
+        "city": "Bengal;uru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 4653 6020",
+            "residence": "(080) 2369 1708"
+        },
+        "email": {
+            "official": "rajesh.gopakumr@icts.res.in",
+            "personal": "gopakumr@gmail.com"
+        }
+    }
+}

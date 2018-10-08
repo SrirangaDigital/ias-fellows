@@ -1,0 +1,26 @@
+{
+    "id": "FL1974070",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Biswajit",
+            "last": "Nag",
+            "display": "Nag, Prof. Biswajit"
+        },
+        "sex": "M",
+        "birthDate": "1933-08-20",
+        "deathDate": "2000-02-06",
+        "degree": "Ph.D. (Calcutta)",
+        "specialization": "Electronics and Computer Science"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1980-85; Vice-President: 1983-85"
+    },
+    "contact": {
+        "address": "704, Prerana Apartments, Tirandaz, Powai, Opp. IIT Main Gate",
+        "city": "Mumbai 400 076"
+    }
+}

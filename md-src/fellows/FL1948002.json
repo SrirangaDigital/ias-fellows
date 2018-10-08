@@ -1,0 +1,18 @@
+{
+    "id": "FL1948002",
+    "profile": {
+        "name": {
+            "first": "K R",
+            "last": "Karandikar",
+            "display": "Karandikar,  K R"
+        },
+        "sex": "M",
+        "birthDate": "1902-03-17",
+        "specialization": "Entomology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1948"
+    }
+}

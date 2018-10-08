@@ -1,0 +1,35 @@
+{
+    "id": "FL2015021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Devendra Kumar",
+            "last": "Ojha",
+            "display": "Ojha, Prof. Devendra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1967-08-23",
+        "degree": "Ph.D. (Strasbourg)",
+        "specialization": "Star Formation & Interstellar Medium, Infrared Astronomy, Astronomical Instrumentation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Department of Astronomy & Astrophysics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2684",
+            "residence": "(022) 2280 4969",
+            "mobile": "98672 06969",
+            "fax": "(022) 2280 4610-11"
+        },
+        "email": {
+            "official": "ojha@tifr.res.in"
+        },
+        "url": "http://web.tifr.res.in/~ojha/"
+    }
+}

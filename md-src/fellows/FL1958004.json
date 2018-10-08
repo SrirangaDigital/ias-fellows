@@ -1,0 +1,26 @@
+{
+    "id": "FL1958004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramavarma Raghu",
+            "last": "Prasad",
+            "display": "Prasad, Dr Ramavarma Raghu"
+        },
+        "sex": "M",
+        "birthDate": "1920-12-17",
+        "deathDate": "1994-07-20",
+        "degree": "Ph.D. (Stanford)",
+        "honours": "FNASc",
+        "specialization": "Biological Oceanography and Fisheries"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1958"
+    },
+    "contact": {
+        "address": "Ground Floor Flat, Saigeeth Apartments, 21, Thirumurthy Street, T. Nagar",
+        "city": "Madras 600 017"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "FH1970009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Alfred",
+            "last": "Kastler",
+            "display": "Kastler, Prof. Alfred"
+        },
+        "sex": "M",
+        "birthDate": "1902-05-03",
+        "deathDate": "1984-01-07",
+        "honours": "Nobel Laureate (Physics) - 1966"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1970"
+    }
+}

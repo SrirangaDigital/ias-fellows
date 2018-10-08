@@ -1,0 +1,35 @@
+{
+    "id": "FL2011002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jaywant Hanumappa",
+            "last": "Arakeri",
+            "display": "Arakeri, Prof. Jaywant Hanumappa"
+        },
+        "sex": "M",
+        "birthDate": "1956-11-15",
+        "degree": "Ph.D. (Caltech)",
+        "honours": "FNAE",
+        "specialization": "Fluid Mechanics, Heat Transfer, Turbulence"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Department of Mechanical Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3228",
+            "residence": "(080) 2665 8865",
+            "mobile": "77605 81256",
+            "fax": "(080) 2360 0648"
+        },
+        "email": {
+            "official": "jaywant@iisc.ac.in"
+        }
+    }
+}

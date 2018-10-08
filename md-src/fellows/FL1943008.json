@@ -1,0 +1,26 @@
+{
+    "id": "FL1943008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Potukuchi Suryaprakasa",
+            "last": "Rao",
+            "display": "Rao, Prof. Potukuchi Suryaprakasa"
+        },
+        "sex": "M",
+        "birthDate": "1914-09-01",
+        "deathDate": "2002-01-09",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry and Plant Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1943"
+    },
+    "contact": {
+        "address": "Sai Nilaya, No. 11, I A Cross, Ganganagar Extension",
+        "city": "Bengaluru 560 032"
+    }
+}

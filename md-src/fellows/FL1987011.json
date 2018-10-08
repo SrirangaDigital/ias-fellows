@@ -1,0 +1,32 @@
+{
+    "id": "FL1987011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prem",
+            "last": "Narain",
+            "display": "Narain, Prof. Prem"
+        },
+        "sex": "M",
+        "birthDate": "1934-01-03",
+        "degree": "Ph.D. and D.Sc. (Edinburgh)",
+        "honours": "FNA, FNASc, FNAAS",
+        "specialization": "Statistical Genetics and Genomics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "29278, Gleen Oaks Blvd. W.",
+        "city": "Farmington Hills, MI 48334-2932",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-248) 722 6088"
+        },
+        "email": {
+            "personal": "premn877@gmail.com"
+        }
+    }
+}

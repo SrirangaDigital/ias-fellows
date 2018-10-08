@@ -1,0 +1,22 @@
+{
+    "id": "FL1936009",
+    "profile": {
+        "name": {
+            "first": "Bangalore Srinivasarao",
+            "last": "Madhavarao",
+            "display": "Madhavarao,  Bangalore Srinivasarao"
+        },
+        "sex": "M",
+        "birthDate": "1900-05-29",
+        "deathDate": "1987-06-10",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Theoretical Physics and Abstract Algebra"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1936",
+        "councilservice": "1937-61; Vice President 1956-61; Secretary 1938-55"
+    }
+}

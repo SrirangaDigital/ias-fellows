@@ -1,0 +1,34 @@
+{
+    "id": "FL2018009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Parthasarathi",
+            "last": "Dastidar",
+            "display": "Dastidar, Prof. Parthasarathi"
+        },
+        "sex": "M",
+        "birthDate": "1964-10-25",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Crystal Engineering, Supramolecular Gels, Co-ordination Polymers"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Organic Chemistry, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971",
+            "mobile": "94320 61273",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "ocpd@iacs.res.in"
+        },
+        "url": "http://iacs.res.in/faculty-profile.html?id=41"
+    }
+}

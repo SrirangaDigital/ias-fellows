@@ -1,0 +1,35 @@
+{
+    "id": "FL1991023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Yashwant",
+            "last": "Singh",
+            "display": "Singh, Prof. Yashwant"
+        },
+        "sex": "M",
+        "birthDate": "1944-07-28",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Condensed Matter Physics, Statistical Mechanics and Polymers"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Department of Physics, Banaras Hindu University",
+        "city": "Varanasi 221 005",
+        "state": "U.P",
+        "telephone": {
+            "office": "(0542) 670 1562",
+            "mobile": "94159 91459",
+            "fax": "(0542) 236 8468"
+        },
+        "email": {
+            "official": "ysingh@bhu.ac.in",
+            "personal": "singh.yas44@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2015024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bhagavatula Lakshmi Vara",
+            "last": "Prasad",
+            "display": "Prasad, Dr Bhagavatula Lakshmi Vara"
+        },
+        "sex": "M",
+        "birthDate": "1969-06-10",
+        "degree": "Ph.D. (Hyderabad)",
+        "specialization": "Materials Chemistry, Self-Assembly, Nanoparticle Synthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Physical/Materials Chemistry Division, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 2013",
+            "residence": "(020) 2588 4563",
+            "mobile": "94220 31299",
+            "fax": "(020) 2590 2636"
+        },
+        "email": {
+            "official": "pl.bhagavatula@ncl.res.in"
+        },
+        "url": "http://academic.ncl.res.in/pl.bhagavatula/home"
+    }
+}

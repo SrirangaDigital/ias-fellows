@@ -1,0 +1,21 @@
+{
+    "id": "FL1934122",
+    "profile": {
+        "name": {
+            "first": "Bachalli",
+            "last": "Venkatesachar",
+            "display": "Venkatesachar,  Bachalli"
+        },
+        "sex": "M",
+        "birthDate": "1879-06-18",
+        "deathDate": "1972-05-27",
+        "honours": "FNA",
+        "specialization": "Atomic Spectroscopy, Raman Effect, Hyperfine Structure"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1934-37; Secretary 1934-37"
+    }
+}

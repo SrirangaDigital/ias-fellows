@@ -1,0 +1,31 @@
+{
+    "id": "FL1963001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Melkote Krishnarao",
+            "last": "Ramaswamy",
+            "display": "Ramaswamy, Prof. Melkote Krishnarao"
+        },
+        "sex": "M",
+        "birthDate": "1931-01-04",
+        "degree": "Ph.D. (Johns Hopkins)",
+        "specialization": "Nuclear Physics, Positron Annihilation, Logistics and Computer Systems Quality & Security"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1963"
+    },
+    "contact": {
+        "address": "3446, Heathcliff Court",
+        "city": "Westfield, IN 46074-5520",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-317) 804 9927"
+        },
+        "email": {
+            "personal": "melramaswamy@gmail.com"
+        }
+    }
+}

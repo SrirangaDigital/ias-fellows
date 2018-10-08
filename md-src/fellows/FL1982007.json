@@ -1,0 +1,35 @@
+{
+    "id": "FL1982007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Samaresh",
+            "last": "Mitra",
+            "display": "Mitra, Prof. Samaresh"
+        },
+        "sex": "M",
+        "birthDate": "1940-03-17",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Biological Chemistry and Inorganic Biochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "Panchami, No. 508, Vidita, 1050/1, Survey Park",
+        "city": "Kolkata 700 075",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2799 5866",
+            "residence": "(033) 2418 8209",
+            "mobile": "98312 73257",
+            "fax": "(033) 2473 0284, (033) 2473 5197"
+        },
+        "email": {
+            "personal": "samaresh.mitra@gmail.com"
+        }
+    }
+}

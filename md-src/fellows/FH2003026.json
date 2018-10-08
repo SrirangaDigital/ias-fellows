@@ -1,0 +1,29 @@
+{
+    "id": "FH2003026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Katepalli R",
+            "last": "Sreenivasan",
+            "display": "Sreenivasan, Prof. Katepalli R"
+        },
+        "sex": "M",
+        "birthDate": "1947-09-30"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "President & Dean, Tandon School of Engineering, New York University, 1242 Bobst Lib., 70 Washington Sq. South",
+        "city": "New York, NY 10021",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-212) 992 7914",
+            "fax": "(+1-212) 995 4300"
+        },
+        "email": {
+            "official": "krs3@nyu.edu"
+        }
+    }
+}

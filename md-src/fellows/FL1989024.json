@@ -1,0 +1,26 @@
+{
+    "id": "FL1989024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subir Kumar",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Subir Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1932-03-01",
+        "deathDate": "2008-10-30",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FD (Uppsala)",
+        "specialization": "Structural Geology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Alaka, B-44, Pratapaditya Road",
+        "city": "Kolkata 700 026"
+    }
+}

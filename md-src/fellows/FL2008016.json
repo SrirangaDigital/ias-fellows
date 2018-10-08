@@ -1,0 +1,35 @@
+{
+    "id": "FL2008016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Erumathadathil",
+            "last": "Krishnakumar",
+            "display": "Krishnakumar, Prof. Erumathadathil"
+        },
+        "sex": "M",
+        "birthDate": "1952-11-28",
+        "degree": "Ph.D. (Gujarat)",
+        "specialization": "Electron Ionisation, Photoionisation, Atomic Collision Processes, Molecular dynamics and Electron Control Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Senior Professor, Department of Nuclear & Atomic Physics, Tata Institute of Fundamental Research, Homi Bhbha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2502",
+            "residence": "(022) 2280 4998",
+            "mobile": "98690 13407",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "ekkumar@tifr.res.in"
+        },
+        "url": "http://tifr.res.in/~ekkumar/"
+    }
+}

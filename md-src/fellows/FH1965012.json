@@ -1,0 +1,19 @@
+{
+    "id": "FH1965012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paul Hermann",
+            "last": "Muller",
+            "display": "Muller, Prof. Paul Hermann"
+        },
+        "sex": "M",
+        "birthDate": "1899-01-12",
+        "deathDate": "1965-10-13",
+        "honours": "Nobel Laureate (Medicine) - 1948"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1965"
+    }
+}

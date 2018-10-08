@@ -1,0 +1,35 @@
+{
+    "id": "FL1997003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subray Venkatraman",
+            "last": "Bhat",
+            "display": "Bhat, Prof. Subray Venkatraman"
+        },
+        "sex": "M",
+        "birthDate": "1945-07-02",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Experimental Condensed Matter Physics, Solid State NMR, Electron Paramagnetic Resonance, Magnetism and Physics of Glass Transitions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "NASI Senior Scientist, Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2727, (080) 2360 0880",
+            "residence": "(080) 2341 0312",
+            "mobile": "98455 57534",
+            "fax": "(080) 2360 2602, (080) 2360 0683"
+        },
+        "email": {
+            "official": "svbhat@physics.iisc.ernet.in"
+        }
+    }
+}

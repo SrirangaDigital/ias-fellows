@@ -1,0 +1,34 @@
+{
+    "id": "FL1999007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manoj Kumar",
+            "last": "Mishra",
+            "display": "Mishra, Prof. Manoj Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1952-10-15",
+        "degree": "Ph.D. (Florida)",
+        "honours": "FNASc",
+        "specialization": "Electronic Structure Theory, Photo/Collisional Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Vice Chancellor, Birla Institute of Technology, Mesra",
+        "city": "Ranchi 835 215",
+        "state": "Jharkhand",
+        "telephone": {
+            "office": "(0651) 227 5402",
+            "fax": "(0651) 227 5401"
+        },
+        "email": {
+            "official": "vc@bitmesra.ac.in",
+            "personal": "mmishraiitb@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2010047",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mohammad",
+            "last": "Sami",
+            "display": "Sami, Prof. Mohammad"
+        },
+        "sex": "M",
+        "birthDate": "1955-02-05",
+        "degree": "Ph.D. (Moscow State University)",
+        "honours": "FNASc",
+        "specialization": "Cosmology, Higher Dimensional Gravity, High Energy Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Director, Centre for Theoretical Physics, Jamia Millia Islamia, Jamia Nagar",
+        "city": "New Delhi 110 025",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2698 4830",
+            "mobile": "99908 40273",
+            "fax": "(011) 2698 4830"
+        },
+        "email": {
+            "official": "msami@jmi.ac.in",
+            "personal": "samijamia@gmail.com"
+        },
+        "url": "http://www.ctp-jamia.res.in/sami/"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "FH2017028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Manjul",
+            "last": "Bhargava",
+            "display": "Bhargava, Prof. Manjul"
+        },
+        "sex": "M",
+        "birthDate": "1974-08-08",
+        "honours": "Fellow, US Natl. Acad. Sci."
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Princeton University",
+        "city": "Princeton, NJ 08544",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-609) 258 4192",
+            "fax": "(+1-609) 258 1367"
+        },
+        "email": {
+            "official": "bhargava@math.princeton.edu"
+        },
+        "url": "http://www.math.princeton.edu/directory/manjul-bhargava"
+    }
+}

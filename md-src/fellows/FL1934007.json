@@ -1,0 +1,26 @@
+{
+    "id": "FL1934007",
+    "profile": {
+        "name": {
+            "first": "Sudangsu Kumar",
+            "last": "Banerji",
+            "display": "Banerji,  Sudangsu Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1893-04-27",
+        "deathDate": "1966-08-10",
+        "degree": "D.Sc. (Presidency College, Calcutta)",
+        "honours": "FNA",
+        "specialization": "Mathematical Physics, Geophysics, Meteorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1934",
+        "councilservice": "1934-35"
+    },
+    "contact": {
+        "address": "3, Ramani Chatterjee Road, Rash Behari Avenue",
+        "city": "Calcutta 700 029"
+    }
+}

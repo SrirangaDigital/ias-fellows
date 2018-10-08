@@ -1,0 +1,19 @@
+{
+    "id": "FH1969013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Robert Sanderson",
+            "last": "Mulliken",
+            "display": "Mulliken, Prof. Robert Sanderson"
+        },
+        "sex": "M",
+        "birthDate": "1896-06-07",
+        "deathDate": "1986-10-31",
+        "honours": "Nobel Laureate (Chemistry) - 1966"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1969"
+    }
+}

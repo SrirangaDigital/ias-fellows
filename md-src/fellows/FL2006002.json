@@ -1,0 +1,35 @@
+{
+    "id": "FL2006002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amit",
+            "last": "Basak",
+            "display": "Basak, Prof. Amit"
+        },
+        "sex": "M",
+        "birthDate": "1952-04-04",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "D.Phil. (Oxon), FNA, FNASc",
+        "specialization": "DNA Interacting Agents, Asymmetric Synthesis and Enzymology, Diradical Chemistry, Capture Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Professor, Department of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3300",
+            "residence": "(03222) 28 3301",
+            "mobile": "94340 13294",
+            "fax": "(03222) 28 2252"
+        },
+        "email": {
+            "official": "absk@chem.iitkgp.ernet.in"
+        }
+    }
+}

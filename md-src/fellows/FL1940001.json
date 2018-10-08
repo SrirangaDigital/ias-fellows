@@ -1,0 +1,25 @@
+{
+    "id": "FL1940001",
+    "profile": {
+        "name": {
+            "first": "Kedareswar",
+            "last": "Banerjee",
+            "display": "Banerjee,  Kedareswar"
+        },
+        "sex": "M",
+        "birthDate": "1900-09-15",
+        "deathDate": "1975-04-30",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "X-ray Crystallography"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1940"
+    },
+    "contact": {
+        "address": "Indian Association for the, Cultivation of Science, 213, Lady Willingdon Road",
+        "city": "Calcutta 700 032"
+    }
+}

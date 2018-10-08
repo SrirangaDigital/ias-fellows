@@ -1,0 +1,36 @@
+{
+    "id": "FL2009016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Budharaju Srinivasa",
+            "last": "Murty",
+            "display": "Murty, Prof. Budharaju Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1964-02-13",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "High Entropy Alloys, Nanocrystalline Materials, Bulk Metallic Gases, In-situ Composites, Nonequilibrium Processing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Department of Metallurgical & Materials Engineering, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4754",
+            "residence": "(044) 2257 6754",
+            "mobile": "94440 77006",
+            "fax": "(044) 2257 4752"
+        },
+        "email": {
+            "official": "murty@iitm.ac.in"
+        },
+        "url": "http://www.mme.iitm.ac.in/murty"
+    }
+}

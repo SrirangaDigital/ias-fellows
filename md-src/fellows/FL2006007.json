@@ -1,0 +1,35 @@
+{
+    "id": "FL2006007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arup",
+            "last": "Bose",
+            "display": "Bose, Prof. Arup"
+        },
+        "sex": "M",
+        "birthDate": "1959-04-01",
+        "degree": "Ph.D. (ISI, Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Probability and Statistics, Economics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Professor, Statistics & Mathematics Unit, Indian Statistical Institute, 203, B.T. Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2575 3409",
+            "residence": "(033) 2429 8922",
+            "mobile": "98304 96250"
+        },
+        "email": {
+            "personal": "bosearu@gmail.com"
+        },
+        "url": "http://www.isical.ac.in/~abose"
+    }
+}

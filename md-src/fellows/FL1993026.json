@@ -1,0 +1,32 @@
+{
+    "id": "FL1993026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Priyambada",
+            "last": "Mohanty-Hejmadi",
+            "display": "Mohanty-Hejmadi, Prof. Priyambada"
+        },
+        "sex": "F",
+        "birthDate": "1939-11-18",
+        "degree": "M.S. and Ph.D. (Michigan)",
+        "specialization": "Developmental Biology and Herpetology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "c/o BC Mohanty & Sons, Rajabagicha",
+        "city": "Cuttack 753 009",
+        "state": "Orissa",
+        "telephone": {
+            "residence": "77500 17996",
+            "mobile": "87632 84662"
+        },
+        "email": {
+            "personal": "mohantyhejmadi@yahoo.com,mohantyhejmadi.com@gmail.com"
+        }
+    }
+}

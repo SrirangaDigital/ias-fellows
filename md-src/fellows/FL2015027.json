@@ -1,0 +1,37 @@
+{
+    "id": "FL2015027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narayanan",
+            "last": "Ravishankar",
+            "display": "Ravishankar, Prof. Narayanan"
+        },
+        "sex": "M",
+        "birthDate": "1970-02-12",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FRSC",
+        "specialization": "Nanomaterials, Electron Microscopy, Energy Applications"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Materials Research Centre, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3255",
+            "residence": "(080) 4211 3448",
+            "mobile": "94493 49057",
+            "fax": "(080) 2360 7316"
+        },
+        "email": {
+            "official": "nravi@mrc.iisc.ernet.in",
+            "personal": "raviiisc@gmail.com"
+        },
+        "url": "http://mrc.iisc.ernet.in/~nravi/index2.html"
+    }
+}

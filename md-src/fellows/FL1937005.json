@@ -1,0 +1,20 @@
+{
+    "id": "FL1937005",
+    "profile": {
+        "name": {
+            "first": "Mohinder Singh",
+            "last": "Randhawa",
+            "display": "Randhawa,  Mohinder Singh"
+        },
+        "sex": "M",
+        "birthDate": "1909-02-02",
+        "deathDate": "1986-03-03",
+        "honours": "FNA, FNASc",
+        "specialization": "Horticulture, Floriculture Phycology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1937"
+    }
+}

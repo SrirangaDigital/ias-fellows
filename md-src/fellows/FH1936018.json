@@ -1,0 +1,19 @@
+{
+    "id": "FH1936018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hans",
+            "last": "Spemann",
+            "display": "Spemann, Prof. Hans"
+        },
+        "sex": "M",
+        "birthDate": "1869-06-27",
+        "deathDate": "1941-09-12",
+        "honours": "Nobel Laureate (Medicine) - 1935"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1936"
+    }
+}

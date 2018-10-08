@@ -1,0 +1,29 @@
+{
+    "id": "FH2012034",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "S S P",
+            "last": "Parkin",
+            "display": "Parkin, Prof. S S P"
+        },
+        "sex": "M",
+        "birthDate": "1955-12-09"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Alexander von Humboldt Professor, Max Planck Inst. for Microstr. Phys., Martin Luther University, Weinberg 2",
+        "city": "D-06120 Halle",
+        "country": "Germany",
+        "telephone": {
+            "office": "(+49) 174 180 1802"
+        },
+        "email": {
+            "official": "stuart.parkin@mpi-halle.mpg.de",
+            "personal": "stuart.parkin@icloud.com"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2002017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Umesh",
+            "last": "Varshney",
+            "display": "Varshney, Dr Umesh"
+        },
+        "sex": "M",
+        "birthDate": "1957-10-26",
+        "degree": "Ph.D. (Calgary)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology, Protein Biosynthesis and DNA Repair"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "Department of Microbiology and Cell Biology, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0169, (080) 2293 2686",
+            "residence": "(080) 2341 7828",
+            "fax": "(080) 2360 2697"
+        },
+        "email": {
+            "official": "varshney@iisc.ac.in"
+        }
+    }
+}

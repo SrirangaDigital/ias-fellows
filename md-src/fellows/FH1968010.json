@@ -1,0 +1,19 @@
+{
+    "id": "FH1968010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Peter Brian",
+            "last": "Medawar",
+            "display": "Medawar, Prof. Peter Brian"
+        },
+        "sex": "M",
+        "birthDate": "1915-02-28",
+        "deathDate": "1987-10-02",
+        "honours": "Nobel Laureate (Medicine) - 1960"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1968"
+    }
+}

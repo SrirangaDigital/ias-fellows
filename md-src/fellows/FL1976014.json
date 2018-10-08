@@ -1,0 +1,26 @@
+{
+    "id": "FL1976014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Rajendra Nath",
+            "last": "Lakhanpal",
+            "display": "Lakhanpal, Dr Rajendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1923-08-05",
+        "deathDate": "2012-01-19",
+        "degree": "Ph.D. (Lucknow)",
+        "honours": "FNA, FNASc",
+        "specialization": "Cenophytic Palaeobotany and Palynology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "B-21, Sector A, Mahanagar",
+        "city": "Lucknow 226 006"
+    }
+}

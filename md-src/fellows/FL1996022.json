@@ -1,0 +1,34 @@
+{
+    "id": "FL1996022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sriram Rajagopal",
+            "last": "Ramaswamy",
+            "display": "Ramaswamy, Dr Sriram Rajagopal"
+        },
+        "sex": "M",
+        "birthDate": "1957-11-10",
+        "degree": "Ph.D. (Chicago)",
+        "honours": "FNASc, FNA, FRS",
+        "specialization": "Condensed Matter Physics, Non-Equilibrium Statistical Physics and Physics of Biological Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3283, 2360 2698",
+            "residence": "(080) 2308 9166"
+        },
+        "email": {
+            "official": "sriram@iisc.ac.in"
+        },
+        "url": "http://www.physics.iisc.ac.in/~sriram/"
+    }
+}

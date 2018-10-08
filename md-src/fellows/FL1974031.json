@@ -1,0 +1,32 @@
+{
+    "id": "FL1974031",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Tuhin Kumar",
+            "last": "Roy",
+            "display": "Roy, Dr Tuhin Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1923-08-01",
+        "degree": "Sc.D. (MIT)",
+        "honours": "FNAE, FICHE",
+        "specialization": "Hydrometallurgy, Fluidization and Mixing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "A-58, Gulmohur Park (G.F.)",
+        "city": "New Delhi 110 049",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2686 6713"
+        },
+        "email": {
+            "personal": "tuhinsilvaroy@gmail.com"
+        }
+    }
+}

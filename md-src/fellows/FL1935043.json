@@ -1,0 +1,20 @@
+{
+    "id": "FL1935043",
+    "profile": {
+        "name": {
+            "first": "Sures Chandra",
+            "last": "Roy",
+            "display": "Roy,  Sures Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1899-03-01",
+        "deathDate": "1970-12-09",
+        "honours": "FNA",
+        "specialization": "Meteorology, Seismology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1935"
+    }
+}

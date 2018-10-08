@@ -1,0 +1,31 @@
+{
+    "id": "FL2007006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Atish Shripad",
+            "last": "Dabholkar",
+            "display": "Dabholkar, Prof. Atish Shripad"
+        },
+        "sex": "M",
+        "birthDate": "1963-09-16",
+        "degree": "Ph.D. (Princeton)",
+        "specialization": "Quantum Gravity, Superstring Theory and Black Holes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Senior Research Scientist, International Centre for Theoretical Physics, 11, Strada Costiera",
+        "city": "34151 Trieste",
+        "country": "Italy",
+        "telephone": {
+            "office": "(+39) 040 2240 285"
+        },
+        "email": {
+            "official": "atish@ictp.it"
+        }
+    }
+}

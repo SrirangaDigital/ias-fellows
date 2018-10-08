@@ -1,0 +1,19 @@
+{
+    "id": "FH1935069",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Archibald Vivian",
+            "last": "Hill",
+            "display": "Hill, Prof. Archibald Vivian"
+        },
+        "sex": "M",
+        "birthDate": "1886-09-26",
+        "deathDate": "1977-06-03",
+        "honours": "Nobel Laureate (Medicine) - 1922"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

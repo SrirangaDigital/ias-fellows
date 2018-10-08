@@ -1,0 +1,32 @@
+{
+    "id": "FL1994006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chaitanyamoy",
+            "last": "Ganguly",
+            "display": "Ganguly, Dr Chaitanyamoy"
+        },
+        "sex": "M",
+        "birthDate": "1946-12-31",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNAE, FNASc",
+        "specialization": "Fuel Cycle, Advanced Ceramics, Powder Metallurgy and Uranium, Thorium & Plutonium Fuels"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Caladia 703, The Botanika, Kondapur, Gachibowli",
+        "city": "Hyderabad 500 032",
+        "state": "A.P.",
+        "telephone": {
+            "mobile": "80082 22016"
+        },
+        "email": {
+            "personal": "chaitanya.ganguly@gmail.com,chm_ganguly@yahoo.com"
+        }
+    }
+}

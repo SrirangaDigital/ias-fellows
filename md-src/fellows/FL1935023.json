@@ -1,0 +1,19 @@
+{
+    "id": "FL1935023",
+    "profile": {
+        "name": {
+            "first": "Amar Chand",
+            "last": "Joshi",
+            "display": "Joshi,  Amar Chand"
+        },
+        "sex": "M",
+        "birthDate": "1908-09-18",
+        "deathDate": "1971-02-14",
+        "honours": "FNA, FNASc"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    }
+}

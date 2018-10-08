@@ -1,0 +1,19 @@
+{
+    "id": "FH1948010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Wolfgang Armst",
+            "last": "Pauli",
+            "display": "Pauli, Prof. Wolfgang Armst"
+        },
+        "sex": "M",
+        "birthDate": "1900-04-25",
+        "deathDate": "1958-12-15",
+        "honours": "Nobel Laureate (Physics) - 1945"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1948"
+    }
+}

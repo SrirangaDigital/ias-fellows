@@ -1,0 +1,33 @@
+{
+    "id": "FL1988006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Indira Nath",
+            "display": "Indira Nath, Prof. "
+        },
+        "sex": "F",
+        "birthDate": "1938-01-14",
+        "degree": "M.D. (AIIMS)",
+        "honours": "FRC Path., FAMS, FNA, FNASc, D.Sc. (h.c.)",
+        "specialization": "Immunology, Leprosy and Pathology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1988",
+        "councilservice": "Council Service: 1992-94, 1998-2006; Vice-President 2001-2003"
+    },
+    "contact": {
+        "address": "707, Sarvapriya Apartments, Sarvapriya Vihar",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2651 7707",
+            "mobile": "97171 04448"
+        },
+        "email": {
+            "personal": "indiranath@gmail.com"
+        }
+    }
+}

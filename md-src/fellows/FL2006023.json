@@ -1,0 +1,34 @@
+{
+    "id": "FL2006023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amitava",
+            "last": "Raychaudhuri",
+            "display": "Raychaudhuri, Prof. Amitava"
+        },
+        "sex": "M",
+        "birthDate": "1952-03-17",
+        "degree": "Ph.D. (Maryland)",
+        "honours": "FNA, FNASc, D.Sc. (h.c.)",
+        "specialization": "Particle Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Palit Professor of Physics, University of Calcutta, 92, APC Road",
+        "city": "Kolkata 700 009",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2352 5631",
+            "residence": "(033) 2473 7519",
+            "mobile": "98312 43624"
+        },
+        "email": {
+            "personal": "amitavaraychaudhuri@yahoo.com"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "FL1949002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Veeraraghava Ranga",
+            "last": "Chariar",
+            "display": "Chariar, Dr Veeraraghava Ranga"
+        },
+        "sex": "M",
+        "deathDate": "1996-07-31",
+        "degree": "D.Sc. (Patna)",
+        "specialization": "Differential Geometry and Theory of Numbers - also Analysis"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1949"
+    },
+    "contact": {
+        "address": "Ashraya Apartments, No. 11 12 & 13, Subroto Mukherjee Road, Dasarahalli",
+        "city": "Bengaluru 560 057"
+    }
+}

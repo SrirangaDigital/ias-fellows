@@ -1,0 +1,26 @@
+{
+    "id": "FL1956008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalakad Sundaram",
+            "last": "Viswanathan",
+            "display": "Viswanathan, Prof. Kalakad Sundaram"
+        },
+        "sex": "M",
+        "birthDate": "1929-06-09",
+        "deathDate": "2009-07-05",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Solid State Physics, Plasma and Space Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1956",
+        "councilservice": "Council Service: 1957-61; Secretary: 1957-61"
+    },
+    "contact": {
+        "address": "Flat A, First Floor, 68 (old no. 61), II Main Road, Gandhinagar, Adyar",
+        "city": "Chennai 600 020"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "FL1997015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kapil Hari",
+            "last": "Paranjape",
+            "display": "Paranjape, Dr Kapil Hari"
+        },
+        "sex": "M",
+        "birthDate": "1960-03-19",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNASc, FNA",
+        "specialization": "Algebraic Geometry, Topology and Differential Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1997",
+        "councilservice": "Council Service: 2016-"
+    },
+    "contact": {
+        "address": "Professor, Indian Institute of Science Education and Research, Knowledge City, Sector 81, Manauli P.O., Mohali",
+        "city": "SAS Nagar 140 306",
+        "state": "Panjab",
+        "telephone": {
+            "office": "(0172) 224 3110",
+            "residence": "(0172) 224 0019",
+            "mobile": "99152 69019",
+            "fax": "(0172) 224 0266"
+        },
+        "email": {
+            "official": "kapil@iisermohali.ac.in",
+            "personal": "kapil.paranjape@gmail.com"
+        },
+        "url": "http://www.imsc.res.in/~kapil"
+    }
+}

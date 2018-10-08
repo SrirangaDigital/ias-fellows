@@ -1,0 +1,22 @@
+{
+    "id": "FL1934049",
+    "profile": {
+        "name": {
+            "first": "Panchanan",
+            "last": "Maheshwari",
+            "display": "Maheshwari,  Panchanan"
+        },
+        "sex": "M",
+        "birthDate": "1904-11-09",
+        "deathDate": "1966-05-18",
+        "degree": "D.Sc.",
+        "honours": "FNA, FNASc",
+        "specialization": "Embryology, Plant Anatomy,Economic Botany"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934",
+        "councilservice": "1952-61; Vice President 1952-61"
+    }
+}

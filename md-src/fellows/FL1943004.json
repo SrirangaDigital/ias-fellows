@@ -1,0 +1,19 @@
+{
+    "id": "FL1943004",
+    "profile": {
+        "name": {
+            "first": "Kuruvilla Ithyarah",
+            "last": "Kurian",
+            "display": "Kurian,  Kuruvilla Ithyarah"
+        },
+        "sex": "M",
+        "birthDate": "1903-10-04",
+        "deathDate": "1972-08-16",
+        "specialization": "Natural Products"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1943"
+    }
+}

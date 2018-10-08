@@ -1,0 +1,20 @@
+{
+    "id": "FL1947003",
+    "profile": {
+        "name": {
+            "first": "Vinayak Govind",
+            "last": "Panse",
+            "display": "Panse,  Vinayak Govind"
+        },
+        "sex": "M",
+        "birthDate": "1906-01-11",
+        "deathDate": "1969-07-22",
+        "honours": "FNA",
+        "specialization": "Agricultural Statistics, Genetics, Plant Breeding, Agronomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1947"
+    }
+}

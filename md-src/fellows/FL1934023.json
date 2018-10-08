@@ -1,0 +1,21 @@
+{
+    "id": "FL1934023",
+    "profile": {
+        "name": {
+            "first": "Angarai Seshiah",
+            "last": "Ganesan",
+            "display": "Ganesan,  Angarai Seshiah"
+        },
+        "sex": "M",
+        "birthDate": "1900-05-27",
+        "deathDate": "1986-01-02",
+        "degree": "Ph.D. (London)",
+        "specialization": "Scattering of Light, Raman Effect"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "Council Service:1961"
+    }
+}

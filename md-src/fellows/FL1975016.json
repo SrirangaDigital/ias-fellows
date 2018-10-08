@@ -1,0 +1,31 @@
+{
+    "id": "FL1975016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pramod Anand",
+            "last": "Paranjpe",
+            "display": "Paranjpe, Dr Pramod Anand"
+        },
+        "sex": "M",
+        "birthDate": "1934-04-01",
+        "degree": "D.Sc. Tech. (ETH Zurich)",
+        "specialization": "Turbomachinery and Jet Propulsion Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "'Bahaar', 5, Hindustan Estate, Road No. 13, Kalyaninagar",
+        "city": "Pune 411 006",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(020) 2668 0255"
+        },
+        "email": {
+            "personal": "pramwana@gmail.com"
+        }
+    }
+}

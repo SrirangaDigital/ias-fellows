@@ -1,0 +1,29 @@
+{
+    "id": "FH2006031",
+    "profile": {
+        "name": {
+            "first": "Michael L",
+            "last": "Klein",
+            "display": "Klein,  Michael L"
+        },
+        "sex": "M",
+        "birthDate": "1940-00-00",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Director, ICMS, Temple University, CST, SERC Building, 704E, 1925 North 12th Street",
+        "city": "Philadelphia, PA 19122",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-215) 898 8571",
+            "fax": "(+1-215) 898 8296"
+        },
+        "email": {
+            "official": "mlklein@temple.edu"
+        }
+    }
+}

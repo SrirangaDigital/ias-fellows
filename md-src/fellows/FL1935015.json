@@ -1,0 +1,22 @@
+{
+    "id": "FL1935015",
+    "profile": {
+        "name": {
+            "first": "Kadarundalige Sitarama Gururaja",
+            "last": "Doss",
+            "display": "Doss,  Kadarundalige Sitarama Gururaja"
+        },
+        "sex": "M",
+        "birthDate": "1906-08-10",
+        "deathDate": "1989-10-18",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Electrochemistry, Sugar Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1935",
+        "councilservice": "1971-73"
+    }
+}

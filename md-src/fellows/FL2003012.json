@@ -1,0 +1,35 @@
+{
+    "id": "FL2003012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shekhar Chintamani",
+            "last": "Mande",
+            "display": "Mande, Dr Shekhar Chintamani"
+        },
+        "sex": "M",
+        "birthDate": "1962-04-05",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Macromolecular Crystallography and Protein Structure & Function"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Director, National Centre for Cell Science, NCCS Complex, University Campus, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2569 1065,(020) 2570 8121",
+            "mobile": "82750 67738",
+            "fax": "(020) 2569 2259"
+        },
+        "email": {
+            "official": "shekhar@nccs.res.in,director@nccs.res.in"
+        },
+        "url": "http:/www.cdfd.org.in/stfshekh.htm"
+    }
+}

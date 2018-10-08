@@ -1,0 +1,35 @@
+{
+    "id": "FL2014014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pradeep Pralhad",
+            "last": "Mujumdar",
+            "display": "Mujumdar, Prof. Pradeep Pralhad"
+        },
+        "sex": "M",
+        "birthDate": "1958-11-04",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Hydrology, Climate Change Impacts, Uncertainty Quantification"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Department of Civil Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2323",
+            "residence": "(080) 2360 2668",
+            "mobile": "98452 15612",
+            "fax": "(080) 2360 0290"
+        },
+        "email": {
+            "official": "pradeep@civil.iisc.ernet.in"
+        },
+        "url": "http://civil.iisc.ernet.in/~pradeep/"
+    }
+}

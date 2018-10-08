@@ -1,0 +1,32 @@
+{
+    "id": "FH2001025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Michael Ellis",
+            "last": "Fisher",
+            "display": "Fisher, Prof. Michael Ellis"
+        },
+        "sex": "M",
+        "birthDate": "1931-09-03",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Distinguished Professor Emeritus, Institute of Physical Science and, Technology, University of Maryland",
+        "city": "College Park, MD 20742-2431",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-301) 405 4819",
+            "residence": "(+1-301) 587 3259",
+            "fax": "(+1-301) 314 9404"
+        },
+        "email": {
+            "official": "xpectnil@ipst.umd.edu"
+        },
+        "url": "http://www.ipst.umd.edu/researchandfaculty/xpectnil.php."
+    }
+}

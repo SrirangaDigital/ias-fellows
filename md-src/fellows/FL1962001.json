@@ -1,0 +1,26 @@
+{
+    "id": "FL1962001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vazhapat Chinnaswami",
+            "last": "Anguli",
+            "display": "Anguli, Dr Vazhapat Chinnaswami"
+        },
+        "sex": "F",
+        "birthDate": "1919-10-25",
+        "deathDate": "2000-07-22",
+        "degree": "M.D. (Madras)",
+        "honours": "FRCP",
+        "specialization": "Neuropathology, Experimental Pathology and Oncopathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1962"
+    },
+    "contact": {
+        "address": "T36/2, 14, First Avenue, Besant Nagar",
+        "city": "Chennai 600 090"
+    }
+}

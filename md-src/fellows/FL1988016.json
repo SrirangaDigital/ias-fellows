@@ -1,0 +1,34 @@
+{
+    "id": "FL1988016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thiruvenkatachari",
+            "last": "Parthasarathy",
+            "display": "Parthasarathy, Prof. Thiruvenkatachari"
+        },
+        "sex": "M",
+        "birthDate": "1941-03-01",
+        "degree": "Ph.D. (ISI, Calcutta)",
+        "honours": "FNA",
+        "specialization": "Mathematical Theory of Games, Operations Research and Global Univalence"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, SQC/OR Unit, Indian Statistical Institute, 37/110, Nelson Manikham Road",
+        "city": "Chennai 600 029",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2374 0612, (044) 2374 0218",
+            "residence": "(044) 2224 3130",
+            "fax": "(044) 2374 0256"
+        },
+        "email": {
+            "personal": "pacha14@yahoo.com"
+        }
+    }
+}

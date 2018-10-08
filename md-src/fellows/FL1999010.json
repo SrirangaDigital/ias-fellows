@@ -1,0 +1,36 @@
+{
+    "id": "FL1999010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chintalagiri",
+            "last": "Mohan Rao",
+            "display": "Mohan Rao, Dr Chintalagiri"
+        },
+        "sex": "M",
+        "birthDate": "1954-01-19",
+        "degree": "Ph.D. (Hyderabad)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Molecular Biology, Protein Folding & Chaperones, Gene Expression, Cell Cycle, Differentiation & Apoptosis, Nanobiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Centre for Cellular & Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 5630",
+            "residence": "(040) 2720 3931",
+            "mobile": "94944 10077",
+            "fax": "(040) 2719 5633"
+        },
+        "email": {
+            "official": "mohan@ccmb.res.in"
+        },
+        "url": "http://www.ccmb.res.in/staff/mohan"
+    }
+}

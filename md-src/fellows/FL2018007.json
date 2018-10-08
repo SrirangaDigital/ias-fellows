@@ -1,0 +1,35 @@
+{
+    "id": "FL2018007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Maitrayee",
+            "last": "DasGupta",
+            "display": "DasGupta, Prof. Maitrayee"
+        },
+        "sex": "F",
+        "birthDate": "1959-12-27",
+        "degree": "Ph.D. (Bose Inst.)",
+        "honours": "FNASc",
+        "specialization": "Symbiotic Nitrogen Fixation, Structure-Function of Plant Receptor Kinase"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Biochemistry, University of Calcutta, 35, Ballygunge Circular Road",
+        "city": "Kolkata 700 019",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2461 4714",
+            "residence": "(033) 2484 3966",
+            "mobile": "98307 76131",
+            "fax": "(033) 2461 4849"
+        },
+        "email": {
+            "personal": "maitrayee_d@hotmail.com"
+        }
+    }
+}

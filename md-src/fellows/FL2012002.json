@@ -1,0 +1,34 @@
+{
+    "id": "FL2012002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sundaram",
+            "last": "Balasubramanian",
+            "display": "Balasubramanian, Prof. Sundaram"
+        },
+        "sex": "M",
+        "birthDate": "1966-06-05",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Ionic Liquids, Moulding Enzymes, Supramolecular Polymers, Molecular Simulations, Computational Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Chemistry & Physics of Materials Unit, JN Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2808",
+            "residence": "(080) 2356 6297",
+            "mobile": "94482 87708",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "personal": "jncbala@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL1998017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kambadur",
+            "last": "Muralidhar",
+            "display": "Muralidhar, Prof. Kambadur"
+        },
+        "sex": "M",
+        "birthDate": "1948-12-25",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc",
+        "specialization": "Biochemistry, Endocrinology and Reproductive Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "School of Life Sciences, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "mobile": "98109 27705"
+        },
+        "email": {
+            "personal": "kambadur2015@gmail.com,kambadurmurali2001@rediffmail.com"
+        }
+    }
+}

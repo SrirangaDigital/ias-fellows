@@ -1,0 +1,34 @@
+{
+    "id": "FL2005022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shiv Kumar",
+            "last": "Sarin",
+            "display": "Sarin, Prof. Shiv Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1952-08-20",
+        "degree": "D.M. (AIIMS), M.D. (Jaipur)",
+        "honours": "FNA, FNASc, FAMS",
+        "specialization": "Hepatology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Director, Institute of Liver & Biliary Sciences, D1, Vasant Kunj",
+        "city": "New Delhi 110 070",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 4630 0000",
+            "residence": "(011) 2687 3563",
+            "fax": "(011) 2612 3504"
+        },
+        "email": {
+            "personal": "shivsarin@gmail.com"
+        }
+    }
+}

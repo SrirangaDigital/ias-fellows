@@ -1,0 +1,17 @@
+{
+    "id": "FL1934027",
+    "profile": {
+        "name": {
+            "first": "Sir Henry George",
+            "last": "Howard",
+            "display": "Howard,  Sir Henry George"
+        },
+        "sex": "M",
+        "birthDate": "1883-10-05"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934"
+    }
+}

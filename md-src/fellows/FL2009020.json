@@ -1,0 +1,36 @@
+{
+    "id": "FL2009020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivasan",
+            "last": "Natarajan",
+            "display": "Natarajan, Prof. Srinivasan"
+        },
+        "sex": "M",
+        "birthDate": "1960-05-27",
+        "degree": "Ph.D. (IIT, Madras)",
+        "honours": "FNASc, FNA",
+        "specialization": "Inorganic Materials Chemistry and Solid State Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Solid State & Structural Chemistry Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2551",
+            "residence": "(080) 2341 7591",
+            "mobile": "94489 37430",
+            "fax": "(080) 2360 1310"
+        },
+        "email": {
+            "official": "snatarajan@iisc.ac.in",
+            "personal": "rajan1960@gmail.com"
+        }
+    }
+}

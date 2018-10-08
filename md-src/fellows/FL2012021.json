@@ -1,0 +1,32 @@
+{
+    "id": "FL2012021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vajravelu",
+            "last": "Ravindran",
+            "display": "Ravindran, Prof. Vajravelu"
+        },
+        "sex": "M",
+        "birthDate": "1965-10-09",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Perturbative Quantum Chromodynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3208",
+            "fax": "(044) 2254 1586"
+        },
+        "email": {
+            "official": "ravindra@imsc.res.in"
+        }
+    }
+}

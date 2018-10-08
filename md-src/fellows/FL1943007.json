@@ -1,0 +1,27 @@
+{
+    "id": "FL1943007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Srinivasa",
+            "last": "Rangaswami",
+            "display": "Rangaswami, Dr Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1912-06-15",
+        "deathDate": "2000-11-24",
+        "degree": "Ph.D. (Andhra), Dr. Phil. (Basel)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry, Medicinal Chemistry and Chemistry of Natural Products"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1943",
+        "councilservice": "Council Service: 1965-70"
+    },
+    "contact": {
+        "address": "9/9, Turnbull's Road, Nandanam",
+        "city": "Chennai 600 035"
+    }
+}

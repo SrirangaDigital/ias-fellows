@@ -1,0 +1,32 @@
+{
+    "id": "FL1988014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Natarajan",
+            "last": "Panchapakesan",
+            "display": "Panchapakesan, Prof. Natarajan"
+        },
+        "sex": "M",
+        "birthDate": "1933-03-15",
+        "degree": "Ph.D. (Delhi)",
+        "specialization": "Blackhole Physics, General Relativity, Cosmology and Astroparticle Physics, Science Education"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "K-110, Ground Floor, Hauz Khas",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2656 1358",
+            "mobile": "88519 28490"
+        },
+        "email": {
+            "personal": "nargispanchu@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "FH1957010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Reinhard",
+            "last": "Mecke",
+            "display": "Mecke, Prof. Reinhard"
+        },
+        "sex": "M",
+        "birthDate": "1895-07-14",
+        "deathDate": "1969-12-30"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1957"
+    }
+}

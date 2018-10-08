@@ -1,0 +1,19 @@
+{
+    "id": "FH1960008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arne Wilhelm Kaurin",
+            "last": "Tiselius",
+            "display": "Tiselius, Prof. Arne Wilhelm Kaurin"
+        },
+        "sex": "M",
+        "birthDate": "1902-08-10",
+        "deathDate": "1971-10-29",
+        "honours": "Nobel Laureate (Chemistry) - 1948"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1960"
+    }
+}

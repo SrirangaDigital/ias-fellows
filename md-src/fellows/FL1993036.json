@@ -1,0 +1,34 @@
+{
+    "id": "FL1993036",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivas Kishanrao",
+            "last": "Saidapur",
+            "display": "Saidapur, Prof. Srinivas Kishanrao"
+        },
+        "sex": "M",
+        "birthDate": "1947-03-07",
+        "degree": "Ph.D. (Karnatak)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Biology of Reproduction, Comparative Endocrinology, Herpetology and Animal Behaviour"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Plot No. 108, Sripad Nagar, Saptapur",
+        "city": "Dharwad 580 001",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(0836) 277 6789",
+            "mobile": "96633 78259",
+            "fax": "(0836) 274 7884"
+        },
+        "email": {
+            "personal": "saidapur@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL2016014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amalendu",
+            "last": "Krishna",
+            "display": "Krishna, Prof. Amalendu"
+        },
+        "sex": "M",
+        "birthDate": "1971-08-02",
+        "degree": "Ph.D. (ISI, Calcutta)",
+        "specialization": "Algebraic Cycles, Algebraic K-Theory, Algebraic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2664",
+            "residence": "(022) 2278 3187",
+            "mobile": "98691 37436"
+        },
+        "email": {
+            "official": "amal@math.tifr.res.in"
+        }
+    }
+}

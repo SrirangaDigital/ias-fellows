@@ -1,0 +1,33 @@
+{
+    "id": "FL1988009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prakash Chand",
+            "last": "Kapur",
+            "display": "Kapur, Prof. Prakash Chand"
+        },
+        "sex": "M",
+        "birthDate": "1935-07-03",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "honours": "FNAE",
+        "specialization": "Mineral Processing, Particulate Science & Technology, Mathematical Modelling and Waste Management"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "R-485, New Rajinder Nagar",
+        "city": "New Delhi 110 060",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2874 2645",
+            "mobile": "98108 16383"
+        },
+        "email": {
+            "personal": "pckapur@gmail.com,pck@vsnl.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2009023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thalappil",
+            "last": "Pradeep",
+            "display": "Pradeep, Prof. Thalappil"
+        },
+        "sex": "M",
+        "birthDate": "1963-07-08",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FRSC, FNAE, FNA, FNASc",
+        "specialization": "Water Purification, Molecular & Nanoscale Materials, Nanoscience & Nanotechnology, Molecular Surfaces, Ion Scattering and Instrumentation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4208",
+            "residence": "(044) 2257 6208",
+            "mobile": "94455 60767",
+            "fax": "(044) 2257 0509, (044) 2257 0545"
+        },
+        "email": {
+            "official": "pradeep@iitm.ac.in"
+        },
+        "url": "http://www.dstuns.iitm.ac.in/pradeep-research-group.php"
+    }
+}

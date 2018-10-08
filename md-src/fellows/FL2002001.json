@@ -1,0 +1,35 @@
+{
+    "id": "FL2002001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kunissery Ananthasubramanian",
+            "last": "Balasubramanian",
+            "display": "Balasubramanian, Prof. Kunissery Ananthasubramanian"
+        },
+        "sex": "M",
+        "birthDate": "1945-04-06",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNASc, FAMS",
+        "specialization": "Oxidative Stress, Gastrointestinal Mucosa and Pathophysiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2002"
+    },
+    "contact": {
+        "address": "No. 49, Guruthoppu Phase 1, II Street, Sathuvachari",
+        "city": "Vellore 632 009",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(0416) 228 2052",
+            "residence": "(0416) 225 2879",
+            "mobile": "94872 28314",
+            "fax": "(0416) 228 2486"
+        },
+        "email": {
+            "personal": "wlbalu@hotmail.com"
+        }
+    }
+}

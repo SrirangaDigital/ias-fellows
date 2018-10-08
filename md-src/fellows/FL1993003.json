@@ -1,0 +1,31 @@
+{
+    "id": "FL1993003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajendra",
+            "last": "Bhatia",
+            "display": "Bhatia, Prof. Rajendra"
+        },
+        "sex": "M",
+        "birthDate": "1952-05-08",
+        "degree": "Ph.D. (ISI)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Analysis of Matrices and Operators in Hilbert Space"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1993",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Professor of Mathematics, Ashoka University",
+        "city": "Sonepat 131 028",
+        "state": "Haryana",
+        "email": {
+            "official": "rajendra.bhatia@ashoka.edu.in",
+            "personal": "rajenbhatia@gmail.com"
+        }
+    }
+}

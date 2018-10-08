@@ -1,0 +1,32 @@
+{
+    "id": "FL1975022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramanuja",
+            "last": "Vijayaraghavan",
+            "display": "Vijayaraghavan, Prof. Ramanuja"
+        },
+        "sex": "M",
+        "birthDate": "1931-01-03",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc.",
+        "specialization": "Solid State Physics, Magnetic Resonance, Materials Science and Superconductive Electronics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Flat 305, Vigyanik Co-op. Housing Society, Plot 58, Sector 14, Vashi",
+        "city": "Navi Mumbai 400 703",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2766 7554"
+        },
+        "email": {
+            "personal": "rvramanujan@yahoo.com"
+        }
+    }
+}

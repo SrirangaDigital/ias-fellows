@@ -1,0 +1,21 @@
+{
+    "id": "FL1934065",
+    "profile": {
+        "name": {
+            "first": "Prankrishna",
+            "last": "Parija",
+            "display": "Parija,  Prankrishna"
+        },
+        "sex": "M",
+        "birthDate": "1891-04-01",
+        "deathDate": "1978-06-02",
+        "degree": "M.A. (Cantab), D.Sc. (Hon.)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Physiology and Agriculture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FL2017021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kaustuv",
+            "last": "Sanyal",
+            "display": "Sanyal, Prof. Kaustuv"
+        },
+        "sex": "M",
+        "birthDate": "1969-11-08",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Eukaryotic Chromosome Segregation, Epigenetic Regulation, Genetics & Genomics of Fungal Pathogens"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Molecular Biology & Genetics Unit, JN Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2878",
+            "residence": "(080) 2362 7661",
+            "mobile": "94498 10323",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "official": "sanyal@jncasr.ac.in",
+            "personal": "wwwsanyal@gmail.com"
+        },
+        "url": "http://www.jncasr.ac.in/sanyal"
+    }
+}

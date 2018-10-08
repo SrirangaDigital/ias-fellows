@@ -1,0 +1,26 @@
+{
+    "id": "FL1974061",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pancheti",
+            "last": "Koteswaram",
+            "display": "Koteswaram, Prof. Pancheti"
+        },
+        "sex": "M",
+        "birthDate": "1915-03-25",
+        "deathDate": "1997-01-11",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Atmospheric Physics Meteorology and Hydrology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "'Varsha', 8-1-11, University Road, Waltair Uplands",
+        "city": "Visakhapatnam 530 003"
+    }
+}

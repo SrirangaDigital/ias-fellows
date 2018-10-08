@@ -1,0 +1,34 @@
+{
+    "id": "FL1988022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "B Sriram",
+            "last": "Shastry",
+            "display": "Shastry, Dr B Sriram"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-26",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Strongly-Correlated Fermi Systems, Quantum Integrable Systems"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Distinguished Professor, Department of Physics, University of California",
+        "city": "Santa Cruz, CA 95064",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-831) 459 5849",
+            "fax": "(+1-831) 459 3043"
+        },
+        "email": {
+            "official": "sriram@physics.ucsc.edu"
+        },
+        "url": "URL://physics.ucsc.edu/~sriram/sriram.html"
+    }
+}

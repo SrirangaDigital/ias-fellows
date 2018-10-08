@@ -1,0 +1,22 @@
+{
+    "id": "FL1947002",
+    "profile": {
+        "name": {
+            "first": "M V",
+            "last": "Govindaswamy",
+            "display": "Govindaswamy,  M V"
+        },
+        "sex": "M",
+        "birthDate": "1904-11-21",
+        "deathDate": "1961-04-07",
+        "degree": "M.B.B.S., D.P.M. (England)",
+        "honours": "FNA",
+        "specialization": "Brain Surgery"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1947",
+        "councilservice": "1952-61; Vice President 1956-61"
+    }
+}

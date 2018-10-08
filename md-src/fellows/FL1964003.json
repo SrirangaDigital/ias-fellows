@@ -1,0 +1,37 @@
+{
+    "id": "FL1964003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mambillikalathil Govind Kumar",
+            "last": "Menon",
+            "display": "Menon, Prof. Mambillikalathil Govind Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1928-08-28",
+        "deathDate": "2016-11-22",
+        "degree": "Ph.D. (Bristol)",
+        "honours": "D.Sc. (h.c.), FRS, FNA, FTWAS",
+        "specialization": "Cosmic Rays, Particle Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1964",
+        "councilservice": "Council Service: 1968-85; Vice-President: 1971-73; President: 1974-76"
+    },
+    "contact": {
+        "address": "C-178, First Floor, Sarvodaya Enclave",
+        "city": "New Delhi 110 017",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2651 1454, (011) 2651 0825",
+            "residence": "(011) 2696 6096",
+            "mobile": "98112 27719",
+            "fax": "(011) 2651 0825"
+        },
+        "email": {
+            "official": "mgkmenon@nic.in"
+        }
+    }
+}

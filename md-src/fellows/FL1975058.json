@@ -1,0 +1,22 @@
+{
+    "id": "FL1975058",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Benjamin Peary",
+            "last": "Pal",
+            "display": "Pal, Dr Benjamin Peary"
+        },
+        "sex": "M",
+        "birthDate": "1906-05-26",
+        "deathDate": "1989-09-14",
+        "degree": "Ph.D. (Cantab)",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Breeding and Genetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    }
+}

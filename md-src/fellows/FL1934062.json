@@ -1,0 +1,19 @@
+{
+    "id": "FL1934062",
+    "profile": {
+        "name": {
+            "first": "Kantilal Chhaganlal",
+            "last": "Pandya",
+            "display": "Pandya,  Kantilal Chhaganlal"
+        },
+        "sex": "M",
+        "birthDate": "1886-08-24",
+        "deathDate": "1958-10-14",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934"
+    }
+}

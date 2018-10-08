@@ -1,0 +1,26 @@
+{
+    "id": "FL1945002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chidambara",
+            "last": "Chandrasekaran",
+            "display": "Chandrasekaran, Dr Chidambara"
+        },
+        "sex": "M",
+        "birthDate": "1911-10-30",
+        "deathDate": "2000-01-04",
+        "degree": "Ph.D. (London)",
+        "specialization": "Statistics, Public Health and Demography"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1945",
+        "councilservice": "1962-64"
+    },
+    "contact": {
+        "address": "'Sri Kripa', 79/3, Benson Cross Road",
+        "city": "Bengaluru 560 046"
+    }
+}

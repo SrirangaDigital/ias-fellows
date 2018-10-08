@@ -1,0 +1,33 @@
+{
+    "id": "FL2004012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Munder Venkatasubbiah Nagaraja",
+            "last": "Murthy",
+            "display": "Murthy, Prof. Munder Venkatasubbiah Nagaraja"
+        },
+        "sex": "M",
+        "birthDate": "1953-07-09",
+        "degree": "Ph.D. (Mysore)",
+        "specialization": "Particle Physics, Phenomenology, Quantum Statistics and Semiclassical Methods"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Professor, The Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3326",
+            "residence": "(044) 4286 6364",
+            "fax": "(044) 2254 1586"
+        },
+        "email": {
+            "official": "murthy@imsc.res.in"
+        }
+    }
+}

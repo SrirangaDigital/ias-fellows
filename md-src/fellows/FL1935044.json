@@ -1,0 +1,18 @@
+{
+    "id": "FL1935044",
+    "profile": {
+        "name": {
+            "first": "T S",
+            "last": "Sabnis",
+            "display": "Sabnis,  T S"
+        },
+        "sex": "M",
+        "deathDate": "1958-00-00",
+        "specialization": "Plant Anatomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    }
+}

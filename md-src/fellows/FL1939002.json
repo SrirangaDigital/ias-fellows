@@ -1,0 +1,25 @@
+{
+    "id": "FL1939002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Yale",
+            "last": "Appajee",
+            "display": "Appajee, Dr Yale"
+        },
+        "sex": "M",
+        "birthDate": "1904-03-30",
+        "deathDate": "1984-08-05",
+        "degree": "BA, MBBS, M.S. (London)",
+        "specialization": "Anatomy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1939"
+    },
+    "contact": {
+        "address": "Department of Anatomy, Mysore Medical College",
+        "city": "Mysore"
+    }
+}

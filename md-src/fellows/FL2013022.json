@@ -1,0 +1,36 @@
+{
+    "id": "FL2013022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tarun",
+            "last": "Souradeep",
+            "display": "Souradeep, Prof. Tarun"
+        },
+        "sex": "M",
+        "birthDate": "1967-10-09",
+        "degree": "Ph.d. (Pune)",
+        "specialization": "Cosmology, High Energy Physics, Early Universe"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Professor, Inter-University Centre for Astronomy & Astrophysics, Post Bag 4, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4212",
+            "residence": "(020) 2560 4407",
+            "mobile": "94226 44463",
+            "fax": "(020) 2560 4699"
+        },
+        "email": {
+            "official": "tarun@iucaa.in",
+            "personal": "tarun.souradeep@gmail.com"
+        },
+        "url": "http://www.iucaa.in/~tarun"
+    }
+}

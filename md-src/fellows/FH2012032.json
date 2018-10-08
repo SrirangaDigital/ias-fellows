@@ -1,0 +1,30 @@
+{
+    "id": "FH2012032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pradeep K",
+            "last": "Khosla",
+            "display": "Khosla, Prof. Pradeep K"
+        },
+        "sex": "M"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Chancellor, University of California, 9500, Gilman Drive # 0005",
+        "city": "La Jolla, CA 92093",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-858) 534 3135",
+            "residence": "(+1-412) 708 4831",
+            "fax": "(+1-858) 534 6523"
+        },
+        "email": {
+            "official": "pKhosla57@me.com,pkhosla@ucsd.edu"
+        },
+        "url": "http://chancellor.ucsd.edu/"
+    }
+}

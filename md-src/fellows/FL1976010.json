@@ -1,0 +1,26 @@
+{
+    "id": "FL1976010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Debi Prosad",
+            "last": "Burma",
+            "display": "Burma, Prof. Debi Prosad"
+        },
+        "sex": "M",
+        "birthDate": "1925-02-01",
+        "deathDate": "2005-02-04",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA, FNASc, FAMS",
+        "specialization": "Biochemistry and Molecular Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "CF 186, Sector I, Salt Lake City",
+        "city": "Kolkata 700 064"
+    }
+}

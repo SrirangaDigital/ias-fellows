@@ -1,0 +1,24 @@
+{
+    "id": "FL1936003",
+    "profile": {
+        "name": {
+            "first": "P Ramaswami",
+            "last": "Ayyar",
+            "display": "Ayyar,  P Ramaswami"
+        },
+        "sex": "M",
+        "birthDate": "1889-12-21",
+        "deathDate": "1966-03-09",
+        "degree": "MA (Trichy), AIISc",
+        "specialization": "Oils & Fats"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1936"
+    },
+    "contact": {
+        "address": "Veda Nivas, 3rd Main Road, Malleswaram",
+        "city": "Bengaluru 560 003"
+    }
+}

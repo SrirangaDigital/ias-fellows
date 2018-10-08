@@ -1,0 +1,24 @@
+{
+    "id": "FH1971009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Boris Peter",
+            "last": "Stoicheff",
+            "display": "Stoicheff, Prof. Boris Peter"
+        },
+        "sex": "M",
+        "birthDate": "1924-06-01",
+        "deathDate": "2010-04-15",
+        "honours": "FRS, OC"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1971"
+    },
+    "contact": {
+        "address": "Emeritus University Professor and, Professor, Department of Physics, University of Toronto",
+        "city": "Toronto, Ontario M5S 1A7",
+        "country": "Canada"
+    }
+}

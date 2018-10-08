@@ -1,0 +1,35 @@
+{
+    "id": "FL1974022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Madabusi Santanam",
+            "last": "Raghunathan",
+            "display": "Raghunathan, Prof. Madabusi Santanam"
+        },
+        "sex": "M",
+        "birthDate": "1941-08-11",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS, FRS",
+        "specialization": "Lie Groups and Algebraic Groups"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1974",
+        "councilservice": "Council Service: 1983-91"
+    },
+    "contact": {
+        "address": "503, Atlantis, Raheja Acropolis - 1, Pada Road, Deonar",
+        "city": "Mumbai 400 088",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2550 4766",
+            "mobile": "98690 13889"
+        },
+        "email": {
+            "official": "msr@math.iitb.ac.in",
+            "personal": "madabusisr@gmail.com"
+        }
+    }
+}

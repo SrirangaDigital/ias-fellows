@@ -1,0 +1,21 @@
+{
+    "id": "FL1934126",
+    "profile": {
+        "name": {
+            "first": "M",
+            "last": "Visvesvaraya",
+            "display": "Visvesvaraya,  M"
+        },
+        "sex": "M",
+        "birthDate": "1861-09-15",
+        "deathDate": "1962-04-14",
+        "degree": "D.Sc.",
+        "specialization": "Civil Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934",
+        "councilservice": "1936-37"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL1998003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Parimal Kanti",
+            "last": "Bharadwaj",
+            "display": "Bharadwaj, Prof. Parimal Kanti"
+        },
+        "sex": "M",
+        "birthDate": "1951-09-06",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNA",
+        "specialization": "Supramolecular Chemistry, and X-ray Crystallography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Poonam & Prabhu Goel Chair Professor, Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7340, (0512) 259 7034",
+            "residence": "(0512) 259 8324",
+            "fax": "(0512) 259 0007"
+        },
+        "email": {
+            "official": "pkb@iitk.ac.in"
+        }
+    }
+}

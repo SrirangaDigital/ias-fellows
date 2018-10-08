@@ -1,0 +1,20 @@
+{
+    "id": "FL1935025",
+    "profile": {
+        "name": {
+            "first": "Damodar Dharmanand",
+            "last": "Kosambi",
+            "display": "Kosambi,  Damodar Dharmanand"
+        },
+        "sex": "M",
+        "birthDate": "1907-07-31",
+        "deathDate": "1966-06-29",
+        "honours": "FNA",
+        "specialization": "Pure & Applied Mathematics, Theoretical & Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2016001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gadiyara Chakrapani",
+            "last": "Anupama",
+            "display": "Anupama, Prof. Gadiyara Chakrapani"
+        },
+        "sex": "F",
+        "birthDate": "1961-08-04",
+        "degree": "Ph.D. (Bangalore)",
+        "honours": "FNASc",
+        "specialization": "Time Domain Astronomy, Cataclysmic Variables, Supernovae, Gamma-Ray Burst Sources, Active Galactic Nuclei"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Senior Professor, Indian Institute of Astrophysics, Sarjapur Road, Koramangala",
+        "city": "Bengaluru 560 034",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2254 1344",
+            "residence": "(080) 6697 3104",
+            "mobile": "98450 44770"
+        },
+        "email": {
+            "official": "gca@iiap.res.in"
+        }
+    }
+}

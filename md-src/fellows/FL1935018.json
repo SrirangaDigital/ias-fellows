@@ -1,0 +1,20 @@
+{
+    "id": "FL1935018",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kashinath Ramachandra",
+            "last": "Gunjikar",
+            "display": "Gunjikar, Dr Kashinath Ramachandra"
+        },
+        "sex": "M",
+        "birthDate": "1894-03-08",
+        "deathDate": "1990-02-11",
+        "specialization": "Applied Mathematics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1935"
+    }
+}

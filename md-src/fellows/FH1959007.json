@@ -1,0 +1,18 @@
+{
+    "id": "FH1959007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jacob Aall Bonneveie",
+            "last": "Bjerknes",
+            "display": "Bjerknes, Prof. Jacob Aall Bonneveie"
+        },
+        "sex": "M",
+        "birthDate": "1897-11-02",
+        "deathDate": "1975-07-07"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1959"
+    }
+}

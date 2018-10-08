@@ -1,0 +1,20 @@
+{
+    "id": "FL1975038",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Harish-Chandra",
+            "display": "Harish-Chandra, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1923-10-11",
+        "deathDate": "1983-10-16",
+        "honours": "FNA",
+        "specialization": "Harmonic Analysis on Reductive Groups"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1975"
+    }
+}

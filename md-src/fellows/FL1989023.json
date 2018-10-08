@@ -1,0 +1,27 @@
+{
+    "id": "FL1989023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amar Nath",
+            "last": "Bhaduri",
+            "display": "Bhaduri, Dr Amar Nath"
+        },
+        "sex": "M",
+        "birthDate": "1935-11-12",
+        "deathDate": "2003-06-05",
+        "degree": "D.Sc. (Michigan)",
+        "honours": "FNA",
+        "specialization": "Biochemistry, Molecular Enzymology and Parasite Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1989",
+        "councilservice": "Council Service: 1992-94."
+    },
+    "contact": {
+        "address": "INSA Honorary Scientist, Indian Inst. of Chemical Biology, 4, Raja S C Mullick Road, Jadavpur",
+        "city": "Kolkata 700 032"
+    }
+}

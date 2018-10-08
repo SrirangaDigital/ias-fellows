@@ -1,0 +1,18 @@
+{
+    "id": "FH1971007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Erik",
+            "last": "Rudberg",
+            "display": "Rudberg, Prof. Erik"
+        },
+        "sex": "M",
+        "birthDate": "1902-11-17",
+        "deathDate": "1980-01-02"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1971"
+    }
+}

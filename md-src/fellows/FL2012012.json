@@ -1,0 +1,35 @@
+{
+    "id": "FL2012012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Viswanathan",
+            "last": "Mohan",
+            "display": "Mohan, Dr Viswanathan"
+        },
+        "sex": "M",
+        "birthDate": "1954-04-10",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNASc, FNA, FRCP (London, Glasgow, Edinburgh, Ireland), FTWAS",
+        "specialization": "Diabetes and its Complications, Epidemiology, Genomic Studies"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Dr Mohan's Diabetes Specialities Centre, No. 6B, Conran Smith Road, Gopalapuram",
+        "city": "Chennai 600 086",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 4396 8888",
+            "residence": "(044) 2431 1238",
+            "mobile": "98400 97370",
+            "fax": "(044) 2835 0935"
+        },
+        "email": {
+            "official": "drmohans@diabetes.ind.in"
+        }
+    }
+}

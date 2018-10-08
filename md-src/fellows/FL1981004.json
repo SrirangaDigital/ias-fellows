@@ -1,0 +1,36 @@
+{
+    "id": "FL1981004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dipankar",
+            "last": "Chakravorty",
+            "display": "Chakravorty, Prof. Dipankar"
+        },
+        "sex": "M",
+        "birthDate": "1937-07-03",
+        "degree": "Ph.D. (Penn. State Univ.)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Materials Science and Nanomaterials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1981",
+        "councilservice": "Council Service: 1992-97"
+    },
+    "contact": {
+        "address": "INSA Emeritus Scientist, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/1580",
+            "residence": "(033) 2476 1351",
+            "mobile": "98300 61734",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "mlsdc@iacs.res.in"
+        }
+    }
+}

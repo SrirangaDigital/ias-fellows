@@ -1,0 +1,36 @@
+{
+    "id": "FL1992026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thanu",
+            "last": "Padmanabhan",
+            "display": "Padmanabhan, Prof. Thanu"
+        },
+        "sex": "M",
+        "birthDate": "1957-03-10",
+        "degree": "Ph.D. (TIFR)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Gravitation, Quantum Theory, Cosmology and Structure Formation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1992",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Distinguished Professor, Inter-University Centre for Astronomy and Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4106, (020) 2560 4100",
+            "residence": "(020) 2569 2922, 2560 4408",
+            "fax": "(020) 2560 4699"
+        },
+        "email": {
+            "official": "paddy@iucaa.in,nabhan@iucaa.in"
+        },
+        "url": "http://iucaa.ernet.in/~paddy"
+    }
+}

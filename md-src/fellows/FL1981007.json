@@ -1,0 +1,25 @@
+{
+    "id": "FL1981007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Girishwar",
+            "last": "Nath",
+            "display": "Nath, Prof. Girishwar"
+        },
+        "sex": "M",
+        "birthDate": "1932-07-17",
+        "degree": "Ph.D. (Budapest)",
+        "specialization": "Fluid Mechanics, Magnetohydrodynamics and Turbomachines"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "c/o Dr S.K. Sinha, Type IV/17, KNIT Campus, Kamala Nehru Institute of, Technology",
+        "city": "Sultanpur 228 118",
+        "state": "U.P"
+    }
+}

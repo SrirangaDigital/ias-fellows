@@ -1,0 +1,35 @@
+{
+    "id": "FL1998019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Echur Varadadesikan",
+            "last": "Sampathkumaran",
+            "display": "Sampathkumaran, Prof. Echur Varadadesikan"
+        },
+        "sex": "M",
+        "birthDate": "1954-12-06",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Spin-Chain Behaviour, Kondo Lattices, Strong Electron Correlations, Multiferroics, Magnetism, Superconductivity, Geometrical Frustration"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "Distinguished Professor, Department of Condensed Matter Physics and Materials Science, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2437 & 2439",
+            "residence": "(022) 2280 4977",
+            "mobile": "98921 00402",
+            "fax": "(022) 2280 4610, (022) 2280 4611"
+        },
+        "email": {
+            "official": "sampath@mailhost.tifr.res.in"
+        }
+    }
+}

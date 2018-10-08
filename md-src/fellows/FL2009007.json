@@ -1,0 +1,35 @@
+{
+    "id": "FL2009007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chetan Eknath",
+            "last": "Chitnis",
+            "display": "Chitnis, Dr Chetan Eknath"
+        },
+        "sex": "M",
+        "birthDate": "1961-04-03",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "honours": "FNA",
+        "specialization": "Molecular Parasitology, Vaccine Development for Malaria and Molecular & Cell Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Head, Malaria Parasite Biology & Vaccine, Institut Pasteur, 28, Rue du Dr Roux",
+        "city": "Paris 75015",
+        "country": "France",
+        "telephone": {
+            "office": "(+33-1) 4438 9428",
+            "residence": "(+33-1) 4288 6350",
+            "mobile": "(+33-7) 8785 6133",
+            "fax": "(+33-1) 4438 9428"
+        },
+        "email": {
+            "official": "chetan.chitnis@pasteur.fr"
+        }
+    }
+}

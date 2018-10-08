@@ -1,0 +1,26 @@
+{
+    "id": "FL1968004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Homi Nusserwanji",
+            "last": "Sethna",
+            "display": "Sethna, Dr Homi Nusserwanji"
+        },
+        "sex": "M",
+        "birthDate": "1923-08-24",
+        "deathDate": "2010-09-05",
+        "degree": "M.S.E. (Michigan)",
+        "honours": "D.Sc. (h.c.), FNA, FNAE",
+        "specialization": "Nuclear Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1968"
+    },
+    "contact": {
+        "address": "'Panorama', 203, Walkeshwar Road, Malabar Hill",
+        "city": "Mumbai 400 006"
+    }
+}

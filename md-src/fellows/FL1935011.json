@@ -1,0 +1,20 @@
+{
+    "id": "FL1935011",
+    "profile": {
+        "name": {
+            "first": "Manayath",
+            "last": "Damodaran",
+            "display": "Damodaran,  Manayath"
+        },
+        "sex": "M",
+        "birthDate": "1903-10-18",
+        "degree": "D.Sc.",
+        "honours": "FNA",
+        "specialization": "Protein Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1935"
+    }
+}

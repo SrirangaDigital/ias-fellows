@@ -1,0 +1,36 @@
+{
+    "id": "FL2005023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chandrima",
+            "last": "Shaha",
+            "display": "Shaha, Dr Chandrima"
+        },
+        "sex": "F",
+        "birthDate": "1952-10-14",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Cell Biology and Biochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2005",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Professor of Eminence, National Institute of Immunology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2674 1501",
+            "residence": "(011) 2674 1501, (011) 2674 2528",
+            "mobile": "99584 20001"
+        },
+        "email": {
+            "official": "cshaha@nii.ac.in"
+        },
+        "url": "http://www1.nii.res.in/research/chandrima-shaha"
+    }
+}

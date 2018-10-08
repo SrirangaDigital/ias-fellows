@@ -1,0 +1,26 @@
+{
+    "id": "FL1938003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ranchhodji Dajibhai",
+            "last": "Desai",
+            "display": "Desai, Dr Ranchhodji Dajibhai"
+        },
+        "sex": "M",
+        "birthDate": "1897-05-04",
+        "deathDate": "1991-11-16",
+        "degree": "D.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry, Synthetic Dyes and Drugs"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1938"
+    },
+    "contact": {
+        "address": "Ram Krupa, Behind Bhagini Samaj, Halar Cross Road",
+        "city": "Bulsar 396 001"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "FL1935012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sachindra Nath",
+            "last": "Das-Gupta",
+            "display": "Das-Gupta, Dr Sachindra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1902-11-04",
+        "deathDate": "1990-09-11",
+        "degree": "D.Sc. (London)",
+        "honours": "FNA, FNASc",
+        "specialization": "Mycology, Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935"
+    }
+}

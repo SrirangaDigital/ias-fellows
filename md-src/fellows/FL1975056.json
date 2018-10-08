@@ -1,0 +1,21 @@
+{
+    "id": "FL1975056",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Krishnapillai Karunakaran",
+            "last": "Nayar",
+            "display": "Nayar, Dr Krishnapillai Karunakaran"
+        },
+        "sex": "M",
+        "birthDate": "1920-06-12",
+        "deathDate": "1975-06-26",
+        "honours": "FNA",
+        "specialization": "Endocrinology, Entomology, Co-operative Oncology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1975"
+    }
+}

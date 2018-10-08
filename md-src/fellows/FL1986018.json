@@ -1,0 +1,36 @@
+{
+    "id": "FL1986018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalyan Bidhan",
+            "last": "Sinha",
+            "display": "Sinha, Prof. Kalyan Bidhan"
+        },
+        "sex": "M",
+        "birthDate": "1944-06-03",
+        "degree": "Ph.D. (Rochester)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Spectral Theory of Operators, Non-Commutative Geometry and Stochastic Processes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1986",
+        "councilservice": "Council Service: 1992-97, 2010-12; Vice-President: 1995-97, 2010-12"
+    },
+    "contact": {
+        "address": "SERB Distinguished Fellow & Honorary Professor, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2997",
+            "residence": "(080) 2366 5608",
+            "mobile": "99001 44612",
+            "fax": "(080) 2208 2897"
+        },
+        "email": {
+            "official": "kbs@jncasr.ac.in"
+        }
+    }
+}

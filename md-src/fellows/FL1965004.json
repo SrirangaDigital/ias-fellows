@@ -1,0 +1,19 @@
+{
+    "id": "FL1965004",
+    "profile": {
+        "name": {
+            "first": "Pramatha Nath",
+            "last": "Bardhan",
+            "display": "Bardhan,  Pramatha Nath"
+        },
+        "sex": "M",
+        "birthDate": "1906-03-12",
+        "deathDate": "1966-08-12",
+        "specialization": "Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1965"
+    }
+}

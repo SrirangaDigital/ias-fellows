@@ -1,0 +1,34 @@
+{
+    "id": "FL1993022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Cherian Kanjirathumkal",
+            "last": "Mathews",
+            "display": "Mathews, Dr Cherian Kanjirathumkal"
+        },
+        "sex": "M",
+        "birthDate": "1935-03-22",
+        "degree": "Ph.D. (McMaster)",
+        "specialization": "High Temperature Chemistry, Solid State Ionics & Sensors, Materials Characterization and Instrumentation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Manas, 52, Banjara Orchards, Horamavu, Banaswadi Post",
+        "city": "Bengaluru 560 043",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2544 9762, (080) 2544 9764",
+            "residence": "(080) 6547 1200",
+            "mobile": "98440 10286",
+            "fax": "(080) 2543 0914"
+        },
+        "email": {
+            "official": "md@indusscientific.com,ckmathews@indusscientific.com"
+        }
+    }
+}

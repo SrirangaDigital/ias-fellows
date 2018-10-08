@@ -1,0 +1,31 @@
+{
+    "id": "FL1975003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pranab Rebatiranjan",
+            "last": "Dastidar",
+            "display": "Dastidar, Dr Pranab Rebatiranjan"
+        },
+        "sex": "M",
+        "birthDate": "1933-07-10",
+        "degree": "B.E., Ph.D. (Manchester)",
+        "specialization": "Electronics, Controls and Nuclear Power"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "F-3, Rajkunj Co-op. Housing Society, Wadhavli, Chembur",
+        "city": "Mumbai 400 074.",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2553 4498"
+        },
+        "email": {
+            "personal": "pranabd2002@yahoo.co.in"
+        }
+    }
+}

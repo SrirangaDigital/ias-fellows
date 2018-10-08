@@ -1,0 +1,32 @@
+{
+    "id": "FL1981010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kailasam",
+            "last": "Venkatesan",
+            "display": "Venkatesan, Prof. Kailasam"
+        },
+        "sex": "M",
+        "birthDate": "1932-04-29",
+        "degree": "Ph.D. (Madras)",
+        "honours": "FNA",
+        "specialization": "Chemical Crystallography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Himagiri Apartments, D-1, 77, Fourth Main Road, Malleswaram",
+        "city": "Bengaluru 560 055",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2334 8736"
+        },
+        "email": {
+            "personal": "kvenoc15@yahoo.com"
+        }
+    }
+}

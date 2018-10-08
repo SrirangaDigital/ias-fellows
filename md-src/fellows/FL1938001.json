@@ -1,0 +1,27 @@
+{
+    "id": "FL1938001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramakrishnaiyer",
+            "last": "Ananthakrishnan",
+            "display": "Ananthakrishnan, Prof. Ramakrishnaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1911-04-11",
+        "deathDate": "1998-07-21",
+        "degree": "D.Sc. (Madras)",
+        "honours": "FNA",
+        "specialization": "Solar Physics and Atmospheric Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1938",
+        "councilservice": "1962-64."
+    },
+    "contact": {
+        "address": "Flat No. 9, Praram Apartments, Lakaki Road",
+        "city": "Pune 411 016"
+    }
+}

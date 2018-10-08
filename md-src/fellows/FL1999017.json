@@ -1,0 +1,36 @@
+{
+    "id": "FL1999017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chitra",
+            "last": "Sarkar",
+            "display": "Sarkar, Prof. Chitra"
+        },
+        "sex": "F",
+        "birthDate": "1955-09-11",
+        "degree": "M.B.B.S. (Bangalore), M.D. (AIIMS)",
+        "honours": "FRC Path. (London), FNASc, FAMS, FNA",
+        "specialization": "Neuropathology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1999",
+        "councilservice": "Council Service: 2013-15"
+    },
+    "contact": {
+        "address": "Professor, Department of Pathology, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 3371",
+            "residence": "(011) 2658 8390",
+            "mobile": "98101 81945",
+            "fax": "(011) 2658 8663"
+        },
+        "email": {
+            "personal": "sarkar.chitra@gmail.com"
+        }
+    }
+}

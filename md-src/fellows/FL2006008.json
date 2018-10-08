@@ -1,0 +1,33 @@
+{
+    "id": "FL2006008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalyanmoy",
+            "last": "Deb",
+            "display": "Deb, Prof. Kalyanmoy"
+        },
+        "sex": "M",
+        "birthDate": "1962-04-29",
+        "degree": "Ph.D. (Alabama)",
+        "honours": "FNAE, FNA",
+        "specialization": "Optimization & Design, Genetic Algorithms and Multiobjective Optimization"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Koenig Endowed Chair Professor, Electrical & Computer Engineering, Michigan State University",
+        "city": "East Lansing, MI 48864",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-517) 930 0846"
+        },
+        "email": {
+            "official": "kdeb@egr.msu.edu"
+        },
+        "url": "http://www.iitk.ac.in/kangal/deb.htm"
+    }
+}

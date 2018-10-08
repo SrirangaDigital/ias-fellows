@@ -1,0 +1,35 @@
+{
+    "id": "FL2001006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Athipettah",
+            "last": "Jayakrishnan",
+            "display": "Jayakrishnan, Prof. Athipettah"
+        },
+        "sex": "M",
+        "birthDate": "1953-04-25",
+        "degree": "Ph.D. (IIT, Chennai)",
+        "specialization": "Polymer Chemistry, Biomaterials and Controlled Drug Delivery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Department of Biotechnology, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4129",
+            "residence": "(044) 2257 6129",
+            "mobile": "99467 92226",
+            "fax": "(044) 2257 4102"
+        },
+        "email": {
+            "official": "ajk@iitm.ac.in",
+            "personal": "drjk.sct@gmail.com"
+        }
+    }
+}

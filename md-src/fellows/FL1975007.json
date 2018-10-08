@@ -1,0 +1,34 @@
+{
+    "id": "FL1975007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Satinder Vir",
+            "last": "Kessar",
+            "display": "Kessar, Prof. Satinder Vir"
+        },
+        "sex": "M",
+        "birthDate": "1932-06-09",
+        "degree": "Ph.D. (USC, Los Angeles)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Synthetic & Mechanistic Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Department of Chemistry, Panjab University",
+        "city": "Chandigarh 160 014",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(0172) 254 1435",
+            "residence": "(0172) 274 7308",
+            "mobile": "98786 39635"
+        },
+        "email": {
+            "official": "svkessar@pu.ac.in"
+        }
+    }
+}

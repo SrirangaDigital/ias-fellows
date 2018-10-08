@@ -1,0 +1,36 @@
+{
+    "id": "FL2017019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sumathi",
+            "last": "Rao",
+            "display": "Rao, Prof. Sumathi"
+        },
+        "sex": "F",
+        "birthDate": "1956-12-05",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "honours": "FNASc",
+        "specialization": "Theoretical Condensed Matter Physics, Quantum field Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Harish Chandra Research Institute, Chhatnag Road, Jhusi",
+        "city": "Allahabad 211 019",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0532) 227 4303",
+            "residence": "(0532) 227 4002",
+            "mobile": "99355 92313",
+            "fax": "(0532) 256 7444"
+        },
+        "email": {
+            "official": "sumathi@hri.res.in"
+        },
+        "url": "http://www.hri.res.in/~sumathi"
+    }
+}

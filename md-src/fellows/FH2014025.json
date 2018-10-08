@@ -1,0 +1,25 @@
+{
+    "id": "FH2014025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arogyaswami J",
+            "last": "Paulraj",
+            "display": "Paulraj, Prof. Arogyaswami J"
+        },
+        "sex": "M",
+        "birthDate": "1944-00-00"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Information Systems Laboratory, Stanford University, 232, David Packard EE Building, 350, Serra Mall",
+        "city": "Stanford, CA 94305-9510",
+        "country": "USA",
+        "email": {
+            "official": "apaulraj@stanford.edu"
+        }
+    }
+}

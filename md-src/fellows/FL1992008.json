@@ -1,0 +1,32 @@
+{
+    "id": "FL1992008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anadi Charan",
+            "last": "Dash",
+            "display": "Dash, Prof. Anadi Charan"
+        },
+        "sex": "M",
+        "birthDate": "1941-03-02",
+        "degree": "Ph.D. (Utkal)",
+        "specialization": "Physical Inorganic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1992"
+    },
+    "contact": {
+        "address": "14(P), 369 Gajapati Nagar",
+        "city": "Bhubaneswar 751 005",
+        "state": "Orissa",
+        "telephone": {
+            "residence": "(0674) 230 1707",
+            "mobile": "94377 77730"
+        },
+        "email": {
+            "personal": "acdash1@rediffmail.com,acdash41@gmail.com"
+        }
+    }
+}

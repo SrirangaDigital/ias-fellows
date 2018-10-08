@@ -1,0 +1,36 @@
+{
+    "id": "FL2013004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Debasis",
+            "last": "Chattopadhyay",
+            "display": "Chattopadhyay, Dr Debasis"
+        },
+        "sex": "M",
+        "birthDate": "1967-10-20",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Abiotic Stress of Plants, Plant Virology, Genome Sequencing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Staff Scientist VI, National Institute of Plant Genome Research, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2673 5189",
+            "residence": "(011) 2673 5148",
+            "mobile": "98682 40645",
+            "fax": "(011) 2674 1658"
+        },
+        "email": {
+            "official": "debasis@nipgr.ac.in"
+        },
+        "url": "http://www.nipgr.res.in/research/dr_dchattopadhyay.php"
+    }
+}

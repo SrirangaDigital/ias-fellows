@@ -1,0 +1,35 @@
+{
+    "id": "FL2009031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Puthenveettil Narayana Menon",
+            "last": "Vinayachandran",
+            "display": "Vinayachandran, Prof. Puthenveettil Narayana Menon"
+        },
+        "sex": "M",
+        "birthDate": "1964-04-19",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Physical Oceanography, Ocean Modelling, Physical-Biological Interactions in Ocean"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Centre for Atmospheric & Oceanic Sciences, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3065",
+            "residence": "(080) 2360 1013",
+            "mobile": "98457 40257",
+            "fax": "(080) 2360 0865"
+        },
+        "email": {
+            "official": "vinay@iisc.ac.in"
+        },
+        "url": "http://caos.iisc.ernet.in/faculty/vinay.html"
+    }
+}

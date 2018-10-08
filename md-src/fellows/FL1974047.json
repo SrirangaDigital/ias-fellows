@@ -1,0 +1,26 @@
+{
+    "id": "FL1974047",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sadhan",
+            "last": "Basu",
+            "display": "Basu, Prof. Sadhan"
+        },
+        "sex": "M",
+        "birthDate": "1922-01-02",
+        "deathDate": "1992-10-05",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Molecular Spectroscopy and Quantum Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "Palit Professor of Chemistry, Calcutta University, 92, A P C Road",
+        "city": "Calcutta 700 009"
+    }
+}

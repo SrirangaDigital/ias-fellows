@@ -1,0 +1,23 @@
+{
+    "id": "FH1958009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Giovanni Batista",
+            "last": "Bonino",
+            "display": "Bonino, Prof. Giovanni Batista"
+        },
+        "sex": "M",
+        "birthDate": "1899-05-03",
+        "deathDate": "1985-12-11"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1958"
+    },
+    "contact": {
+        "address": "Universita di Genova, Academico Nazionale dei Lincei, Roma",
+        "city": "V 16145 Genova",
+        "country": "Italy"
+    }
+}

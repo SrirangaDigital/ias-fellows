@@ -1,0 +1,19 @@
+{
+    "id": "FH1962004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "John Douglas",
+            "last": "Cockcroft",
+            "display": "Cockcroft, Prof. John Douglas"
+        },
+        "sex": "M",
+        "birthDate": "1897-05-27",
+        "deathDate": "1967-09-18",
+        "honours": "Nobel Laureate (Physics) - 1951"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1962"
+    }
+}

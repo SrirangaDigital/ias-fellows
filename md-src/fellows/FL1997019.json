@@ -1,0 +1,36 @@
+{
+    "id": "FL1997019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sundaram",
+            "last": "Thangavelu",
+            "display": "Thangavelu, Prof. Sundaram"
+        },
+        "sex": "M",
+        "birthDate": "1957-06-17",
+        "degree": "Ph.D. (Princeton)",
+        "honours": "FNA",
+        "specialization": "Harmonic Analysis on Lie Groups, Classical Analysis and Partial Differential Equations"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Professor, Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3206",
+            "residence": "(080) 2360 1132",
+            "mobile": "82773 97409",
+            "fax": "(080) 2360 0146"
+        },
+        "email": {
+            "official": "veluma@math.iisc.ernet.in",
+            "personal": "amulev@gmail.com"
+        }
+    }
+}

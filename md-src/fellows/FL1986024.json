@@ -1,0 +1,26 @@
+{
+    "id": "FL1986024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Suresh Krishnarao",
+            "last": "Pradhan",
+            "display": "Pradhan, Prof. Suresh Krishnarao"
+        },
+        "sex": "M",
+        "birthDate": "1929-09-06",
+        "deathDate": "2002-05-23",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry, Stereochemistry, Reaction Mechanism, Synthesis and Natural Products"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Flat A-32, Building No.11,, Jankalyan Nagar, Malad (West)",
+        "city": "Mumbai 400 095"
+    }
+}

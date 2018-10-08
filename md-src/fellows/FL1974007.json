@@ -1,0 +1,32 @@
+{
+    "id": "FL1974007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sushil",
+            "last": "Dua-Sharma",
+            "display": "Dua-Sharma, Prof. Sushil"
+        },
+        "sex": "F",
+        "birthDate": "1926-04-04",
+        "degree": "M.D. (AIIMS), Ph.D. (Panjab)",
+        "honours": "FAMS",
+        "specialization": "Neurophysiology, Reproductive Biology and Nutrition"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "C-195, Ramprastha, P.O. Chandernagar",
+        "city": "Ghaziabad 201 011",
+        "state": "U.P.",
+        "telephone": {
+            "mobile": "99863 39224"
+        },
+        "email": {
+            "personal": "sduasharma@yahoo.co.in"
+        }
+    }
+}

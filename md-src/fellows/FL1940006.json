@@ -1,0 +1,21 @@
+{
+    "id": "FL1940006",
+    "profile": {
+        "name": {
+            "first": "Ladapuram Srinivasa Sampath",
+            "last": "Kumar",
+            "display": "Kumar,  Ladapuram Srinivasa Sampath"
+        },
+        "sex": "M",
+        "birthDate": "1903-06-04",
+        "deathDate": "1985-11-20",
+        "degree": "M.Sc. (London)",
+        "honours": "FNA",
+        "specialization": "Plant Breeding and Cytogenetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1940"
+    }
+}

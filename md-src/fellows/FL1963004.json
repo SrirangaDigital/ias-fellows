@@ -1,0 +1,25 @@
+{
+    "id": "FL1963004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Thanicklal Radhakrishnan",
+            "last": "Menon",
+            "display": "Menon, Dr Thanicklal Radhakrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1925-04-14",
+        "deathDate": "2001-05-29",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Fibre Science, Textile Physics and Textile Testing"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1963"
+    },
+    "contact": {
+        "address": "'Lakshmi Nivas', Press Club Road",
+        "city": "Thiruvananthapuram 695 039"
+    }
+}

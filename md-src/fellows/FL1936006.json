@@ -1,0 +1,20 @@
+{
+    "id": "FL1936006",
+    "profile": {
+        "name": {
+            "first": "Ramachandra Jaykrishna",
+            "last": "Kalamkar",
+            "display": "Kalamkar,  Ramachandra Jaykrishna"
+        },
+        "sex": "M",
+        "birthDate": "1903-08-28",
+        "deathDate": "1974-05-24",
+        "degree": "Ph.D.",
+        "specialization": "Agricultural Sciences"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1936"
+    }
+}

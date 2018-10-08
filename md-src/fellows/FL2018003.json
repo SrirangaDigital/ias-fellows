@@ -1,0 +1,35 @@
+{
+    "id": "FL2018003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Santanu Kumar",
+            "last": "Bhowmik",
+            "display": "Bhowmik, Prof. Santanu Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1966-04-21",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Metamorphic Petrology, Accessory Mineral Petrology, Tectonics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Geology and Geophysics, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3390",
+            "residence": "(03222) 28 3391, 27 9766",
+            "mobile": "94340 41791",
+            "fax": "(03222) 28 2268"
+        },
+        "email": {
+            "official": "santanu@gg.iitkgp.ernet.in",
+            "personal": "santanubhowmik@gmail.com"
+        }
+    }
+}

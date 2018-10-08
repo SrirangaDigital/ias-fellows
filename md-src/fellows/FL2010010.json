@@ -1,0 +1,36 @@
+{
+    "id": "FL2010010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amitava",
+            "last": "Das",
+            "display": "Das, Dr Amitava"
+        },
+        "sex": "M",
+        "birthDate": "1959-12-24",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Reactions, Supramolecular Chemistry, Assembly Photo-included Processes"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Director, Central Salt & Marine Chemicals Research Institute, GB Marg",
+        "city": "Bhavnagar 364 002",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(0278) 256 9496",
+            "residence": "(0278) 256 2610",
+            "mobile": "82752 25356",
+            "fax": "(0278) 256 7562"
+        },
+        "email": {
+            "official": "a.das@csmcri.res.in",
+            "personal": "das.amitava1@gmail.com"
+        }
+    }
+}

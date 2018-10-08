@@ -1,0 +1,21 @@
+{
+    "id": "FL1943010",
+    "profile": {
+        "name": {
+            "first": "Rustom Jai",
+            "last": "Vakil",
+            "display": "Vakil,  Rustom Jai"
+        },
+        "sex": "M",
+        "birthDate": "1911-07-17",
+        "deathDate": "1974-11-20",
+        "degree": "M.D. (London)",
+        "honours": "FNA",
+        "specialization": "Cardiac Research"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1943"
+    }
+}

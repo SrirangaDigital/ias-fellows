@@ -1,0 +1,21 @@
+{
+    "id": "FL1935026",
+    "profile": {
+        "name": {
+            "first": "Ganesh Sakharam",
+            "last": "Mahajani",
+            "display": "Mahajani,  Ganesh Sakharam"
+        },
+        "sex": "M",
+        "birthDate": "1898-11-27",
+        "deathDate": "1984-07-26",
+        "degree": "Ph.D. (Cambridge)",
+        "honours": "FNA",
+        "specialization": "Higher Dynamics, Ferromagnetics and Hydrodynamics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1935"
+    }
+}

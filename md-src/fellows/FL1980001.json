@@ -1,0 +1,33 @@
+{
+    "id": "FL1980001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Naropantul",
+            "last": "Appaji Rao",
+            "display": "Appaji Rao, Prof. Naropantul"
+        },
+        "sex": "M",
+        "birthDate": "1934-09-25",
+        "degree": "Ph.D. (Rajasthan)",
+        "honours": "FNA",
+        "specialization": "Enzyme Regulation and Inborn Errors of Metabolism"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1980"
+    },
+    "contact": {
+        "address": "9, Sharada Colony, Basaveshwara Nagar",
+        "city": "Bengaluru 560 079",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2348 6560",
+            "mobile": "96118 35935"
+        },
+        "email": {
+            "personal": "bcbcnar@gmail.com"
+        }
+    }
+}

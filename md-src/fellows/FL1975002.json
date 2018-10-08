@@ -1,0 +1,36 @@
+{
+    "id": "FL1975002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Animesh",
+            "last": "Chakravorty",
+            "display": "Chakravorty, Prof. Animesh"
+        },
+        "sex": "M",
+        "birthDate": "1935-06-30",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Inorganic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1975",
+        "councilservice": "Council Service: 1986-91."
+    },
+    "contact": {
+        "address": "Flat 8/3, 6, Sunny Park, Ballygunge",
+        "city": "Kolkata 700 019",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2485 8327",
+            "mobile": "94338 01715"
+        },
+        "email": {
+            "official": "icac@iacs.res.in",
+            "personal": "animeshc31@gmail.com"
+        },
+        "url": "http://www.iacs.res.in/icac.html"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "FL1952003",
+    "profile": {
+        "name": {
+            "first": "Chinnadurai Pittendrigh",
+            "last": "Gnanamuthu",
+            "display": "Gnanamuthu,  Chinnadurai Pittendrigh"
+        },
+        "sex": "M",
+        "birthDate": "1901-04-29",
+        "deathDate": "1969-03-18",
+        "degree": "D.Sc.",
+        "specialization": "Animal Physiology, Animal Ecology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1952"
+    }
+}

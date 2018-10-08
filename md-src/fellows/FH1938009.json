@@ -1,0 +1,18 @@
+{
+    "id": "FH1938009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Frederick George",
+            "last": "Donnan",
+            "display": "Donnan, Prof. Frederick George"
+        },
+        "sex": "M",
+        "birthDate": "1870-09-06",
+        "deathDate": "1956-12-16"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1938"
+    }
+}

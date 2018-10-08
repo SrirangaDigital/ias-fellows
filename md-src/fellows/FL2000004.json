@@ -1,0 +1,33 @@
+{
+    "id": "FL2000004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ushadevi Narendra",
+            "last": "Bhosle",
+            "display": "Bhosle, Prof. Ushadevi Narendra"
+        },
+        "sex": "F",
+        "birthDate": "1949-03-30",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNASc, FNA",
+        "specialization": "Algebraic Geometry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Flat No. 256, Jal Vayu Towers, NGEF Layout, Bennigannahalli",
+        "city": "Bengaluru 560 038",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "99306 41136",
+            "mobile": "88616 96296"
+        },
+        "email": {
+            "personal": "usnabh07@gmail.com"
+        }
+    }
+}

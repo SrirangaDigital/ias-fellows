@@ -1,0 +1,18 @@
+{
+    "id": "FH1947006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sydney",
+            "last": "Chapman",
+            "display": "Chapman, Prof. Sydney"
+        },
+        "sex": "M",
+        "birthDate": "1888-01-29",
+        "deathDate": "1970-06-16"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1947"
+    }
+}

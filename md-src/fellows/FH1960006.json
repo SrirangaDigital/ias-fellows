@@ -1,0 +1,18 @@
+{
+    "id": "FH1960006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Albert Friedrich",
+            "last": "Frey-Wyssling",
+            "display": "Frey-Wyssling, Prof. Albert Friedrich"
+        },
+        "sex": "M",
+        "birthDate": "1900-11-08",
+        "deathDate": "1988-08-30"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1960"
+    }
+}

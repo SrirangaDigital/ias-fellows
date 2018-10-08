@@ -1,0 +1,21 @@
+{
+    "id": "FL1934090",
+    "profile": {
+        "name": {
+            "first": "Birbal",
+            "last": "Sahni",
+            "display": "Sahni,  Birbal"
+        },
+        "sex": "M",
+        "birthDate": "1891-11-14",
+        "deathDate": "1949-04-10",
+        "honours": "FNA",
+        "specialization": "Palaeobotany"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934",
+        "councilservice": "1934-49; Vice President 1934-49"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2018015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tapas Kumar",
+            "last": "Maji",
+            "display": "Maji, Prof. Tapas Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1974-08-01",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Porous Materials, Inorganic-Organic Hybrid nanomaterials, Molecule-based Magnetic& Optoelectronic Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2826",
+            "residence": "(080) 2369 0611",
+            "mobile": "94835 40611"
+        },
+        "email": {
+            "official": "tmaji@jncasr.ac.in",
+            "personal": "tmaji74@gmail.com"
+        },
+        "url": "http://www.jncasr.ac.in/tmaji"
+    }
+}

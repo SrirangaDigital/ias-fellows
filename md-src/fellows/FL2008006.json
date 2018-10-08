@@ -1,0 +1,35 @@
+{
+    "id": "FL2008006",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Arabinda",
+            "last": "Chaudhuri",
+            "display": "Chaudhuri, Dr Arabinda"
+        },
+        "sex": "M",
+        "birthDate": "1958-01-06",
+        "degree": "Ph.D. (Rutgers)",
+        "specialization": "Dendritic Cell Targeted Cancer Immunotherapy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Chief Scientist, Department of Chemical Biology, Indian Institute of Chemical Technology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 3201, (040) 2719 3235",
+            "residence": "(040) 2715 6755",
+            "mobile": "94400 40582",
+            "fax": "(040) 2719 3370"
+        },
+        "email": {
+            "official": "arabinda@iict.res.in",
+            "personal": "arabindachaudhuri@gmail.com"
+        }
+    }
+}

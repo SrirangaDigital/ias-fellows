@@ -1,0 +1,21 @@
+{
+    "id": "FL1949005",
+    "profile": {
+        "name": {
+            "first": "Maneklal Sankalchand",
+            "last": "Thacker",
+            "display": "Thacker,  Maneklal Sankalchand"
+        },
+        "sex": "M",
+        "birthDate": "1904-12-03",
+        "deathDate": "1979-07-06",
+        "degree": "D.Engg.",
+        "honours": "FNA",
+        "specialization": "Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1949"
+    }
+}

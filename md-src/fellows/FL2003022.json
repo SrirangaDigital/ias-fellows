@@ -1,0 +1,35 @@
+{
+    "id": "FL2003022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subrata",
+            "last": "Sinha",
+            "display": "Sinha, Prof. Subrata"
+        },
+        "sex": "M",
+        "birthDate": "1958-01-04",
+        "degree": "M.D. (AIIMS), Ph.D. (MRC, UK)",
+        "honours": "FNA, FNASc, FAMS",
+        "specialization": "Molecular Oncology and Immunology, Neurobiology of Dyslexia"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Department of Biochemistry, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 4483, 2658 9617",
+            "residence": "(011) 2696 6586",
+            "mobile": "98119 01376",
+            "fax": "(011) 2658 8641"
+        },
+        "email": {
+            "personal": "sub_sinha@hotmail.com,sub_sinha2004@yahoo.co.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2018022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chandrabhas",
+            "last": "Narayana",
+            "display": "Narayana, Prof. Chandrabhas"
+        },
+        "sex": "M",
+        "birthDate": "1965-09-08",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FRSC, FNASc",
+        "specialization": "Condensed Matter Physics, Light Scattering in Materials, High Pressure Research"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Chemistry & Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2810",
+            "residence": "(080) 2362 9016",
+            "mobile": "94486 82721",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "official": "cbhas@jncasr.ac.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2009029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srikanth",
+            "last": "Sastry",
+            "display": "Sastry, Prof. Srikanth"
+        },
+        "sex": "M",
+        "birthDate": "1964-05-01",
+        "degree": "Ph.D. (Boston)",
+        "honours": "FNASc, FNA",
+        "specialization": "Glasses & other Structurally Arrested Matter, Statistical Mechanics, Liquids and Glass Transition"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Professor, Theoretical Sciences Unit, JN Centre for Advanced Scientific Research, Jakkur P.O.",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2838",
+            "mobile": "94483 86838",
+            "fax": "(080) 2208 2928, (080) 2208 2766"
+        },
+        "email": {
+            "official": "sastry@jncasr.ac.in"
+        },
+        "url": "http://www.jncasr.ac.in/sastry"
+    }
+}

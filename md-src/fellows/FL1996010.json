@@ -1,0 +1,35 @@
+{
+    "id": "FL1996010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Mukund Keshao",
+            "last": "Gurjar",
+            "display": "Gurjar, Dr Mukund Keshao"
+        },
+        "sex": "M",
+        "birthDate": "1952-08-28",
+        "degree": "Ph.D. (Nagpur and London)",
+        "honours": "FNASc",
+        "specialization": "Carbohydrate Chemistry and Synthetic Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Director, R&D, Emcure Pharmaceuticals Limited, P2, ITBT Park Phase II, Hinjwadi",
+        "city": "Pune 411 057",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 3982 1350, (020) 3982 1300",
+            "residence": "(020) 2588 7674",
+            "mobile": "98603 00001",
+            "fax": "(020) 3982 1445"
+        },
+        "email": {
+            "official": "mukund.gurjar@emcure.co.in"
+        }
+    }
+}

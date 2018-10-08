@@ -1,0 +1,31 @@
+{
+    "id": "FL1993010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramesh",
+            "last": "Chander",
+            "display": "Chander, Prof. Ramesh"
+        },
+        "sex": "M",
+        "birthDate": "1939-09-06",
+        "degree": "Ph.D. (Columbia)",
+        "specialization": "Seismology and Geophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "House No. 290, Sector 4, Mansa Devi Complex",
+        "city": "Panchkula 134 114",
+        "state": "Haryana",
+        "telephone": {
+            "residence": "(0172) 255 5884"
+        },
+        "email": {
+            "personal": "profrchander@gmail.com"
+        }
+    }
+}

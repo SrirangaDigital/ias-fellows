@@ -1,0 +1,35 @@
+{
+    "id": "FL2008011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anil Kumar",
+            "last": "Gupta",
+            "display": "Gupta, Prof. Anil Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1960-11-02",
+        "degree": "Ph.D. (BHU)",
+        "honours": "FNASc, FNA, FTWAS",
+        "specialization": "Paleomonsoon, Paleoclimatology and Paleoceanography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Department of Geology & Geophysics, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3368",
+            "residence": "94340 21903",
+            "mobile": "81266 61820"
+        },
+        "email": {
+            "official": "anilg@gg.iitkgp.ernet.in",
+            "personal": "anilgupta021160@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2000013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sunil",
+            "last": "Mukhi",
+            "display": "Mukhi, Prof. Sunil"
+        },
+        "sex": "M",
+        "birthDate": "1956-11-20",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "honours": "FNA, FTWAS",
+        "specialization": "String Theory, Quantum Gravity, Supersymmetry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Chair, Physics Programme, Indian Institute of Science Education &amp; Research, Dr Homi Bhabha Road, Pashan",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 8116",
+            "mobile": "98672 01156",
+            "fax": "(020) 2586 5315"
+        },
+        "email": {
+            "personal": "sunil.mukhi@gmail.com"
+        },
+        "url": "http://sunilmukhi.in"
+    }
+}

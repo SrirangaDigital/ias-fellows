@@ -1,0 +1,22 @@
+{
+    "id": "FL1974076",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Santi Ranjan",
+            "last": "Palit",
+            "display": "Palit, Dr Santi Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1912-03-24",
+        "deathDate": "1981-09-13",
+        "degree": "D.Sc.",
+        "honours": "FNA",
+        "specialization": "Polymers"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    }
+}

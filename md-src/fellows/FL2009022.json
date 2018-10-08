@@ -1,0 +1,35 @@
+{
+    "id": "FL2009022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aryampilly Jayanthan",
+            "last": "Parameswaran",
+            "display": "Parameswaran, Prof. Aryampilly Jayanthan"
+        },
+        "sex": "M",
+        "birthDate": "1962-06-20",
+        "degree": "Ph.D. (Bombay)",
+        "specialization": "Algebraic Geometry, Singularity Theory and Vector Bundles"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2222",
+            "residence": "94464 29164",
+            "mobile": "90041 99416",
+            "fax": "(022) 22804610"
+        },
+        "email": {
+            "official": "param@math.tifr.res.in",
+            "personal": "param_aj@yahoo.com"
+        }
+    }
+}

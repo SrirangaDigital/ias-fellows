@@ -1,0 +1,33 @@
+{
+    "id": "FL1975005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hari Krishan",
+            "last": "Jain",
+            "display": "Jain, Prof. Hari Krishan"
+        },
+        "sex": "M",
+        "birthDate": "1930-05-28",
+        "degree": "Ph.D. (Wales)",
+        "honours": "FNA, FNASc",
+        "specialization": "Genetics and Plant Breeding"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "40, Suryaniketan, I.P. Extension II",
+        "city": "Delhi 110 092",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2237 9560, (011) 2237 3451",
+            "fax": "(011) 2215 2560"
+        },
+        "email": {
+            "personal": "hkj2008@gmail.com"
+        }
+    }
+}

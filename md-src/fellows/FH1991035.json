@@ -1,0 +1,31 @@
+{
+    "id": "FH1991035",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Lord Martin (John)",
+            "last": "Rees",
+            "display": "Rees, Prof. Lord Martin (John)"
+        },
+        "sex": "M",
+        "birthDate": "1942-06-23",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Emeritus professor of Cosmology & Astrophysics, Institute of Astronomy, University of Cambridge, Madingley Road",
+        "city": "Cambridge CB3 0HA",
+        "country": "U.K.",
+        "telephone": {
+            "office": "(+44-1223) 33 7548",
+            "residence": "(+44-1223) 33 8412",
+            "fax": "(+44-1223) 33 7523"
+        },
+        "email": {
+            "official": "mjr@ast.cam.ac.uk"
+        }
+    }
+}

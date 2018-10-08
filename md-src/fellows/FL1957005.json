@@ -1,0 +1,25 @@
+{
+    "id": "FL1957005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Santhappan",
+            "last": "Jones",
+            "display": "Jones, Dr Santhappan"
+        },
+        "sex": "M",
+        "birthDate": "1910-08-27",
+        "deathDate": "1999-02-26",
+        "degree": "D.Sc. (Madras)",
+        "specialization": "Fisheries, Marine Biology, Entomology and Post-Polio Rehabilitation"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1957"
+    },
+    "contact": {
+        "address": "Santinivas, Nanthancode",
+        "city": "Trivandrum 695 003"
+    }
+}

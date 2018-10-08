@@ -1,0 +1,26 @@
+{
+    "id": "FL1976008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prabhat Kumar",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Prof. Prabhat Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1921-10-22",
+        "deathDate": "1996-04-16",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNA",
+        "specialization": "Bio-organic Chemistry and Chemical Microbiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "177, Jodhpur Park, Flat - 1S",
+        "city": "Calcutta 700 068"
+    }
+}

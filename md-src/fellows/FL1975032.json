@@ -1,0 +1,27 @@
+{
+    "id": "FL1975032",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Prosad Kumar",
+            "last": "Das",
+            "display": "Das, Prof. Prosad Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1926-05-20",
+        "deathDate": "2011-01-14",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Numerical Weather Prediction, Ocean-Atmosphere Coupling, Storm Surges and Dynamic Meteorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1975",
+        "councilservice": "Council Service: 1980-82"
+    },
+    "contact": {
+        "address": "A/59, Kailash Colony",
+        "city": "New Delhi 110 048"
+    }
+}

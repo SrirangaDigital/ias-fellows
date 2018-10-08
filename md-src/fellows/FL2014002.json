@@ -1,0 +1,35 @@
+{
+    "id": "FL2014002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asit Kumar",
+            "last": "Chakraborti",
+            "display": "Chakraborti, Prof. Asit Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1954-08-15",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Synthetic Organic Chemistry, Green Chemistry, Medicinal Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Head, Department of Medicinal chemistry, National Institute of Pharmaceutical Education & Research, Sector 67",
+        "city": "SAS Nagar 160 062",
+        "state": "Panjab",
+        "telephone": {
+            "office": "(0172) 229 2027",
+            "residence": "(0172) 223 3841",
+            "mobile": "94177 70515",
+            "fax": "(0172) 221 4692"
+        },
+        "email": {
+            "official": "akchakraborti@niper.ac.in",
+            "personal": "akchakraborti@rediffmail.com"
+        }
+    }
+}

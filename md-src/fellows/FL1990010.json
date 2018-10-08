@@ -1,0 +1,36 @@
+{
+    "id": "FL1990010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rangachar Narayana",
+            "last": "Iyengar",
+            "display": "Iyengar, Prof. Rangachar Narayana"
+        },
+        "sex": "M",
+        "birthDate": "1943-06-02",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNAE",
+        "specialization": "Structural Dynamics, Earthquake Engineering, Applied Stochastics and History of Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Centre for Advanced Research & Development, SBM Jain College of Engineering, Jain International Campus, Jakkasandra Post, Kanakapura Road",
+        "city": "Bengaluru 562 112",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2757 7203",
+            "residence": "(080) 2671 1119",
+            "mobile": "98800 30082",
+            "fax": "(080) 2757 7199"
+        },
+        "email": {
+            "official": "rniyengar@jaingroup.info",
+            "personal": "aareni@yahoo.com"
+        }
+    }
+}

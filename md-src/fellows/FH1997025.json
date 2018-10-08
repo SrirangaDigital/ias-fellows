@@ -1,0 +1,31 @@
+{
+    "id": "FH1997025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Philip Warren",
+            "last": "Anderson",
+            "display": "Anderson, Prof. Philip Warren"
+        },
+        "sex": "M",
+        "birthDate": "1923-12-13",
+        "honours": "Nobel Laureate (Physics) - 1977"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Department of Physics, Joseph Henry Laboratories, Princeton University, Jadwin Hall, Post Box 708",
+        "city": "Princeton, NJ 08544-0708",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-609) 258 5850",
+            "residence": "(+1-609) 454 5075",
+            "fax": "(+1-609) 258 1006"
+        },
+        "email": {
+            "official": "pwa@princeton.edu"
+        }
+    }
+}

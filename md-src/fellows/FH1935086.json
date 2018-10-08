@@ -1,0 +1,19 @@
+{
+    "id": "FH1935086",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pieter",
+            "last": "Zeeman",
+            "display": "Zeeman, Prof. Pieter"
+        },
+        "sex": "M",
+        "birthDate": "1865-05-25",
+        "deathDate": "1943-10-09",
+        "honours": "Nobel Laureate (Physics) - 1902"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

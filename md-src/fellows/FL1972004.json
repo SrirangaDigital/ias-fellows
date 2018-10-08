@@ -1,0 +1,22 @@
+{
+    "id": "FL1972004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Brahm Prakash",
+            "display": "Brahm Prakash, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1912-08-21",
+        "deathDate": "1984-01-03",
+        "degree": "Ph.D. (Panjab)",
+        "honours": "FNA",
+        "specialization": "Metallurgy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1972",
+        "councilservice": "1974-76"
+    }
+}

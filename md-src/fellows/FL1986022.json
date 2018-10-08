@@ -1,0 +1,26 @@
+{
+    "id": "FL1986022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Joseph Devassy",
+            "last": "Padayatty",
+            "display": "Padayatty, Prof. Joseph Devassy"
+        },
+        "sex": "M",
+        "birthDate": "1928-07-10",
+        "deathDate": "2014-08-26",
+        "degree": "Ph.D. (St. Louis)",
+        "honours": "FNA",
+        "specialization": "Biochemistry, Molecular Biology and Recombinant DNA"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Karukutty, Ernakulam District",
+        "city": "Karukutty 683 576"
+    }
+}

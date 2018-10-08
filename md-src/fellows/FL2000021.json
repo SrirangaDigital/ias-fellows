@@ -1,0 +1,32 @@
+{
+    "id": "FL2000021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Yagya Dutta",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Yagya Dutta"
+        },
+        "sex": "M",
+        "birthDate": "1951-07-22",
+        "degree": "Ph.D. (Rohilkhand)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology, Molecular Malariology and Protein Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "C-65, Golf View Apartment, Saket",
+        "city": "New Delhi 110 017",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "98108 44106"
+        },
+        "email": {
+            "personal": "ydsharma_aiims@yahoo.com,ydsharma@hotmail.com"
+        }
+    }
+}

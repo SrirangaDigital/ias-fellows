@@ -1,0 +1,21 @@
+{
+    "id": "FL1935027",
+    "profile": {
+        "name": {
+            "first": "Prasanta Chandra",
+            "last": "Mahalanobis",
+            "display": "Mahalanobis,  Prasanta Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1893-06-29",
+        "deathDate": "1972-06-28",
+        "degree": "M.A. (Cantab), Hon. D.Sc. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Statistics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1935"
+    }
+}

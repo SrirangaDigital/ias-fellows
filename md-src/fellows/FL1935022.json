@@ -1,0 +1,21 @@
+{
+    "id": "FL1935022",
+    "profile": {
+        "name": {
+            "first": "Edavaleth Kakkat",
+            "last": "Janaki Ammal",
+            "display": "Janaki Ammal,  Edavaleth Kakkat"
+        },
+        "sex": "F",
+        "birthDate": "1897-11-04",
+        "deathDate": "1984-02-07",
+        "degree": "D.Sc., L.L.D. (Michigan)",
+        "specialization": "Cytology and Cytogenetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935",
+        "councilservice": "1956-67; Vice President 1956-61"
+    }
+}

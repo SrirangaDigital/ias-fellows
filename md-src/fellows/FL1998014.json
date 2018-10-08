@@ -1,0 +1,37 @@
+{
+    "id": "FL1998014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Uday",
+            "last": "Maitra",
+            "display": "Maitra, Prof. Uday"
+        },
+        "sex": "M",
+        "birthDate": "1957-11-08",
+        "degree": "Ph.D. (Columbia)",
+        "honours": "FNA",
+        "specialization": "Photoluminescent Sensors, Chemistry of Bile Acids, Organo & Hydrogels, Soft Composite Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1998",
+        "councilservice": "Council Service: 2013-; Secretary: 2013-"
+    },
+    "contact": {
+        "address": "Professor, Department of Organic Chemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 1968, 2293 2690 & 2403",
+            "residence": "(080) 2360 1774",
+            "fax": "(080) 2360 0529"
+        },
+        "email": {
+            "official": "maitra@iisc.ac.in",
+            "personal": "maitrau@gmail.com"
+        },
+        "url": "http://orgchem.iisc.ac.in/faculty/um"
+    }
+}

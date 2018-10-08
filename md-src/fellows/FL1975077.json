@@ -1,0 +1,25 @@
+{
+    "id": "FL1975077",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Satyavati Motiram",
+            "last": "Sirsat",
+            "display": "Sirsat, Dr Satyavati Motiram"
+        },
+        "sex": "F",
+        "birthDate": "1925-10-07",
+        "deathDate": "2010-07-10",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Medical Research (Cancer) & Ultrastructural Pathology and Hospice Care of the Dying"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Bhagirathi Sadan, 17th Road, Khar",
+        "city": "Mumbai 400 052"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "FL1941008",
+    "profile": {
+        "name": {
+            "first": "Srinivasa",
+            "last": "Ramanujam",
+            "display": "Ramanujam,  Srinivasa"
+        },
+        "sex": "M",
+        "birthDate": "1903-10-02",
+        "deathDate": "1979-06-09",
+        "honours": "FNA",
+        "specialization": "Cytogenetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1941"
+    }
+}

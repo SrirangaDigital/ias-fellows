@@ -1,0 +1,30 @@
+{
+    "id": "FH2001026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Edward P J",
+            "last": "van den Heuvel",
+            "display": "van den Heuvel, Prof. Edward P J"
+        },
+        "sex": "M",
+        "birthDate": "1940-11-02"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Professor of Astrophysics, Astronomical Inst. Anton Pannekoek, Postbus 94249",
+        "city": "1090 GE Amsterdam",
+        "country": "The Netherlands",
+        "telephone": {
+            "office": "(+31-20) 525 7491",
+            "fax": "(+31-20) 525 7484"
+        },
+        "email": {
+            "official": "e.p.j.vandenheuvel@uva.nl",
+            "personal": "ed.van.den.heuvel@gmail.com"
+        }
+    }
+}

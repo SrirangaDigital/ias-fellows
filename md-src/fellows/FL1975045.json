@@ -1,0 +1,25 @@
+{
+    "id": "FL1975045",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Samavedam Laxmi Narasimha Gopala",
+            "last": "Krishnamachari",
+            "display": "Krishnamachari, Dr Samavedam Laxmi Narasimha Gopala"
+        },
+        "sex": "M",
+        "birthDate": "1928-09-20",
+        "deathDate": "2012-02-06",
+        "degree": "D.Sc. (Andhra)",
+        "specialization": "Atomic & Molecular Spectroscopy, Lasers, Spectrochemical Analysis and Solar Energy Utilization"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "Flat No. 401, Sharath Apartments, 6th Cross, K.R. Layout, J.P. Nagar 6th Phase",
+        "city": "Bengaluru 560 078"
+    }
+}

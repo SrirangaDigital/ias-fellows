@@ -1,0 +1,35 @@
+{
+    "id": "FL2015020",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gobinda",
+            "last": "Majumder",
+            "display": "Majumder, Prof. Gobinda"
+        },
+        "sex": "M",
+        "birthDate": "1967-02-26",
+        "degree": "Ph.D. (Mumbai)",
+        "specialization": "Calorimeter, B-Physics & CP-violation, Electroweak Physics at Collider"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Department of High Energy Physics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2378",
+            "residence": "(022) 2278 3378",
+            "mobile": "97574 88238",
+            "fax": "(022) 2280 4610"
+        },
+        "email": {
+            "official": "gobinda@tifr.res.in"
+        },
+        "url": "http://www.tifr.res.in/~gobinda"
+    }
+}

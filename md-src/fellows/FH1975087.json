@@ -1,0 +1,18 @@
+{
+    "id": "FH1975087",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Alexandr Pavlovich",
+            "last": "Vinogradov",
+            "display": "Vinogradov, Prof. Alexandr Pavlovich"
+        },
+        "sex": "M",
+        "birthDate": "1895-08-21",
+        "deathDate": "1975-11-16"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1975"
+    }
+}

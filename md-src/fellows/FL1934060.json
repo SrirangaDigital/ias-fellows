@@ -1,0 +1,19 @@
+{
+    "id": "FL1934060",
+    "profile": {
+        "name": {
+            "first": "Gonzalo",
+            "last": "Palacios",
+            "display": "Palacios,  Gonzalo"
+        },
+        "sex": "M",
+        "birthDate": "1894-11-20",
+        "deathDate": "1967-04-03",
+        "specialization": "Architecture"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1934"
+    }
+}

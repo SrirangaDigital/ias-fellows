@@ -1,0 +1,35 @@
+{
+    "id": "FL2017026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ganapati Dadasaheb",
+            "last": "Yadav",
+            "display": "Yadav, Prof. Ganapati Dadasaheb"
+        },
+        "sex": "M",
+        "birthDate": "1952-09-14",
+        "degree": "Ph.d. (Bombay)",
+        "specialization": "Green Chemistry & Engineering, Catalysis Science & Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Vice Chancellor, Institute of Chemical Technology, Matunga",
+        "city": "Mumbai 400 019",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 3361 1001",
+            "residence": "(022) 3361 1010",
+            "mobile": "98330 90510",
+            "fax": "(022) 3361 1002, 3361 1020"
+        },
+        "email": {
+            "official": "vc@ictmumbai.edu.in",
+            "personal": "gdyadav@gmail.com"
+        }
+    }
+}

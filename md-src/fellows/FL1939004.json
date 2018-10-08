@@ -1,0 +1,20 @@
+{
+    "id": "FL1939004",
+    "profile": {
+        "name": {
+            "first": "Siktibhushan",
+            "last": "Dutt",
+            "display": "Dutt,  Siktibhushan"
+        },
+        "sex": "M",
+        "birthDate": "1898-12-13",
+        "deathDate": "1992-12-17",
+        "degree": "D.Sc.",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1939"
+    }
+}

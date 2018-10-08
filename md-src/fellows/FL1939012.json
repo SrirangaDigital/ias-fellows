@@ -1,0 +1,24 @@
+{
+    "id": "FL1939012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "last": "Satya Prakash",
+            "display": "Satya Prakash, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1905-08-24",
+        "deathDate": "1995-01-18",
+        "degree": "D.Sc. (Allahabad)",
+        "specialization": "Physical and General Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1939"
+    },
+    "contact": {
+        "address": "Vijnana Parishad, Maharshi Dayanand Marg",
+        "city": "Allahabad 211 002"
+    }
+}

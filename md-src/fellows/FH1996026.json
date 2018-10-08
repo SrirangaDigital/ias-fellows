@@ -1,0 +1,31 @@
+{
+    "id": "FH1996026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Abhay",
+            "last": "Ashtekar",
+            "display": "Ashtekar, Prof. Abhay"
+        },
+        "sex": "M",
+        "birthDate": "1949-07-05"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Director, Inst. for Gravitation and, the Cosmos, Pennsylvania State University",
+        "city": "University Park, PA 16802-6300",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-814) 863 9605",
+            "residence": "(+1-814) 867 8406",
+            "fax": "(+1-814) 863 9608"
+        },
+        "email": {
+            "official": "ashtekar@gravity.psu.edu"
+        },
+        "url": "http://www.gravity.psu.edu/people/ashtekar/"
+    }
+}

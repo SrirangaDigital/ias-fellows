@@ -1,0 +1,19 @@
+{
+    "id": "FL1947004",
+    "profile": {
+        "name": {
+            "first": "Rama Shankar",
+            "last": "Varma",
+            "display": "Varma,  Rama Shankar"
+        },
+        "sex": "M",
+        "birthDate": "1905-02-01",
+        "deathDate": "1970-03-31",
+        "specialization": "Operational Research, Pure & Applied Mathematics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Mathematical Sciences",
+        "yearelected": "1947"
+    }
+}

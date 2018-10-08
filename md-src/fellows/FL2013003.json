@@ -1,0 +1,35 @@
+{
+    "id": "FL2013003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sundarababu",
+            "last": "Baskaran",
+            "display": "Baskaran, Prof. Sundarababu"
+        },
+        "sex": "M",
+        "birthDate": "1961-06-16",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "Synthetic Organic Chemistry, Natural Products, Enantioselective Synthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4218",
+            "residence": "(044) 2257 6218",
+            "mobile": "98401 30685",
+            "fax": "(044) 2257 0545"
+        },
+        "email": {
+            "official": "sbhaskar@iitm.ac.in"
+        },
+        "url": "http://chem.iitm.ac.in/professordetails/profsundarbabubaskaran/index.htm"
+    }
+}

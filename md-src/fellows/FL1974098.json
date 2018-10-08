@@ -1,0 +1,26 @@
+{
+    "id": "FL1974098",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Narasimhiah",
+            "last": "Seshagiri",
+            "display": "Seshagiri, Dr Narasimhiah"
+        },
+        "sex": "M",
+        "birthDate": "1940-05-10",
+        "deathDate": "2013-05-26",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNAE",
+        "specialization": "Electronics, Data Communication, Theoretical Physics and Theoretical Molecular Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "G-52, Narasimha Krupa, 9th D Cross, 40th Main, SBI Colony, J.P. Nagar I Phase",
+        "city": "Bengaluru 560 078"
+    }
+}

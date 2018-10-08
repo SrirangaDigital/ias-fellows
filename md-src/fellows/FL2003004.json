@@ -1,0 +1,34 @@
+{
+    "id": "FL2003004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vadapalli",
+            "last": "Chandrasekhar",
+            "display": "Chandrasekhar, Prof. Vadapalli"
+        },
+        "sex": "M",
+        "birthDate": "1958-11-06",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Organometallic Chemistry, Inorganic Rings & Polymers and Many-Group Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2003",
+        "councilservice": "Council Service: 2010-12"
+    },
+    "contact": {
+        "address": "Centre Director & Distinguished Professor, Tata Institute of Fundamental Research, 36/P, Gopanpally",
+        "city": "Hyderabad 500 107",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2020 3100, 2020 3101",
+            "mobile": "94151 32221"
+        },
+        "email": {
+            "official": "director@tifrh.res.in,vc@tifrh.res.in"
+        }
+    }
+}

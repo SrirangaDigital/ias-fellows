@@ -1,0 +1,31 @@
+{
+    "id": "FH1997026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Herbert Walter",
+            "last": "Roesky",
+            "display": "Roesky, Prof. Herbert Walter"
+        },
+        "sex": "M",
+        "birthDate": "1935-11-06"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Director, Institut füer Anorganische Chemie, der Universität Göettingen, Tammannstrasse 4",
+        "city": "D-37077 Göttingen",
+        "country": "Germany",
+        "telephone": {
+            "office": "(+49-551) 393 0001",
+            "residence": "(+49-551) 76 183",
+            "fax": "(+49-551) 393 3073"
+        },
+        "email": {
+            "official": "hroesky@gwdg.de"
+        },
+        "url": "http://www.gwdg.de/~hroesky/texter.htm"
+    }
+}

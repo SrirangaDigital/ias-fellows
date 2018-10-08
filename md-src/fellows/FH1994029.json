@@ -1,0 +1,18 @@
+{
+    "id": "FH1994029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jean",
+            "last": "Rouxel",
+            "display": "Rouxel, Prof. Jean"
+        },
+        "sex": "M",
+        "birthDate": "1935-02-24",
+        "deathDate": "1998-03-19"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1994"
+    }
+}

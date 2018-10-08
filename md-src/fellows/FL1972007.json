@@ -1,0 +1,20 @@
+{
+    "id": "FL1972007",
+    "profile": {
+        "name": {
+            "first": "Ponnambalam",
+            "last": "Kumaraswamy",
+            "display": "Kumaraswamy,  Ponnambalam"
+        },
+        "sex": "M",
+        "birthDate": "1930-10-04",
+        "deathDate": "1988-03-09",
+        "degree": "B.E. (Hons)",
+        "specialization": "Hydraulics, Hydrology and Computer Simulation"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1972"
+    }
+}

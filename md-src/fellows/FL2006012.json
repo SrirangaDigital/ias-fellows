@@ -1,0 +1,35 @@
+{
+    "id": "FL2006012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gaiti",
+            "last": "Hasan",
+            "display": "Hasan, Prof. Gaiti"
+        },
+        "sex": "F",
+        "birthDate": "1956-11-19",
+        "degree": "Ph.D. (Cambridge)",
+        "honours": "FNA",
+        "specialization": "Transcriptomics, Spino-Cerebellar Ataxia, Neurodegeneration, Molecular Genetics, Drosophila, Calcium Signalling in Neurons, Inositol Triphosphate Receptor"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Professor, National Centre for Biological Sciences, GKVK Campus",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2366 6140",
+            "residence": "(080) 2361 3640",
+            "fax": "(080) 2363 6462"
+        },
+        "email": {
+            "official": "gaiti@ncbs.res.in"
+        },
+        "url": "http://www.ncbs.res.in/gaiti/groups_gaiti.htm"
+    }
+}

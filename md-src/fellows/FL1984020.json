@@ -1,0 +1,26 @@
+{
+    "id": "FL1984020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Antapur",
+            "last": "Venkoba Rao",
+            "display": "Venkoba Rao, Dr Antapur"
+        },
+        "sex": "M",
+        "birthDate": "1927-08-20",
+        "deathDate": "2005-10-25",
+        "degree": "M.D., Ph.D. and D.Sc. (Madras)",
+        "honours": "FAMS, FRC Psych., FNA",
+        "specialization": "Psychological Medicine"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1984"
+    },
+    "contact": {
+        "address": "'Tilak', 506, Fourth Main Road, K K Nagar",
+        "city": "Madurai 625 020"
+    }
+}

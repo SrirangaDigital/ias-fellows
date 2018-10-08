@@ -1,0 +1,20 @@
+{
+    "id": "FL1934015",
+    "profile": {
+        "name": {
+            "first": "Haraprasad",
+            "last": "Chaudhuri",
+            "display": "Chaudhuri,  Haraprasad"
+        },
+        "sex": "M",
+        "birthDate": "1895-07-28",
+        "deathDate": "1945-08-19",
+        "honours": "FNA",
+        "specialization": "Mycology, Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    }
+}

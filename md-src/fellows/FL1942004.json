@@ -1,0 +1,26 @@
+{
+    "id": "FL1942004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Makund Behari",
+            "last": "Lal",
+            "display": "Lal, Dr Makund Behari"
+        },
+        "sex": "M",
+        "birthDate": "1907-01-31",
+        "deathDate": "2002-12-05",
+        "degree": "D.Sc. (Lucknow and Edinburgh)",
+        "honours": "FNA",
+        "specialization": "Zoology and Parasitology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1942"
+    },
+    "contact": {
+        "address": "4/99, Vidyutnagar, Post Dayalbagh",
+        "city": "Agra 282 005"
+    }
+}

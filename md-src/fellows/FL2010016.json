@@ -1,0 +1,33 @@
+{
+    "id": "FL2010016",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ashok Kumar",
+            "last": "Ganguli",
+            "display": "Ganguli, Prof. Ashok Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1961-01-25",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Solid State &amp; Materials Chemistry, Nanomaterials, Superconducting Materials"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "Delhi",
+        "telephone": {
+            "residence": "(011) 2659 1654",
+            "mobile": "98104 64112"
+        },
+        "email": {
+            "official": "ashok@chemistry.iitd.ac.in"
+        },
+        "url": "http://web.iitb.ac.in/~ashokganguli/"
+    }
+}

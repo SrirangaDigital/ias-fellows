@@ -1,0 +1,34 @@
+{
+    "id": "FL1991009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Swapan Kumar",
+            "last": "Ghosh",
+            "display": "Ghosh, Dr Swapan Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1949-09-04",
+        "degree": "Ph.D. (IIT, Mumbai)",
+        "honours": "FNA, FNASc,FTWAS",
+        "specialization": "Theoretical Chemistry, Computational Materials Science and Soft Condensed Matter Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Theoretical Chemistry Section, Chemistry Group, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "92229 89108",
+            "residence": "(022) 2754 9018",
+            "mobile": "92229 89108"
+        },
+        "email": {
+            "personal": "swapankghosh@gmail.com"
+        }
+    }
+}

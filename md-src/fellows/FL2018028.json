@@ -1,0 +1,37 @@
+{
+    "id": "FL2018028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Chandra",
+            "last": "Venkataraman",
+            "display": "Venkataraman, Prof. Chandra"
+        },
+        "sex": "F",
+        "birthDate": "1963-06-03",
+        "degree": "Ph.D. (Univ. Calif., Los Angeles)",
+        "honours": "FNAE, FNASc",
+        "specialization": "Aerosol Science &amp; Engineering, Environmental &amp; Climate Science, Atmospheric Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth &amp; Planetary Sciences",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Chemical Engineering, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Mahrashtra",
+        "telephone": {
+            "office": "(022) 2576 7224",
+            "residence": "(022) 2576 8224",
+            "mobile": "98196 70388",
+            "fax": "(022) 2572 6895"
+        },
+        "email": {
+            "official": "chandra@iitb.ac.in",
+            "personal": "cv140401@gmail.com"
+        },
+        "url": "http://www.climate.iitb.ac.in/en/employee-profile/prof-chandra-venkataraman"
+    }
+}

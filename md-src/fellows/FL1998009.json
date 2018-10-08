@@ -1,0 +1,35 @@
+{
+    "id": "FL1998009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amitabha",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Amitabha"
+        },
+        "sex": "M",
+        "birthDate": "1941-12-31",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNAE, FNA, FNASc",
+        "specialization": "Manufacturing Science, Machine Dynamics & Mechanisms, Classical Mechanics and Robotics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1998"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Science and Technology Block, Indian Institute of Engineering Science & Technology, Shibpur, P.O.Botanic Garden",
+        "city": "Howrah 711 103",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2668 0521 Extn 441",
+            "residence": "(033) 2668 2424",
+            "fax": "(033) 2668 2916"
+        },
+        "email": {
+            "official": "amitabha@iitk.ac.in",
+            "personal": "amitabhaiitk@gmail.com"
+        }
+    }
+}

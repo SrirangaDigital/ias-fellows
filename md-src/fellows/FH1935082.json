@@ -1,0 +1,18 @@
+{
+    "id": "FH1935082",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Arnold",
+            "last": "Sommerfeld",
+            "display": "Sommerfeld, Prof. Arnold"
+        },
+        "sex": "M",
+        "birthDate": "1868-12-05",
+        "deathDate": "1951-04-26"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2012007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pradip",
+            "last": "Dutta",
+            "display": "Dutta, Prof. Pradip"
+        },
+        "sex": "M",
+        "birthDate": "1960-10-02",
+        "degree": "Ph.D. (Columbia)",
+        "honours": "FNAE, FNASc, FNA",
+        "specialization": "Heat Transfer, Energy Studies"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Mechanical Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3225",
+            "residence": "(080) 2699 3249",
+            "mobile": "98450 10520",
+            "fax": "(080) 2360 4536"
+        },
+        "email": {
+            "official": "pradip@iisc.ac.in"
+        }
+    }
+}

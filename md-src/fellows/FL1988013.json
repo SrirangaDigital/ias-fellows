@@ -1,0 +1,32 @@
+{
+    "id": "FL1988013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nabeen Chandra",
+            "last": "Nayak",
+            "display": "Nayak, Prof. Nabeen Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1931-01-31",
+        "degree": "M.D. (Lucknow)",
+        "honours": "FRCPath., FNA, FAMS",
+        "specialization": "Pathology, Oncology and Liver Diseases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Adviser, Department of Pathology, Sir Gangaram Hospital, Rajinder Nagar",
+        "city": "New Delhi 110 060",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "90138 20308"
+        },
+        "email": {
+            "personal": "dr_ncnayak@yahoo.com"
+        }
+    }
+}

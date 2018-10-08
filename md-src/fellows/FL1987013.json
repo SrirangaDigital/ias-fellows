@@ -1,0 +1,32 @@
+{
+    "id": "FL1987013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gobbalipur Shamanna",
+            "last": "Ranganath",
+            "display": "Ranganath, Prof. Gobbalipur Shamanna"
+        },
+        "sex": "M",
+        "birthDate": "1944-04-20",
+        "degree": "Ph.D. (Bangalore)",
+        "honours": "FNASc",
+        "specialization": "Liquid Crystals and Optics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1987"
+    },
+    "contact": {
+        "address": "No. 422, Chitta, 10th Cross, 8th Main, Padmanabhanagar",
+        "city": "Bengaluru 560 070",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2669 2616"
+        },
+        "email": {
+            "personal": "gs.ranganath@gmail.com"
+        }
+    }
+}

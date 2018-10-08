@@ -1,0 +1,35 @@
+{
+    "id": "FL2015022",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tanmaya",
+            "last": "Pathak",
+            "display": "Pathak, Prof. Tanmaya"
+        },
+        "sex": "M",
+        "birthDate": "1958-03-02",
+        "degree": "Ph.D. (Uppsala)",
+        "specialization": "Synthetic Organic Chemistry, Nucleoside & Carbohydrate Modification, Enzyme Inhibition"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2015"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 3342",
+            "residence": "(03222) 28 3343, (03222) 27 9901",
+            "mobile": "94347 15239",
+            "fax": "(03222) 28 2252"
+        },
+        "email": {
+            "official": "tpathak@chem.iitkgp.ernet.in"
+        },
+        "url": "http://www.iitkgp.ac.in/department/CY/faculty/cy-tpathak#resp-tab4"
+    }
+}

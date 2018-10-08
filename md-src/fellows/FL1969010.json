@@ -1,0 +1,26 @@
+{
+    "id": "FL1969010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhalchandra Madhav",
+            "last": "Udgaonkar",
+            "display": "Udgaonkar, Prof. Bhalchandra Madhav"
+        },
+        "sex": "M",
+        "birthDate": "1927-09-14",
+        "deathDate": "2014-12-21",
+        "degree": "M.Sc. (Bombay)",
+        "honours": "FNA",
+        "specialization": "Theoretical Particle Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1969"
+    },
+    "contact": {
+        "address": "705 Vigyan, Scientists' Co-operative Housing Society, Plot No. 23, Sector 17, Vashi",
+        "city": "Navi Mumbai 400 703"
+    }
+}

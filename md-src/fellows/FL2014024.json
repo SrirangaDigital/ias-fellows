@@ -1,0 +1,35 @@
+{
+    "id": "FL2014024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nikhil",
+            "last": "Tandon",
+            "display": "Tandon, Prof. Nikhil"
+        },
+        "sex": "M",
+        "birthDate": "1963-11-28",
+        "degree": "Ph.D. (Cambridge)",
+        "honours": "FAMS, FNASc, FRCP",
+        "specialization": "Endocrinology, Chronic Disease Epidemiology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Department of Endocrinology & Metabolism, All India Institute of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 3433, (011) 2359 3237",
+            "residence": "(011) 2649 9100",
+            "mobile": "98182 11663",
+            "fax": "(011) 2658 8663"
+        },
+        "email": {
+            "personal": "nikhil_tandon@hotmail.com"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2018004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Partha Sarathi",
+            "last": "Chakraborty",
+            "display": "Chakraborty, Prof. Partha Sarathi"
+        },
+        "sex": "M",
+        "birthDate": "1973-11-18",
+        "degree": "Ph.D. (ISI)",
+        "honours": "FNASc",
+        "specialization": "Operator Algebras, Noncommutative Geometry, Quantum Groups"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "The Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2254 3252",
+            "residence": "(044) 2838 7353",
+            "mobile": "98402 95463"
+        },
+        "email": {
+            "official": "parthac@imsc.res.in",
+            "personal": "parthacsarathi@yahoo.co.in"
+        },
+        "url": "http://www.imsc.res.in/~parthac"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2001015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vijayalakshmi",
+            "last": "Ravindranath",
+            "display": "Ravindranath, Dr Vijayalakshmi"
+        },
+        "sex": "F",
+        "birthDate": "1953-10-18",
+        "degree": "Ph.D. (Mysore)",
+        "honours": "FNASc, FTWAS, FNA, FAMS",
+        "specialization": "Neuroscience, Toxicology and Pharmacology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Centre for Neuroscience, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3433",
+            "residence": "(080) 2661 5001",
+            "mobile": "90088 85529"
+        },
+        "email": {
+            "official": "viji@iisc.ac.in"
+        },
+        "url": "http://www.cns.iisc.ernet.in/viji/index.html"
+    }
+}

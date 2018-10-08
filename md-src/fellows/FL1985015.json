@@ -1,0 +1,34 @@
+{
+    "id": "FL1985015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kirit Surendra",
+            "last": "Yajnik",
+            "display": "Yajnik, Prof. Kirit Surendra"
+        },
+        "sex": "M",
+        "birthDate": "1936-03-07",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "specialization": "Modelling of Large Mechanical Systems, Fluid Mechanics and Biogeochemical Ocean Modelling & Simulation, Modelling, Marine Biogeochemical Processes, Climate Change"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1985"
+    },
+    "contact": {
+        "address": "Apartment F2, Regal Manor, 2/1 Bride Street, Langford Town",
+        "city": "Bengaluru 560 025",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2227 9321",
+            "mobile": "77601 88022",
+            "fax": "(080) 2522 0392"
+        },
+        "email": {
+            "official": "ksy@cmmacs.ernet.in",
+            "personal": "ksyajnik@yahoo.com"
+        }
+    }
+}

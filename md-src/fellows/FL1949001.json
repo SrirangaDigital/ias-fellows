@@ -1,0 +1,25 @@
+{
+    "id": "FL1949001",
+    "profile": {
+        "name": {
+            "first": "Ilabonto",
+            "last": "Banerji",
+            "display": "Banerji,  Ilabonto"
+        },
+        "sex": "M",
+        "birthDate": "1898-05-27",
+        "deathDate": "1971-01-31",
+        "degree": "D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Cytology, Embryology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1949"
+    },
+    "contact": {
+        "address": "131, Harish Mukherjee Road, Post Kalighat",
+        "city": "Calcutta 700 026"
+    }
+}

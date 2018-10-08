@@ -1,0 +1,26 @@
+{
+    "id": "FL1978005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Dharani Dhar",
+            "last": "Awasthi",
+            "display": "Awasthi, Dr Dharani Dhar"
+        },
+        "sex": "M",
+        "birthDate": "1922-08-01",
+        "deathDate": "2011-08-21",
+        "degree": "Ph.D. (Lucknow and Colorado)",
+        "honours": "FNA",
+        "specialization": "Lichenology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "11/34, Sector 11, Indiranagar",
+        "city": "Lucknow 226 016"
+    }
+}

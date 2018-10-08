@@ -1,0 +1,19 @@
+{
+    "id": "FL1945004",
+    "profile": {
+        "name": {
+            "first": "D L",
+            "last": "Deshpande",
+            "display": "Deshpande,  D L"
+        },
+        "sex": "M",
+        "birthDate": "1909-09-02",
+        "deathDate": "1961-04-05",
+        "honours": "FNA"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1945"
+    }
+}

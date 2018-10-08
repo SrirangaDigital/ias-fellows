@@ -1,0 +1,33 @@
+{
+    "id": "FL2006018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nibir",
+            "last": "Mandal",
+            "display": "Mandal, Prof. Nibir"
+        },
+        "sex": "M",
+        "birthDate": "1963-11-06",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNA",
+        "specialization": "Structural Geology, Solid Earth Geophysics and Tectonics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Department of Geological Sciences, Jadavpur University",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2414 6666/2364",
+            "residence": "(033) 2462 6528"
+        },
+        "email": {
+            "personal": "nibirmandal@hotmail.com,nibirmandal@yahoo.co.in"
+        }
+    }
+}

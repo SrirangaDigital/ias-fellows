@@ -1,0 +1,36 @@
+{
+    "id": "FL1993030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kare Narain",
+            "last": "Pathak",
+            "display": "Pathak, Prof. Kare Narain"
+        },
+        "sex": "M",
+        "birthDate": "1941-07-30",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Condensed Matter Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "382, Sector 38A",
+        "city": "Chandigarh 160 036",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(0172) 253 4467",
+            "residence": "(0172) 269 9944",
+            "mobile": "99883 60009",
+            "fax": "(0172) 278 3336"
+        },
+        "email": {
+            "official": "pathak@pu.ac.in",
+            "personal": "knpathak26@gmail.com"
+        }
+    }
+}

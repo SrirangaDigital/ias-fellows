@@ -1,0 +1,25 @@
+{
+    "id": "FL1939009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Chandrasekhara",
+            "last": "Ramaswamy",
+            "display": "Ramaswamy, Dr Chandrasekhara"
+        },
+        "sex": "M",
+        "birthDate": "1907-08-20",
+        "deathDate": "1991-08-17",
+        "degree": "Ph.D. (Delhi)",
+        "specialization": "Atmospheric Physics, Meteorology, and Hydrometeorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1939"
+    },
+    "contact": {
+        "address": "C/o Prof. R C Sekhar, Institute for Rural Management, P.B. 60",
+        "city": "Anand 388 001"
+    }
+}

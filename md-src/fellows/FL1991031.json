@@ -1,0 +1,26 @@
+{
+    "id": "FL1991031",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Govindaswamy",
+            "last": "Shanmugam",
+            "display": "Shanmugam, Prof. Govindaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1938-12-18",
+        "deathDate": "2015-04-15",
+        "degree": "Ph.D. (Osmania)",
+        "honours": "FNA, FNASc",
+        "specialization": "Molecular Virology, Cancer Biology and Medicinal Plants"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "3/118C, Kalvi Nagar, Near Madurai Kamaraj University",
+        "city": "Madurai 625 021"
+    }
+}

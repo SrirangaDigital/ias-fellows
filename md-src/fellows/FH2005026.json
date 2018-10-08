@@ -1,0 +1,28 @@
+{
+    "id": "FH2005026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subra",
+            "last": "Suresh",
+            "display": "Suresh, Prof. Subra"
+        },
+        "sex": "M",
+        "birthDate": "1956-05-30"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "President, Carnegie-Mellon University, 5000, Forbes Avenue",
+        "city": "Pittsburgh, PA 15213",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(_1-412) 268 2200"
+        },
+        "email": {
+            "official": "president@cmu.edu"
+        }
+    }
+}

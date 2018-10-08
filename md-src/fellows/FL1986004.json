@@ -1,0 +1,34 @@
+{
+    "id": "FL1986004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Shashikumar Madhusudan",
+            "last": "Chitre",
+            "display": "Chitre, Prof. Shashikumar Madhusudan"
+        },
+        "sex": "M",
+        "birthDate": "1936-05-07",
+        "degree": "Ph.D. (Cambridge)",
+        "honours": "FNA, FNASc",
+        "specialization": "Solar Physics, Relativistic Astrophysics and Gravitational Lenses"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1986",
+        "councilservice": "Council Service: 1995-2003; Vice-President: 1998-2003"
+    },
+    "contact": {
+        "address": "201, Vigyan Shila, Juhu-Varsova Link Road, Near 7 Bungalows, Andheri (West)",
+        "city": "Mumbai 400 061",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2635 3812",
+            "mobile": "98193 66447"
+        },
+        "email": {
+            "personal": "kumarchitre@gmail.com"
+        }
+    }
+}

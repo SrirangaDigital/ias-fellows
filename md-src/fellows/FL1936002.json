@@ -1,0 +1,24 @@
+{
+    "id": "FL1936002",
+    "profile": {
+        "name": {
+            "first": "Raghunath Prasad",
+            "last": "Asthana",
+            "display": "Asthana,  Raghunath Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1906-02-20",
+        "deathDate": "1965-00-00",
+        "degree": "Ph.D. (London)",
+        "specialization": "Plant Pathology, Mycology, Bacteriology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1936"
+    },
+    "contact": {
+        "address": "63/1, Temple Road, Civil Lines",
+        "city": "Nagpur 400 001"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "FL2018023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhisma Kumar",
+            "last": "Patel",
+            "display": "Patel, Prof. Bhisma Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1965-08-06",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNASc",
+        "specialization": "Organic Synthesis, Reaction Mechanisms, Green Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2018"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Guwahati 781 039",
+        "state": "Assam",
+        "telephone": {
+            "office": "(0361) 258 2307",
+            "residence": "(0361) 258 4307",
+            "mobile": "99540 90963",
+            "fax": "(0361) 258 2349"
+        },
+        "email": {
+            "official": "patel@iitg.ernet.in"
+        },
+        "url": "http://www.iitg.ac.in/patel/"
+    }
+}

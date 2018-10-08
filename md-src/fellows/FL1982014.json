@@ -1,0 +1,26 @@
+{
+    "id": "FL1982014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asok",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Asok"
+        },
+        "sex": "M",
+        "birthDate": "1927-01-20",
+        "deathDate": "2003-09-29",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Endocrinology, Histochemistry and Histology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "19A, Ballygunge Place",
+        "city": "Kolkata 700 019"
+    }
+}

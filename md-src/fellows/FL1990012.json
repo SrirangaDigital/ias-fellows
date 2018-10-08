@@ -1,0 +1,29 @@
+{
+    "id": "FL1990012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narayana Panicker",
+            "last": "Kochupillai",
+            "display": "Kochupillai, Prof. Narayana Panicker"
+        },
+        "sex": "M",
+        "birthDate": "1939-02-10",
+        "degree": "M.D. (AIIMS)",
+        "honours": "FNA, FAMS",
+        "specialization": "Internal Medicine, Clinical Endocrinology Metabolism, Diabetes and Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Flat No. 401, Housing Building, Internatinal Tech Park Limited, Whiltefield",
+        "city": "Bengaluru 560 068",
+        "state": "Karnataka",
+        "email": {
+            "personal": "kochupillai@gmail.com"
+        }
+    }
+}

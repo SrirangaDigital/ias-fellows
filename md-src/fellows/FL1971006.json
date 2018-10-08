@@ -1,0 +1,25 @@
+{
+    "id": "FL1971006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subrahmanyan",
+            "last": "Suryanarayanan",
+            "display": "Suryanarayanan, Prof. Subrahmanyan"
+        },
+        "sex": "M",
+        "birthDate": "1927-01-23",
+        "deathDate": "1994-01-27",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Plant Pathology, Microbiology and Biochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1971"
+    },
+    "contact": {
+        "address": "Centre for Advanced Studies in, Botany, University of Madras, Guindy Campus",
+        "city": "Madras 600 025"
+    }
+}

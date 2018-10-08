@@ -1,0 +1,36 @@
+{
+    "id": "FL2003005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Probal",
+            "last": "Chaudhuri",
+            "display": "Chaudhuri, Prof. Probal"
+        },
+        "sex": "M",
+        "birthDate": "1963-11-21",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "honours": "FNA, FNASc",
+        "specialization": "Robust & Nonparametric Statistics, Statistical Computing, Statistical Methods in Pattern Recognition and Image Processing, Modelling & Analysis of Genomic Data"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, 203, B.T. Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2575 3414, (033) 2575 3400",
+            "residence": "(033) 2558 0105",
+            "mobile": "98317 89429",
+            "fax": "(033) 2577 3071, (033) 2577 6035"
+        },
+        "email": {
+            "official": "probal@isical.ac.in"
+        },
+        "url": "http://www.isical.ac.in/~probal"
+    }
+}

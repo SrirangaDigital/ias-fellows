@@ -1,0 +1,18 @@
+{
+    "id": "FH1972012",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Frederick Charles",
+            "last": "Bawden",
+            "display": "Bawden, Prof. Frederick Charles"
+        },
+        "sex": "M",
+        "birthDate": "1908-08-18",
+        "deathDate": "1972-02-08"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1972"
+    }
+}

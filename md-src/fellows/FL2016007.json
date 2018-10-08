@@ -1,0 +1,33 @@
+{
+    "id": "FL2016007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kedar Suresh",
+            "last": "Damle",
+            "display": "Damle, Prof. Kedar Suresh"
+        },
+        "sex": "M",
+        "birthDate": "1970-11-17",
+        "degree": "Ph.D. (Yale)",
+        "specialization": "Condensed Matter Theory"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Theoretical Physics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2213, 2278 2244",
+            "residence": "(022) 2278 3213",
+            "fax": "(022) 2280 4610, 2278 2777"
+        },
+        "email": {
+            "official": "kedar@theory.tifr.res.in"
+        }
+    }
+}

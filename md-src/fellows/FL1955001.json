@@ -1,0 +1,32 @@
+{
+    "id": "FL1955001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Aiyasami",
+            "last": "Jayaraman",
+            "display": "Jayaraman, Dr Aiyasami"
+        },
+        "sex": "M",
+        "birthDate": "1926-12-05",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "High Pressure Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1955",
+        "councilservice": "Council Service: 1956-61, Treasurer: 1956-61"
+    },
+    "contact": {
+        "address": "No. 1527, W. Augusta Avenue",
+        "city": "Phoenix, AZ 85021",
+        "country": "U.S.A",
+        "telephone": {
+            "residence": "(+1-727) 644 9850"
+        },
+        "email": {
+            "personal": "aiyasami.jayaraman@gmail.com"
+        }
+    }
+}

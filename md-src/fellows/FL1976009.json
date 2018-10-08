@@ -1,0 +1,26 @@
+{
+    "id": "FL1976009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sukumar",
+            "last": "Biswas",
+            "display": "Biswas, Prof. Sukumar"
+        },
+        "sex": "M",
+        "birthDate": "1924-07-01",
+        "deathDate": "2009-11-16",
+        "degree": "D.Phil. (Calcutta), Ph.D. (Melbourne)",
+        "honours": "FNA, FNASc",
+        "specialization": "Cosmic Rays, Solar & Space Physics and High Energy Astrophysics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "109, Roy Mansion, Aram Society Road, Vakola, Santacruz (East)",
+        "city": "Mumbai 400 055"
+    }
+}

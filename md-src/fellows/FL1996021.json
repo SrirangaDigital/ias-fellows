@@ -1,0 +1,33 @@
+{
+    "id": "FL1996021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajiva",
+            "last": "Raman",
+            "display": "Raman, Prof. Rajiva"
+        },
+        "sex": "M",
+        "birthDate": "1948-12-09",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA, FNASc",
+        "specialization": "Human Molecular Genetics & Cytogenetics, Gene Expression & Chromatin Organization in Development and Sex Determination"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Professor Emeritus, Department of Zoology, Banaras Hindu University",
+        "city": "Varanasi 221 005",
+        "state": "U.P",
+        "telephone": {
+            "residence": "(0542) 257 0967",
+            "mobile": "93361 52694"
+        },
+        "email": {
+            "personal": "rajiva.raman@yahoo.com,rajiva.raman@gmail.com"
+        }
+    }
+}

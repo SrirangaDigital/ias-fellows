@@ -1,0 +1,33 @@
+{
+    "id": "FL2006009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bhupendra Nath",
+            "last": "Dev",
+            "display": "Dev, Prof. Bhupendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1953-11-15",
+        "degree": "Ph.D. (SUNY, Albany)",
+        "honours": "FNASc",
+        "specialization": "Surface &amp; Nanoscale Physics, X-ray Physics and Ion-Solid Interactions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Department of Physics and School of Nanoscience &amp; Technology, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "mobile": "94338 47131",
+            "fax": "(03222) 28 2700"
+        },
+        "email": {
+            "personal": "bhupen.dev@gmail.com"
+        }
+    }
+}

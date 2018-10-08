@@ -1,0 +1,32 @@
+{
+    "id": "FL1986015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vaidhyanathan",
+            "last": "Ramamurthy",
+            "display": "Ramamurthy, Prof. Vaidhyanathan"
+        },
+        "sex": "M",
+        "birthDate": "1946-08-21",
+        "degree": "Ph.D. (Hawaii)",
+        "specialization": "Chemistry in Confined Spaces, Photochemistry, Supramolecular Chemistry and Organic Solid State Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Professor, Department of Chemistry, University of Miami",
+        "city": "Coral Gables, FL 33124",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-305) 284 1534",
+            "residence": "(+1-305) 332 3794"
+        },
+        "email": {
+            "official": "murthy1@miami.edu"
+        }
+    }
+}

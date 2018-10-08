@@ -1,0 +1,18 @@
+{
+    "id": "FH1949008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Herman Francis",
+            "last": "Mark",
+            "display": "Mark, Prof. Herman Francis"
+        },
+        "sex": "M",
+        "birthDate": "1895-05-03",
+        "deathDate": "1992-04-06"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1949"
+    }
+}

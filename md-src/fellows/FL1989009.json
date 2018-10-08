@@ -1,0 +1,33 @@
+{
+    "id": "FL1989009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hiriyakkanavar",
+            "last": "Junjappa",
+            "display": "Junjappa, Prof. Hiriyakkanavar"
+        },
+        "sex": "M",
+        "birthDate": "1936-06-23",
+        "degree": "Ph.D. (Karnatak)",
+        "honours": "FNA",
+        "specialization": "Synthetic & Mechanistic Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "Flat No. 002, Block 8, Heritage Estate, Doddaballapur Road, Yelahanka",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 4204 6874",
+            "mobile": "98453 72078"
+        },
+        "email": {
+            "personal": "junjappa_123@rediffmail.com"
+        }
+    }
+}

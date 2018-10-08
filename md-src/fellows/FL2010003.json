@@ -1,0 +1,32 @@
+{
+    "id": "FL2010003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amulya Kumar",
+            "last": "Bag",
+            "display": "Bag, Dr Amulya Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1937-01-11",
+        "degree": "Ph.D. (Calcutta)",
+        "specialization": "History of Mathematics, Astronomy & Technology in India"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "A-5/B, SFS 217, Paschim Vihar",
+        "city": "New Delhi 110 063",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2525 3538",
+            "mobile": "96540 23365"
+        },
+        "email": {
+            "personal": "akbag99@gmail.com"
+        }
+    }
+}

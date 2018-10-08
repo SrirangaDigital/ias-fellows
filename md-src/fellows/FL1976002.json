@@ -1,0 +1,33 @@
+{
+    "id": "FL1976002",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Keki Hormusji",
+            "last": "Gharda",
+            "display": "Gharda, Dr Keki Hormusji"
+        },
+        "sex": "M",
+        "birthDate": "1929-09-25",
+        "degree": "Ph.D. (Michigan)",
+        "specialization": "Process Design of Organic Chemical Plants"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1976"
+    },
+    "contact": {
+        "address": "Chairman and Managing Director, Gharda Chemical Limited, Jer Mansion, W.P. Warde Road, Off Turner Road, Bandra",
+        "city": "Mumbai 400 050",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 3306 5638",
+            "residence": "(022) 3306 5638",
+            "fax": "(022) 3306 5699"
+        },
+        "email": {
+            "official": "kgharda@gharda.com"
+        }
+    }
+}

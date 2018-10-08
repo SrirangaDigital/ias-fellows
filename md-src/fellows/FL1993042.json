@@ -1,0 +1,33 @@
+{
+    "id": "FL1993042",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sarva Jit",
+            "last": "Singh",
+            "display": "Singh, Prof. Sarva Jit"
+        },
+        "sex": "M",
+        "birthDate": "1939-11-05",
+        "degree": "Ph.D. (Kurukshetra)",
+        "honours": "FNA, FNASc",
+        "specialization": "Theoretical Seismology and Applied Mathematics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "22A, Navyug Adarsh Apartments, F Block, Vikas Puri",
+        "city": "New Delhi 110 018",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2854 9222",
+            "mobile": "93122 50454"
+        },
+        "email": {
+            "personal": "s_j_singh@yahoo.com"
+        }
+    }
+}

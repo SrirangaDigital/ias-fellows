@@ -1,0 +1,36 @@
+{
+    "id": "FL2000001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ravindra Bhalchandra",
+            "last": "Bapat",
+            "display": "Bapat, Prof. Ravindra Bhalchandra"
+        },
+        "sex": "M",
+        "birthDate": "1954-12-20",
+        "degree": "Ph.D. (Illinois)",
+        "honours": "FNA",
+        "specialization": "Combinatorial Linear Algebra and Generalised Inverses"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Statistics & Mathematics Unit, Indian Statistical Institute, 7, SJS Sansanwal Marg",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 4149 3934",
+            "residence": "(011) 4987 5271",
+            "mobile": "90136 47247",
+            "fax": "(011) 4149 3981, (011) 2696 1384"
+        },
+        "email": {
+            "official": "rbb@isid.ac.in",
+            "personal": "rbbapat@rediffmail.com"
+        }
+    }
+}

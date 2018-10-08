@@ -1,0 +1,35 @@
+{
+    "id": "FL2007025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Harkesh Bahadur",
+            "last": "Singh",
+            "display": "Singh, Prof. Harkesh Bahadur"
+        },
+        "sex": "M",
+        "birthDate": "1956-03-01",
+        "degree": "Ph.D. (Lucknow & Aston)",
+        "honours": "FNASc, FNA",
+        "specialization": "Main Group Chemistry, Organochalcogen Chemistry and Organometallic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Professor, Department of Chemistry, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7190",
+            "residence": "(022) 2577 0675",
+            "mobile": "93238 40676",
+            "fax": "(022) 2572 3480"
+        },
+        "email": {
+            "official": "chhbsia@chem.iitb.ac.in"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "FH2006030",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ranajit",
+            "last": "Chakraborty",
+            "display": "Chakraborty, Prof. Ranajit"
+        },
+        "sex": "M",
+        "deathDate": "2018-09-24"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Director, Center for Computational Genomics, University of North Texas, HSC, 3500 Camp Bowie Blvd, CBH 249",
+        "city": "Fort Worth, TX 76107",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-817) 735 2421",
+            "fax": "(+1-817) 735 5016"
+        },
+        "email": {
+            "official": "ranajit.chakraborty@unthsc.edu"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL1984013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ganesan",
+            "last": "Srinivasan",
+            "display": "Srinivasan, Prof. Ganesan"
+        },
+        "sex": "M",
+        "birthDate": "1942-08-09",
+        "degree": "Ph.D. (Chicago)",
+        "specialization": "Statistical Physics, Condensed Matter Physics and Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1984",
+        "councilservice": "Council Service: 1986-2003; Secretary: 1986-88; Editor of Publications: 1989-94; Treasurer: 1995-2003"
+    },
+    "contact": {
+        "address": "190, I Main Road, I Block, BEL Layout, Vidyaranyapura",
+        "city": "Bengaluru 560 097",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "96118 39690"
+        },
+        "email": {
+            "personal": "gsrini1942@gmail.com"
+        }
+    }
+}

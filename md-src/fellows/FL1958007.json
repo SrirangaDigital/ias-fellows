@@ -1,0 +1,26 @@
+{
+    "id": "FL1958007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ram Narayan",
+            "last": "Tandon",
+            "display": "Tandon, Prof Ram Narayan"
+        },
+        "sex": "M",
+        "birthDate": "1903-11-27",
+        "deathDate": "1999-12-18",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA",
+        "specialization": "Mycology and Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1958"
+    },
+    "contact": {
+        "address": "c/o Shri G.N. Tandon, 379, Sector 15A",
+        "city": "Noida 201 301"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1995014",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vishweshwaraiah",
+            "last": "Prakash",
+            "display": "Prakash, Dr Vishweshwaraiah"
+        },
+        "sex": "M",
+        "birthDate": "1951-11-23",
+        "degree": "Ph.D. (Mysore)",
+        "honours": "FNASc, FNAE, FRSC,FNAAS",
+        "specialization": "S&T Policy, Physical Biochemistry, Chemistry of Macromolecules, Biophysics of Proteins, Enzymes & Thermodynamics, Food Chemistry, Nutrition, Food Biotechnology and Food Science"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "58, 5th A Main Road, Vontikoppal",
+        "city": "Mysore 570 002",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(0821) 426 3004",
+            "residence": "(0821) 251 0054",
+            "mobile": "98450 48854",
+            "fax": "(0821) 426 3004"
+        },
+        "email": {
+            "personal": "prakashvish@gmail.com"
+        }
+    }
+}

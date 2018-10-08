@@ -1,0 +1,25 @@
+{
+    "id": "FL1995033",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "last": "Sri Niwas",
+            "display": "Sri Niwas, Prof. "
+        },
+        "sex": "M",
+        "birthDate": "1946-07-04",
+        "deathDate": "2012-11-15",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA, FNASc",
+        "specialization": "Geoelectromagnetism, Geophysical Inversion and Geohydrology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "Professor, Department of Earth Sciences, Indian Institute of Technology",
+        "city": "Roorkee 247 667"
+    }
+}

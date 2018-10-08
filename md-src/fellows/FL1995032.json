@@ -1,0 +1,27 @@
+{
+    "id": "FL1995032",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Veronica Filomena",
+            "last": "Rodrigues",
+            "display": "Rodrigues, Dr Veronica Filomena"
+        },
+        "sex": "F",
+        "birthDate": "1953-03-31",
+        "deathDate": "2010-11-10",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Neurogenetics, Genetics and Developmental Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1995",
+        "councilservice": "Council Service: 2004-2006"
+    },
+    "contact": {
+        "address": "Department of Biological Sciences, National Centre for Biological Sciences, GKVK Campus",
+        "city": "Bengaluru 560 065"
+    }
+}

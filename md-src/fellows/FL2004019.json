@@ -1,0 +1,34 @@
+{
+    "id": "FL2004019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bikash Chandra",
+            "last": "Sinha",
+            "display": "Sinha, Prof. Bikash Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1945-06-16",
+        "degree": "Ph.D. (London), D.Sc. (London)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Nuclear Physics, High Energy Physics, Quark Gluon Plasma, Nuclear Medicine Precursory Signals of Earthquakes, Helium from Thermal Spring and Early Universe Cosmology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "INSA Emeritus Scientist, Variable Energy Cyclotron Centre, 1/AF, Bidhan Nagar",
+        "city": "Kolkata 700 064",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2337 0032, (033) 2337 0313",
+            "residence": "(033) 2475 2206, (033) 2475 9927",
+            "fax": "(033) 2334 6871, (033) 2337 4637"
+        },
+        "email": {
+            "official": "bikash@vecc.gov.in"
+        }
+    }
+}

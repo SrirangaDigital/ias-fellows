@@ -1,0 +1,36 @@
+{
+    "id": "FL2013005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amol",
+            "last": "Dighe",
+            "display": "Dighe, Prof. Amol"
+        },
+        "sex": "M",
+        "birthDate": "1970-10-23",
+        "degree": "Ph.D. (Chicago)",
+        "honours": "FNA",
+        "specialization": "High Energy Physics, Phenomenology, Astroparticle Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Department of Theoretical Physics, Tata Institute of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2423",
+            "residence": "(022) 2280 4699",
+            "mobile": "99673 96593",
+            "fax": "(022) 2278 2777"
+        },
+        "email": {
+            "official": "amol@theory.tifr.res.in"
+        },
+        "url": "http://theory.tifr.res.in/~amol"
+    }
+}

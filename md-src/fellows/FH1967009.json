@@ -1,0 +1,19 @@
+{
+    "id": "FH1967009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hermann",
+            "last": "Staudinger",
+            "display": "Staudinger, Prof. Hermann"
+        },
+        "sex": "M",
+        "birthDate": "1881-03-23",
+        "deathDate": "1965-09-08",
+        "honours": "Nobel Laureate (Chemistry) - 1953"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1967"
+    }
+}

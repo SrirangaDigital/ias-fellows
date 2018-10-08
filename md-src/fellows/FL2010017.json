@@ -1,0 +1,35 @@
+{
+    "id": "FL2010017",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Balaram",
+            "last": "Ghosh",
+            "display": "Ghosh, Dr Balaram"
+        },
+        "sex": "M",
+        "birthDate": "1955-11-23",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Immunology, Genomics, Gene Regulation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Distinguished Professor, Institute of Genomics & Integrative Biology, Mall Road",
+        "city": "Delhi 110 007",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2766 2580",
+            "residence": "(011) 2786 0108",
+            "mobile": "98713 86414",
+            "fax": "(011) 2766 4771"
+        },
+        "email": {
+            "official": "bghosh@igib.res.in"
+        }
+    }
+}

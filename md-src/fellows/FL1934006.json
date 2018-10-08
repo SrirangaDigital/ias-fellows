@@ -1,0 +1,23 @@
+{
+    "id": "FL1934006",
+    "profile": {
+        "name": {
+            "first": "Jayantilal Surchandra",
+            "last": "Badami",
+            "display": "Badami,  Jayantilal Surchandra"
+        },
+        "sex": "M",
+        "birthDate": "1908-12-25",
+        "deathDate": "2000-01-13",
+        "specialization": "Optics, Spectroscopy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934"
+    },
+    "contact": {
+        "address": "Wilson College, Chaupatti",
+        "city": "Bombay"
+    }
+}

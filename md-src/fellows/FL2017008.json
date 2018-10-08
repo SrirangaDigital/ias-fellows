@@ -1,0 +1,33 @@
+{
+    "id": "FL2017008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srubabati",
+            "last": "Goswami",
+            "display": "Goswami, Prof. Srubabati"
+        },
+        "sex": "F",
+        "birthDate": "1966-03-31",
+        "degree": "Ph.D. (Calcutta)",
+        "specialization": "High Energy Physics, Astroparticle Physics, Neutrino Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4471",
+            "residence": "(079) 2686 0072",
+            "mobile": "99099 06086"
+        },
+        "email": {
+            "official": "sruba@prl.res.in"
+        }
+    }
+}

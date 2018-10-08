@@ -1,0 +1,19 @@
+{
+    "id": "FH1949009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Linus Carl",
+            "last": "Pauling",
+            "display": "Pauling, Prof. Linus Carl"
+        },
+        "sex": "M",
+        "birthDate": "1901-02-28",
+        "deathDate": "1994-08-19",
+        "honours": "Nobel Laureate (Chemistry) - 1954; Peace - 1962"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1949"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL2011021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pulak",
+            "last": "Sengupta",
+            "display": "Sengupta, Prof. Pulak"
+        },
+        "sex": "M",
+        "birthDate": "1963-12-05",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNA",
+        "specialization": "Precambrian Geology, Metamorphic Petrology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Department of Geological Sciences, Jadavpur University",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "mobile": "97483 59495"
+        },
+        "email": {
+            "personal": "pulaksg@gmail.com"
+        }
+    }
+}

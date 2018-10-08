@@ -1,0 +1,37 @@
+{
+    "id": "FL2010037",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Amlan Jyoti",
+            "last": "Pal",
+            "display": "Pal, Prof. Amlan Jyoti"
+        },
+        "sex": "M",
+        "birthDate": "1960-05-29",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNAE, FNA, FNASc",
+        "specialization": "Organic Electronics, Scanning Tunnelling Spectroscopy, Photovoltaic Device Physics, Organic Spintronics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Senior Professor, Department of Solid State Physics, Indian Association for the Cultivation of Science",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/1313",
+            "residence": "(033) 2416 0502",
+            "mobile": "94330 59564",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "sspajp@iacs.res.in",
+            "personal": "amlan.pal@gmail.com"
+        },
+        "url": "http://www.iacs.res.in/ssp/sspajp/"
+    }
+}

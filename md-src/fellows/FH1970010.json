@@ -1,0 +1,18 @@
+{
+    "id": "FH1970010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Winston E.",
+            "last": "Kock",
+            "display": "Kock, Prof. Winston E."
+        },
+        "sex": "M",
+        "birthDate": "1909-12-05",
+        "deathDate": "1982-11-25"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1970"
+    }
+}

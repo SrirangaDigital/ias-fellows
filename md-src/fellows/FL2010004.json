@@ -1,0 +1,33 @@
+{
+    "id": "FL2010004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Purnima",
+            "last": "Bhargava",
+            "display": "Bhargava, Dr Purnima"
+        },
+        "sex": "F",
+        "birthDate": "1955-10-29",
+        "degree": "Ph.D. (BHU)",
+        "honours": "FNASc",
+        "specialization": "Molecular Biology, Eukaryotic Transcription, Epigenetics & Chromatin"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Scientist F, Centre for Cellular & Molecular Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2719 2603",
+            "fax": "(040) 2716 0591"
+        },
+        "email": {
+            "official": "purnima@ccmb.res.in"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "FL1952005",
+    "profile": {
+        "name": {
+            "first": "Des Raj",
+            "last": "Malhotra",
+            "display": "Malhotra,  Des Raj"
+        },
+        "sex": "M",
+        "birthDate": "1899-10-04",
+        "deathDate": "1983-11-01",
+        "degree": "D.Sc. (Brussels)",
+        "honours": "FNA",
+        "specialization": "Chemical & Metallurgical Engineering"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Engineering & Technology",
+        "yearelected": "1952",
+        "councilservice": "1953-55"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1934024",
+    "profile": {
+        "name": {
+            "first": "P N",
+            "last": "Ghosh",
+            "display": "Ghosh,  P N"
+        },
+        "sex": "M",
+        "birthDate": "1884-02-11",
+        "deathDate": "1946-12-23",
+        "honours": "FNA",
+        "specialization": "Optics, Applied Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1934",
+        "councilservice": "1934-35"
+    }
+}

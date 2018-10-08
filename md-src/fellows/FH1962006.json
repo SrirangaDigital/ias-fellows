@@ -1,0 +1,18 @@
+{
+    "id": "FH1962006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Gyorgy",
+            "last": "Szigeti",
+            "display": "Szigeti, Prof. Gyorgy"
+        },
+        "sex": "M",
+        "birthDate": "1905-01-29",
+        "deathDate": "1978-11-26"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1962"
+    }
+}

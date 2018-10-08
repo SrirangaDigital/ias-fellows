@@ -1,0 +1,35 @@
+{
+    "id": "FL1981002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Padmanabhan",
+            "last": "Balaram",
+            "display": "Balaram, Prof. Padmanabhan"
+        },
+        "sex": "M",
+        "birthDate": "1949-02-19",
+        "degree": "Ph.D. (Carnegie Mellon)",
+        "honours": "FNA, FNASc",
+        "specialization": "Bio-organic Chemistry and Molecular Biophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1981",
+        "councilservice": "Council Service: 1995-2000."
+    },
+    "contact": {
+        "address": "Molecular Biophysics Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3000",
+            "residence": "(080) 2334 0962",
+            "fax": "(080) 2360 0535"
+        },
+        "email": {
+            "official": "pb@mbu.iisc.ernet.in"
+        }
+    }
+}

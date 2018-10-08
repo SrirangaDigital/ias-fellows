@@ -1,0 +1,29 @@
+{
+    "id": "FH2008035",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aravinda",
+            "last": "Chakravarti",
+            "display": "Chakravarti, Prof. Aravinda"
+        },
+        "sex": "M",
+        "birthDate": "1954-02-06"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Director - CCDG, McKusick-Nathans Inst. of Genetic, Medicine, Johns Hopkins Univ., School of Medicine, 733 N.Broadway",
+        "city": "Baltimore, MD 21205",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-410) 502 7525",
+            "fax": "(+1-410) 502 7544"
+        },
+        "email": {
+            "official": "aravinda@jhmi.edu"
+        }
+    }
+}

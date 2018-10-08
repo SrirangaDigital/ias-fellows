@@ -1,0 +1,26 @@
+{
+    "id": "FL1960005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Kartar Singh",
+            "last": "Thind",
+            "display": "Thind, Dr Kartar Singh"
+        },
+        "sex": "M",
+        "birthDate": "1917-10-30",
+        "deathDate": "1991-12-03",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "FNA",
+        "specialization": "Mycology and Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1960"
+    },
+    "contact": {
+        "address": "2086, Sector 15C",
+        "city": "Chandigarh 160 015"
+    }
+}

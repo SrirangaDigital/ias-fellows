@@ -1,0 +1,32 @@
+{
+    "id": "FL1997007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Somnath",
+            "last": "Dasgupta",
+            "display": "Dasgupta, Dr Somnath"
+        },
+        "sex": "M",
+        "birthDate": "1951-10-13",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Metamorphic Petrology, Geochemistry and Precambrian Geology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Westwind, Block 4, Flat 3B, 78, Raja SC Mullick Road",
+        "city": "Kolkata 700 084",
+        "state": "W.B.",
+        "telephone": {
+            "mobile": "98311 67145"
+        },
+        "email": {
+            "personal": "somnathdasg@gmail.com"
+        }
+    }
+}

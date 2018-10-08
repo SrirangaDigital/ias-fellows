@@ -1,0 +1,21 @@
+{
+    "id": "FL1970006",
+    "profile": {
+        "name": {
+            "first": "Krishnaiyer",
+            "last": "Ramakrishnan",
+            "display": "Ramakrishnan,  Krishnaiyer"
+        },
+        "sex": "M",
+        "birthDate": "1920-11-22",
+        "deathDate": "1978-03-26",
+        "degree": "Ph.D.",
+        "specialization": "Plant Pathology, Fungal Taxonomy and Plant Virology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1970",
+        "councilservice": "1971-76"
+    }
+}

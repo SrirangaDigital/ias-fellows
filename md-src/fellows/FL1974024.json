@@ -1,0 +1,32 @@
+{
+    "id": "FL1974024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sundarapandium Rama",
+            "last": "Rajagopalan",
+            "display": "Rajagopalan, Dr Sundarapandium Rama"
+        },
+        "sex": "M",
+        "birthDate": "1931-12-30",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Electrochemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "B4/1, Vijay Kiran Apartments, 32, Victoria Road",
+        "city": "Bengaluru 560 047",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2557 6755, 4866 6990",
+            "mobile": "94484 67655"
+        },
+        "email": {
+            "personal": "rajagopalandrsr@gmail.com"
+        }
+    }
+}

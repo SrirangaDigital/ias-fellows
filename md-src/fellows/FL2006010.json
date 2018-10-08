@@ -1,0 +1,35 @@
+{
+    "id": "FL2006010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Swarna Kanti",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Swarna Kanti"
+        },
+        "sex": "M",
+        "birthDate": "1955-09-05",
+        "degree": "Ph.D. (Bombay)",
+        "honours": "FNASc",
+        "specialization": "Infrared Astronomy, Interstellar Medium and Astronomical Instrumentation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Centre Director, National Centre for Radio Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2569 6105, (020) 2571 9000",
+            "residence": "(020) 2569 1632",
+            "mobile": "95455 14645",
+            "fax": "(020) 2569 7257"
+        },
+        "email": {
+            "official": "swarna@ncra.tifr.res.in"
+        }
+    }
+}

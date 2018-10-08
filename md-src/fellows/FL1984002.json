@@ -1,0 +1,34 @@
+{
+    "id": "FL1984002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Bidyendu Mohan",
+            "last": "Deb",
+            "display": "Deb, Prof. Bidyendu Mohan"
+        },
+        "sex": "M",
+        "birthDate": "1942-09-27",
+        "degree": "D.Phil. (Oxon)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Theoretical Chemistry and Chemical Physics, Indian Culture & Civilisation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1984",
+        "councilservice": "Council Service: 1995-2000"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Publishing Department, Visva Bharati University, 6A, JC Bose Road",
+        "city": "Kolkata 700 017",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2424 5644",
+            "mobile": "98307 99629"
+        },
+        "email": {
+            "personal": "bmdeb@yahoo.co.in"
+        }
+    }
+}

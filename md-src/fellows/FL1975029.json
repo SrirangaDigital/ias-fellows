@@ -1,0 +1,26 @@
+{
+    "id": "FL1975029",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sasanka Chandra",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Prof. Sasanka Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1918-08-31",
+        "deathDate": "2013-05-19",
+        "degree": "Ph.D. (Dacca and Cantab), Sc.D. (Cantab)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "49/7, Canal Road, Kishanpur",
+        "city": "Dehra Dun 248 009"
+    }
+}

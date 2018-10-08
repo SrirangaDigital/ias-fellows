@@ -1,0 +1,25 @@
+{
+    "id": "FL1975037",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ripdaman Singh",
+            "last": "Grewal",
+            "display": "Grewal, Dr Ripdaman Singh"
+        },
+        "sex": "M",
+        "birthDate": "1922-12-03",
+        "deathDate": "2009-04-13",
+        "degree": "M.B.B.S. (Panjab), D.Phil. (Oxon)",
+        "specialization": "Pharmacology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "659, Sector 16-D",
+        "city": "Chandigarh 160 015"
+    }
+}

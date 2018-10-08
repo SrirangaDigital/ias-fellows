@@ -1,0 +1,19 @@
+{
+    "id": "FH1954004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ernest Orlando",
+            "last": "Lawrence",
+            "display": "Lawrence, Prof. Ernest Orlando"
+        },
+        "sex": "M",
+        "birthDate": "1901-08-08",
+        "deathDate": "1958-08-27",
+        "honours": "Nobel Laureate (Physics) - 1939"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1954"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1983005",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Raghunath Anant",
+            "last": "Mashelkar",
+            "display": "Mashelkar, Dr Raghunath Anant"
+        },
+        "sex": "M",
+        "birthDate": "1943-01-01",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FRS, FTWAS, For. Assoc. (US Natl. Acad. Sci.),FNAE",
+        "specialization": "Polymer Science & Engineering, Molecular & Convective Diffusion, Non-Newtonian Fluid Mechanics and Rheology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1983",
+        "councilservice": "Council Service: 1989-2000; Vice-President:1995-2000"
+    },
+    "contact": {
+        "address": "President, Global Research Alliance, III Floor, Adams Court, Baner",
+        "city": "Pune 411 045",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 4692 5700, 4692 5703"
+        },
+        "email": {
+            "official": "ram@mashelkar.com"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "FL1935006",
+    "profile": {
+        "name": {
+            "first": "Yajnavalkya",
+            "last": "Bharadwaja",
+            "display": "Bharadwaja,  Yajnavalkya"
+        },
+        "sex": "M",
+        "birthDate": "1895-08-13",
+        "deathDate": "1963-03-25",
+        "honours": "FNA, FNASc",
+        "specialization": "Plant Morphology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1935",
+        "councilservice": "1938-43"
+    }
+}

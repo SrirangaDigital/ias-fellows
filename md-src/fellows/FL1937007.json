@@ -1,0 +1,27 @@
+{
+    "id": "FL1937007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Harold John",
+            "last": "Taylor",
+            "display": "Taylor, Prof. Harold John"
+        },
+        "sex": "M",
+        "birthDate": "1906-05-18",
+        "deathDate": "1996-05-27",
+        "degree": "Ph.D. (Cantab)",
+        "honours": "FNA",
+        "specialization": "Nuclear Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1937"
+    },
+    "contact": {
+        "address": "3, Rochester Terrace",
+        "city": "Edingurgh EH10 5AA",
+        "country": "Scotland"
+    }
+}

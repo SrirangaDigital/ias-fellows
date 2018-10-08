@@ -1,0 +1,18 @@
+{
+    "id": "FH1952011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rignold Aldworth",
+            "last": "Daly",
+            "display": "Daly, Prof. Rignold Aldworth"
+        },
+        "sex": "M",
+        "birthDate": "1871-05-19",
+        "deathDate": "1957-09-19"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1952"
+    }
+}

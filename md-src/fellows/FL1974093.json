@@ -1,0 +1,26 @@
+{
+    "id": "FL1974093",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vallurupalli Sita Raghavendra",
+            "last": "Rao",
+            "display": "Rao, Prof. Vallurupalli Sita Raghavendra"
+        },
+        "sex": "M",
+        "birthDate": "1931-02-01",
+        "deathDate": "2013-09-26",
+        "degree": "Ph.D. (Osmania)",
+        "honours": "FNA",
+        "specialization": "Conformation of Biopolymers"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "No. 350, 1st A Cross, 8th Main, III Stage, IV Block, Basaveshwaranagar",
+        "city": "Bengaluru 560 079"
+    }
+}

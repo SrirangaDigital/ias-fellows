@@ -1,0 +1,21 @@
+{
+    "id": "FL1934104",
+    "profile": {
+        "name": {
+            "first": "Bawa Kartar",
+            "last": "Singh",
+            "display": "Singh,  Bawa Kartar"
+        },
+        "sex": "M",
+        "birthDate": "1886-04-17",
+        "deathDate": "1960-06-15",
+        "honours": "FNA",
+        "specialization": "Stereochemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1934",
+        "councilservice": "1940-43; Vice President 1934-40"
+    }
+}

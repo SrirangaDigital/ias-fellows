@@ -1,0 +1,32 @@
+{
+    "id": "FL1972002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dubagunta",
+            "last": "Subramanian",
+            "display": "Subramanian, Prof. Dubagunta"
+        },
+        "sex": "M",
+        "birthDate": "1931-04-04",
+        "degree": "Ph.D. (Madras)",
+        "specialization": "Plant Physiology & Pathology, Biochemistry and Microbiology & Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1972"
+    },
+    "contact": {
+        "address": "Flat 401, Abode Admire, Plot 886-890, Defence Colony, Sainikpuri",
+        "city": "Secuderabad 500 094",
+        "state": "A.P.",
+        "telephone": {
+            "residence": "(040) 2711 7164",
+            "mobile": "95738 19165"
+        },
+        "email": {
+            "personal": "subramaniansakku@gmail.com"
+        }
+    }
+}

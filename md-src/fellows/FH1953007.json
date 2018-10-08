@@ -1,0 +1,19 @@
+{
+    "id": "FH1953007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Tadeus",
+            "last": "Reichstein",
+            "display": "Reichstein, Prof. Tadeus"
+        },
+        "sex": "M",
+        "birthDate": "1897-07-20",
+        "deathDate": "1996-08-01",
+        "honours": "Nobel Laureate (Medicine) - 1950"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1953"
+    }
+}

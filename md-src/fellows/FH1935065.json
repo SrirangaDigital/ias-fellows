@@ -1,0 +1,19 @@
+{
+    "id": "FH1935065",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Enrico",
+            "last": "Fermi",
+            "display": "Fermi, Prof. Enrico"
+        },
+        "sex": "M",
+        "birthDate": "1901-09-29",
+        "deathDate": "1954-11-30",
+        "honours": "Nobel Laureate (Physics) - 1938"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1935"
+    }
+}

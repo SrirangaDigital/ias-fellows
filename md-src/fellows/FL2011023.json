@@ -1,0 +1,35 @@
+{
+    "id": "FL2011023",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sisinthy",
+            "last": "Shivaji",
+            "display": "Shivaji, Dr Sisinthy"
+        },
+        "sex": "M",
+        "birthDate": "1950-06-17",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNASc",
+        "specialization": "Anti-Microbial Resistance, Gut Microbiome, Eye Disease, Conservation Biology, Mammalian Sperm Function, Bacterial Biodiversity of Cold Habitats, Cold Adaptation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2011"
+    },
+    "contact": {
+        "address": "Director, Prof. Brien Holdon Eye Research, LV Prasad Eye Institute, LV Prasad Marg, Banjara Hills",
+        "city": "Hyderabad 500 034",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 3061 2534",
+            "residence": "(040) 2717 1268",
+            "mobile": "98496 50285",
+            "fax": "(040) 2354 8271"
+        },
+        "email": {
+            "official": "shivas@lvpei.org"
+        }
+    }
+}

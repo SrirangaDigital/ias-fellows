@@ -1,0 +1,25 @@
+{
+    "id": "FL1981015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kuppachi",
+            "last": "Krishna Murty",
+            "display": "Krishna Murty, Prof. Kuppachi"
+        },
+        "sex": "M",
+        "birthDate": "1926-11-13",
+        "deathDate": "2001-05-10",
+        "degree": "M.D. (Andhra)",
+        "specialization": "Internal Medicine, Cardiology and Haematology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "Consultant in Medicine, Sri Satya Sai General Hospital",
+        "city": "Prasanthi Nilayam 515 134"
+    }
+}

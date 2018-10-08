@@ -1,0 +1,26 @@
+{
+    "id": "FL1974103",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Manakkal Ganesa",
+            "last": "Varadarajan",
+            "display": "Varadarajan, Dr Manakkal Ganesa"
+        },
+        "sex": "M",
+        "birthDate": "1917-11-09",
+        "deathDate": "2004-10-05",
+        "degree": "M.D. (Madras)",
+        "honours": "FAMS, FAIM",
+        "specialization": "Radiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "42, Bheemanna Mudali Garden Street",
+        "city": "Chennai 600 018"
+    }
+}

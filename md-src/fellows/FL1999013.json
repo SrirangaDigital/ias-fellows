@@ -1,0 +1,32 @@
+{
+    "id": "FL1999013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gopalan Vijayakumaran",
+            "last": "Nair",
+            "display": "Nair, Dr Gopalan Vijayakumaran"
+        },
+        "sex": "M",
+        "birthDate": "1941-10-05",
+        "degree": "Ph.D. (Banaras and British Columbia)",
+        "specialization": "Synthetic Organic Chemistry, Heterocyclic Chemistry , Organocatalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1999"
+    },
+    "contact": {
+        "address": "Honorary Scientist, National Institute for Interdisciplinary Science &, Technology",
+        "city": "Thiruvananthapuram 695 019",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 249 0406",
+            "mobile": "98950 41707"
+        },
+        "email": {
+            "personal": "vijaynair.tvm@gmail.com,vijaynair_2001@yahoo.com"
+        }
+    }
+}

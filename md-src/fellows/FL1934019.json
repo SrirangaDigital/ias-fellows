@@ -1,0 +1,19 @@
+{
+    "id": "FL1934019",
+    "profile": {
+        "name": {
+            "first": "I Froilano",
+            "last": "De Mello",
+            "display": "De Mello,  I Froilano"
+        },
+        "sex": "M",
+        "birthDate": "1887-00-00",
+        "deathDate": "1955-01-09",
+        "specialization": "Microbiology, Parasitology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1934"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "FL1934036",
+    "profile": {
+        "name": {
+            "first": "Shankar Nath",
+            "last": "Kapur",
+            "display": "Kapur,  Shankar Nath"
+        },
+        "sex": "M",
+        "birthDate": "1895-08-20",
+        "deathDate": "1972-01-10",
+        "honours": "FNA",
+        "specialization": "Forestry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1934"
+    }
+}

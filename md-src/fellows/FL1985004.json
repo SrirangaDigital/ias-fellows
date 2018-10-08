@@ -1,0 +1,33 @@
+{
+    "id": "FL1985004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Vinod Kumar",
+            "last": "Gaur",
+            "display": "Gaur, Prof. Vinod Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1936-07-11",
+        "degree": "Ph.D. (London)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Seismotectonics, Geophysical Inversion and Earth System Sciences"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1985",
+        "councilservice": "Council Service: 1992-97, Editor of Publications: 1995-97"
+    },
+    "contact": {
+        "address": "101, Windsor Court, 17, Millers Road",
+        "city": "Bengaluru 560 046",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2343 7410"
+        },
+        "email": {
+            "personal": "gaurvinod36@gmail.com"
+        }
+    }
+}

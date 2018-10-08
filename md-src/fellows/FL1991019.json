@@ -1,0 +1,36 @@
+{
+    "id": "FL1991019",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Valangiman Subramanian",
+            "last": "Ramamurthy",
+            "display": "Ramamurthy, Dr Valangiman Subramanian"
+        },
+        "sex": "M",
+        "birthDate": "1942-04-02",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FNAE, FTWAS",
+        "specialization": "Science & Technology Policy, Nuclear Physics, Applications of Low Energy Accelerators"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Emeritus Scientist, National Institute of Advanced Studies, Indian Institute of Science Campus",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2218 5127",
+            "residence": "(080) 2351 5920",
+            "mobile": "99000 02178",
+            "fax": "(080) 2218 5028"
+        },
+        "email": {
+            "official": "vsramamurthy@nias.res.in",
+            "personal": "vsramamurthy@gmail.com"
+        }
+    }
+}

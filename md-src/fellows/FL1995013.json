@@ -1,0 +1,33 @@
+{
+    "id": "FL1995013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vilas Shridhar",
+            "last": "Patwardhan",
+            "display": "Patwardhan, Dr Vilas Shridhar"
+        },
+        "sex": "M",
+        "birthDate": "1947-10-13",
+        "degree": "Ph.D. (Purdue)",
+        "honours": "FNAE",
+        "specialization": "Computer Simulation, Mathematical Modelling, Multiphase Reactions and Software Development and Spreadsheet Programming"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "3, Vibha Heights, Sanewadi, Baner Road, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2588 8126",
+            "residence": "(020) 2588 2058"
+        },
+        "email": {
+            "personal": "vspatw@vsnl.com"
+        }
+    }
+}

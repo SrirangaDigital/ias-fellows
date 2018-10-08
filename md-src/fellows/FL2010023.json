@@ -1,0 +1,35 @@
+{
+    "id": "FL2010023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Paramjit",
+            "last": "Khurana",
+            "display": "Khurana, Prof. Paramjit"
+        },
+        "sex": "F",
+        "birthDate": "1956-08-15",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNASc, FNA, FNAAS, FTWAS",
+        "specialization": "Plant Biotechnology, Plant Genomics, Plant Developmental Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2411 5096",
+            "residence": "(011) 2411 9090",
+            "mobile": "97110 06512",
+            "fax": "(011) 2411 5096"
+        },
+        "email": {
+            "official": "param@genomeindia.org"
+        }
+    }
+}

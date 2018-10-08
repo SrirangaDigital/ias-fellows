@@ -1,0 +1,36 @@
+{
+    "id": "FL2001018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Milan Kumar",
+            "last": "Sanyal",
+            "display": "Sanyal, Prof. Milan Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1954-01-06",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Electronic Transport in Nanostructured Materials, Condensed Matter Physics, Surface Physics, Nanomaterials and Synchrotron X-ray Scattering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Professor, Saha Institute of Nuclear Physics, 1/AF, Bidhan Nagar",
+        "city": "Kolkata 700 064",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2321 4763",
+            "residence": "(033) 2321 5453",
+            "mobile": "98742 35010",
+            "fax": "(033) 2337 4637"
+        },
+        "email": {
+            "official": "milank.sanyal@saha.ac.in",
+            "personal": "milank.sanyal@gmail.com"
+        }
+    }
+}

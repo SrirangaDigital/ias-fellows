@@ -1,0 +1,34 @@
+{
+    "id": "FL2005017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pran Nath",
+            "last": "Pandita",
+            "display": "Pandita, Prof. Pran Nath"
+        },
+        "sex": "M",
+        "birthDate": "1949-01-01",
+        "degree": "Ph.D. (Kashmir)",
+        "honours": "FNA, FNASc",
+        "specialization": "Theoretical High Energy Physics and Astroparticle Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "Centre for High Energy Physics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2396",
+            "mobile": "94361 02186",
+            "fax": "(080) 2360 0106"
+        },
+        "email": {
+            "official": "pandita@associates.iucaa.in"
+        }
+    }
+}

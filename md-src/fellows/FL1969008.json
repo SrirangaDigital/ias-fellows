@@ -1,0 +1,20 @@
+{
+    "id": "FL1969008",
+    "profile": {
+        "name": {
+            "first": "Ramachandran",
+            "last": "Kalyanasundaram",
+            "display": "Kalyanasundaram,  Ramachandran"
+        },
+        "sex": "M",
+        "birthDate": "1930-02-20",
+        "deathDate": "1980-04-11",
+        "degree": "D.Sc. (Madras), Dr nat. Sci. (Zurich)",
+        "specialization": "Mycology and Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1969"
+    }
+}

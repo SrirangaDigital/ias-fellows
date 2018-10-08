@@ -1,0 +1,35 @@
+{
+    "id": "FL2007024",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sadananda Satheesh Chandra",
+            "last": "Shenoi",
+            "display": "Shenoi, Dr Sadananda Satheesh Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1958-05-30",
+        "degree": "Ph.D. (Kochi)",
+        "honours": "FNASc",
+        "specialization": "Physical Oceanography, Ocean-Atmosphere Interaction and Satellite Oceanography"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Director, Indian National Centre for Ocean Information Services, Ocean Valley, Pragati Nagar (BO), Nizampet P.O.",
+        "city": "Hyderabad 500 090",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2389 5000",
+            "residence": "(040) 6574 3155",
+            "mobile": "94410 13377",
+            "fax": "(040) 2389 5001"
+        },
+        "email": {
+            "official": "shenoi@incois.gov.in"
+        }
+    }
+}

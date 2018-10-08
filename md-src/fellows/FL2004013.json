@@ -1,0 +1,33 @@
+{
+    "id": "FL2004013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gullapalli",
+            "last": "Nageswara Rao",
+            "display": "Nageswara Rao, Dr Gullapalli"
+        },
+        "sex": "M",
+        "birthDate": "1945-09-01",
+        "degree": "M.D. (Opthal.) (AIIMS)",
+        "honours": "FAMS, FACS, FRCS, FNASc",
+        "specialization": "Cornea, Community Eye Health and Eye Care Policy & Planning"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Distinguished Chair of Eye Health, LV Prasad Eye Institute, LV Prasad Marg, Banjara Hills",
+        "city": "Hyderabad 500 034",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 3061 2609",
+            "residence": "(040) 2354 8405"
+        },
+        "email": {
+            "official": "gnrao@lvpei.org"
+        }
+    }
+}

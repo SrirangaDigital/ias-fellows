@@ -1,0 +1,26 @@
+{
+    "id": "FL1986026",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Supriya",
+            "last": "Roy",
+            "display": "Roy, Prof. Supriya"
+        },
+        "sex": "M",
+        "birthDate": "1931-06-01",
+        "deathDate": "2013-08-22",
+        "degree": "Ph.D. and D.Sc. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Metallogeny, Ore-Genesis and Ore Mineralogy"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "99/5/10, Ballygunge Place",
+        "city": "Kolkata 700 019"
+    }
+}

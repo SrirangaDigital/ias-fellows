@@ -1,0 +1,36 @@
+{
+    "id": "FL2010014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aparna",
+            "last": "Dutta Gupta",
+            "display": "Dutta Gupta, Prof. Aparna"
+        },
+        "sex": "F",
+        "birthDate": "1953-05-11",
+        "degree": "Ph.D. (BHU)",
+        "honours": "FNASc, FNA",
+        "specialization": "Insect Molecular Physiology, Integrated Insect Pest Management, Comparative Physiology, Endocrinology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Animal Biology, School of Life Sciences, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4560",
+            "residence": "78930 46218",
+            "mobile": "93910 74729",
+            "fax": "(040) 2301 0120"
+        },
+        "email": {
+            "official": "apdgsl@uohyd.ernet.in",
+            "personal": "aparnaduttagupta@gmail.com"
+        }
+    }
+}

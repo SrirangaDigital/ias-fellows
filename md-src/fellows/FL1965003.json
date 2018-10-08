@@ -1,0 +1,32 @@
+{
+    "id": "FL1965003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Subramania",
+            "last": "Sundaram",
+            "display": "Sundaram, Dr Subramania"
+        },
+        "sex": "M",
+        "birthDate": "1930-08-15",
+        "degree": "M.Sc. (Tech.), FRSC (London)",
+        "specialization": "Textile Technology, Chemical Plant and Synthetic Fibre Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1965"
+    },
+    "contact": {
+        "address": "3B, Raghava Apartments, 41C (New No. 66), Beach Road, Kalakshetra Colony",
+        "city": "Chennai 600 090",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 2490 1565",
+            "mobile": "94440 51565"
+        },
+        "email": {
+            "personal": "sundaram.chennai@gmail.com"
+        }
+    }
+}

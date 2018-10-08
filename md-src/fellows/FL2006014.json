@@ -1,0 +1,35 @@
+{
+    "id": "FL2006014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jitendra Paul",
+            "last": "Khurana",
+            "display": "Khurana, Prof. Jitendra Paul"
+        },
+        "sex": "M",
+        "birthDate": "1954-10-30",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA, FNASc, FNAAS, FTWAS",
+        "specialization": "Photoperception & Signal Transduction in Plants, Structural & Functional Genomics and Plant Hormone Action"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Department of Plant Molecular Biology, University of Delhi South Campus, Benito Juarez Road",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2411 5126",
+            "residence": "(011) 2411 9090",
+            "mobile": "98113 51217",
+            "fax": "(011) 2411 5270"
+        },
+        "email": {
+            "official": "khuranaj@genomeindia.org"
+        }
+    }
+}

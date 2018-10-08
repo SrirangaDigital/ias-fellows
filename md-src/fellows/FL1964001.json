@@ -1,0 +1,33 @@
+{
+    "id": "FL1964001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Coluthur",
+            "last": "Gopalan",
+            "display": "Gopalan, Dr Coluthur"
+        },
+        "sex": "M",
+        "birthDate": "1918-11-29",
+        "degree": "M.D. (Madras), Ph.D. & D.Sc. (London)",
+        "honours": "D.Sc. (h.c.), FRCP (Edinburgh and London), FNA, FAMS, FRS",
+        "specialization": "Nutrition and Medical Research"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1964",
+        "councilservice": "Council Service: 1968-70, 1977-79"
+    },
+    "contact": {
+        "address": "39, Landon's Road, Kilpauk",
+        "city": "Chennai 600 010",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(044) 4285 8842"
+        },
+        "email": {
+            "personal": "malini1seshadri@gmail.com"
+        }
+    }
+}

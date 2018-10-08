@@ -1,0 +1,29 @@
+{
+    "id": "FH2013027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Daniel G",
+            "last": "Nocera",
+            "display": "Nocera, Prof. Daniel G"
+        },
+        "sex": "M",
+        "birthDate": "1957-00-00"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry & Chem. Biol., Harvard University, 12, Oxford Street",
+        "city": "Cambridge, MA 02138",
+        "country": "USA",
+        "telephone": {
+            "office": "(+1-617) 495 8904"
+        },
+        "email": {
+            "official": "dnocera@fas.harvard.edu"
+        },
+        "url": "http://chemistry.harvard.edu/people/daniel-g-nocera"
+    }
+}

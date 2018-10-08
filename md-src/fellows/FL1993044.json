@@ -1,0 +1,26 @@
+{
+    "id": "FL1993044",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Anil Kumar",
+            "last": "Lala",
+            "display": "Lala, Prof. Anil Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1950-01-13",
+        "deathDate": "2004-07-18",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Membrane Biochemistry, Bio-Organic Chemistry and Protein Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Professor, Dept. of Chemistry and, School of Biosciences & Bioengg., Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2009008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Saumitra",
+            "last": "Das",
+            "display": "Das, Prof. Saumitra"
+        },
+        "sex": "M",
+        "birthDate": "1962-01-20",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Virology, Molecular Biology and Cell Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Microbiology and Cell Biology Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2886",
+            "residence": "(080) 2360 3632",
+            "fax": "(080) 2360 2697"
+        },
+        "email": {
+            "official": "sdas@iisc.ac.in"
+        }
+    }
+}

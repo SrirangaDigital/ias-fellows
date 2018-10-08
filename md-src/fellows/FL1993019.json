@@ -1,0 +1,31 @@
+{
+    "id": "FL1993019",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Achyutuni Venkata",
+            "last": "Krishna Murty",
+            "display": "Krishna Murty, Prof. Achyutuni Venkata"
+        },
+        "sex": "M",
+        "birthDate": "1938-10-10",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Aerospace Engineering, Structural Mechanics, Composites and Smart Structures"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "No. 8, 5th Main, II Cross, NTI Layout, RMV II Stage, Nagashettyhalli",
+        "city": "Bengaluru 560 094",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2341 0116"
+        },
+        "email": {
+            "personal": "avkrishnamurty@yahoo.co.in"
+        }
+    }
+}

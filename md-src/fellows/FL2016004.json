@@ -1,0 +1,35 @@
+{
+    "id": "FL2016004",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Subhra",
+            "last": "Chakraborty",
+            "display": "Chakraborty, Dr Subhra"
+        },
+        "sex": "F",
+        "birthDate": "1964-09-25",
+        "degree": "Ph.D. (JNU)",
+        "specialization": "Nutritional & Stress Genomics, Plant proteomics, Molecular Biology, Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Staff Scientist VII, National Institute of Plant Genome Research, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2673 5186",
+            "residence": "(011) 2613 9428",
+            "mobile": "99719 23777",
+            "fax": "(011) 2674 1658"
+        },
+        "email": {
+            "official": "schakraborty@nipgr.ac.in",
+            "personal": "subhrac@hotmail.com"
+        }
+    }
+}

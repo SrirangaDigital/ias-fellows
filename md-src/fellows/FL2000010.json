@@ -1,0 +1,33 @@
+{
+    "id": "FL2000010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amit",
+            "last": "Ghosh",
+            "display": "Ghosh, Dr Amit"
+        },
+        "sex": "M",
+        "birthDate": "1944-11-24",
+        "degree": "Ph.D. (Calcutta), D.Sc. (h.c.)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology of V.cholerae and Recombinant DNA Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "National Institute of Cholera and Enteric Diseases, JICA Building, CIT Scheme XM, Beliaghata",
+        "city": "Kolkata 700 010",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2442 7744",
+            "mobile": "94336 92858"
+        },
+        "email": {
+            "personal": "amitghosh24@yahoo.com"
+        }
+    }
+}

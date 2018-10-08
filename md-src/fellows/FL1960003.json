@@ -1,0 +1,25 @@
+{
+    "id": "FL1960003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Govindachetty",
+            "last": "Rangaswami",
+            "display": "Rangaswami, Dr Govindachetty"
+        },
+        "sex": "M",
+        "birthDate": "1925-05-10",
+        "deathDate": "2005-09-07",
+        "degree": "Ph.D. (Rutgers), D.Sc. (UAS, TNAU and PU)",
+        "specialization": "Agriculture, Microbiology and Plant Pathology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1960"
+    },
+    "contact": {
+        "address": "'Ravi Nivas', No. 17 (Old 21), Indira Gandhi Road, Fairlands",
+        "city": "Salem 636 016"
+    }
+}

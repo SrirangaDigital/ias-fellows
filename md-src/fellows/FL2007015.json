@@ -1,0 +1,35 @@
+{
+    "id": "FL2007015",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sanjay",
+            "last": "Mittal",
+            "display": "Mittal, Prof. Sanjay"
+        },
+        "sex": "M",
+        "birthDate": "1968-02-27",
+        "degree": "Ph.D. (Minnesota)",
+        "honours": "FNAE, FNA, FNASc",
+        "specialization": "Unsteady Aerodynamics, Finite Element Analysis, High Performance Computing and Bluff-body Flows, Aerodynamic Shape Optimization"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "Department of Aerospace Engineering, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7906",
+            "residence": "(0512) 259 8702, (0512) 259 1132",
+            "fax": "(0512) 259 7561"
+        },
+        "email": {
+            "official": "smittal@iitk.ac.in"
+        },
+        "url": "http://home.iitk.ac.in/~smittal"
+    }
+}

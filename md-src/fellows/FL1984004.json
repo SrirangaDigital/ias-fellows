@@ -1,0 +1,35 @@
+{
+    "id": "FL1984004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Varadachari",
+            "last": "Krishnan",
+            "display": "Krishnan, Prof. Varadachari"
+        },
+        "sex": "M",
+        "birthDate": "1937-11-08",
+        "degree": "Ph. D. (IISc)",
+        "honours": "FNA, FTWAS",
+        "specialization": "Bio-inorganic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1984",
+        "councilservice": "Council Service: 1989-97, Secretary: 1989-94"
+    },
+    "contact": {
+        "address": "Hindustan Lever Research Professor, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2759, (080) 2362 2518",
+            "residence": "(080) 2341 9380",
+            "fax": "(080) 2208 2766"
+        },
+        "email": {
+            "official": "vkrishnan@iisc.ac.in,vkrish@jncasr.ac.in"
+        }
+    }
+}

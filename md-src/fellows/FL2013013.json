@@ -1,0 +1,36 @@
+{
+    "id": "FL2013013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Debashis",
+            "last": "Mitra",
+            "display": "Mitra, Dr Debashis"
+        },
+        "sex": "M",
+        "birthDate": "1960-06-23",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Virology, Molecular Immunology, HIV/AIDS & Anti-Viral Drug Discovery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2013"
+    },
+    "contact": {
+        "address": "Scientist G, National Centre for Cell Science, University Campus, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2570 8151",
+            "residence": "(020) 2569 8553",
+            "mobile": "98230 59841",
+            "fax": "(020) 2569 2259"
+        },
+        "email": {
+            "official": "dmitra@nccs.res.in"
+        },
+        "url": "http://www.nccs.res.in/mitra1.html"
+    }
+}

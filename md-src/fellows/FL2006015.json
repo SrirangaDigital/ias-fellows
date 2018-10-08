@@ -1,0 +1,35 @@
+{
+    "id": "FL2006015",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Gopal Chandra",
+            "last": "Kundu",
+            "display": "Kundu, Dr Gopal Chandra"
+        },
+        "sex": "M",
+        "birthDate": "1959-11-02",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc",
+        "specialization": "Tumour Biology, Regulation of Gene Expression, Angiogenesis and Nanomedicine"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Scientist G, National Centre for Cell Science, NCCS Complex",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2570 8104",
+            "mobile": "94225 06548",
+            "fax": "(020) 2569 2259"
+        },
+        "email": {
+            "official": "kundu@nccs.res.in",
+            "personal": "gopalkundu@hotmail.com"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1975083",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Balu",
+            "last": "Venkataraman",
+            "display": "Venkataraman, Prof. Balu"
+        },
+        "sex": "M",
+        "birthDate": "1929-12-17",
+        "deathDate": "2010-10-28",
+        "degree": "Ph.D. (Columbia)",
+        "specialization": "Chemical Physics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "A-4/1, Century Enclave, 54(Old), 8(New), Kalakshetra Road, Thiruvanmiyur",
+        "city": "Chennai 600 041"
+    }
+}

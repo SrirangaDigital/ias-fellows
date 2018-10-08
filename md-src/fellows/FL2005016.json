@@ -1,0 +1,33 @@
+{
+    "id": "FL2005016",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sunil Kumar",
+            "last": "Mukherjee",
+            "display": "Mukherjee, Dr Sunil Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1950-01-05",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology, Extra Chromosomal DNA Replication and Viral Pathogenesis & RNAi"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "NASI Senior Scientist, Department of Genetics, University of Delhi South Campus, Benito Juarez Road",
+        "city": "New Delhi 110 021",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2689 5815",
+            "mobile": "98719 95629"
+        },
+        "email": {
+            "personal": "sunilmukherjee@hotmail.com"
+        }
+    }
+}

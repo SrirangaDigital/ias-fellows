@@ -1,0 +1,32 @@
+{
+    "id": "FL1989008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Ramamirtha",
+            "last": "Jayaraman",
+            "display": "Jayaraman, Prof. Ramamirtha"
+        },
+        "sex": "M",
+        "birthDate": "1937-10-10",
+        "degree": "Ph.D. (Tufts)",
+        "honours": "FNA",
+        "specialization": "Molecular Biology and Molecular Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1989"
+    },
+    "contact": {
+        "address": "R. H. 35, Palaami Enclave, Reserve Line, New Natham Road",
+        "city": "Madurai - 625 014",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(0452) 264 2474"
+        },
+        "email": {
+            "personal": "ramjayaraman37@yahoo.com"
+        }
+    }
+}

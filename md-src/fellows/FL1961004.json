@@ -1,0 +1,21 @@
+{
+    "id": "FL1961004",
+    "profile": {
+        "name": {
+            "first": "Srinivasan",
+            "last": "Krishnaswamy",
+            "display": "Krishnaswamy,  Srinivasan"
+        },
+        "sex": "M",
+        "birthDate": "1926-02-15",
+        "deathDate": "1988-11-20",
+        "degree": "Ph.D., D.Sc. (Southampton)",
+        "specialization": "Environmental Biology, Copepod Taxonomy and Physiology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1961",
+        "councilservice": "1965-70"
+    }
+}

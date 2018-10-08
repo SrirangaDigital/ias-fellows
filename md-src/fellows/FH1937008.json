@@ -1,0 +1,19 @@
+{
+    "id": "FH1937008",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Max",
+            "last": "Born",
+            "display": "Born, Prof. Max"
+        },
+        "sex": "M",
+        "birthDate": "1882-12-11",
+        "deathDate": "1970-01-05",
+        "honours": "Nobel Laureate (Physics) - 1954"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1937"
+    }
+}

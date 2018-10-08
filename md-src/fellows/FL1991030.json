@@ -1,0 +1,26 @@
+{
+    "id": "FL1991030",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Darshan",
+            "last": "Ranganathan",
+            "display": "Ranganathan, Dr Darshan"
+        },
+        "sex": "F",
+        "birthDate": "1941-06-04",
+        "deathDate": "2001-06-04",
+        "degree": "Ph.D. (Delhi)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry, Bio-Organic Chemistry and Supramolecular Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1991"
+    },
+    "contact": {
+        "address": "Scientist, Indian Institue of Chemical, Technology, Uppal Road",
+        "city": "Hyderabad 500 007"
+    }
+}

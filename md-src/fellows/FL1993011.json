@@ -1,0 +1,34 @@
+{
+    "id": "FL1993011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Narayanan",
+            "last": "Chandrakumar",
+            "display": "Chandrakumar, Prof. Narayanan"
+        },
+        "sex": "M",
+        "birthDate": "1951-11-25",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "honours": "FNA",
+        "specialization": "Dynamic Nuclear Polarisation, Magnetic Resonance Imaging, MR Spectroscopy & Instrumentation and Spin Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "MRI-MRS Centre and Department of Chemistry, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4203, (044) 2257 4920",
+            "residence": "(044) 2679 1073",
+            "fax": "(044) 2257 4202"
+        },
+        "email": {
+            "official": "nckumar@iitm.ac.in"
+        }
+    }
+}

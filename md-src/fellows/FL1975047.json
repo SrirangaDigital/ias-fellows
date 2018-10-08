@@ -1,0 +1,26 @@
+{
+    "id": "FL1975047",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pabitra Kumar",
+            "last": "Maitra",
+            "display": "Maitra, Prof. Pabitra Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1932-11-01",
+        "deathDate": "2007-09-04",
+        "degree": "D.Phil. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Biochemistry, Molecular Biology and Genetics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "CJ-257, Salt Lake",
+        "city": "Kolkata 700 091"
+    }
+}

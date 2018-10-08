@@ -1,0 +1,35 @@
+{
+    "id": "FL1993027",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Vikas Madhusudan",
+            "last": "Nadkarni",
+            "display": "Nadkarni, Dr Vikas Madhusudan"
+        },
+        "sex": "M",
+        "birthDate": "1947-12-06",
+        "degree": "Ph.D. (Delaware)",
+        "specialization": "Polymer Science & Engineering, Materials Science and Chemical Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Managing Director, Techcellence Consultancy Services, Pvt. Ltd., 5, Pushkaraj, Pushpak Park, Aundh",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2588 1780",
+            "residence": "(020) 2588 5146",
+            "mobile": "98220 34477",
+            "fax": "(020) 2588 1184"
+        },
+        "email": {
+            "personal": "drvmn@vsnl.com,drvmn@ymail.com"
+        },
+        "url": "http://www.vikastech.com/resunme.htm"
+    }
+}

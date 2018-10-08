@@ -1,0 +1,36 @@
+{
+    "id": "FL2010025",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sambasiva R",
+            "last": "Kotha",
+            "display": "Kotha, Prof. Sambasiva R"
+        },
+        "sex": "M",
+        "birthDate": "1957-10-10",
+        "degree": "Ph.D. (Hyderabad)",
+        "honours": "FNASc, FNA",
+        "specialization": "New Synthetic Methods, Unnatural Amino Acids, Transition Metals in Organic Synthesis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7160",
+            "residence": "(022) 2576 8160",
+            "mobile": "98693 92696",
+            "fax": "(022) 2576 7152"
+        },
+        "email": {
+            "official": "srk@chem.iitb.ac.in"
+        },
+        "url": "htpp://www.chem.iitb.ac.in/people/Faculty/prof/sk.html"
+    }
+}

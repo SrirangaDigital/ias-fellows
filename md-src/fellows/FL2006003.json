@@ -1,0 +1,35 @@
+{
+    "id": "FL2006003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Joyoti",
+            "last": "Basu",
+            "display": "Basu, Dr Joyoti"
+        },
+        "sex": "F",
+        "birthDate": "1957-12-17",
+        "degree": "Ph.D. (Kolkata)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Microbiology, Mycobacteria, Host-Pathogen Interactions and Membrane Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2006"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Bose Institute, 93/1, APC Road",
+        "city": "Kolkata 700 009",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2303 1144, (033) 2303 1153",
+            "residence": "(033) 2475 3293",
+            "mobile": "98300 44776",
+            "fax": "(033) 2350 6790"
+        },
+        "email": {
+            "personal": "joyoti@vsnl.com,joyotibasu@gmail.com"
+        }
+    }
+}

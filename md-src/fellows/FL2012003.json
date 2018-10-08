@@ -1,0 +1,35 @@
+{
+    "id": "FL2012003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajendra Prasad",
+            "last": "Chhabra",
+            "display": "Chhabra, Prof. Rajendra Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1953-01-03",
+        "degree": "Ph.D. (Monash)",
+        "honours": "FNAE, FNASc, FNA",
+        "specialization": "Transport Phenomena, Rheology, Non-Newtonian Fluids"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Department of Chemical Engineering, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7393",
+            "residence": "(0512) 259 8916",
+            "mobile": "98397 41317",
+            "fax": "(0512) 259 0104"
+        },
+        "email": {
+            "official": "chhabra@iitk.ac.in"
+        }
+    }
+}

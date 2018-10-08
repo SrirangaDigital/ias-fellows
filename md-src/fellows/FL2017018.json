@@ -1,0 +1,35 @@
+{
+    "id": "FL2017018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nallur Basappa",
+            "last": "Ramachandra",
+            "display": "Ramachandra, Prof. Nallur Basappa"
+        },
+        "sex": "M",
+        "birthDate": "1958-05-31",
+        "degree": "Ph.D. (Mysore)",
+        "specialization": "Drosophilla Genetics & Evolution, Human Genetic Disorders, Genome Genetics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Chairman, Department of Studies in Genetics & Genomics, University of Mysore, Manasagangotri",
+        "city": "Mysore 560 006",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(0821) 241 9781, 241 9888",
+            "residence": "(0821) 428 7471",
+            "mobile": "98800 33687"
+        },
+        "email": {
+            "official": "ramachandra@genetics.uni-mysore.ac.in",
+            "personal": "nallurbr@gmail.com"
+        },
+        "url": "http://www.ramachandralab.com"
+    }
+}

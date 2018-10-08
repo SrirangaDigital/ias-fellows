@@ -1,0 +1,33 @@
+{
+    "id": "FL1993005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Jayanta Kumar",
+            "last": "Bhattacharjee",
+            "display": "Bhattacharjee, Prof. Jayanta Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1952-04-10",
+        "degree": "Ph.D. (Maryland)",
+        "honours": "FNASc",
+        "specialization": "Critical Phenomena, Turbulence and Nonlinear Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Distinguished Emeritus Fellow, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "98307 47103",
+            "mobile": "99191 88606"
+        },
+        "email": {
+            "personal": "jayanta.bhattacharjee@gmail.com"
+        }
+    }
+}

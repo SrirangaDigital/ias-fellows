@@ -1,0 +1,19 @@
+{
+    "id": "FL1937001",
+    "profile": {
+        "name": {
+            "first": "G D",
+            "last": "Bhalerao",
+            "display": "Bhalerao,  G D"
+        },
+        "sex": "M",
+        "birthDate": "1897-12-10",
+        "deathDate": "1948-12-06",
+        "specialization": "Helminthology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1937"
+    }
+}

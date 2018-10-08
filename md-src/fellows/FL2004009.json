@@ -1,0 +1,32 @@
+{
+    "id": "FL2004009",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sulabha Kashinath",
+            "last": "Kulkarni",
+            "display": "Kulkarni, Prof. Sulabha Kashinath"
+        },
+        "sex": "F",
+        "birthDate": "1949-06-01",
+        "degree": "Ph.D. (Pune)",
+        "honours": "FNASc, FNA",
+        "specialization": "Surface Physics, Materials Science and Nanoscience"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Centre for Materials for Electronics Technology, Off Dr Homi Bhabha Road, Panchwati",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "mobile": "88884 25978"
+        },
+        "email": {
+            "personal": "skknano@gmail.com"
+        }
+    }
+}

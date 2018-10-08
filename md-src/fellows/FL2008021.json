@@ -1,0 +1,36 @@
+{
+    "id": "FL2008021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Aniruddha Bhalachandra",
+            "last": "Pandit",
+            "display": "Pandit, Prof. Aniruddha Bhalachandra"
+        },
+        "sex": "M",
+        "birthDate": "1957-12-07",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNAE, FNA, FNASc, FTWAS",
+        "specialization": "Design of Multiphase Reactors, Cavitation Phenomena and Environmental & Energy Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Dean (HR), Institute of Chemical Technology, N.P. Marg, Matunga",
+        "city": "Mumbai 400 019",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 3361 1111-2",
+            "residence": "(022) 2430 2660",
+            "mobile": "98204 08037",
+            "fax": "(022) 3361 1020"
+        },
+        "email": {
+            "official": "pandit@ictmumbai.edu.in",
+            "personal": "dr.pandit@gmail.com"
+        }
+    }
+}

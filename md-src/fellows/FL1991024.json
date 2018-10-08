@@ -1,0 +1,33 @@
+{
+    "id": "FL1991024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Alladi",
+            "last": "Sitaram",
+            "display": "Sitaram, Prof. Alladi"
+        },
+        "sex": "M",
+        "birthDate": "1947-10-02",
+        "degree": "Ph.D. (Washington)",
+        "specialization": "Harmonic Analysis on Euclidean Spaces and on Lie Groups"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Mathematical Sciences",
+        "yearelected": "1991",
+        "councilservice": "Council Service: 2001-2003"
+    },
+    "contact": {
+        "address": "2B, Clairmont Apartments, 12, Rest House Crescent",
+        "city": "Bengaluru 560 001",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2558 6103",
+            "mobile": "98441 29153"
+        },
+        "email": {
+            "personal": "sitaram.alladi@gmail.com"
+        }
+    }
+}

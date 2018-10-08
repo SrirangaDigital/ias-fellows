@@ -1,0 +1,35 @@
+{
+    "id": "FL1990014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Veerappan",
+            "last": "Muthukkaruppan",
+            "display": "Muthukkaruppan, Prof. Veerappan"
+        },
+        "sex": "M",
+        "birthDate": "1934-10-15",
+        "degree": "Ph.D. (Wisconsin)",
+        "honours": "FNA",
+        "specialization": "Genetics of Retinoblastoma, Immunology, Angiogenesis in Ocular Diseases and Ocular Stem Cells"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Adviser - Research, Aravind Medical Research Foundation, No. 1, Anna Nagar",
+        "city": "Madurai 625 020",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(0452) 435 6550",
+            "mobile": "94432 79635",
+            "fax": "(0452) 253 0984"
+        },
+        "email": {
+            "official": "muthu@aravind.org",
+            "personal": "drvrm2002@gmail.com"
+        }
+    }
+}

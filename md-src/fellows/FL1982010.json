@@ -1,0 +1,31 @@
+{
+    "id": "FL1982010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Maddali Nageswara",
+            "last": "Rao",
+            "display": "Rao, Prof. Maddali Nageswara"
+        },
+        "sex": "M",
+        "birthDate": "1931-07-11",
+        "degree": "Dr. rer. nat. (Cologne)",
+        "specialization": "Solar System Physics, Mars Fundamental Research, Earth & Planetary Sciences and Lunar & Meteorite Sample Studies"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1982"
+    },
+    "contact": {
+        "address": "16931, Tower Ridge",
+        "city": "Friendswood, Texas 77546",
+        "country": "USA",
+        "telephone": {
+            "residence": "(+1-281) 993 9191"
+        },
+        "email": {
+            "official": "sitarao@sbcglobal.net"
+        }
+    }
+}

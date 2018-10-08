@@ -1,0 +1,35 @@
+{
+    "id": "FL1990003",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Srikumar",
+            "last": "Banerjee",
+            "display": "Banerjee, Dr Srikumar"
+        },
+        "sex": "M",
+        "birthDate": "1946-04-25",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNA, FNAE, FNASc, FTWAS",
+        "specialization": "Materials Science, Physical Metallurgy, Phase Transformations, Nuclear Fuel Cycle, Nuclear Materials and Reactor Engineering"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1990",
+        "councilservice": "Council Service: 2007-12; Vice-President: 2010-12"
+    },
+    "contact": {
+        "address": "Chancellor, Homi Bhabha National Institute, Bhabha Atomic Research Centre, Central Complex, Trombay",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2550 5333",
+            "residence": "(022) 2754 9099",
+            "fax": "(022) 2550 5333"
+        },
+        "email": {
+            "official": "sbanerjee@barc.gov.in"
+        }
+    }
+}

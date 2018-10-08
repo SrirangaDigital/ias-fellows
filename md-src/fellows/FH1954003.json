@@ -1,0 +1,19 @@
+{
+    "id": "FH1954003",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Max Theodor Felix von",
+            "last": "Laue",
+            "display": "Laue, Prof. Max Theodor Felix von"
+        },
+        "sex": "M",
+        "birthDate": "1897-10-09",
+        "deathDate": "1960-04-24",
+        "honours": "Nobel Laureate (Physics) - 1914"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1954"
+    }
+}

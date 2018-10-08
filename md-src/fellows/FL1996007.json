@@ -1,0 +1,33 @@
+{
+    "id": "FL1996007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Alok Kumar",
+            "last": "Datta",
+            "display": "Datta, Dr Alok Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1946-11-10",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNA",
+        "specialization": "Nucleic Acid Enzymology, Protein Chemistry, Parasitology and Recombinant DNA Technology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1996"
+    },
+    "contact": {
+        "address": "Calcutta Greens, HIG-A (4/7/28), 1050/2, Survey Park",
+        "city": "Kolkata 700 075",
+        "state": "W.B.",
+        "telephone": {
+            "residence": "(033) 2416 2995",
+            "mobile": "98360 12725"
+        },
+        "email": {
+            "personal": "alokdatta61@gmail.com"
+        }
+    }
+}

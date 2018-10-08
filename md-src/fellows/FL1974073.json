@@ -1,0 +1,25 @@
+{
+    "id": "FL1974073",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Sankara",
+            "last": "Narayanaswamy",
+            "display": "Narayanaswamy, Dr Sankara"
+        },
+        "sex": "M",
+        "birthDate": "1916-09-02",
+        "deathDate": "1997-05-13",
+        "degree": "Ph.D. (Delhi)",
+        "specialization": "Plant Tissue Culture, Morphogenesis and Embryology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "13/1, No. 5, I Floor, Griffith Road, Opp. Panagal Park, T. Nagar",
+        "city": "Madras 600 017"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1988010",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bhaskar Dattatraya",
+            "last": "Kulkarni",
+            "display": "Kulkarni, Dr Bhaskar Dattatraya"
+        },
+        "sex": "M",
+        "birthDate": "1949-05-05",
+        "degree": "Ph.D. (Nagpur)",
+        "honours": "FNA,FNAE,FTWAS",
+        "specialization": "Chemical Reaction Engineering and Mathematical Modelling & Simulation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Chemical Engineering Division, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 2772, (020) 2590 2150",
+            "residence": "(020) 2590 2402",
+            "mobile": "98817 29726",
+            "fax": "(020) 2590 2612"
+        },
+        "email": {
+            "official": "bd.kulkarni@ncl.res.in"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL1995007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pucadyil Ittoop",
+            "last": "John",
+            "display": "John, Prof. Pucadyil Ittoop"
+        },
+        "sex": "M",
+        "birthDate": "1941-03-18",
+        "degree": "Ph.D. (Aligarh)",
+        "specialization": "Plasma Physics, Intense Particle Beams and Industrial Applications of Plasma"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1995"
+    },
+    "contact": {
+        "address": "7C, Skyline Hillview, Kanjikuzhy",
+        "city": "Kottayam 686 004",
+        "state": "Kerala",
+        "telephone": {
+            "residence": "(0481) 257 0431",
+            "mobile": "85890 72431"
+        },
+        "email": {
+            "personal": "john.pucadyil@gmail.com"
+        }
+    }
+}

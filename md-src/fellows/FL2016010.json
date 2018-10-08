@@ -1,0 +1,35 @@
+{
+    "id": "FL2016010",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Pradyut",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Pradyut"
+        },
+        "sex": "M",
+        "birthDate": "1970-02-17",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "Chemical Sensing of Ions, Anion & Ion Pair Recognition Chemistry, Interlocked Molecular Systems & Self-Assembly"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Inorganic Chemistry, Indian Association for the Cultivation of Science, Jadavpur",
+        "city": "Kolkata 700 032",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2473 4971/1351",
+            "residence": "(033) 2484 8799",
+            "mobile": "94331 38075",
+            "fax": "(033) 2473 2805"
+        },
+        "email": {
+            "official": "icpg@iacs.res.in"
+        },
+        "url": "http://www.iacs.res.in/inorg/icpg/"
+    }
+}

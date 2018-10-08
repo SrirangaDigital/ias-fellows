@@ -1,0 +1,26 @@
+{
+    "id": "FL1974071",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Basanti Dulal",
+            "last": "Nag Chaudhuri",
+            "display": "Nag Chaudhuri, Dr Basanti Dulal"
+        },
+        "sex": "M",
+        "birthDate": "1917-09-06",
+        "deathDate": "2006-06-25",
+        "degree": "Ph.D. (Univ. Calif., Berkeley)",
+        "honours": "D.Sc. (h.c.), FNA",
+        "specialization": "Nuclear Physics & Plasma Physics and Environmental Impact & Management"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "43 A, Biren Roy Road (East)",
+        "city": "Kolkata 700 008"
+    }
+}

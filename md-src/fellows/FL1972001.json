@@ -1,0 +1,30 @@
+{
+    "id": "FL1972001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asoke Nath",
+            "last": "Mitra",
+            "display": "Mitra, Prof. Asoke Nath"
+        },
+        "sex": "M",
+        "birthDate": "1929-04-15",
+        "degree": "Ph.D. (Delhi and Cornell)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Theoretical, Nuclear & Quark Physics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1972",
+        "councilservice": "Council Service: 1974-76"
+    },
+    "contact": {
+        "address": "244, Tagore Park",
+        "city": "Delhi 110 009",
+        "state": "U.T.",
+        "telephone": {
+            "residence": "(011) 2744 6153"
+        }
+    }
+}

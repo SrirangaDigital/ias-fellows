@@ -1,0 +1,37 @@
+{
+    "id": "FL2009001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Elangannan",
+            "last": "Arunan",
+            "display": "Arunan, Prof. Elangannan"
+        },
+        "sex": "M",
+        "birthDate": "1961-05-11",
+        "degree": "Ph.D. (Kansas State)",
+        "honours": "FRSC, FNASc",
+        "specialization": "Molecular & van der Waals Spectroscopy, Chemical Kinetics & Dynamics, Shock Hydrogen Bonding and other Molecular Interactions, Astrochemistry/Astrophysics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2009"
+    },
+    "contact": {
+        "address": "Inorganic & Physical Chemistry Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2828",
+            "residence": "(080) 2360 1952",
+            "mobile": "94498 21952",
+            "fax": "(080) 2360 0282"
+        },
+        "email": {
+            "official": "arunan@iisc.ac.in",
+            "personal": "earunan@gmail.com"
+        },
+        "url": "http://ipc.iisc.ac.in/arunan.php"
+    }
+}

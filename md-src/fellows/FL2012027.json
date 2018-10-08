@@ -1,0 +1,33 @@
+{
+    "id": "FL2012027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sujit Kumar",
+            "last": "Sikdar",
+            "display": "Sikdar, Prof. Sujit Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1957-01-02",
+        "degree": "Dr.Med.sci. (Kyushu)",
+        "specialization": "Cellular Neurophysiology, Ion Channels Physiology, Pharmacology, Biophysics, Calcium Dynamics, In vitro Neuronal Networks"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Molecular Biophysics Unit, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2844, (080) 2293 3220",
+            "residence": "(080) 2341 1580",
+            "fax": "(080) 2360 0535"
+        },
+        "email": {
+            "official": "sks@mbu.iisc.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "FL1993017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mohammad Shamim",
+            "last": "Jairajpuri",
+            "display": "Jairajpuri, Prof. Mohammad Shamim"
+        },
+        "sex": "M",
+        "birthDate": "1942-04-08",
+        "degree": "Ph.D. and D.Sc. (Aligarh), D.Litt. (h.c.)",
+        "honours": "FNA, FNASc, FNAAS, F.I.Biol. (London), FTWAS",
+        "specialization": "Plant Protection, Nematology, Biological Control, Parasitology and Biological Diversity"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Animal Sciences",
+        "yearelected": "1993"
+    },
+    "contact": {
+        "address": "Flat No. 104, I Floor, Block B, 274, Aslam Manzil, Jamia Magar (Okhla)",
+        "city": "New Delhi 110 025",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "95409 81665"
+        },
+        "email": {
+            "personal": "msjairajpuri@gmail.com"
+        }
+    }
+}

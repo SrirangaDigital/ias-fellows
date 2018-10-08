@@ -1,0 +1,35 @@
+{
+    "id": "FL2016002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kithiganahalli Naranayaswamy",
+            "last": "Balaji",
+            "display": "Balaji, Prof. Kithiganahalli Naranayaswamy"
+        },
+        "sex": "M",
+        "birthDate": "1966-03-07",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNA",
+        "specialization": "Immunology, Infectious Diseases"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Microbiology & Cell Biology, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3223",
+            "residence": "(080) 2661 5625",
+            "mobile": "81975 09682"
+        },
+        "email": {
+            "official": "balaji@iisc.ac.in"
+        },
+        "url": "http://mcbl.iisc.ac.in/balaji/"
+    }
+}

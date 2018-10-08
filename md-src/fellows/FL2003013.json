@@ -1,0 +1,35 @@
+{
+    "id": "FL2003013",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Usha Kant",
+            "last": "Misra",
+            "display": "Misra, Dr Usha Kant"
+        },
+        "sex": "M",
+        "birthDate": "1952-04-10",
+        "degree": "MD (Lucknow), DM Neurology (London & KGMC, Lucknow)",
+        "honours": "FAMS, FAMS, FRCP(Edinburgh), FNA",
+        "specialization": "Clinical Neurology, Neurophysiology and Tropical Neurology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "2003"
+    },
+    "contact": {
+        "address": "Head, Neurology Department, Sanjay Gandhi PG Institute of Medical Sciences, Raebarelli Road",
+        "city": "Lucknow 226 014",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 249 4167",
+            "residence": "(0522) 220 5931",
+            "mobile": "94506 53685",
+            "fax": "(0522) 266 8811"
+        },
+        "email": {
+            "personal": "drukmisra@rediffmail.com"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2017007",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sundargopal",
+            "last": "Ghosh",
+            "display": "Ghosh, Prof. Sundargopal"
+        },
+        "sex": "M",
+        "birthDate": "1968-01-02",
+        "degree": "Ph.D. (IIT, Bombay)",
+        "specialization": "Main-Group Chemistry, Organometallic Chemistry"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2017"
+    },
+    "contact": {
+        "address": "Associate Professor, Department of Chemistry, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4230",
+            "residence": "(044) 2257 6230",
+            "mobile": "98844 32944",
+            "fax": "(44) 2257 4202"
+        },
+        "email": {
+            "official": "sghosh@iitm.ac.in"
+        },
+        "url": "http://chem.iitm.ac.in/faculty/sundargopalghosh/"
+    }
+}

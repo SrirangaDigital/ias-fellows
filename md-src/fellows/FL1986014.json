@@ -1,0 +1,35 @@
+{
+    "id": "FL1986014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Madhukar Vishwanath",
+            "last": "Pitke",
+            "display": "Pitke, Prof. Madhukar Vishwanath"
+        },
+        "sex": "M",
+        "birthDate": "1936-03-31",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FIEEE",
+        "specialization": "Electronics, Telecommunication & Information Technology, Technology Transfer and Wireless Communication"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "002, Buniyad, Yashodham A2-15, Goregaon (East)",
+        "city": "Mumbai 400 063",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2841 5252",
+            "residence": "(022) 2841 5252",
+            "mobile": "99670 31266",
+            "fax": "(022) 2843 1266"
+        },
+        "email": {
+            "personal": "pitkemv@gmail.com"
+        }
+    }
+}

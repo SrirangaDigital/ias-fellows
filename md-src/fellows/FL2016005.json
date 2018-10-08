@@ -1,0 +1,35 @@
+{
+    "id": "FL2016005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Suman",
+            "last": "Chakraborty",
+            "display": "Chakraborty, Prof. Suman"
+        },
+        "sex": "M",
+        "birthDate": "1973-08-08",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNASc, FNAE, FNA",
+        "specialization": "Thermal & Fluid Science, Micro & Nanoscale Transport, Interfacial Phenomena & Phase Change"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2016"
+    },
+    "contact": {
+        "address": "Department of Mechanical Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(03222) 28 2990",
+            "residence": "(03222) 28 2991",
+            "mobile": "98314 02939",
+            "fax": "(03222) 28 2278"
+        },
+        "email": {
+            "official": "suman@mech.iitkgp.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL1952009",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bal Dattatraya",
+            "last": "Tilak",
+            "display": "Tilak, Dr Bal Dattatraya"
+        },
+        "sex": "M",
+        "birthDate": "1918-09-28",
+        "deathDate": "1999-05-25",
+        "degree": "Ph.D. (Bombay), D.Sc. (Oxon)",
+        "honours": "FNA",
+        "specialization": "Organic Chemistry, Dyestuff Technology and Rural Development through Science & Technology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1952"
+    },
+    "contact": {
+        "address": "101, Anand Park",
+        "city": "Pune 411 007"
+    }
+}

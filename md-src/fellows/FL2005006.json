@@ -1,0 +1,36 @@
+{
+    "id": "FL2005006",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Subhasis",
+            "last": "Chaudhuri",
+            "display": "Chaudhuri, Prof. Subhasis"
+        },
+        "sex": "M",
+        "birthDate": "1963-03-01",
+        "degree": "Ph.D. (UC, San Diego)",
+        "honours": "FNASc, FNAE, FIEEE, FNA",
+        "specialization": "Computer Vision and Image Processing"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2005"
+    },
+    "contact": {
+        "address": "KN Bajaj Chair Professor, Dept. of Electrical Engineering, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7437",
+            "residence": "(022) 2572 0351",
+            "mobile": "98206 05354",
+            "fax": "(022) 2572 3707"
+        },
+        "email": {
+            "official": "sc@ee.iitb.ac.in"
+        },
+        "url": "http://www.ee.iitb.ac.in/~sc"
+    }
+}

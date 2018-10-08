@@ -1,0 +1,32 @@
+{
+    "id": "FL1994019",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Turaga Sundara Rama",
+            "last": "Prasada Rao",
+            "display": "Prasada Rao, Dr Turaga Sundara Rama"
+        },
+        "sex": "M",
+        "birthDate": "1939-01-20",
+        "degree": "Ph.D. (Andhra)",
+        "honours": "FNAE",
+        "specialization": "Petroleum Refining and Heterogeneous Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "SFS Flat No. 600, DDA/HIG Flats, Sector 13, Phase 2, Pocket B, Dwaraka",
+        "city": "New Delhi 110 045",
+        "state": "U.T.",
+        "telephone": {
+            "mobile": "98103 38091"
+        },
+        "email": {
+            "personal": "tsrpr@hotmail.com"
+        }
+    }
+}

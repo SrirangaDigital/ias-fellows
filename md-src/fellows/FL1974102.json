@@ -1,0 +1,26 @@
+{
+    "id": "FL1974102",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Veeravalli Venkata Ranga",
+            "last": "Varadachari",
+            "display": "Varadachari, Dr Veeravalli Venkata Ranga"
+        },
+        "sex": "M",
+        "birthDate": "1925-07-01",
+        "deathDate": "2007-08-04",
+        "degree": "D.Sc. (Andhra)",
+        "honours": "D.Sc. (h.c.), FNA, FNASc",
+        "specialization": "Physical Oceanography and Meteorology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "c/o Sri R. Parthasarathy, 418, Palm Meadows, Phase 2, Airport-Whitefield Road, Ramagundanahalli",
+        "city": "Bengaluru 560 066"
+    }
+}

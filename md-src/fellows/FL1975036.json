@@ -1,0 +1,25 @@
+{
+    "id": "FL1975036",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Ramanik Dhirajlal",
+            "last": "Ganatra",
+            "display": "Ganatra, Dr Ramanik Dhirajlal"
+        },
+        "sex": "M",
+        "birthDate": "1928-10-14",
+        "deathDate": "1999-04-02",
+        "degree": "M.B.B.S. (Bombay)",
+        "specialization": "Nuclear Medicine"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "604, Kamala Apartments, 8A, Dhobi Galli, Versova Road, Andheri",
+        "city": "Bombay 400 058"
+    }
+}

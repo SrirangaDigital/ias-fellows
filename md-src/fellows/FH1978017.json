@@ -1,0 +1,29 @@
+{
+    "id": "FH1978017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Nicolaas",
+            "last": "Bloembergen",
+            "display": "Bloembergen, Prof. Nicolaas"
+        },
+        "sex": "M",
+        "birthDate": "1920-03-11",
+        "honours": "Nobel Laureate (Physics) - 1981"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "1978"
+    },
+    "contact": {
+        "address": "Optical Sciences Center, University of Arizona, 1630E, University Blvd.",
+        "city": "Tucson, AZ 85721",
+        "country": "U.S.A.",
+        "telephone": {
+            "residence": "(+1-520) 647 3772"
+        },
+        "email": {
+            "official": "nbloembergen@optics.arizona.edu"
+        }
+    }
+}

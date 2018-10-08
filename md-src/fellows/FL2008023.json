@@ -1,0 +1,32 @@
+{
+    "id": "FL2008023",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sujit",
+            "last": "Roy",
+            "display": "Roy, Prof. Sujit"
+        },
+        "sex": "M",
+        "birthDate": "1959-06-06",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "Organometallic Chemistry, Catalysis for Fine Chemicals, Dual & Biometallic Catalysis, Carbon-Hydrogen Functionalisation"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "2008"
+    },
+    "contact": {
+        "address": "Department of Chemistry, School of Basic Sciences, Indian Institute of Technology, Argul",
+        "city": "Khurda 752 050",
+        "state": "Orissa",
+        "telephone": {
+            "mobile": "94393 65740"
+        },
+        "email": {
+            "official": "sroy@iitbbs.ac.in",
+            "personal": "sujitroy.chem@gmail.com"
+        }
+    }
+}

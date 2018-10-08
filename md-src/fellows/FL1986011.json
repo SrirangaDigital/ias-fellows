@@ -1,0 +1,35 @@
+{
+    "id": "FL1986011",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jai Pal",
+            "last": "Mittal",
+            "display": "Mittal, Dr Jai Pal"
+        },
+        "sex": "M",
+        "birthDate": "1940-09-21",
+        "degree": "Ph.D. (Notre Dame)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Radiation Chemistry & Radiation Biology, Photochemistry & Photobiology, Laser Chemistry and Chemical Dynamics"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "11-B, Rohini Co-op. Housing Society, Sector 9-A, Vashi",
+        "city": "Navi Mumbai 400 703",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2559 5245, (022) 2559 5246",
+            "residence": "(022) 2766 4822",
+            "fax": "(022) 2550 5151"
+        },
+        "email": {
+            "official": "mittaljp@barc.gov.in",
+            "personal": "mittaljp2003@yahoo.co.in"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "FL1974012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shyam Sunder",
+            "last": "Kapoor",
+            "display": "Kapoor, Dr Shyam Sunder"
+        },
+        "sex": "M",
+        "birthDate": "1938-06-14",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA, FNASc",
+        "specialization": "Nuclear Physics, Nuclear Radiation Detectors, Accelerator-based Research and Development & Applications in Nuclear Energy"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "1974"
+    },
+    "contact": {
+        "address": "A/3, Banganga, Govandi Station Road, Deonar",
+        "city": "Mumbai 400 088",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "(022) 2550 4301",
+            "mobile": "93235 04942"
+        },
+        "email": {
+            "personal": "kapoorss2002@yahoo.co.in"
+        }
+    }
+}

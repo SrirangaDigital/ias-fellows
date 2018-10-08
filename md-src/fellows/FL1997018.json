@@ -1,0 +1,35 @@
+{
+    "id": "FL1997018",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Sabyasachi",
+            "last": "Sarkar",
+            "display": "Sarkar, Prof. Sabyasachi"
+        },
+        "sex": "M",
+        "birthDate": "1947-05-17",
+        "degree": "Ph.D. (Gorakhpur)",
+        "specialization": "Graphene & Carbon Quantum Dots, Drug Delivery, Bio-geoinorganic Chemistry, Structure-functional analogues of metallo-proteins, Carbon Quantum Dots, Bio-imaging"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Hon. Emeritus Professor, NAL Laboratory, Department of Chemistry, Bengal Engineering & Science University, Shibpur, Botanic Garden",
+        "city": "Howrah 711 103",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2668 6464",
+            "residence": "98390 62156",
+            "mobile": "98305 62156"
+        },
+        "email": {
+            "official": "sabby@chem.iiests.ac.in,abya@iitk.ac.in",
+            "personal": "protozyme@gmail.com"
+        },
+        "url": "http://home.iitk.ac.in/%7Eabya/"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL1997002",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Deevi",
+            "last": "Basavaiah",
+            "display": "Basavaiah, Prof. Deevi"
+        },
+        "sex": "M",
+        "birthDate": "1950-08-11",
+        "degree": "Ph.D. (Banaras)",
+        "honours": "FNA",
+        "specialization": "Baylis-Hillman Chemistry and Chiral Catalysis"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Chemistry",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Professor, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2313 4812",
+            "mobile": "99490 93977",
+            "fax": "(040) 2301 2460"
+        },
+        "email": {
+            "official": "basavaiahdchem@uohyd.ac.in",
+            "personal": "basavaiahdeevi@gmail.com"
+        }
+    }
+}

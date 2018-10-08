@@ -1,0 +1,34 @@
+{
+    "id": "FL1994014",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Kalappa",
+            "last": "Muniyappa",
+            "display": "Muniyappa, Prof. Kalappa"
+        },
+        "sex": "M",
+        "birthDate": "1952-09-08",
+        "degree": "Ph.D. (IISc)",
+        "honours": "FNA, FNASc, FTWAS",
+        "specialization": "Molecular Genetics, Genetic Recombination and Telomere Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "Professor and Chairman, Department of Biochemistry, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2360 0278, 2293 2235",
+            "residence": "(080) 2360 1242",
+            "fax": "(080) 2360 0814, (080) 2360 0683"
+        },
+        "email": {
+            "official": "kmbc@biochem.iisc.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2014004",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Naveen",
+            "last": "Garg",
+            "display": "Garg, Prof. Naveen"
+        },
+        "sex": "M",
+        "birthDate": "1971-03-12",
+        "degree": "Ph.D. (IIT, Delhi)",
+        "specialization": "Approximation Algorithms, Combinatorial Optimisation, Graph Theory & Algorithms"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Engineering & Technology",
+        "yearelected": "2014"
+    },
+    "contact": {
+        "address": "Department of Computer Science & Engineering, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 1296",
+            "residence": "(011) 2659 6941",
+            "mobile": "97114 05176",
+            "fax": "(011) 2658 1060"
+        },
+        "email": {
+            "official": "naveen@cse.iitd.ac.in"
+        },
+        "url": "http://www.cse.iitd.ac.in/~naveen"
+    }
+}

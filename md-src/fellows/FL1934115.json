@@ -1,0 +1,20 @@
+{
+    "id": "FL1934115",
+    "profile": {
+        "name": {
+            "first": "Gobind Singh",
+            "last": "Thapar",
+            "display": "Thapar,  Gobind Singh"
+        },
+        "sex": "M",
+        "birthDate": "1893-11-15",
+        "honours": "FNA",
+        "specialization": "Helminthology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "1934",
+        "councilservice": "1952-55"
+    }
+}

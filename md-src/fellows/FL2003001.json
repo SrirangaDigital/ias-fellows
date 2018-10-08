@@ -1,0 +1,36 @@
+{
+    "id": "FL2003001",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Dipankar",
+            "last": "Bhattacharya",
+            "display": "Bhattacharya, Prof. Dipankar"
+        },
+        "sex": "M",
+        "birthDate": "1959-05-29",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "High Energy Astrophysics, Neutron Stars and Cosmic Explosions"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Physics",
+        "yearelected": "2003",
+        "councilservice": "Council Service: 2007-2009"
+    },
+    "contact": {
+        "address": "Professor, Inter-University Centre for Astronomy & Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4210",
+            "residence": "(020) 2560 4403",
+            "mobile": "99236 97158",
+            "fax": "(020) 2560 4698-99"
+        },
+        "email": {
+            "official": "dipankar@iucaa.in"
+        },
+        "url": "http://www.iucaa.in/~dipankar/"
+    }
+}

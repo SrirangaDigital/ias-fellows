@@ -1,0 +1,36 @@
+{
+    "id": "FL2010020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Syed Aftab",
+            "last": "Haider",
+            "display": "Haider, Dr Syed Aftab"
+        },
+        "sex": "M",
+        "birthDate": "1958-06-22",
+        "degree": "Ph.D. (BHU)",
+        "honours": "FNA, FNASc",
+        "specialization": "Planetary Atmospheres, Ionosphere & Magnetosphere of Mars"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Sr Professor & Chairman, Planetary Sciences and, Exploration Division, Physical Research Laboratory, navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4555",
+            "residence": "(079) 2682 5302",
+            "mobile": "96623 27992",
+            "fax": "(079) 2631 4659"
+        },
+        "email": {
+            "official": "haider@prl.res.in"
+        },
+        "url": "http://www.prl.res.in/~haider"
+    }
+}

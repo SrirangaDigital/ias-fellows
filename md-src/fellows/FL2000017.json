@@ -1,0 +1,36 @@
+{
+    "id": "FL2000017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rajendra",
+            "last": "Prasad",
+            "display": "Prasad, Prof. Rajendra"
+        },
+        "sex": "M",
+        "birthDate": "1947-10-14",
+        "degree": "Ph.D. (Agra)",
+        "honours": "FNASc, FNA",
+        "specialization": "Membrane Biology, Yeast Genetics & Molecular Biology and Medical Mycology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Director, Amity Institute of Biotechnology, Amity University, Amity Education Valley",
+        "city": "Gurgaon 122 413",
+        "state": "Haryana",
+        "telephone": {
+            "office": "(0124) 233 7015",
+            "residence": "(0124) 257 3443",
+            "mobile": "98109 74443"
+        },
+        "email": {
+            "official": "rprasad@ggn.amity.edu",
+            "personal": "rp47jnu@gmail.com"
+        },
+        "url": "http://www.amity.edu/faculty-detail.aspxfacultyID=1285"
+    }
+}

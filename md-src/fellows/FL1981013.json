@@ -1,0 +1,31 @@
+{
+    "id": "FL1981013",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Mangalore Vivekananda",
+            "last": "Bhatt",
+            "display": "Bhatt, Prof. Mangalore Vivekananda"
+        },
+        "sex": "M",
+        "birthDate": "1924-02-01",
+        "deathDate": "2016-04-19",
+        "degree": "Ph.D. (Mumbai)",
+        "honours": "FNA",
+        "specialization": "Physical Organic, Organometallic and Synthetic Organic Chemistry"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Chemistry",
+        "yearelected": "1981"
+    },
+    "contact": {
+        "address": "39, Siddeshwara Layout, Seedadahalli, Nagasandra Post",
+        "city": "Bengaluru 560 073",
+        "state": "Karnataka",
+        "telephone": {
+            "residence": "(080) 2372 2878",
+            "mobile": "93419 28420"
+        }
+    }
+}

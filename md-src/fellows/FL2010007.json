@@ -1,0 +1,35 @@
+{
+    "id": "FL2010007",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Pradip K",
+            "last": "Chakraborti",
+            "display": "Chakraborti, Dr Pradip K"
+        },
+        "sex": "M",
+        "birthDate": "1956-11-07",
+        "degree": "Ph.D. (Visva Bharati)",
+        "honours": "FNASc, FNA",
+        "specialization": "Biochemistry and Molecular Microbiology, Prokaryotic Signal Transduction."
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Department of Biotechnology, School of Chemical & Life Sciences, Jamia Hamdard, Hamdard Nagar",
+        "city": "New Delhi 110 062",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2605 9668/5583",
+            "mobile": "98158 63975",
+            "fax": "(011) 2605 9666"
+        },
+        "email": {
+            "official": "pkchakraborti@jamiahamdard.ac.in",
+            "personal": "pradipchakraborti@gmail.com"
+        }
+    }
+}

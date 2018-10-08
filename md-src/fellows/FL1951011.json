@@ -1,0 +1,21 @@
+{
+    "id": "FL1951011",
+    "profile": {
+        "name": {
+            "first": "Krishnaier",
+            "last": "Subramanyam",
+            "display": "Subramanyam,  Krishnaier"
+        },
+        "sex": "M",
+        "birthDate": "1915-11-01",
+        "deathDate": "1980-04-17",
+        "degree": "Ph.D. (Cornell)",
+        "honours": "FNA",
+        "specialization": "Plant Morphology, Taxonomy and Floristics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Plant Sciences",
+        "yearelected": "1951"
+    }
+}

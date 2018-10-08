@@ -1,0 +1,29 @@
+{
+    "id": "FH2004027",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Srinivasa S R",
+            "last": "Varadhan",
+            "display": "Varadhan, Prof. Srinivasa S R"
+        },
+        "sex": "M",
+        "birthDate": "1940-01-02"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2004"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Courant Institute, New York University, 251, Mercer Street",
+        "city": "New York, NY 10012",
+        "country": "U.S.A.",
+        "telephone": {
+            "office": "(+1-212) 982 9883",
+            "fax": "(+1-212) 995 4121"
+        },
+        "email": {
+            "official": "varadhan@cims.nyu.edu"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "FL1990028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Asoke",
+            "last": "Mookherjee",
+            "display": "Mookherjee, Prof. Asoke"
+        },
+        "sex": "M",
+        "birthDate": "1931-05-23",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "honours": "FNA, FNASc",
+        "specialization": "Ore Geology, Geochemistry and Mineral Economics"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "Flat E-2, 178, Regent Estate",
+        "city": "Kolkata 700 092"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FL2000028",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Thekke Curuppathe",
+            "last": "Narendran",
+            "display": "Narendran, Prof. Thekke Curuppathe"
+        },
+        "sex": "M",
+        "birthDate": "1944-02-24",
+        "deathDate": "2013-12-31",
+        "degree": "Ph.D. (Calicut)",
+        "honours": "FIAE",
+        "specialization": "Systematic Entomology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Animal Sciences",
+        "yearelected": "2000"
+    },
+    "contact": {
+        "address": "Co-ordinator, AICOPTAX, Zoological Survey of India, Jafferkhan Colony",
+        "city": "Calicut 673 006"
+    }
+}

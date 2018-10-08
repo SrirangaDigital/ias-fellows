@@ -1,0 +1,33 @@
+{
+    "id": "FL1997012",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Shahid",
+            "last": "Jameel",
+            "display": "Jameel, Dr Shahid"
+        },
+        "sex": "M",
+        "birthDate": "1957-08-08",
+        "degree": "Ph.D. (Washington State Univ.)",
+        "honours": "FNASc, FNA",
+        "specialization": "Molecular Biology and Molecular Virology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Medicine",
+        "yearelected": "1997"
+    },
+    "contact": {
+        "address": "Chief Executive Officer, The Wellcome Trust/DBT India Alliance, 8-2-684/3/K/19, Kaushik Society, Road NO. 12, Banjara Hills",
+        "city": "Hyderabad 500 034",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 4027 4888",
+            "fax": "(040) 4018 9449"
+        },
+        "email": {
+            "official": "shahid.jameel@wellcomedbt.org"
+        }
+    }
+}

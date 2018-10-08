@@ -1,0 +1,18 @@
+{
+    "id": "FH1939017",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Leon",
+            "last": "Brillouin",
+            "display": "Brillouin, Prof. Leon"
+        },
+        "sex": "M",
+        "birthDate": "1889-08-07",
+        "deathDate": "1969-10-04"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1939"
+    }
+}

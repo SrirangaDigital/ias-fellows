@@ -1,0 +1,19 @@
+{
+    "id": "FH1969011",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Hans Adolf",
+            "last": "Krebs",
+            "display": "Krebs, Prof. Hans Adolf"
+        },
+        "sex": "M",
+        "birthDate": "1900-08-25",
+        "deathDate": "1981-11-22",
+        "honours": "Nobel Laureate (Medicine) - 1953"
+    },
+    "fellowship": {
+        "type": "deceased,honorary",
+        "yearelected": "1969"
+    }
+}

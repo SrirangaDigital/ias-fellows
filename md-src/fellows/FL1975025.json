@@ -1,0 +1,26 @@
+{
+    "id": "FL1975025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bal Krishan",
+            "last": "Anand",
+            "display": "Anand, Dr Bal Krishan"
+        },
+        "sex": "M",
+        "birthDate": "1917-09-19",
+        "deathDate": "2007-04-02",
+        "degree": "M.D. (Panjab)",
+        "honours": "D.Sc. (h.c.), FNA, FAMS",
+        "specialization": "Neurophysiology and Medical Education"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "Medicine",
+        "yearelected": "1975"
+    },
+    "contact": {
+        "address": "B9/21, Vasant Vihar",
+        "city": "New Delhi 110 057"
+    }
+}

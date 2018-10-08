@@ -1,0 +1,35 @@
+{
+    "id": "FL1986001",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Yash Pal",
+            "last": "Abrol",
+            "display": "Abrol, Dr Yash Pal"
+        },
+        "sex": "M",
+        "birthDate": "1935-12-23",
+        "degree": "Ph.D. (Chicago)",
+        "honours": "FNA, FNASc, FNAAS",
+        "specialization": "Agriculture: Crop Physiology, Environmental Sciences"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Plant Sciences",
+        "yearelected": "1986"
+    },
+    "contact": {
+        "address": "Chief Patron, Society for Conservation of Nature, Room No. F4, A Block, NASC Complex, Dev Prakash Shastry Marg, P.O. Pusa",
+        "city": "New Delhi 110 012",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2584 3842, (011) 2584 2110",
+            "residence": "(0124) 496 9808",
+            "mobile": "98100 32162",
+            "fax": "(011) 2584 2110"
+        },
+        "email": {
+            "personal": "ypabrol@gmail.com"
+        }
+    }
+}

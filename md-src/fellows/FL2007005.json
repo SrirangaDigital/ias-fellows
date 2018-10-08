@@ -1,0 +1,35 @@
+{
+    "id": "FL2007005",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Archana",
+            "last": "Bhattacharyya",
+            "display": "Bhattacharyya, Prof. Archana"
+        },
+        "sex": "F",
+        "birthDate": "1948-06-01",
+        "degree": "Ph.D. (Northwestern)",
+        "honours": "FNASc, FNA",
+        "specialization": "Ionospheric Physics, Geomagnetism and Space Weather"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "2007"
+    },
+    "contact": {
+        "address": "INSA Senior Scientist, Indian Institute of Geomagnetism, Kalamboli, New Panvel",
+        "city": "Navi Mumbai 410 218",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2748 4147",
+            "residence": "(022) 2772 2014",
+            "mobile": "96195 43004",
+            "fax": "(022) 2748 0762"
+        },
+        "email": {
+            "official": "abh@iigs.iigm.res.in"
+        }
+    }
+}

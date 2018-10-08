@@ -1,0 +1,32 @@
+{
+    "id": "FL1990021",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Rameshwar Prasad",
+            "last": "Sharma",
+            "display": "Sharma, Prof. Rameshwar Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1940-02-20",
+        "degree": "Ph.D. (IARI & Agra)",
+        "honours": "FNA, FNASc, FNAAS",
+        "specialization": "Developmental Genetics, Mutagenesis, Molecular Biology and Biotechnology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "1990"
+    },
+    "contact": {
+        "address": "C-II-204, Eldeco, Ananda Apartmments, Sector-48",
+        "city": "Noida 201 301",
+        "state": "U.P.",
+        "telephone": {
+            "mobile": "98106 78220"
+        },
+        "email": {
+            "personal": "rpsnrcpb@yahoo.co.in"
+        }
+    }
+}

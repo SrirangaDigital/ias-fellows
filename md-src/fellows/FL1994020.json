@@ -1,0 +1,32 @@
+{
+    "id": "FL1994020",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Moni",
+            "last": "Ramakrishnan",
+            "display": "Ramakrishnan, Dr Moni"
+        },
+        "sex": "M",
+        "birthDate": "1940-04-27",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Precambrian Geology, Geochemistry, Petrology and Geochronology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "Earth & Planetary Sciences",
+        "yearelected": "1994"
+    },
+    "contact": {
+        "address": "F-303, Ananyas Nana Nani Homes, Phase III, Dhaliyur, Thondamuthur Post",
+        "city": "Coimbatore 641 109",
+        "state": "T.N.",
+        "telephone": {
+            "residence": "(0422) 298 8200",
+            "mobile": "99401 34126"
+        },
+        "email": {
+            "personal": "emarkay1@hotmail.com,mramkris@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "FH2001024",
+    "profile": {
+        "name": {
+            "salutation": "Prof.",
+            "first": "Antony Kevin",
+            "last": "Cheetham",
+            "display": "Cheetham, Prof. Antony Kevin"
+        },
+        "sex": "M",
+        "birthDate": "1946-11-16",
+        "honours": "FRS"
+    },
+    "fellowship": {
+        "type": "honorary",
+        "yearelected": "2001"
+    },
+    "contact": {
+        "address": "Dept. of Materials Science &, Metallurgy, University of Cambridge, 27, Charles Babbage Road",
+        "city": "Cambridge CB3 0FS",
+        "country": "uk",
+        "telephone": {
+            "office": "(+44-1223) 74 6733",
+            "fax": "(+44-1223) 33 4567"
+        },
+        "email": {
+            "official": "akc30@cam.ac.uk"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "FL2012022",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Bhaskar",
+            "last": "Saha",
+            "display": "Saha, Dr Bhaskar"
+        },
+        "sex": "M",
+        "birthDate": "1964-01-02",
+        "degree": "Ph.D. (Calcutta)",
+        "honours": "FNASc",
+        "specialization": "Immunology, Signal Transduction, Infectious Disease Biology"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2012"
+    },
+    "contact": {
+        "address": "Scientist F, National Centre for Cell Science, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2570 8138, (020) 2570 8139",
+            "residence": "(020) 2570 8044",
+            "mobile": "94223 19945",
+            "fax": "(020) 2569 2259"
+        },
+        "email": {
+            "official": "sahab@nccs.res.in"
+        }
+    }
+}

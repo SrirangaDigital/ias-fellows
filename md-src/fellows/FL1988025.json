@@ -1,0 +1,26 @@
+{
+    "id": "FL1988025",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Jyotirmoy",
+            "last": "Das",
+            "display": "Das, Dr Jyotirmoy"
+        },
+        "sex": "M",
+        "birthDate": "1939-09-13",
+        "deathDate": "1998-07-26",
+        "degree": "Ph.D. & D.Sc. (Calcutta)",
+        "honours": "FNA, FNASc",
+        "specialization": "Biophysics, Molecular Biology and Theoretical Biology"
+    },
+    "fellowship": {
+        "type": "deceased",
+        "section": "General Biology",
+        "yearelected": "1988"
+    },
+    "contact": {
+        "address": "Director, Indian Inst. of Chemical Biology, 4, Raja S.C. Mullick Road, Jadavpur",
+        "city": "Calcutta 700 032"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "FL2010033",
+    "profile": {
+        "name": {
+            "salutation": "Dr.",
+            "first": "Amitabha",
+            "last": "Mukhopadhyay",
+            "display": "Mukhopadhyay, Dr Amitabha"
+        },
+        "sex": "M",
+        "birthDate": "1959-02-05",
+        "degree": "Ph.D. (Jadavpur)",
+        "honours": "FNASc, FNA",
+        "specialization": "Cell Biology, Host-Pathogen Interactions, Drug Delivery"
+    },
+    "fellowship": {
+        "type": "current",
+        "section": "General Biology",
+        "yearelected": "2010"
+    },
+    "contact": {
+        "address": "Staff Scientist VII, National Institute of Immunology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2670 3596",
+            "residence": "(011) 2674 1164",
+            "mobile": "98108 87164"
+        },
+        "email": {
+            "official": "amitabha@nii.ac.in"
+        }
+    }
+}

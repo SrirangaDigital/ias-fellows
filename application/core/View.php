@@ -85,7 +85,7 @@ class View {
 		require_once 'application/views/footer.php';
 	}
 
-	public function showFlatPage($data = array(), $path = '', $actualPath = '', $journal = '', $navigation = array(), $current = array()) {
+	public function showFlatPage($data = array(), $path = '', $actualPath = '', $navigation = array(), $current = array()) {
 
 		$viewHelper = new viewHelper();
 		$pageTitle = $this->getPageTitle($viewHelper, $path);
@@ -95,7 +95,7 @@ class View {
 		require_once 'application/views/footer.php';
     }
 
-    public function printNavigation($navigation = array(), $ulClass = ' class="nav navbar-nav navbar-right"', $liClass = ' class="dropdown"') {
+    public function printNavigation($navigation = array(), $ulClass = ' class="navbar-nav nav ml-auto"', $liClass = ' class="dropdown"') {
 
         echo '<ul' . $ulClass . '>' . "\n";
         foreach ($navigation as $mainNav) {

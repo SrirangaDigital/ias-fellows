@@ -8,199 +8,67 @@ class listingModel extends Model {
 		parent::__construct();
 	}
 
-	public function getCategories($type, $selectKey, $page, $filter = ''){
-		
+	public function getFellows($filter, $sort = '') {
+			
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
+		$collection = $this->db->selectCollection($db, FELLOW_COLLECTION);
+		
+		$filter = $this->reformFilter($filter);
 
-		$skip = ($page - 1) * PER_PAGE;
-		$limit = PER_PAGE;
-
-		$matchFilter = $this->preProcessQueryFilter($filter);
-		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type ] + $matchFilter;
-
-		$iterator = $collection->aggregate(
-				 [
-					[ '$match' => $match ],
-					[ '$group' => [ '_id' => [ 'Category' => '$' . $selectKey, 'Type' => '$Type' ], 'count' => [ '$sum' => 1 ]]],
-					[ '$sort' => [ '_id' => 1 ] ],
-					[ '$skip' => $skip ],
-					[ '$limit' => $limit ]
-				]
-			);
-
+		$projection = [ 'projection' => ['_id' => 0] ];
+		if($sort) $projection['sort'] = $this->reformSort($sort);
+		$iterator = $collection->find($filter, $projection);
+	
 		$data = [];
-
-		$precastSelectKeys = $this->getPrecastKey($type, 'selectKey');
-		$selectKeyIndex = array_search($selectKey, $precastSelectKeys);
-		$nextSelectKey = (isset($precastSelectKeys[$selectKeyIndex + 1])) ? $precastSelectKeys[$selectKeyIndex + 1] : false;
-
-		$urlFilter = $this->filterArrayToString($filter);
-		$urlFilter = ($urlFilter) ? '&' . $urlFilter : '';
-
-		$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey, 'filter' => $filter];
-
 		foreach ($iterator as $row) {
 			
-			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
-			$filter[$selectKey] = (isset($row['_id']['Category'])) ? $category['name'] : 'notExists';
-
-			$category['nameURL'] = $this->filterSpecialChars($category['name']);
-		
-			$category['parentType'] = $row['_id']['Type'];
-			$category['leafCount'] = $row['count'];
-			$category['thumbnailPath'] = $this->getThumbnailPath($this->getRandomID($type, $filter, $category['leafCount']));
-
-            if(!(isset($row['_id']['Category'])))
-            	$category['nameURL'] = 'notExists';
-			
-            if($nextSelectKey)
-    			$category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
-            else
-                $category['nextURL'] = BASE_URL . 'listing/artefacts/' . $category['parentType'] . '?' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
-            
-			array_push($data, $category);
+			$data[] = $row;
 		}
 		
-		// This marks the end of sifting through results
-		if($data){
-
-			$data['auxiliary'] = $auxiliary;
-		}
-		else
-			$data = 'noData';
-
+		$data = ['data' => $data, 'filter' => $filter, 'sort' => $sort];
+		// return json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 		return $data;
 	}
 
-	public function getArtefacts($type, $sortKeys, $page, $filter){
-		
-		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
-
-		$skip = ($page - 1) * PER_PAGE;
-		$limit = PER_PAGE;
-
-		// Form match filter array
-		$matchFilter = $this->preProcessQueryFilter($filter);
-		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $matchFilter;
-
-		// Form Projection array
-		$projectArray['Type'] = 1;
-		foreach ($sortKeys as $key => $value) {
-			
-			if(!isset($firstKey)) $firstKey = $key;
-			$projectArray[$key] = 1;
-		}
-		$projectArray['id'] = 1;
-		$projectArray['sortKeyExists'] = [ '$cond' => [ '$' . $firstKey, '1', '0' ]];
-
-		// Form sort array
-		$sortArray['sortKeyExists'] = -1;
-		foreach ($sortKeys as $key => $value) {
-			
-			$sortArray[$key] = $value;
-		}
-		$sortArray['id'] = 1;
-
-		$iterator = $collection->aggregate(
-				 [
-					[ '$match' => $match ],
-					[ '$project' => $projectArray ],
-					[ '$sort' => $sortArray	],
-					[ '$skip' => $skip ],
-					[ '$limit' => $limit ]
-				]
-			);
-
-		$data = [];
-
-		$viewHelper = new viewHelper();
+	public function reformFilter($filter) {
 	
-		foreach ($iterator as $row) {
-	
-			$artefact = $row;
-			$artefact = $this->unsetControlParams($artefact);
-			$artefact['thumbnailPath'] = $this->getThumbnailPath($artefact['id']);
-			$artefact['idURL'] = str_replace('/', '_', $artefact['id']);
-			// $artefact['cardName'] = (isset($artefact{$sortKeys[0]})) ? $artefact{$sortKeys[0]} : '';
+		$reformedFilter = [];
+		foreach ($filter as $key => $value) {
 			
-			$artefact['cardName'] = [];
-			foreach ($sortKeys as $key => $value) {
-					
-				if(isset($artefact{$key})) $artefact['cardName'][] =  $viewHelper->formatDisplayString($artefact{$key});
+			// Values beginning with @ are treated as regular expressions
+			if(preg_match('/^@/', $value)) {
+				$value = ['$regex' => preg_replace('/^@/', '', $value)];
 			}
-			$artefact['cardName'] = '<span>' . implode('</span><br/><span>', $artefact['cardName']) . '</span>';
-			
-			array_push($data, $artefact);
+			// Here _ in key is replaced with dot. PHP had initially done this change
+			$reformedFilter{str_replace('_', '.', $key)} = $value;
 		}
-
-		if($data){
-			$auxiliary = ['filterString' => $this->filterArrayToString($filter), 'filter' => $filter, 'sortKey' => $sortKeys];
-			$data['auxiliary'] = $auxiliary;
-		}
-		else
-			$data = 'noData';
-
-		return $data;
+		return $reformedFilter;
 	}
-	
-	public function getJournalCategories($type, $selectKey, $filter = ''){
 
-		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, ARTICLES_COLLECTION);
-
-		$skip = 0;
-		$limit = NO_LIMIT;
-
-		$matchFilter = $this->preProcessQueryFilter($filter);
-		$match = [ 'Type' => $type ] + $matchFilter;
-
-		$iterator = $collection->aggregate(
-				 [
-					[ '$match' => $match ],
-					[ '$group' => [ '_id' => [ 'Category' => '$' . $selectKey, 'Type' => '$Type' ], 'count' => [ '$sum' => 1 ]]],
-					[ '$sort' => [ '_id' => 1 ] ],
-					[ '$skip' => $skip ],
-					[ '$limit' => $limit ]
-				]
-			);
-
-		$data = [];
-
-		$precastSelectKeys = $this->getPrecastKey($type, 'selectKey');
-		$selectKeyIndex = array_search($selectKey, $precastSelectKeys);
-		$nextSelectKey = (isset($precastSelectKeys[$selectKeyIndex + 1])) ? $precastSelectKeys[$selectKeyIndex + 1] : false;
-
-		$urlFilter = $this->filterArrayToString($filter);
-		$urlFilter = ($urlFilter) ? '&' . $urlFilter : '';
-
-		$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey, 'filter' => $filter];
-
-		foreach ($iterator as $row) {
-			
-			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
-			$filter[$selectKey] = (isset($row['_id']['Category'])) ? $category['name'] : 'notExists';
-
-			$category['nameURL'] = $this->filterSpecialChars($category['name']);
-			$category['parentType'] = $row['_id']['Type'];
-			// $category['leafCount'] = $row['count'];
-			
-            if(!(isset($row['_id']['Category'])))
-            	$category['nameURL'] = 'notExists';
-			
-            if($nextSelectKey)
-    			$category['nextURL'] = BASE_URL . 'listing/structure/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
-            else
-                $category['nextURL'] = BASE_URL . 'articles/toc?' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
-            array_push($data, $category);
+	public function reformSort($sort) {
+		
+		$values = explode(',', $sort);
+		$reformedSort = [];
+		foreach ($values as $value) {
+			$key = preg_replace('/^\!/', '', $value);
+			$value = (preg_match('/^\!/', $value)) ? -1 : 1;
+			$reformedSort[$key] = $value;
 		}
-		if($data){
+		return $reformedSort;
+	}
 
-			$data['auxiliary'] = $auxiliary;
-		}	
+	public function getListTitle($filter) {
 
-		return $data;
+		$title = [];
+		foreach ($filter as $key => $value) {
+			
+			if(preg_match('/section/', $key)) array_push($title, 'Section: ' . $value);
+			elseif(preg_match('/year/', $key)) array_push($title, 'Year Elected: ' . $value);
+			elseif(preg_match('/type/', $key)) array_push($title, 'Fellowship type: ' . $value);
+			else array_push($title, $key . ': ' . $value);
+		}
+
+		return implode(', ', $title);
 	}
 }
 

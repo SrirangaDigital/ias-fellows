@@ -732,8 +732,10 @@ button.toggle-button{
 
 /*Main page styles*/
 .main{
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 300;
+  color: #222;
 }
 .main h1{
   font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -741,7 +743,7 @@ button.toggle-button{
   font-weight: 300;
   line-height: 50px;
   border-bottom: 1px solid #e5ae47;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .main .schedule .nav{
   margin-top: 40px;
@@ -782,12 +784,11 @@ button.toggle-button{
   font-size: 16px;
 }
 .main h2, .main .schedule-text h3{
-  font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 22px;
   font-weight: 300;
   line-height: 50px;
-  margin-top: 35px;
-  margin-bottom: 15px;
+  margin-top: 20px;
 }
 .main .schedule .session{
   border-bottom: 1px solid #DDD;
@@ -811,12 +812,6 @@ button.toggle-button{
 .main .schedule .schedule-text dl dt{
   font-weight: 400;
   font-size: 16px;
-}
-.main .affiliation{
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 24px;
-  margin-bottom: 30px;
 }
 .main .biodata{
   padding-right: 20px;

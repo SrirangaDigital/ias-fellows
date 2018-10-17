@@ -22,6 +22,9 @@
 .fellow.card .card-body{
 	padding: 15px 10px;
 }
+.fellow.card .card-text{
+	line-height: 32px;
+}
 .fellow.card .card-body .card-title{
 	font-size: 18px;
 	font-weight: 300;

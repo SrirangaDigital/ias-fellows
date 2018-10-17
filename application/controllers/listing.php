@@ -7,6 +7,12 @@ class listing extends Controller {
 		parent::__construct();
 	}
 
+	// default listing home page
+	public function flat($query = []) {
+
+		$this->view('listing/home');
+	}
+
 	public function f($query = []) {
 	
 		if (!isset($query['sort'])) $query['sort'] = FELLOW_DEFAULT_SORT;

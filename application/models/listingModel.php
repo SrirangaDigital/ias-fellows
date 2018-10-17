@@ -64,11 +64,23 @@ class listingModel extends Model {
 			
 			if(preg_match('/section/', $key)) array_push($title, 'Section: ' . $value);
 			elseif(preg_match('/year/', $key)) array_push($title, 'Year Elected: ' . $value);
-			elseif(preg_match('/type/', $key)) array_push($title, 'Fellowship type: ' . $value);
+			elseif(preg_match('/type/', $key)) {
+				
+				if($value == 'current') array_push($title, 'Present Fellows');
+				elseif($value == 'deceased') array_push($title, 'Deceased Fellows');
+				elseif($value == 'honorary') array_push($title, 'Honorary Fellows');
+				elseif($value == 'deceased,honorary') array_push($title, 'Deceased Honorary Fellows');
+			}
+			elseif(preg_match('/sex/', $key)) {
+			
+				if($value == 'F') array_push($title, 'Women');
+			}
 			else array_push($title, $key . ': ' . $value);
 		}
 
-		return implode(', ', $title);
+		$title = implode(', ', $title);
+		$title = str_replace('Fellows, Women', 'Women Fellows', $title);
+		return $title;
 	}
 }
 

@@ -41,3 +41,133 @@
 #pr_email_show {
     display: none;
 }
+
+
+/*form styles*/
+.mainform h1{
+	font-size: 2em;
+	text-align: center;
+	width: 100%;
+	color: #1565C0;
+	border-bottom: 1px solid #1565C0;
+	padding: 20px;
+}
+.mainform h3{
+	font-size: 1.5em;
+	text-align: center;
+	width: 100%;
+	padding: 10px;
+}
+.mainform fieldset.form-control{
+	margin-top: 40px;
+	height: auto !important;
+}	
+.mainform fieldset legend{
+	width: auto;
+	padding: 0 10px;
+	margin-bottom: 20px;
+	color: #1565C0;
+}
+.mainform input[type="radio"],
+.mainform input[type="checkbox"] {
+	position: relative;
+	margin-left: 0em;
+}
+.mainform .form-group{
+	margin-bottom: 20px;
+}
+.mainform #gregorianDateSelector label,
+.mainform #hinduDateSelector label,{
+	margin: 0 10px;
+	font-style: italic;
+}
+.mainform #hinduDateSelector .more{
+	margin: 10px 0;
+	text-align: right;
+}
+.mainform #hinduDateSelector .more i{
+	color: #1565C0;
+	cursor: pointer;
+}
+.mainform .date .form-control{
+	border-radius: .25rem;
+}
+.mainform input[type="submit"] {
+	cursor: pointer;
+}
+.hidden{
+	display: none;
+}
+.mainform .success,
+.mainform .index{
+	padding: 50px;	
+}
+.mainform .success button,
+.mainform .index button{
+	cursor: pointer;
+}
+.mainform .index>div{
+	text-align: center;
+	padding: 20px;
+}
+.mainform .index>div a button{
+	display: inline-block;
+	border-radius: 0;
+	padding: 50px 0;
+	width: 100%;
+	font-size: 1.5em;
+}
+
+#loader-icon {
+	position: fixed;
+	bottom: 35%;
+	left: 50%;
+	-webkit-transform: translate(-50%, 0);
+	transform: translate(-50%, 0);
+	text-align: center;
+	line-height: 40px;
+	display:none;
+}
+.date-delimiter th{
+	margin-top: 40px;
+	text-align: center;
+	background-color: #dc3545;
+	color: #FFF;
+	/*border-bottom: 2px solid #dc3545;*/
+}
+
+.red{
+	color : #dc3545;
+}
+
+/*Form validations*/
+.form-control:focus{
+	box-shadow: none;
+}
+input[type="text"].validate,
+input[type="number"].validate,
+textarea.validate,
+select.validate{
+	outline: none;
+}
+input[type="text"].validate:invalid,
+input[type="number"].validate:invalid,
+textarea.validate:invalid,
+select.validate:invalid{
+	border: 1px solid #dc3545;
+}
+input[type="text"].validate:valid,
+input[type="number"].validate:valid,
+textarea.validate:valid,
+select.validate:valid{
+	border: 1px solid #28a745;
+}
+small.form-text{
+	/*display: none;*/
+}
+
+
+
+.subField{
+	margin-bottom: 15px;
+}

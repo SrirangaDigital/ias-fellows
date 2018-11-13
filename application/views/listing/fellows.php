@@ -9,7 +9,7 @@
 <?php foreach ($data['data'] as $row) { ?>
         <div class="card col-md-2 fellow">
             <a target="blank" href="<?=BASE_URL?>profile/v/<?=$row['id']?>">
-                <img src="<?=PUBLIC_URL?>images/stock/profile.jpg" class="card-img-top" alt="Profile image" />
+                <img src="<?=PUBLIC_URL?>images/stock/avatar.svg" class="card-img-top" alt="Profile image" />
             </a>
             <div class="card-body">
                 <a target="blank" href="<?=BASE_URL?>profile/v/<?=$row['id']?>">

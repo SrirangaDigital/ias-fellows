@@ -10,21 +10,20 @@ class profile extends Controller {
 	// Short hand notation for view
 	public function v($query = [], $id = '') {
 
+		$fellow = $this->model->getDetailsById($id, FELLOW_COLLECTION);
+		($fellow) ? $this->view('profile/view', $fellow) : $this->view('error/index');
+	}
+
+	// Short hand notation for edit
+	public function edit($query = [], $id = '') {
 
 		$fellow = $this->model->getDetailsById($id, FELLOW_COLLECTION);
+		($fellow) ? $this->view('profile/edit', $fellow) : $this->view('error/index');
+	}
 
-		($fellow) ? $this->view('profile/view', $fellow) : $this->view('error/index');
+	public function login($query = []) {
 
-		// if($artefact['details']) {
-		
-		// 	$artefact['images'] = $this->model->getArtefactImages($id);
-		// 	$artefact['neighbours'] = $this->model->getNeighbourhood($artefact['details'], $query);
-		// 	$artefact['filter'] = $this->model->filterArrayToString($query);
-		// 	$artefact = $this->model->includeExternalResources($artefact);
-
-		// 	$artefact['details'] = $this->model->unsetControlParams($artefact['details']);
-		// }
-
+		$this->view('profile/login');
 	}
 }
 

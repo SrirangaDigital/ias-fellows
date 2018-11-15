@@ -15,7 +15,7 @@ class profile extends Controller {
 		if(!$fellow) { $this->view('error/index'); return; }
 
 		// Include fname, lname in the session variable only on first login
-		if(!isset($_SESSION['fellow_lname'])){
+		if(($this->viewHelper->isLoggedIn()) && (!isset($_SESSION['fellow_lname']))){
 
 			$_SESSION['fellow_fname'] = $fellow['profile']['name']['first'];
 			$_SESSION['fellow_lname'] = $fellow['profile']['name']['last'];

@@ -13,7 +13,5 @@
 
     <!-- End Main page layout
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js?v=1.0" async></script>
-   
 </body>
 </html>

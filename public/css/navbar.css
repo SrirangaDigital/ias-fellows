@@ -64,6 +64,8 @@
 	top: 99%;
 	border: none;
 	border-top: 2px solid #32557f;
+	right: 0 !important;
+	transform: translate(-50%, 0);
 }
 .navbar-nav .dropdown-menu li a{
 	line-height: 22px; 
@@ -195,4 +197,22 @@ li.navSeparator{
 	.navbar .navbar-nav .open .dropdown-menu>li>a {
 		color: #FFF;
 	}
+}
+
+
+/*Avatar*/
+#user .dropdown-toggle::after{
+	display: none;
+}
+#user-icon{
+	font-family: 'Raleway', sans-serif;
+	height: 50px;
+	width: 50px;
+	background-color: #123456;
+	border-radius: 25px;
+	text-align: center;
+	color: #FFF;
+	line-height: 50px;
+	font-weight: bold;
+	user-select: none;
 }

@@ -57,6 +57,47 @@ class viewHelper extends View {
 
        	return $contact;
     }
+
+    public function isLoggedIn() {
+
+        $isLoggedIn = false;
+        
+        if(isset($_SESSION['auth_logged_in']))
+            if($_SESSION['auth_logged_in'])
+                $isLoggedIn = true;
+
+        return $isLoggedIn;
+    }
+
+    public function printUserIcon() {
+
+        if(!($this->isLoggedIn())) return '';
+
+        $fName = $_SESSION['fellow_fname'];
+        $lName = $_SESSION['fellow_lname'];
+        $initials = '';
+        
+        if ($fName) $initials .= $fName[0];
+        if ($lName) $initials .= $lName[0];
+
+        $html = '
+            <ul class="navbar-nav" id="user">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <div id="user-icon" width="50" height="50">' . $initials . '</div>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="' . BASE_URL . 'profile/v/' . $_SESSION['auth_username'] . '">View Profile</a>
+                        <a class="dropdown-item" href="#">Edit profile</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Access SpringerLink</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="' . BASE_URL . 'profile/logout">Logout</a>
+                    </div>
+                </li>
+            </ul>';
+        return $html;
+    }
 }
 
 ?>

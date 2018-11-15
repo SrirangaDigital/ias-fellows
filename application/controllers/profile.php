@@ -11,7 +11,17 @@ class profile extends Controller {
 	public function v($query = [], $id = '') {
 
 		$fellow = $this->model->getDetailsById($id, FELLOW_COLLECTION);
-		($fellow) ? $this->view('profile/view', $fellow) : $this->view('error/index');
+	
+		if(!$fellow) { $this->view('error/index'); return; }
+
+		// Include fname, lname in the session variable only on first login
+		if(!isset($_SESSION['fellow_lname'])){
+
+			$_SESSION['fellow_fname'] = $fellow['profile']['name']['first'];
+			$_SESSION['fellow_lname'] = $fellow['profile']['name']['last'];
+		}
+
+		$this->view('profile/view', $fellow);
 	}
 
 	// Short hand notation for edit

@@ -1,65 +1,45 @@
-<!-- Schedule -->
-<div class="container-fluid clear-paddings" id="schedule">
-    <div class="row">
-        <div class="col-md-12">
-            <p class="subtitle fancy"><span class="text">Schedule</span></p>
+<div class="container-fluid fellow-profile">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center header">
+            <h1>Fellows</h1>
+            <h4>of the Indian Academy of Sciences</h4>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-12 text-center">
-            <a href="<?=BASE_URL?>Schedule#day1">
-                <div id="block1" class="col-md-3 schedule-block">
-                    <p class="dayNum">Day 1</p>
-                    <p class="date">3 Nov 2017</p>
-                    <p class="day">Friday</p>
-                </div>
-            </a>
-            <a href="<?=BASE_URL?>Schedule#day2">
-                <div id="block2" class="col-md-3 schedule-block">
-                    <p class="dayNum">Day 2</p>
-                    <p class="date">4 Nov 2017</p>
-                    <p class="day">Saturday</p>
-                </div>
-            </a>
-            <a href="<?=BASE_URL?>Schedule#day3">
-                <div id="block3" class="col-md-3 schedule-block">
-                    <p class="dayNum">Day 3</p>
-                    <p class="date">5 Nov 2017</p>
-                    <p class="day">Sunday</p>
-                </div>
-            </a>
-            <a href="<?=BASE_URL?>Schedule#allied">
-                <div id="block4" class="col-md-3 schedule-block" style="padding: 43px 0 42px">
-                    <p class="date">Allied Events</p>
-                    <p class="day">1, 2 &amp; 4 Nov 2017</p>
-                </div>
-            </a>
-            <a href="<?=BASE_URL?>Schedule#spouse">
-                <div id="block5" class="col-md-3 schedule-block" style="padding: 43px 0 43px">
-                    <p class="date" style="width: 80%">Teachers &amp; Spouses</p>
-                    <p class="day">2 &amp; 5 Nov 2016</p>
-                </div>
-            </a>
+    <div class="row justify-content-center">
+        <div class="col-md-8 fellow">
+            <p>Choose from the below to retrieve corresponding list of profiles of Fellows, or use the search form below to retrieve profiles from list of present Fellows. Search may be performed by name or part of name of Fellow, place of work, section in which elected, and year of election, with an option to include past Fellows.</p>
         </div>
     </div>
-</div>
-
-<!-- Information for participants -->
-<div class="container clear-paddings" id="information">
-    <div class="row">
-        <div class="col-md-12">
-            <p class="subtitle fancy"><span class="text">For Participants</span></p>
+    <div class="row justify-content-center mt-5">
+        <div class="card col-md-3 fellow">
+            <div class="card-body">
+                <h5 class="card-title text-center">View by Type</h5>
+                <p class="card-text">
+                    <a href="<?=BASE_URL?>listing/f?fellowship.type=current"><span class="section green">Present Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.type=current&profile.sex=F"><span class="section green">Present Women Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.type=deceased"><span class="section green">Deceased Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.type=deceased&profile.sex=F"><span class="section green">Deceased Women Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.type=honorary"><span class="section green">Honorary Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.type=deceased,honorary"><span class="section green">Deceased Honorary Fellows</span></a><br />
+                </p>
+            </div>
         </div>
-    </div>
-    <div class="row" style="line-height: 150px">
-        <div class="col-md-12">
-            <a href="<?=BASE_URL?>Information/List_of_Participants" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a>
-            <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
-            <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
-            <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
-            <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
-            <a href="<?=BASE_URL?>Information/Downloads" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a>
-            <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
+        <div class="card col-md-3 fellow">
+            <div class="card-body">
+                <h5 class="card-title text-center">View by Section</h5>
+                <p class="card-text">
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Animal Sciences"><span class="section green">Animal Sciences</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Chemistry"><span class="section green">Chemistry</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Earth &amp; Planetary Sciences"><span class="section green">Earth &amp; Planetary Sciences</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Engineering & Technology"><span class="section green">Engineering & Technology</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Engineering &amp; Technology"><span class="section green">Engineering &amp; Technology</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=General Biology"><span class="section green">General Biology</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Mathematical Sciences"><span class="section green">Mathematical Sciences</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Medicine"><span class="section green">Medicine</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Physics"><span class="section green">Physics</span></a><br />
+                    <a href="<?=BASE_URL?>listing/f?fellowship.section=Plant Sciences"><span class="section green">Plant Sciences</span></a><br />
+                </p>
+            </div>
         </div>
     </div>
 </div>

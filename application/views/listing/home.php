@@ -7,7 +7,7 @@
     </div>
     <div class="row justify-content-center">
         <div class="col-md-8 fellow">
-            <p>Choose from the above to retrieve corresponding list of profiles of Fellows, or use the search form below to retrieve profiles from list of present Fellows. Search may be performed by name or part of name of Fellow, place of work, section in which elected, and year of election, with an option to include past Fellows.</p>
+            <p>Choose from the below to retrieve corresponding list of profiles of Fellows, or use the search form below to retrieve profiles from list of present Fellows. Search may be performed by name or part of name of Fellow, place of work, section in which elected, and year of election, with an option to include past Fellows.</p>
         </div>
     </div>
     <div class="row justify-content-center mt-5">

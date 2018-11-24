@@ -24,7 +24,11 @@ class data extends Controller {
 	public function authAllFellows($query = []) {
 	
 		$sort = 'id';
-		$fellows = $this->model->getFellows($query, $sort);
+
+		require_once 'application/models/listingModel.php';
+		$this->listingModel = new listingModel();
+
+		$fellows = $this->listingModel->getFellows($query, $sort);
 
 		$ch = curl_init();
 		curl_setopt($ch, CURLOPT_URL, AUTHENTICATION_URL . "api/registerAll");

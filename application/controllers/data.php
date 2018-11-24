@@ -27,7 +27,7 @@ class data extends Controller {
 		$fellows = $this->model->getFellows($query, $sort);
 
 		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL,"http://localhost/auth/api/registerAll");
+		curl_setopt($ch, CURLOPT_URL, AUTHENTICATION_URL . "api/registerAll");
 		curl_setopt($ch, CURLOPT_POST, 1);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 

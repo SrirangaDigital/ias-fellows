@@ -36,7 +36,7 @@ class profile extends Controller {
 		if(isset($_SESSION['auth_logged_in']))
 			if($_SESSION['auth_logged_in']) {
 
-				$this->absoluteRedirect('http://localhost/ias-fellows/profile/v/' . $_SESSION['auth_username']);
+				$this->absoluteRedirect(BASE_URL . 'profile/v/' . $_SESSION['auth_username']);
 				return;
 			}
 				
@@ -46,7 +46,7 @@ class profile extends Controller {
 	public function logout($query = []) {
 
 		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, "http://localhost/auth/user/logout?returnUrl=" . BASE_URL);
+		curl_setopt($ch, CURLOPT_URL, AUTHENTICATION_URL . "user/logout?returnUrl=" . BASE_URL);
 		$server_output = curl_exec($ch);
 		curl_close ($ch);
 	}

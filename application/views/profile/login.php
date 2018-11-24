@@ -8,7 +8,7 @@
     </div>
     <div class="row justify-content-center">
         <div class="col-md-8 fellow">
-            <iframe id="loginWindow" sandbox="allow-top-navigation allow-scripts allow-forms allow-same-origin" src="http://localhost/auth/user/login/fellow?returnUrl=http://localhost/ias-fellows/profile/v/username/"></iframe>
+            <iframe id="loginWindow" sandbox="allow-top-navigation allow-scripts allow-forms allow-same-origin" src="<?=AUTHENTICATION_URL?>user/login/fellow?returnUrl=<?=BASE_URL?>profile/v/username/"></iframe>
         </div>
     </div>
 </div>

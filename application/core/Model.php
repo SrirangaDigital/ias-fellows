@@ -76,6 +76,29 @@ class Model {
 
 		return $filter;
 	}
+
+	// Used by both data and listing controller
+	public function getFellows($filter, $sort = '') {
+			
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, FELLOW_COLLECTION);
+		
+		$filter = $this->reformFilter($filter);
+
+		$projection = [ 'projection' => ['_id' => 0] ];
+		if($sort) $projection['sort'] = $this->reformSort($sort);
+		$iterator = $collection->find($filter, $projection);
+	
+		$data = [];
+		foreach ($iterator as $row) {
+			
+			$data[] = $row;
+		}
+		
+		$data = ['data' => $data, 'filter' => $filter, 'sort' => $sort];
+		// return json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+		return $data;
+	}
 }
 
 ?>

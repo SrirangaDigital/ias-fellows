@@ -98,6 +98,12 @@ class viewHelper extends View {
             </ul>';
         return $html;
     }
+
+    public function printAvatar($data) {
+
+        $imgUrl = (file_exists(PHY_AVATAR_URL . $data['id'] . '.jpg')) ? AVATAR_URL . $data['id'] . '.jpg' : STOCK_AVATAR_URL;
+        return '<img src="' . $imgUrl . '" class="card-img-top" alt="Profile image of ' . $data['profile']['name']['display'] . '" />';
+    }
 }
 
 ?>

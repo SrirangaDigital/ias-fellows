@@ -2,11 +2,13 @@
 
 define('BASE_URL', 'http://localhost/ias-fellows/');
 define('PUBLIC_URL', BASE_URL . 'public/');
+define('AVATAR_URL', BASE_URL . 'md-src/avatar/');
 
 // Physical location of resources
 define('PHY_BASE_URL', '/var/www/html/ias-fellows/');
 define('PHY_PUBLIC_URL', PHY_BASE_URL . 'public/');
 define('PHY_FLAT_URL', PHY_BASE_URL . 'application/views/flat/');
+define('PHY_AVATAR_URL', PHY_BASE_URL . 'md-src/avatar/');
 
 define('PHY_FELLOW_MD_URL', PHY_BASE_URL . 'md-src/fellows/');
 

@@ -16,7 +16,7 @@
                     <?php } ?>
                 </div>
                 <div class="col-md-3 col-xs-12 clear-paddings text-center align-self-center">
-                    <img src="<?=PUBLIC_URL?>images/stock/avatar.svg" class="profile-thumb img-responsive" alt="Profile image" />
+                    <?=$viewHelper->printAvatar($data)?>
                 </div>
             </div>
 

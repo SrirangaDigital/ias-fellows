@@ -171,3 +171,65 @@ small.form-text{
 .subField{
 	margin-bottom: 15px;
 }
+
+.mainform .form-label-group {
+    position: relative;
+    margin-bottom: 28px;
+}
+
+.mainform .form-label-group input {
+	border-radius: 0;
+	border: none;
+	border-bottom: 1px solid #CCC;
+	padding: 0px 0 10px 6px;
+	height: 100%;
+	line-height: 18px;
+}
+
+.mainform .form-label-group > label {
+    position: absolute;
+    top: 0;
+    left: 6px;
+    display: block;
+    width: 90%;
+    margin-bottom: 0;
+ /* Override default `<label>` margin */
+	line-height: 18px;
+    color: #999;
+    transition: all .1s ease-in-out;
+    cursor: text;
+}
+
+.mainform .form-label-group input::-webkit-input-placeholder {
+    color: transparent;
+}
+
+.mainform .form-label-group input:-ms-input-placeholder {
+    color: transparent;
+}
+
+.mainform .form-label-group input::-ms-input-placeholder {
+    color: transparent;
+}
+
+.mainform .form-label-group input::-moz-placeholder {
+    color: transparent;
+}
+
+.mainform .form-label-group input::placeholder {
+    color: transparent;
+}
+
+.mainform .form-label-group input:not(:placeholder-shown) ~ label {
+    padding-top: calc(var(--input-padding-y) / 3);
+    padding-bottom: calc(var(--input-padding-y) / 3);
+    font-size: 12px;
+    color: #777;
+    top: -20px;
+    background-color: #FFF;
+    max-width: 30%;
+}
+.mainform .search{
+	width: 50%;
+	margin: 0 auto;	
+}

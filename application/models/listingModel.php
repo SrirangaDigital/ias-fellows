@@ -31,17 +31,21 @@ class listingModel extends Model {
 	}
 
 	public function reformFilter($filter) {
-	
+		
 		$reformedFilter = [];
 		foreach ($filter as $key => $value) {
 			
 			// Values beginning with @ are treated as regular expressions
-			if(preg_match('/^@/', $value)) {
-				$value = ['$regex' => preg_replace('/^@/', '', $value)];
+			// Alternatively is regxAll id present in the filter, consider each term as regex, also case insensitive
+			if((preg_match('/^@/', $value)) || (isset($filter['regexAll']))) {
+				$value = ['$regex' => preg_replace('/^@/', '', $value), '$options' => 'i'];
 			}
 			// Here _ in key is replaced with dot. PHP had initially done this change
 			$reformedFilter{str_replace('_', '.', $key)} = $value;
 		}
+
+		if(isset($reformedFilter['regexAll'])) unset($reformedFilter['regexAll']);
+
 		return $reformedFilter;
 	}
 
@@ -59,10 +63,12 @@ class listingModel extends Model {
 
 	public function getListTitle($filter) {
 
+		$filter = array_filter($filter);
 		$title = [];
 		foreach ($filter as $key => $value) {
 			
 			if(preg_match('/section/', $key)) array_push($title, 'Section: ' . $value);
+			elseif(preg_match('/name/', $key)) array_push($title, 'Name contains: ' . $value);
 			elseif(preg_match('/year/', $key)) array_push($title, 'Year Elected: ' . $value);
 			elseif(preg_match('/type/', $key)) {
 				

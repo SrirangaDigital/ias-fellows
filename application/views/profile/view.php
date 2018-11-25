@@ -7,6 +7,10 @@
                     <p class="affiliation"><?=$viewHelper->printFellowAffiliation($data)?></p>
                     <p class="fellowship"><?=$viewHelper->printFellowshipType($data)?></p>
                     
+                    <?php if(isset($data['fellowship']['councilservice'])) { ?>
+                        <p class="council-service"><strong>Council Service:</strong> <?=$data['fellowship']['councilservice']?></p>
+                    <?php } ?>
+
                     <?php if(isset($data['profile']['specialization'])) { ?>
                         <p class="specialization"><strong>Specialization:</strong> <?=$data['profile']['specialization']?></p>
                     <?php } ?>

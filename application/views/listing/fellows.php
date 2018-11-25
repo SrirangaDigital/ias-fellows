@@ -8,9 +8,20 @@
     <div class="row justify-content-center">
 <?php foreach ($data['data'] as $row) { ?>
         <div class="card col-md-2 fellow">
-            <a target="blank" href="<?=BASE_URL?>profile/v/<?=$row['id']?>">
-                <?=$viewHelper->printAvatar($row)?>
-            </a>
+            <div class="avatar-holder">
+                <a target="blank" href="<?=BASE_URL?>profile/v/<?=$row['id']?>">
+                    <?=$viewHelper->printAvatar($row)?>
+                </a>
+                <a href="<?=BASE_URL?>listing/f?fellowship.yearelected=<?=$row['fellowship']['yearelected']?>" title="Year elected: <?=$row['fellowship']['yearelected']?>">
+                    <span class="year blue"><?=$row['fellowship']['yearelected']?></span>
+                </a>
+                <?php if(preg_match('/deceased/', $row['fellowship']['type'])) { ?>
+                    <span class="deceased red">Deceased</span>
+                <?php } ?>
+                <?php if(isset($row['fellowship']['councilservice'])) { ?>
+                    <span title="<?=$row['fellowship']['councilservice']?>" class="council-service gold"><i class="fas fa-university"></i></span>
+                <?php } ?>
+            </div>
             <div class="card-body">
                 <a target="blank" href="<?=BASE_URL?>profile/v/<?=$row['id']?>">
                     <h5 class="card-title"><?=$viewHelper->printFellowName($row)?></h5>
@@ -24,12 +35,6 @@
                     <?php } ?>
                 </p>
             </div>
-            <a href="<?=BASE_URL?>listing/f?fellowship.yearelected=<?=$row['fellowship']['yearelected']?>" title="Year elected: <?=$row['fellowship']['yearelected']?>">
-                <span class="year blue"><?=$row['fellowship']['yearelected']?></span>
-            </a>
-            <?php if(preg_match('/deceased/', $row['fellowship']['type'])) { ?>
-                <span class="deceased red">Deceased</span>
-            <?php } ?>
         </div>
 <?php } ?>
     </div>

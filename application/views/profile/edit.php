@@ -1,3 +1,6 @@
+<?php
+    $admin = ture;
+?>
 <div class="container fellow-profile gap-above-med">
     <h1>Edit Porfile</h1>
     <div class="row">
@@ -44,6 +47,7 @@
                                 <!-- <small id="profile-birthDate-help" class="form-text text-muted">Date is mandatory</small> -->
                             </div>
                         </div>
+<?php if($admin) { ?>
                         <div class="row subField">
                             <label for="profile-deathDate" class="col-md-2 col-form-label">Date of Death</label>
                             <div class="col-md-10">
@@ -51,6 +55,9 @@
                                 <!-- <small id="profile-deathDate-help" class="form-text text-muted">Date is mandatory</small> -->
                             </div>
                         </div>
+<?php } else { ?>
+                        <input class="form-control" type="hidden" name="profile-deathDate" id="profile-deathDate" value="<?=isset($data['profile']['deathDate']) ? $data['profile']['deathDate']:''?>" />
+<?php } ?>
                         <div class="row subField">
                             <label for="profile-degree" class="col-md-2 col-form-label">Degree</label>
                             <div class="col-md-10">
@@ -71,6 +78,7 @@
                         </div>
                     </div>
                 </fieldset>
+<?php if($admin) { ?>
                 <fieldset class="form-control">
                     <legend>Fellowship Details</legend>
                     <div class="form-group field">
@@ -104,6 +112,14 @@
                         </div>
                     </div>
                 </fieldset>
+<?php }
+    else {
+        if(isset($data['fellowship'])){
+            foreach ($data['fellowship'] as $key => $value) {
+?>
+                <input class="form-control" type="hidden" name="fellowship-<?=$key?>" id="fellowship-<?=$key?>" value="<?=$value?>" />
+<?php } } }?>
+
                 <fieldset class="form-control">
                     <legend>Contact Details</legend>
                     <div class="form-group field">

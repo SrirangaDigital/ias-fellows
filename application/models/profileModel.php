@@ -20,7 +20,7 @@ class profileModel extends Model {
 
 		$reformedData['profile']['sex'] = (isset($data['profile-sex-male'])) ? 'M' : 'F';
 		$reformedData['profile']['birthDate'] = (isset($data['profile-birthDate'])) ? $data['profile-birthDate'] : '';
-		$reformedData['profile']['deathDate'] = (isset($data['profile-doddeathDate'])) ? $data['profile-doddeathDate'] : '';
+		$reformedData['profile']['deathDate'] = (isset($data['profile-deathDate'])) ? $data['profile-deathDate'] : '';
 		$reformedData['profile']['degree'] = (isset($data['profile-degree'])) ? $data['profile-degree'] : '';
 		$reformedData['profile']['honours'] = (isset($data['profile-honours'])) ? $data['profile-honours'] : '';
 		$reformedData['profile']['specialization'] = (isset($data['profile-specialization'])) ? $data['profile-specialization'] : '';

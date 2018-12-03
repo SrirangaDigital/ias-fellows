@@ -55,6 +55,11 @@ class Model {
 		return (file_put_contents($path, $jsonString)) ? True : False;
 	}
 
+	public function replaceJsonDataInDB($collection, $data, $key, $value) {
+
+		return $collection->replaceOne([ $key => $value ], $data);
+	}
+
 	public function getDataFromApi($url){
 
 		$curl = curl_init($url);

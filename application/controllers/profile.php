@@ -31,6 +31,31 @@ class profile extends Controller {
 		($fellow) ? $this->view('profile/edit', $fellow) : $this->view('error/index');
 	}
 
+	public function update() {
+
+		// Setting connection to DB
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->selectCollection($db, FELLOW_COLLECTION);
+
+		// Getting and reforming POST Data
+		$data = $this->model->getPostData();
+		$reformedData = $this->model->reformData($data);
+		$path = PHY_FELLOW_MD_URL . $reformedData['id'] . ".json";
+
+		// writing to json file
+		if(!($this->model->writeJsonToPath($reformedData, $path))) {
+			$this->view('error/prompt',["msg"=>"Problem in writing data to file"]); return;
+		}
+
+		// Replace data in database
+		if(!($this->model->replaceJsonDataInDB($collection, $reformedData, 'id', $reformedData['id']))){
+			$this->view('error/prompt',["msg"=>"Problem in writing data to database"]); return;
+		}
+
+		// $this->absoluteRedirect(BASE_URL . 'profile/v/' . $_SESSION['auth_username']);
+		$this->absoluteRedirect(BASE_URL . 'profile/v/' . $reformedData['id']);
+	}
+
 	public function login($query = []) {
 
 		if(isset($_SESSION['auth_logged_in']))

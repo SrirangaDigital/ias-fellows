@@ -1,5 +1,5 @@
 <?php
-    $admin = ture;
+    $admin = true;
 ?>
 <div class="container fellow-profile gap-above-med">
     <h1>Edit Porfile</h1>

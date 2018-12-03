@@ -52,8 +52,8 @@ class profile extends Controller {
 			$this->view('error/prompt',["msg"=>"Problem in writing data to database"]); return;
 		}
 
-		// $this->absoluteRedirect(BASE_URL . 'profile/v/' . $_SESSION['auth_username']);
-		$this->absoluteRedirect(BASE_URL . 'profile/v/' . $reformedData['id']);
+		$this->redirect('gitcvs/updateRepo/' . $reformedData['id']);
+		//$this->absoluteRedirect(BASE_URL . 'profile/v/' . $reformedData['id']);
 	}
 
 	public function login($query = []) {

@@ -151,6 +151,7 @@ select.validate{
 	outline: none;
 }
 input[type="text"].validate:invalid,
+input[type="email"].validate:invalid,
 input[type="number"].validate:invalid,
 textarea.validate:invalid,
 select.validate:invalid{
@@ -163,7 +164,7 @@ select.validate:valid{
 	border: 1px solid #28a745;
 }
 small.form-text{
-	/*display: none;*/
+	display: none;
 }
 
 

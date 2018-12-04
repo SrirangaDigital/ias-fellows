@@ -1,14 +1,30 @@
 <?php
-    $admin = true;
+$admin = true;
+
+    if(file_exists(AVATAR_URL . $data['id'] . '.jpg'))
+        $avatar = AVATAR_URL . $data['id'] . '.jpg';
+    else
+        $avatar = PUBLIC_URL . 'images/default-avatar.jpg';
 ?>
 <div class="container fellow-profile gap-above-med">
-    <h1>Edit Porfile</h1>
+    <h1>Edit Bio-Data</h1>
     <div class="row">
         <div class="col-md-9 main mainform">
             <form action="<?=BASE_URL?>profile/update" method="post" id="addOrUpdateForm">
                 <fieldset class="form-control">
                     <legend>Profile</legend>
                     <div class="form-group field">
+                        <div class="row subField">
+                            <label for="profile-name-salutation" class="col-md-2 col-form-label">Avatar</label>
+                            <div class="col-md-10">
+                                <div class="row justify-content-center">
+                                    <div class="col-md-5 profile-avatar">
+                                        <img id="avatar" class="img-thumbnail" src="<?=$avatar?>" alt="Profile image" />
+                                        <input type="file" class="form-control " onchange="readURL(this);"  name="profile-avatar" id="profile-avatar-button" />
+                                    </div>
+                                </div>  
+                            </div>
+                        </div><br />
                         <label class="col-form-label">*Name</label>
                         <div class="row subField">
                             <label for="profile-name-salutation" class="col-md-2 col-form-label">Salutation</label>
@@ -47,7 +63,7 @@
                                 <!-- <small id="profile-birthDate-help" class="form-text text-muted">Date is mandatory</small> -->
                             </div>
                         </div>
-<?php if($admin) { ?>
+                        <?php if($admin) { ?>
                         <div class="row subField">
                             <label for="profile-deathDate" class="col-md-2 col-form-label">Date of Death</label>
                             <div class="col-md-10">
@@ -55,9 +71,9 @@
                                 <!-- <small id="profile-deathDate-help" class="form-text text-muted">Date is mandatory</small> -->
                             </div>
                         </div>
-<?php } else { ?>
+                        <?php } else { ?>
                         <input class="form-control" type="hidden" name="profile-deathDate" id="profile-deathDate" value="<?=isset($data['profile']['deathDate']) ? $data['profile']['deathDate']:''?>" />
-<?php } ?>
+                        <?php } ?>
                         <div class="row subField">
                             <label for="profile-degree" class="col-md-2 col-form-label">Degree</label>
                             <div class="col-md-10">
@@ -78,7 +94,7 @@
                         </div>
                     </div>
                 </fieldset>
-<?php if($admin) { ?>
+                <?php if($admin) { ?>
                 <fieldset class="form-control">
                     <legend>Fellowship Details</legend>
                     <div class="form-group field">
@@ -216,4 +232,18 @@
             forceParse: false
         });
     });
+
+    function readURL(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                $('#avatar')
+                .attr('src', e.target.result)
+                .height(200);
+            };
+
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
 </script>

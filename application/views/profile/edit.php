@@ -93,7 +93,7 @@
                         </div>
                     </div>
                 </fieldset>
-                <?php if($admin) { ?>
+<?php if($admin) { ?>
                 <fieldset class="form-control">
                     <legend>Fellowship Details</legend>
                     <div class="form-group field">
@@ -204,6 +204,17 @@
                                 <input class="form-control" type="hidden" name="id" id="id" value="<?=$data['id']?>" />
                             </div>
                         </div>
+<?php if($admin) { ?>
+                        <div class="row subField">
+                            <label for="contact-url" class="col-md-2 col-form-label">URL</label>
+                            <div class="col-md-10">
+                                <input class="form-control" type="text" name="contact-url" id="contact-url" value="<?=isset($data['contact']['url']) ? $data['contact']['url'] : ''?>"/>
+                                <!-- <small id="contact-url-help" class="form-text text-muted">Mandatory</small> -->
+                            </div>
+                        </div>
+<?php } else { ?>
+                        <input class="form-control" type="hidden" name="contact-url" id="contact-url" value="<?=isset($data['contact']['url']) ? $data['contact']['url'] : ''?>"/>
+<?php } ?>
                     </div>
                 </fieldset>
                 <fieldset class="form-control" id="submitRegion">

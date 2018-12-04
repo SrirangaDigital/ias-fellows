@@ -44,6 +44,7 @@ class profileModel extends Model {
 		$reformedData['contact']['email']['official'] = (isset($data['contact-email-official'])) ? $data['contact-email-official'] : '';
 		$reformedData['contact']['email']['personal'] = (isset($data['contact-email-personal'])) ? $data['contact-email-personal'] : '';
 		$reformedData['contact']['email'] = array_filter($reformedData['contact']['email']);
+		$reformedData['contact']['url'] = (isset($data['contact-url'])) ? $data['contact-url'] : '';
 		$reformedData['contact'] = array_filter($reformedData['contact']);
 
 		return array_filter($reformedData);

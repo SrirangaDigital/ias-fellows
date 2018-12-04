@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/ias-fellows/');
+define('BASE_URL', 'http://192.168.1.101/ias-fellows/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('AVATAR_URL', BASE_URL . 'md-src/avatar/');
 

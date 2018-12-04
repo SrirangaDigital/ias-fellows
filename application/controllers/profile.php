@@ -86,6 +86,7 @@ class profile extends Controller {
 		$tempFile = $_FILES['profilePicture']['tmp_name'];
 		$fileName = PHY_AVATAR_URL . $id . '.jpg';
 		move_uploaded_file($tempFile, $fileName);
+		exec('convert ' . $fileName . ' -resize x200 ' . $fileName);
 	}	
 }
 

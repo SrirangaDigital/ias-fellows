@@ -1,7 +1,7 @@
 <?php
 $admin = true;
 
-    if(file_exists(AVATAR_URL . $data['id'] . '.jpg'))
+    if(file_exists(PHY_AVATAR_URL . $data['id'] . '.jpg'))
         $avatar = AVATAR_URL . $data['id'] . '.jpg';
     else
         $avatar = PUBLIC_URL . 'images/default-avatar.jpg';
@@ -20,7 +20,7 @@ $admin = true;
                                 <div class="row justify-content-center">
                                     <div class="col-md-5 profile-avatar">
                                         <img id="avatar" class="img-thumbnail" src="<?=$avatar?>" alt="Profile image" />
-                                        <input type="file" onchange="readURL(this);"  name="profile-avatar" id="profile-avatar-button" />
+                                        <input type="file" accept="image/*" onchange="readURL(this);"  name="profile-avatar" id="profile-avatar-button" />
                                     </div>
                                 </div>  
                             </div>

@@ -173,16 +173,13 @@ small.form-text{
 }
 #profile-avatar-button{
 	width: 100px;
-	width: 100px;
 	padding-left: 0px;
 	border: none;
 }
 .profile-avatar{
 	height: 200px;
 }
-#avatar{
-	width: 250px;
-}
+
 .mainform .form-label-group {
     position: relative;
     margin-bottom: 28px;

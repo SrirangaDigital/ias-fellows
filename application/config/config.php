@@ -9,8 +9,9 @@ define('PHY_BASE_URL', '/var/www/html/ias-fellows/');
 define('PHY_PUBLIC_URL', PHY_BASE_URL . 'public/');
 define('PHY_FLAT_URL', PHY_BASE_URL . 'application/views/flat/');
 define('PHY_AVATAR_URL', PHY_BASE_URL . 'md-src/avatar/');
-
 define('PHY_FELLOW_MD_URL', PHY_BASE_URL . 'md-src/fellows/');
+define('PHY_MD_URL', PHY_BASE_URL . 'md-src/');
+
 
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '27017');

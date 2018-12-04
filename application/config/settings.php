@@ -9,6 +9,6 @@ define('STOCK_AVATAR_URL', PUBLIC_URL . 'images/stock/avatar.svg');
 define('AUTHENTICATION_URL', 'http://localhost/auth/');
 
 // For GitHub
-define('REQUIRE_GIT_TRACKING', False);
-define('REQUIRE_GITHUB_SYNC', False);
+define('REQUIRE_GIT_TRACKING', True);
+define('REQUIRE_GITHUB_SYNC', True);
 ?>

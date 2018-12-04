@@ -174,9 +174,10 @@ small.form-text{
 #profile-avatar-button{
 	width: 100px;
 	padding-left: 0px;
+	padding-top: 5px;
 	border: none;
 }
-.profile-avatar{
+.profile-avatar, #avatar{
 	height: 225px;
 }
 

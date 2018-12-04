@@ -1,10 +1,11 @@
 <?php
-$admin = true;
+    $admin = true;
+    $rand = rand();
 
     if(file_exists(PHY_AVATAR_URL . $data['id'] . '.jpg'))
-        $avatar = AVATAR_URL . $data['id'] . '.jpg';
+        $avatar = AVATAR_URL . $data['id'] . '.jpg?v=' . $rand;
     else
-        $avatar = PUBLIC_URL . 'images/default-avatar.jpg';
+        $avatar = STOCK_AVATAR_URL;
 ?>
 <div class="container fellow-profile gap-above-med">
     <h1>Edit Bio-Data</h1>

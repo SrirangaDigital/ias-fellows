@@ -17,12 +17,8 @@ $admin = true;
                         <div class="row subField">
                             <label for="profile-name-salutation" class="col-md-2 col-form-label">Avatar</label>
                             <div class="col-md-10">
-                                <div class="row justify-content-center">
-                                    <div class="col-md-5 profile-avatar">
-                                        <img id="avatar" class="img-thumbnail" src="<?=$avatar?>" alt="Profile image" />
-                                        <input type="file" accept="image/*" onchange="readURL(this);"  name="profile-avatar" id="profile-avatar-button" />
-                                    </div>
-                                </div>  
+                                <img id="avatar" class="img-thumbnail" src="<?=$avatar?>" alt="Profile image" /><br />
+                                <input type="file" accept="image/*" onchange="updateAvatar(this);"  name="profile-avatar" id="profile-avatar-button" />
                             </div>
                         </div><br />
                         <label class="col-form-label">*Name</label>
@@ -233,14 +229,14 @@ $admin = true;
         });
     });
 
-    function readURL(input) {
+    function updateAvatar(input) {
         if (input.files && input.files[0]) {
             var reader = new FileReader();
 
             reader.onload = function (e) {
                 $('#avatar')
                 .attr('src', e.target.result)
-                .height(200);
+                .height(225);
             };
 
             reader.readAsDataURL(input.files[0]);

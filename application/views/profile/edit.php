@@ -20,7 +20,7 @@ $admin = true;
                                 <div class="row justify-content-center">
                                     <div class="col-md-5 profile-avatar">
                                         <img id="avatar" class="img-thumbnail" src="<?=$avatar?>" alt="Profile image" />
-                                        <input type="file" class="form-control " onchange="readURL(this);"  name="profile-avatar" id="profile-avatar-button" />
+                                        <input type="file" onchange="readURL(this);"  name="profile-avatar" id="profile-avatar-button" />
                                     </div>
                                 </div>  
                             </div>
@@ -245,5 +245,26 @@ $admin = true;
 
             reader.readAsDataURL(input.files[0]);
         }
+
+        var formData = new FormData();
+        formData.append('profilePicture', $('#profile-avatar-button')[0].files[0]);
+        
+        var id = $('#id').val();
+        
+        $.ajax({
+            url: "<?=BASE_URL?>profile/addPicture/" + id,
+            type: "POST",
+            data: formData,
+            enctype: 'multipart/form-data',
+            success: function (msg) {
+
+                console.log(msg)
+            },
+            contentType: false,
+            processData: false
+        });
+        
     }
+
+
 </script>

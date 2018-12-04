@@ -81,10 +81,10 @@ class profile extends Controller {
 		var_dump($_SESSION);
 	}
 
-	public function addPicture($data) {
+	public function addPicture($query = [], $id) {
 
-		$tempFile = $_FILES['profile-avatar']['tmp_name'];
-		$fileName = PHY_AVATAR_URL . $data['id'] . '.jpg';
+		$tempFile = $_FILES['profilePicture']['tmp_name'];
+		$fileName = PHY_AVATAR_URL . $id . '.jpg';
 		move_uploaded_file($tempFile, $fileName);
 	}	
 }

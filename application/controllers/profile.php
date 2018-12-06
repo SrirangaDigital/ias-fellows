@@ -32,10 +32,11 @@ class profile extends Controller {
 		if(!$this->viewHelper->isLoggedIn()) $this->redirect('profile/v/' . $id);
 
 		// Redirect to view if its is not their page
-		if($_SESSION['auth_username'] != $id) $this->redirect('profile/v/' . $id);
+		$fellow['isAdmin'] = $this->viewHelper->isLoggedInAsAdmin();
 
-		$fellow = $this->model->getDetailsById($id, FELLOW_COLLECTION);
-		$fellow['isAdmin'] = false;
+		if(!(($fellow['isAdmin']) || ($_SESSION['auth_username'] == $id))) $this->redirect('profile/v/' . $id);
+
+		$fellow['data'] = $this->model->getDetailsById($id, FELLOW_COLLECTION);
 
 		($fellow) ? $this->view('profile/edit', $fellow) : $this->view('error/index');
 	}
@@ -67,12 +68,12 @@ class profile extends Controller {
 
 	public function login($query = []) {
 
-		if(isset($_SESSION['auth_logged_in']))
-			if($_SESSION['auth_logged_in']) {
+		if($this->viewHelper->isLoggedIn()) {
 
-				$this->absoluteRedirect(BASE_URL . 'profile/v/' . $_SESSION['auth_username']);
-				return;
-			}
+			$redirectUrl = ($this->viewHelper->isLoggedInAsAdmin()) ? BASE_URL : BASE_URL . 'profile/v/' . $_SESSION['auth_username'];
+			$this->absoluteRedirect($redirectUrl);
+			return;
+		}
 				
 		$this->view('profile/login');
 	}
@@ -87,6 +88,7 @@ class profile extends Controller {
 
 	public function test($query = []) {
 
+		var_dump($this->viewHelper->isLoggedInAsAdmin());
 		var_dump($_SESSION);
 	}
 

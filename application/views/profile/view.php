@@ -3,6 +3,10 @@
         <div class="col-md-9 main">
             <div class="row">
                 <div class="col-md-9 col-xs-12 clear-paddings align-self-top">
+                    <?php if($viewHelper->isLoggedInAsAdmin()) { ?>
+                    <p><a href="<?=BASE_URL . 'profile/e/' . $data['id']?>" class="text-danger">Edit profile</a></p>
+                    <?php } ?>
+                
                     <h1><?=$viewHelper->printFellowName($data)?></h1>
                     <p class="affiliation"><?=$viewHelper->printFellowAffiliation($data)?></p>
                     <p class="fellowship"><?=$viewHelper->printFellowshipType($data)?></p>

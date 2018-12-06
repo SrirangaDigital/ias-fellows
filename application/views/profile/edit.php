@@ -1,4 +1,7 @@
 <?php
+    $isAdmin = $data['isAdmin'];
+    $data = $data['data'];
+
     $rand = rand();
 
     if(file_exists(PHY_AVATAR_URL . $data['id'] . '.jpg'))
@@ -63,7 +66,7 @@
                                 <small id="profile-birthDate-help" class="form-text text-muted">Date of birth is mandatory</small>
                             </div>
                         </div>
-                        <?php if($data['isAdmin']) { ?>
+                        <?php if($isAdmin) { ?>
                         <div class="row subField">
                             <label for="profile-deathDate" class="col-md-2 col-form-label">Date of Death</label>
                             <div class="col-md-10">
@@ -96,7 +99,7 @@
                         </div>
                     </div>
                 </fieldset>
-<?php if($data['isAdmin']) { ?>
+<?php if($isAdmin) { ?>
                 <fieldset class="form-control">
                     <legend>Fellowship Details</legend>
                     <div class="form-group field">
@@ -207,7 +210,7 @@
                                 <input class="form-control" type="hidden" name="id" id="id" value="<?=$data['id']?>" />
                             </div>
                         </div>
-<?php if($data['isAdmin']) { ?>
+<?php if($isAdmin) { ?>
                         <div class="row subField">
                             <label for="contact-url" class="col-md-2 col-form-label">URL</label>
                             <div class="col-md-10">

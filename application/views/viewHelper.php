@@ -69,9 +69,25 @@ class viewHelper extends View {
         return $isLoggedIn;
     }
 
-    public function printUserIcon() {
+    public function isLoggedInAsAdmin() {
 
-        if(!($this->isLoggedIn())) return '';
+        if($this->isLoggedIn())
+            if (array_search('ADMIN', $_SESSION['auth_roles_assigned']) !== false)
+                return true;
+
+        return false;
+    }
+
+    public function printIcon() {
+
+        if($this->isLoggedInAsAdmin())
+            echo $this->printAdminIcon();
+
+        elseif($this->isLoggedIn())
+            echo $this->printUserIcon();
+    }
+    
+    public function printUserIcon() {
 
         $fName = $_SESSION['fellow_fname'];
         $lName = $_SESSION['fellow_lname'];
@@ -91,6 +107,28 @@ class viewHelper extends View {
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="' . BASE_URL . 'profile/v/' . $_SESSION['auth_username'] . '">View Profile</a>
                         <a class="dropdown-item" href="' . BASE_URL . 'profile/e/' . $_SESSION['auth_username'] . '">Edit Profile</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Access SpringerLink</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="' . BASE_URL . 'profile/logout">Logout</a>
+                    </div>
+                </li>
+            </ul>';
+        return $html;
+    }
+
+    public function printAdminIcon() {
+
+        $initials = 'A';
+        
+        $html = '
+            <ul class="navbar-nav" id="user">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <div id="user-icon" width="50" height="50">' . $initials . '</div>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item"><strong>Admin</strong></a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Access SpringerLink</a>
                         <div class="dropdown-divider"></div>

@@ -7,8 +7,12 @@
     else
         $avatar = STOCK_AVATAR_URL;
 ?>
-<div class="container fellow-profile gap-above-med">
-    <h1>Edit Bio-Data</h1>
+<div class="container fellow-profile">
+    <div class="row">
+        <div class="col-md-9 main">
+            <h1>Edit profile</h1>
+        </div>
+    </div>
     <div class="row">
         <div class="col-md-9 main mainform">
             <form action="<?=BASE_URL?>profile/update" method="post" id="editForm">
@@ -277,6 +281,4 @@
     }
 
     formActions();
-
-
 </script>

@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://192.168.1.101/ias-fellows/');
+define('BASE_URL', 'http://localhost/ias-fellows/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('AVATAR_URL', BASE_URL . 'md-src/avatar/');
 
@@ -37,5 +37,9 @@ define('GIT_EMAIL', 'shruthitr.nayak@gmail.com');
 //        ]
 //    }
 // )
+
+// chmod -R 775 .git md-src/
+// chmod -R ug+s .git md-src/
+// chown -R owner:group .git md-src/
 
 ?>

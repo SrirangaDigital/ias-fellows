@@ -19,15 +19,24 @@ class profile extends Controller {
 
 			$_SESSION['fellow_fname'] = $fellow['profile']['name']['first'];
 			$_SESSION['fellow_lname'] = $fellow['profile']['name']['last'];
+			$_SESSION['fellow_dname'] = $this->viewHelper->printFellowName($fellow);
 		}
 
 		$this->view('profile/view', $fellow);
 	}
 
 	// Short hand notation for edit
-	public function edit($query = [], $id = '') {
+	public function e($query = [], $id = '') {
+
+		// Redirect to view if not logged in
+		if(!$this->viewHelper->isLoggedIn()) $this->redirect('profile/v/' . $id);
+
+		// Redirect to view if its is not their page
+		if($_SESSION['auth_username'] != $id) $this->redirect('profile/v/' . $id);
 
 		$fellow = $this->model->getDetailsById($id, FELLOW_COLLECTION);
+		$fellow['isAdmin'] = false;
+
 		($fellow) ? $this->view('profile/edit', $fellow) : $this->view('error/index');
 	}
 

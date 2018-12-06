@@ -87,8 +87,10 @@ class viewHelper extends View {
                         <div id="user-icon" width="50" height="50">' . $initials . '</div>
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item"><strong>' . $_SESSION['fellow_dname'] . '</strong></a>
+                        <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="' . BASE_URL . 'profile/v/' . $_SESSION['auth_username'] . '">View Profile</a>
-                        <a class="dropdown-item" href="' . BASE_URL . 'profile/edit/' . $_SESSION['auth_username'] . '">Edit Profile</a>
+                        <a class="dropdown-item" href="' . BASE_URL . 'profile/e/' . $_SESSION['auth_username'] . '">Edit Profile</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Access SpringerLink</a>
                         <div class="dropdown-divider"></div>

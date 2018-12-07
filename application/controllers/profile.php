@@ -80,10 +80,7 @@ class profile extends Controller {
 
 	public function logout($query = []) {
 
-		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, AUTHENTICATION_URL . "user/logout?returnUrl=" . BASE_URL);
-		$server_output = curl_exec($ch);
-		curl_close ($ch);
+		$this->absoluteRedirect(AUTHENTICATION_URL . "user/logout?returnUrl=" . BASE_URL);
 	}
 
 	public function test($query = []) {

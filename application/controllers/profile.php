@@ -96,6 +96,13 @@ class profile extends Controller {
 		move_uploaded_file($tempFile, $fileName);
 		exec('convert ' . $fileName . ' -resize x200 ' . $fileName);
 	}	
+
+	public function changePassword($query = []) {
+
+		if(!$this->viewHelper->isLoggedIn()) $this->redirect('');
+
+		$this->view('profile/changePassword');
+	}
 }
 
 ?>

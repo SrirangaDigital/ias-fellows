@@ -8,6 +8,8 @@ define('STOCK_AVATAR_URL', PUBLIC_URL . 'images/stock/avatar.svg');
 
 define('AUTHENTICATION_URL', 'http://localhost/auth/');
 
+define('SPRINGERLINK_URL', 'https://link.springer.com/');
+
 // For GitHub
 define('REQUIRE_GIT_TRACKING', True);
 define('REQUIRE_GITHUB_SYNC', True);

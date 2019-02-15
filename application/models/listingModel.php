@@ -8,10 +8,10 @@ class listingModel extends Model {
 		parent::__construct();
 	}
 
-	public function getFellows($filter, $sort = '') {
+	public function getDetails($filter, $sort = '', $artefacts) {
 			
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, FELLOW_COLLECTION);
+		$collection = $this->db->selectCollection($db, $artefacts);
 		
 		$filter = $this->reformFilter($filter);
 
@@ -27,6 +27,19 @@ class listingModel extends Model {
 		
 		$data = ['data' => $data, 'filter' => $filter, 'sort' => $sort];
 		// return json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+		return $data;
+	}
+
+	public function getDistinct($param){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ASSOCIATE_COLLECTION);
+		$data = [];
+
+		$iterator = $collection->distinct($param);
+		
+		foreach ($iterator as $row) $data[] = $row;
+
 		return $data;
 	}
 
@@ -61,7 +74,7 @@ class listingModel extends Model {
 		return $reformedSort;
 	}
 
-	public function getListTitle($filter) {
+	public function getListTitle($filter, $type) {
 
 		$filter = array_filter($filter);
 		$title = [];
@@ -72,10 +85,11 @@ class listingModel extends Model {
 			elseif(preg_match('/year/', $key)) array_push($title, 'Year Elected: ' . $value);
 			elseif(preg_match('/type/', $key)) {
 				
-				if($value == 'current') array_push($title, 'Present Fellows');
-				elseif($value == 'deceased') array_push($title, 'Deceased Fellows');
-				elseif($value == 'honorary') array_push($title, 'Honorary Fellows');
-				elseif($value == 'deceased,honorary') array_push($title, 'Deceased Honorary Fellows');
+				if($value == 'current') array_push($title, 'Present ' . $type);
+				elseif($value == 'deceased') array_push($title, 'Deceased ' . $type);
+				elseif($value == 'honorary') array_push($title, 'Honorary ' . $type);
+				elseif($value == 'deceased,honorary') array_push($title, 'Deceased Honorary ' . $type);
+				elseif($value == 'former') array_push($title, 'Former ' . $type);
 			}
 			elseif(preg_match('/sex/', $key)) {
 			

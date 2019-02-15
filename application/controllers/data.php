@@ -9,15 +9,25 @@ class data extends Controller {
 
 	public function buildDBFromJson() {
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_FELLOW_MD_URL, $pattern = '/F[LH]\d{7}.json$/i');
-		
 		$db = $this->model->db->useDB();
+
+		$jsonFiles = $this->model->getFilesIteratively(PHY_FELLOW_MD_URL, $pattern = '/F[LH]\d{7}.json$/i');
 		$collection = $this->model->db->createCollection($db, FELLOW_COLLECTION);
+
+		$this->insertArtefacts($jsonFiles, $collection);
+
+		$jsonFiles = $this->model->getFilesIteratively(PHY_ASSOCIATE_MD_URL, $pattern = '/AS\d{7}.json$/i');
+		$collection = $this->model->db->createCollection($db, ASSOCIATE_COLLECTION);
+
+		$this->insertArtefacts($jsonFiles, $collection);
+	}
+
+	public function insertArtefacts($jsonFiles, $dbCollection){
 
 		foreach ($jsonFiles as $jsonFile) {
 
 			$content = $this->model->getDetailsFromJsonPath($jsonFile);
-			$result = $collection->insertOne($content);
+			$result = $dbCollection->insertOne($content);
 		}
 	}
 

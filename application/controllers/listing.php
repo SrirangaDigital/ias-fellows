@@ -13,15 +13,32 @@ class listing extends Controller {
 		$this->view('listing/home');
 	}
 
+	public function associateDirectory($query = []) {
+
+		$data['year'] = $this->model->getDistinct('associate.yearelected');
+		$this->view('listing/associateDirectory', $data);
+	}
+
 	public function f($query = []) {
 	
-		if (!isset($query['sort'])) $query['sort'] = FELLOW_DEFAULT_SORT;
+		if (!isset($query['sort'])) $query['sort'] = DEFAULT_SORT;
 		$sort = $query['sort'];	unset($query['sort']);
-		$fellows = $this->model->getFellows($query, $sort);
+		$fellows = $this->model->getDetails($query, $sort, FELLOW_COLLECTION);
 
-		$fellows['listTitle'] = $this->model->getListTitle($query);
+		$fellows['listTitle'] = $this->model->getListTitle($query, 'Fellows');
 
 		($fellows['data']) ? $this->view('listing/fellows', $fellows) : $this->view('error/index');
+	}
+
+	public function a($query = []) {
+
+		if (!isset($query['sort'])) $query['sort'] = DEFAULT_SORT;
+		$sort = $query['sort'];	unset($query['sort']);
+		$fellows = $this->model->getDetails($query, $sort, ASSOCIATE_COLLECTION);
+
+		$fellows['listTitle'] = $this->model->getListTitle($query, 'Associates');
+
+		($fellows['data']) ? $this->view('listing/associates', $fellows) : $this->view('error/index');
 	}
 
 	// public function f($query = [], $type = DEFAULT_TYPE) {

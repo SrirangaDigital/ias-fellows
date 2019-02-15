@@ -25,6 +25,24 @@ class profile extends Controller {
 		$this->view('profile/view', $fellow);
 	}
 
+	//va stands for View Associates
+	public function va($query = [], $id = '') {
+
+		$fellow = $this->model->getDetailsById($id, ASSOCIATE_COLLECTION);
+	
+		if(!$fellow) { $this->view('error/index'); return; }
+
+		// Include fname, lname in the session variable only on first login
+		if(($this->viewHelper->isLoggedIn()) && (!isset($_SESSION['fellow_lname']))){
+
+			$_SESSION['fellow_fname'] = $fellow['profile']['name']['first'];
+			$_SESSION['fellow_lname'] = $fellow['profile']['name']['last'];
+			$_SESSION['fellow_dname'] = $this->viewHelper->printFellowName($fellow);
+		}
+
+		$this->view('profile/viewAssociate', $fellow);
+	}
+
 	// Short hand notation for edit
 	public function e($query = [], $id = '') {
 

@@ -38,6 +38,15 @@ class viewHelper extends View {
         return $fellowship;
     }
 
+    public function printAssociateType($data) {
+
+        $associate = '';
+        $associate = (preg_match('/former/', $data['associate']['type'])) ? "Former Associate\n" : "Current Associate\n";
+        $associate = 'Elected into the associate in ' . $data['associate']['yearelected'];
+        
+        return $associate;
+    }
+
     public function printContact($data) {
 
         $contact = '<p>';

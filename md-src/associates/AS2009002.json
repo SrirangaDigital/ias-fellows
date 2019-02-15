@@ -1,0 +1,22 @@
+{
+    "id": "AS2009002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bhavesh",
+            "last": "N S",
+            "display": "Bhavesh, Dr N S"
+        },
+        "sex": "M",
+        "birthDate": "1975-05-24"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "SCB Group, ICGEB, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067"
+    }
+}

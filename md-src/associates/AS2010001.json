@@ -1,0 +1,25 @@
+{
+    "id": "AS2010001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ansumali",
+            "last": "Santosh",
+            "display": "Ansumali, Dr Santosh"
+        },
+        "sex": "M",
+        "birthDate": "1977-02-27"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Engineering Mechanics Unit, JNCASR, Jakkur",
+        "city": "Bangalore 560 064",
+        "email": {
+            "official": "ansumali@jncasr.ac.in"
+        }
+    }
+}

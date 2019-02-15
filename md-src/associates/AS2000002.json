@@ -1,0 +1,26 @@
+{
+    "id": "AS2000002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Aswal",
+            "last": "Vinod Kumar",
+            "display": "Aswal, Dr Vinod Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1971-08-02",
+        "specialization": "Small-angle Neutron Scattering in the Studies of Condensed Matter"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2000",
+        "period": "2000-2004"
+    },
+    "contact": {
+        "address": "Scientific Officer D, Solid State Physics Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085",
+        "email": {
+            "official": "vkaswal@barc.gov.in"
+        }
+    }
+}

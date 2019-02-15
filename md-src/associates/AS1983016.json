@@ -1,0 +1,23 @@
+{
+    "id": "AS1983016",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Sathyamurthy",
+            "last": "N",
+            "display": "Sathyamurthy, Prof. N"
+        },
+        "sex": "M",
+        "birthDate": "1951-07-10",
+        "specialization": "Theoretical Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016"
+    }
+}

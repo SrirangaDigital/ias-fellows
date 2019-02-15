@@ -1,0 +1,23 @@
+{
+    "id": "AS1983009",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Dhar",
+            "last": "D",
+            "display": "Dhar, Prof. D"
+        },
+        "sex": "M",
+        "birthDate": "1951-10-30",
+        "specialization": "Statistical Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Theoretical Physics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

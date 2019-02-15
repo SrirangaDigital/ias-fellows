@@ -1,0 +1,23 @@
+{
+    "id": "AS1992005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kshirsagar",
+            "last": "Abhijit K",
+            "display": "Kshirsagar, Dr Abhijit K"
+        },
+        "sex": "M",
+        "birthDate": "1960-06-30",
+        "specialization": "Superstring Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1995"
+    },
+    "contact": {
+        "address": "Inter-University Centre for, Astronomy and Astrophysics, Post Bag 4, Ganeshkhind",
+        "city": "Pune 411 007"
+    }
+}

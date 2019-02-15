@@ -1,0 +1,23 @@
+{
+    "id": "AS1988008",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Ramaswamy",
+            "last": "Sriram",
+            "display": "Ramaswamy, Prof. Sriram"
+        },
+        "sex": "M",
+        "birthDate": "1957-11-10",
+        "specialization": "Condensed Matter Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1992"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1994002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Rangarajan",
+            "last": "P N",
+            "display": "Rangarajan, Dr P N"
+        },
+        "sex": "M",
+        "birthDate": "1963-04-15",
+        "specialization": "Biochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1998"
+    },
+    "contact": {
+        "address": "Department of Biochemistry, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

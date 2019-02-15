@@ -1,0 +1,23 @@
+{
+    "id": "AS1991002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kayastha",
+            "last": "A M",
+            "display": "Kayastha, Dr A M"
+        },
+        "sex": "M",
+        "birthDate": "1960-08-01",
+        "specialization": "Enzyme Biochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1991",
+        "period": "1991-1995"
+    },
+    "contact": {
+        "address": "School of Biotechnology, Faculty of Science, Banaras Hindu University",
+        "city": "Varanasi 221 005"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1988001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jain",
+            "last": "V K",
+            "display": "Jain, Dr V K"
+        },
+        "sex": "M",
+        "birthDate": "1956-08-01",
+        "specialization": "Inorganic Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1991"
+    },
+    "contact": {
+        "address": "Scientific Officer, Chemistry Division, Bhabha Atomic Research Centre",
+        "city": "Mumbai 400 085"
+    }
+}

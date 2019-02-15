@@ -1,0 +1,26 @@
+{
+    "id": "AS2013001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Agarwalla",
+            "last": "S K",
+            "display": "Agarwalla, Dr S K"
+        },
+        "sex": "M",
+        "birthDate": "1980-04-08",
+        "specialization": "Particle Physics, Dark Matter"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "IoP, Sachivalaya Marg",
+        "city": "Bhubaneswar 751 005",
+        "email": {
+            "official": "sanjib@iopb.res.in"
+        }
+    }
+}

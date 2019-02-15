@@ -1,0 +1,33 @@
+{
+    "id": "AS2017023",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Tripathi",
+            "last": "Swati",
+            "display": "Tripathi, Dr Swati"
+        },
+        "sex": "F",
+        "birthDate": "1986-02-26",
+        "degree": "Ph.D. (Lucknow)",
+        "specialization": "Palaeoclimate, Pollen Morphology of Living Plants, Melissopalynology"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2021"
+    },
+    "contact": {
+        "address": "Scientist C, Birbal Sahni Institute of, Palaeosciences, 53, University Road",
+        "city": "Lucknow 226 007",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0522) 274 2931",
+            "residence": "80049 29237",
+            "fax": "(0522) 274 0485"
+        },
+        "email": {
+            "personal": "swatidixit26@gmail.com"
+        }
+    }
+}

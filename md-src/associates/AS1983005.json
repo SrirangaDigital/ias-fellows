@@ -1,0 +1,23 @@
+{
+    "id": "AS1983005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Balakrishna Bhat",
+            "last": "T",
+            "display": "Balakrishna Bhat, Dr T"
+        },
+        "sex": "M",
+        "birthDate": "1949-11-04",
+        "specialization": "Metallurgy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Defence Metallurgical Research, Laboratory, Kanchanbagh P.O",
+        "city": "Hyderabad 500 058"
+    }
+}

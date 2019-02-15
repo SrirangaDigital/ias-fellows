@@ -1,0 +1,25 @@
+{
+    "id": "AS2005006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jana",
+            "last": "Tushar",
+            "display": "Jana, Dr Tushar"
+        },
+        "sex": "M",
+        "birthDate": "1975-01-06"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2009"
+    },
+    "contact": {
+        "address": "School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "email": {
+            "official": "tjsc@uohyd.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "AS1995002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Tandon",
+            "last": "Nikhil",
+            "display": "Tandon, Dr Nikhil"
+        },
+        "sex": "M",
+        "birthDate": "1963-11-28",
+        "specialization": "Immunobiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1995",
+        "period": "1995-1998"
+    },
+    "contact": {
+        "address": "Endocrinology and Metabolism Dept., All India Institute of Medical, Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "email": {
+            "official": "tandonn@aiims.ernet.in"
+        }
+    }
+}

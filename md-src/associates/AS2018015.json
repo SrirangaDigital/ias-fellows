@@ -1,0 +1,33 @@
+{
+    "id": "AS2018015",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Shrivastava",
+            "last": "Mayank",
+            "display": "Shrivastava, Dr Mayank"
+        },
+        "sex": "M",
+        "birthDate": "1984-09-14",
+        "degree": "Ph.D. (IIT, Bombay)",
+        "specialization": "Nanoelectronics, System-on Chip, Power Semiconductor Devices"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Dept. of Electronics Systems Engg., Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2732",
+            "residence": "95911 40309"
+        },
+        "email": {
+            "official": "mayank@iisc.ac.in"
+        },
+        "url": "http://mayank.desc.iisc.ac.in/"
+    }
+}

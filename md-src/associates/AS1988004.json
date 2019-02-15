@@ -1,0 +1,23 @@
+{
+    "id": "AS1988004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Yashonath",
+            "last": "S",
+            "display": "Yashonath, Dr S"
+        },
+        "sex": "M",
+        "birthDate": "1956-10-09",
+        "specialization": "Computer Simulation of Physical Systems"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1991"
+    },
+    "contact": {
+        "address": "Solid State and Structural, Chemistry Unit, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

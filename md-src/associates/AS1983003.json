@@ -1,0 +1,23 @@
+{
+    "id": "AS1983003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Guru Row",
+            "last": "T N",
+            "display": "Guru Row, Dr T N"
+        },
+        "sex": "M",
+        "birthDate": "1951-09-26",
+        "specialization": "Crystallography"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Solid State and Structural, Chemistry Unit, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

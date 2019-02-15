@@ -1,0 +1,27 @@
+{
+    "id": "AS1996003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Manglik",
+            "last": "Ajay",
+            "display": "Manglik, Dr Ajay"
+        },
+        "sex": "M",
+        "birthDate": "1966-04-09",
+        "specialization": "Geophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1996",
+        "period": "1996-2001"
+    },
+    "contact": {
+        "address": "National Geophysical Res. Institute, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "email": {
+            "official": "ajay@ngri.res.in",
+            "personal": "amngri@gmail.com"
+        }
+    }
+}

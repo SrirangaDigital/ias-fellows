@@ -1,0 +1,32 @@
+{
+    "id": "AS2015009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Perlekar",
+            "last": "Prasad",
+            "display": "Perlekar, Dr Prasad"
+        },
+        "sex": "M",
+        "birthDate": "1982-01-03",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Fluid Dynamics, Nonlinear Dynamics, Condensed Matter Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Tata Institute of Fundamental, Research, 36/P, Gopanapally",
+        "city": "Hyderabad 500 107",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2020 3091"
+        },
+        "email": {
+            "official": "perlekar@tifrh.res.in"
+        },
+        "url": "https://www.tifrh.res.in/~perlekar/"
+    }
+}

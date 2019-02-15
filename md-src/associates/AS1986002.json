@@ -1,0 +1,23 @@
+{
+    "id": "AS1986002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mehrotra",
+            "last": "Ravi",
+            "display": "Mehrotra, Dr Ravi"
+        },
+        "sex": "M",
+        "birthDate": "1954-08-02",
+        "specialization": "Low Temperature Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1989"
+    },
+    "contact": {
+        "address": "National Physical Laboratory, Dr K S Krishnan Road",
+        "city": "New Delhi 110 012"
+    }
+}

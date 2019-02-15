@@ -1,0 +1,23 @@
+{
+    "id": "AS1997004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Joshi",
+            "last": "Amitabh",
+            "display": "Joshi, Dr Amitabh"
+        },
+        "sex": "M",
+        "birthDate": "1965-03-04",
+        "specialization": "Evolutionary Genetics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2000"
+    },
+    "contact": {
+        "address": "Animal Behaviour Unit, Jawaharlal Nehru Centre for, Advanced Scientific Research, Jakkur P.O.",
+        "city": "Bangalore 560 064"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1990003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Saluja",
+            "last": "Daman",
+            "display": "Saluja, Dr Daman"
+        },
+        "sex": "F",
+        "birthDate": "1959-02-01",
+        "specialization": "Plant Molecular Biology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1994"
+    },
+    "contact": {
+        "address": "Department of Botany, University of Delhi",
+        "city": "Delhi 110 007"
+    }
+}

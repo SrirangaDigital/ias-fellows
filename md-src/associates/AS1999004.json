@@ -1,0 +1,26 @@
+{
+    "id": "AS1999004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Inamdar",
+            "last": "Maneesha S",
+            "display": "Inamdar, Dr Maneesha S"
+        },
+        "sex": "F",
+        "birthDate": "1967-02-25",
+        "specialization": "Molecular Biology, Developmental Analysis of Mammalian Blood Vessel Pattern"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2002"
+    },
+    "contact": {
+        "address": "Molecular Biology & Genetics Unit, Jawaharlal Nehru Centre for, Advanced Scientific Research, Jakkur P.O.",
+        "city": "Bangalore 560 064",
+        "email": {
+            "official": "inamdar@jncasr.ac.in"
+        }
+    }
+}

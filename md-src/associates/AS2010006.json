@@ -1,0 +1,24 @@
+{
+    "id": "AS2010006",
+    "profile": {
+        "name": {
+            "first": "Gun",
+            "last": "Sanoli",
+            "display": "Gun,  Sanoli"
+        },
+        "sex": "F",
+        "birthDate": "1975-11-25"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Institute of Mathematical Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "email": {
+            "official": "sanoli@imsc.res.in"
+        }
+    }
+}

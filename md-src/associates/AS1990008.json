@@ -1,0 +1,23 @@
+{
+    "id": "AS1990008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Subrahmanyan",
+            "last": "Ravi",
+            "display": "Subrahmanyan, Dr Ravi"
+        },
+        "sex": "M",
+        "birthDate": "1960-09-14",
+        "specialization": "Observational Cosmology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1995"
+    },
+    "contact": {
+        "address": "Astrophysics Group, Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O",
+        "city": "Bangalore 560 080"
+    }
+}

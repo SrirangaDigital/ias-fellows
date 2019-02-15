@@ -1,0 +1,22 @@
+{
+    "id": "AS2009016",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Saxena",
+            "last": "Manoj",
+            "display": "Saxena, Dr Manoj"
+        },
+        "sex": "M",
+        "birthDate": "1977-08-14"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Dept. of Electronics, Deen Dayal Upadhyaya College, Shivaji Marg, Karampura",
+        "city": "New Delhi 110 015"
+    }
+}

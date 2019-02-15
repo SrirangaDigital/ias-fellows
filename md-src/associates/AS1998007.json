@@ -1,0 +1,26 @@
+{
+    "id": "AS1998007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Dasgupta",
+            "last": "Pallab",
+            "display": "Dasgupta, Dr Pallab"
+        },
+        "sex": "M",
+        "birthDate": "1967-10-31",
+        "specialization": "Computer Science and Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2002"
+    },
+    "contact": {
+        "address": "Dept. of Computer Science & Engg., Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "email": {
+            "official": "pallab@cse.iitkgp.ernet.in"
+        }
+    }
+}

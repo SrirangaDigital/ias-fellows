@@ -1,0 +1,34 @@
+{
+    "id": "AS2015002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Anbarasan",
+            "last": "Pazhamalai",
+            "display": "Anbarasan, Dr Pazhamalai"
+        },
+        "sex": "M",
+        "birthDate": "1982-06-03",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "New Synthetic Methodoligies, Natural Products, Carbon-di-oxide Fixation"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4216",
+            "residence": "(044) 2257 6216, 98401 22302",
+            "fax": "(044) 2257 4202"
+        },
+        "email": {
+            "official": "anbarasansp@iitm.ac.in"
+        },
+        "url": "http://chem.iitm.ac.in/faculty/anbarasan/profanbu/"
+    }
+}

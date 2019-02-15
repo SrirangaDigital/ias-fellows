@@ -1,0 +1,25 @@
+{
+    "id": "AS2011001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chandrasekar",
+            "last": "V K",
+            "display": "Chandrasekar, Dr V K"
+        },
+        "sex": "M",
+        "birthDate": "1978-07-03"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2011",
+        "period": "2011-2014"
+    },
+    "contact": {
+        "address": "CNLD, School of Physics, Bharathidasan University",
+        "city": "Tiruchirapalli 620 024",
+        "email": {
+            "official": "sekar@cnld.bdu.ac.in"
+        }
+    }
+}

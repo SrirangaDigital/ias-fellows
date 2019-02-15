@@ -1,0 +1,23 @@
+{
+    "id": "AS1992006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Parameswaran",
+            "last": "A J",
+            "display": "Parameswaran, Dr A J"
+        },
+        "sex": "M",
+        "birthDate": "1962-06-20",
+        "specialization": "Singularity Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1997"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Instiute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

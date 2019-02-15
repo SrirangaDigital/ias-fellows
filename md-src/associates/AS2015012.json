@@ -1,0 +1,34 @@
+{
+    "id": "AS2015012",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Tripathy",
+            "last": "Gyana Ranjan",
+            "display": "Tripathy, Dr Gyana Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1981-07-05",
+        "degree": "Ph.D. (PRL, Ahmedabad)",
+        "specialization": "Re-OS Geochronology, Weathering & Erosion, Isotope Geochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Dept. of Earth & Climate Sci., Indian Inst. of Science, Education & Research, Dr Homi Bhabha Road",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 8275",
+            "residence": "77988 85981"
+        },
+        "email": {
+            "official": "grtripathy@iiserpune.ac.in",
+            "personal": "grtripathy@gmail.com"
+        },
+        "url": "http://sites.google.com/site/grtripathy/"
+    }
+}

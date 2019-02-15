@@ -1,0 +1,23 @@
+{
+    "id": "AS2004001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ramakrishna",
+            "last": "S Anantha",
+            "display": "Ramakrishna, Dr S Anantha"
+        },
+        "sex": "M",
+        "birthDate": "1972-11-30",
+        "specialization": "Nonlinear Optics & Quantum Optics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2004",
+        "period": "2004-2007"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Technology",
+        "city": "Kanpur 208 016"
+    }
+}

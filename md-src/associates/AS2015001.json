@@ -1,0 +1,35 @@
+{
+    "id": "AS2015001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Anand",
+            "last": "Baskaran",
+            "display": "Anand, Dr Baskaran"
+        },
+        "sex": "M",
+        "birthDate": "1981-01-06",
+        "degree": "Ph.D. (IIT, Kanpur)",
+        "specialization": "RNA Biology, Structural & Computational Biology, Genome Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Dept. of Biosciences & Bioengg., Indian Institute of Technology",
+        "city": "Guwahati 781 039",
+        "state": "Assam",
+        "telephone": {
+            "office": "(0361) 258 2223",
+            "residence": "(0361) 258 4223, 98641 23088",
+            "fax": "(0361) 258 2249"
+        },
+        "email": {
+            "official": "banand@iitg.ernet.in",
+            "personal": "anandbasub@gmail.com"
+        },
+        "url": "http://www.iitg.ernet.in/banand"
+    }
+}

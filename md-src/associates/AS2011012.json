@@ -1,0 +1,24 @@
+{
+    "id": "AS2011012",
+    "profile": {
+        "name": {
+            "first": "Pucadyil",
+            "last": "Thomas J",
+            "display": "Pucadyil,  Thomas J"
+        },
+        "sex": "M",
+        "birthDate": "1976-11-20"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2011",
+        "period": "2011-2014"
+    },
+    "contact": {
+        "address": "IISER, 6th Floor, Sai Trinity Building, Garware Circle, Pashan",
+        "city": "Pune 411 021",
+        "email": {
+            "official": "pucadyil@iiserpune.ac.in"
+        }
+    }
+}

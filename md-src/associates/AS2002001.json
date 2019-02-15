@@ -1,0 +1,23 @@
+{
+    "id": "AS2002001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ranganathan",
+            "last": "Anand",
+            "display": "Ranganathan, Dr Anand"
+        },
+        "sex": "M",
+        "birthDate": "1972-12-04",
+        "specialization": "Polyketide Syntheses, Mycobacterium Tuberculosis Pathogenesis"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2002",
+        "period": "2002-2006"
+    },
+    "contact": {
+        "address": "International Centre for Genetic, Engineering & Biotechnology, P.B. No. 10504, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 016"
+    }
+}

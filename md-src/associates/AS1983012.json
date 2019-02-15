@@ -1,0 +1,23 @@
+{
+    "id": "AS1983012",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Joshi",
+            "last": "J B",
+            "display": "Joshi, Prof. J B"
+        },
+        "sex": "M",
+        "birthDate": "1949-05-28",
+        "specialization": "Chemical Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Department of Chemical Technology, University of Bombay, Matunga",
+        "city": "Mumbai 400 019"
+    }
+}

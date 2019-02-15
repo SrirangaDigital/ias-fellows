@@ -1,0 +1,25 @@
+{
+    "id": "AS2011006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gudi",
+            "last": "Thirupathi",
+            "display": "Gudi, Dr Thirupathi"
+        },
+        "sex": "M",
+        "birthDate": "1978-07-15"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2011",
+        "period": "2011-2014"
+    },
+    "contact": {
+        "address": "Department of Mathematics, IISc",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "gudi@math.iisc.ernet.in"
+        }
+    }
+}

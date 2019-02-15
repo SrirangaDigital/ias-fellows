@@ -1,0 +1,23 @@
+{
+    "id": "AS1993010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Shah",
+            "last": "Nimish A",
+            "display": "Shah, Dr Nimish A"
+        },
+        "sex": "M",
+        "birthDate": "1967-02-04",
+        "specialization": "Ergodic Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1998"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1992008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Patra",
+            "last": "Amit",
+            "display": "Patra, Dr Amit"
+        },
+        "sex": "M",
+        "birthDate": "1962-10-01",
+        "specialization": "Computer Modelling"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1997"
+    },
+    "contact": {
+        "address": "Dept. of Electrical Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302"
+    }
+}

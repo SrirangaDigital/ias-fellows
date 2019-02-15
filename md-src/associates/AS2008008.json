@@ -1,0 +1,25 @@
+{
+    "id": "AS2008008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sandeep",
+            "last": "K",
+            "display": "Sandeep, Dr K"
+        },
+        "sex": "M",
+        "specialization": "Partial Differential Equations"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2008",
+        "period": "2008-2011"
+    },
+    "contact": {
+        "address": "TIFR Centre for Applicable, Mathematics, P.B. No. 6503, Sharada Nagar",
+        "city": "Bangalore 560 065",
+        "email": {
+            "official": "sandeep@math.tifrbng.res.in"
+        }
+    }
+}

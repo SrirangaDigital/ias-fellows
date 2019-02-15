@@ -1,0 +1,22 @@
+{
+    "id": "AS2009011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mukhopadhyay",
+            "last": "Samrat",
+            "display": "Mukhopadhyay, Dr Samrat"
+        },
+        "sex": "M",
+        "birthDate": "1975-02-14"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Indian Inst. of Science Education, and Research, MGSIPA Complex, Transit Campus, Sector 26",
+        "city": "Chandigarh 160 019"
+    }
+}

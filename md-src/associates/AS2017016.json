@@ -1,0 +1,34 @@
+{
+    "id": "AS2017016",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kulkarni",
+            "last": "Manas",
+            "display": "Kulkarni, Dr Manas"
+        },
+        "sex": "M",
+        "birthDate": "1984-10-06",
+        "degree": "Ph.D. (SUNY, Stony Brook)",
+        "specialization": "Condensed Matter Physics, Statistical Mechanics, Nonequilibrium Physics"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "International Centre for, Theoretical Sciences, Shivakote, Hesaraghatta Post",
+        "city": "Bengaluru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6730 6220",
+            "residence": "97034 88491",
+            "fax": "(080) 4653 6002"
+        },
+        "email": {
+            "official": "manas.kulkarni@icts.res.in"
+        },
+        "url": "https://www.icts.res.in/people/manas-kulkarni"
+    }
+}

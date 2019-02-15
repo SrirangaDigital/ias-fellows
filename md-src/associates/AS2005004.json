@@ -1,0 +1,25 @@
+{
+    "id": "AS2005004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Prasad",
+            "last": "Amritanshu",
+            "display": "Prasad, Dr Amritanshu"
+        },
+        "sex": "M",
+        "birthDate": "1975-07-05"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2009"
+    },
+    "contact": {
+        "address": "The Institute of Mathematical, Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113",
+        "email": {
+            "official": "amri@imsc.res.in"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "AS2017018",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sinha",
+            "last": "Devanjan",
+            "display": "Sinha, Dr Devanjan"
+        },
+        "sex": "M",
+        "birthDate": "1984-10-07",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Mitochondria Biology, Drug Resistance, Stress Biology"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Department of Zoology, Institute of Science, Banaras Hindu University",
+        "city": "Varanasi 221 005",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0542) 236 8145",
+            "residence": "(0542) 236 8153, 97419 64696"
+        },
+        "email": {
+            "official": "devanjan@bhu.ac.in"
+        }
+    }
+}

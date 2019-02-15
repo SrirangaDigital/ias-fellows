@@ -1,0 +1,23 @@
+{
+    "id": "AS1983022",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Rodrigues",
+            "last": "Veronica F",
+            "display": "Rodrigues, Dr Veronica F"
+        },
+        "sex": "F",
+        "birthDate": "1953-03-31",
+        "specialization": "Genetics and Neurophysiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1988"
+    },
+    "contact": {
+        "address": "Molecular Biology Unit, Tata Inst.of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

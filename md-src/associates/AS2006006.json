@@ -1,0 +1,22 @@
+{
+    "id": "AS2006006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kumar",
+            "last": "Brijesh",
+            "display": "Kumar, Dr Brijesh"
+        },
+        "sex": "M",
+        "birthDate": "1976-06-01"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2006",
+        "period": "2006-2010"
+    },
+    "contact": {
+        "address": "School of Physical Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067"
+    }
+}

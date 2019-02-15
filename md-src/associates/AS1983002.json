@@ -1,0 +1,23 @@
+{
+    "id": "AS1983002",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Mehra",
+            "last": "N K",
+            "display": "Mehra, Prof. N K"
+        },
+        "sex": "M",
+        "birthDate": "1949-11-04",
+        "specialization": "Clinical Immunology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Officer-in-charge, Histocompati-, bility Lab., Dept. of Anotomy, All India Institute of Medical, Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029"
+    }
+}

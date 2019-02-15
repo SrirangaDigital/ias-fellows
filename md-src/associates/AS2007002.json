@@ -1,0 +1,25 @@
+{
+    "id": "AS2007002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Tripathi",
+            "last": "Vikram",
+            "display": "Tripathi, Dr Vikram"
+        },
+        "sex": "M",
+        "birthDate": "1973-09-29"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2010"
+    },
+    "contact": {
+        "address": "Department of Theoretical Physics, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "email": {
+            "official": "vtripathi@theory.tifr.res.in"
+        }
+    }
+}

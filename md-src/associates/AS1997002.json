@@ -1,0 +1,26 @@
+{
+    "id": "AS1997002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Khan",
+            "last": "F A",
+            "display": "Khan, Dr F A"
+        },
+        "sex": "M",
+        "birthDate": "1965-10-31",
+        "specialization": "Organic Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2000"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "email": {
+            "official": "faiz@iitk.ac.in"
+        }
+    }
+}

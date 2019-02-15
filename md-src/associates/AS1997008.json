@@ -1,0 +1,23 @@
+{
+    "id": "AS1997008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Habib",
+            "last": "Samam",
+            "display": "Habib, Dr Samam"
+        },
+        "sex": "F",
+        "birthDate": "1968-08-16",
+        "specialization": "Molecular Biology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2002"
+    },
+    "contact": {
+        "address": "Eukaryotic Gene Expression Lab., National Institute of Immunology, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 016"
+    }
+}

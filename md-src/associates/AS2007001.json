@@ -1,0 +1,25 @@
+{
+    "id": "AS2007001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mukhopadhyay",
+            "last": "Banibrata",
+            "display": "Mukhopadhyay, Dr Banibrata"
+        },
+        "sex": "M",
+        "birthDate": "1973-02-12"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2010"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science",
+        "city": "Bangalore - 560 012",
+        "email": {
+            "official": "bm@physics.iisc.ernet.in"
+        }
+    }
+}

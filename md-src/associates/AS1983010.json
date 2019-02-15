@@ -1,0 +1,23 @@
+{
+    "id": "AS1983010",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Gadagkar",
+            "last": "R",
+            "display": "Gadagkar, Prof. R"
+        },
+        "sex": "M",
+        "birthDate": "1953-06-28",
+        "specialization": "Ecology and Sociobiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Chairman, Centre for Ecological Sciences, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

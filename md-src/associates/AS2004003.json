@@ -1,0 +1,23 @@
+{
+    "id": "AS2004003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Shankar",
+            "last": "V",
+            "display": "Shankar, Dr V"
+        },
+        "sex": "M",
+        "birthDate": "1972-05-14",
+        "specialization": "Hydrodynamic Fluid Flow through Flexible Tubes & Channels"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2004",
+        "period": "2004-2007"
+    },
+    "contact": {
+        "address": "Department of Chemical Engineering, Indian Institute of Technology",
+        "city": "Kanpur 208 016"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "AS2018022",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Basu",
+            "last": "Riddhipratim",
+            "display": "Basu, Dr Riddhipratim"
+        },
+        "sex": "M",
+        "birthDate": "1988-08-01",
+        "degree": "Ph.D. (Univ. Calif., Berkeley)",
+        "specialization": "Probability Theory, Stochastic Process, Rigorous Statistical Mechanics"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2023"
+    },
+    "contact": {
+        "address": "Reader F, International Centre for, Theoretical Sciences, Hesaraghatta Post",
+        "city": "Bengaluru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6730 6380",
+            "residence": "89718 55021",
+            "fax": "(080) 4653 6002"
+        },
+        "email": {
+            "official": "rbasu@icts.res.in"
+        },
+        "url": "http://home.icts.res.in/~rbasu"
+    }
+}

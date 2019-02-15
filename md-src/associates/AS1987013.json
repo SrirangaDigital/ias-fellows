@@ -1,0 +1,23 @@
+{
+    "id": "AS1987013",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pande",
+            "last": "Kanchan",
+            "display": "Pande, Dr Kanchan"
+        },
+        "sex": "M",
+        "birthDate": "1958-08-28",
+        "specialization": "Geochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1992"
+    },
+    "contact": {
+        "address": "Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009"
+    }
+}

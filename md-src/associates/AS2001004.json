@@ -1,0 +1,26 @@
+{
+    "id": "AS2001004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Shenoy",
+            "last": "Vijay B",
+            "display": "Shenoy, Dr Vijay B"
+        },
+        "sex": "M",
+        "birthDate": "1971-01-07",
+        "specialization": "Computational Materials Science, Nanomechanics and Thin Films"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2001",
+        "period": "2001-2005"
+    },
+    "contact": {
+        "address": "Dept. of Mechanical Engineering, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "email": {
+            "official": "shenoy@mrc.iisc.ernet.in"
+        }
+    }
+}

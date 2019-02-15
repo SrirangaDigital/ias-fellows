@@ -1,0 +1,32 @@
+{
+    "id": "AS2014011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Swathi",
+            "last": "Rotti Srinivasamurthy",
+            "display": "Swathi, Dr Rotti Srinivasamurthy"
+        },
+        "sex": "F",
+        "birthDate": "1982-07-17",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Theoretical Chemistry, Quantum Chemistry, Spectroscopy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "School of Chemistry, Indian Inst. of Science Education &, Research, CET Campus",
+        "city": "Thiruvananthapuram 695 016",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 259 9404",
+            "residence": "97466 15945"
+        },
+        "email": {
+            "official": "swathi@iisertvm.ac.in"
+        }
+    }
+}

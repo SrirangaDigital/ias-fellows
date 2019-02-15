@@ -1,0 +1,23 @@
+{
+    "id": "AS1990002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Cherayil",
+            "last": "B J",
+            "display": "Cherayil, Dr B J"
+        },
+        "sex": "M",
+        "birthDate": "1958-04-07",
+        "specialization": "Polymer Science"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1993"
+    },
+    "contact": {
+        "address": "IPC Department, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

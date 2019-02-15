@@ -1,0 +1,33 @@
+{
+    "id": "AS2018020",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bandopadhyay",
+            "last": "Aditya",
+            "display": "Bandopadhyay, Dr Aditya"
+        },
+        "sex": "M",
+        "birthDate": "1989-08-26",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "specialization": "Fluid Mechanics, Electrohydrodynamics, Trnasport through Porous Media"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2023"
+    },
+    "contact": {
+        "address": "Department of Mechanical Engg., Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 2978",
+            "residence": "99329 90007"
+        },
+        "email": {
+            "official": "aditya@mech.iitkgp.ernet.in"
+        },
+        "url": "http://sites.google.com/site/adityabandopadhyay1/"
+    }
+}

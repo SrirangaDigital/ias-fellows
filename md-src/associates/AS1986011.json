@@ -1,0 +1,23 @@
+{
+    "id": "AS1986011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sekhar",
+            "last": "J A",
+            "display": "Sekhar, Dr J A"
+        },
+        "sex": "M",
+        "birthDate": "1956-09-03",
+        "specialization": "Metallurgy Solidification Processing"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1991"
+    },
+    "contact": {
+        "address": "Scientist, Defence Metallurgical Research, Laboratory, P.O. Kanchanbagh",
+        "city": "Hyderabad 500 058"
+    }
+}

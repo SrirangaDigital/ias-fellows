@@ -1,0 +1,34 @@
+{
+    "id": "AS2015003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jana",
+            "last": "Subhra",
+            "display": "Jana, Dr Subhra"
+        },
+        "sex": "F",
+        "birthDate": "1981-03-22",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "specialization": "Catalysis, Spectroscopy, Experimental Materials Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Dept. of CBM Sciences, SN Bose Natl. Centre for, Basic Sciences, Block JD, Sector III, Salt Lake",
+        "city": "Kolkata 700 106",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2335 5706",
+            "residence": "(033) 2654 6595",
+            "fax": "(033) 2335 3477"
+        },
+        "email": {
+            "official": "subhra.jana@bose.res.in"
+        },
+        "url": "http://people.bose.res.in/~subhara.jana"
+    }
+}

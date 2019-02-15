@@ -1,0 +1,26 @@
+{
+    "id": "AS1996004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Lele",
+            "last": "Ashish K.",
+            "display": "Lele, Dr Ashish K."
+        },
+        "sex": "M",
+        "birthDate": "1967-04-03",
+        "specialization": "Chemical Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1996",
+        "period": "1996-2001"
+    },
+    "contact": {
+        "address": "Chemical Engineering Division, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "email": {
+            "official": "ak.lele@ncl.res.in"
+        }
+    }
+}

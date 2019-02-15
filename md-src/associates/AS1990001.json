@@ -1,0 +1,23 @@
+{
+    "id": "AS1990001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chattaraj",
+            "last": "P K",
+            "display": "Chattaraj, Dr P K"
+        },
+        "sex": "M",
+        "birthDate": "1958-04-26",
+        "specialization": "Quantum Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1993"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302"
+    }
+}

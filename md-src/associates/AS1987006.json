@@ -1,0 +1,23 @@
+{
+    "id": "AS1987006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Marimuthu",
+            "last": "G",
+            "display": "Marimuthu, Dr G"
+        },
+        "sex": "M",
+        "birthDate": "1954-02-25",
+        "specialization": "Chronobiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1989"
+    },
+    "contact": {
+        "address": "Dept. of Animal Behaviour & Physiol, School of Biological Sciences, Madurai Kamaraj University",
+        "city": "Madurai 625 021"
+    }
+}

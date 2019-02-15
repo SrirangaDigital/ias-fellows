@@ -1,0 +1,26 @@
+{
+    "id": "AS1997003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sivarajan",
+            "last": "K N",
+            "display": "Sivarajan, Dr K N"
+        },
+        "sex": "M",
+        "birthDate": "1965-10-23",
+        "specialization": "Optical Networks"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2000"
+    },
+    "contact": {
+        "address": "Electrical Communication, Engineering Department, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "kumar@ece.iisc.ernet.in"
+        }
+    }
+}

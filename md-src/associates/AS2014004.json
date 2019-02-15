@@ -1,0 +1,33 @@
+{
+    "id": "AS2014004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bhowmick",
+            "last": "Jyotishman",
+            "display": "Bhowmick, Dr Jyotishman"
+        },
+        "sex": "M",
+        "birthDate": "1981-11-05",
+        "degree": "Ph.D. (ISI, Kolkata)",
+        "specialization": "Operator Algebras, Noncommutative Geometry, Quantum Groups"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "Theoretical Statistics &, Mathematics Division, Indian Statistical Institute, 203, BT Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2575 5410",
+            "residence": "(033) 2464 5928, 90073 13505",
+            "fax": "(033) 2577 3071"
+        },
+        "email": {
+            "personal": "jyotishmanb@gmail.com"
+        }
+    }
+}

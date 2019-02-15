@@ -1,0 +1,25 @@
+{
+    "id": "AS2008009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Parthasarathi",
+            "last": "R",
+            "display": "Parthasarathi, Dr R"
+        },
+        "sex": "M",
+        "specialization": "Theoretical & Computational Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2008",
+        "period": "2008-2013"
+    },
+    "contact": {
+        "address": "Chemical Laboratory, Central Leather Research Institute, Adyar",
+        "city": "Chennai 600 020",
+        "email": {
+            "personal": "parthasbioc@gmail.com"
+        }
+    }
+}

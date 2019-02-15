@@ -1,0 +1,25 @@
+{
+    "id": "AS2007003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mukhopadhyay",
+            "last": "Pritam",
+            "display": "Mukhopadhyay, Dr Pritam"
+        },
+        "sex": "M",
+        "birthDate": "1974-06-06"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2010"
+    },
+    "contact": {
+        "address": "School of Physical Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi - 110 067",
+        "email": {
+            "official": "m_pritam@mail.jnu.ac.in,m.pritam@lycos.com"
+        }
+    }
+}

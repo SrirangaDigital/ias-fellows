@@ -1,0 +1,33 @@
+{
+    "id": "AS2016016",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakraborty",
+            "last": "Sagar",
+            "display": "Chakraborty, Dr Sagar"
+        },
+        "sex": "M",
+        "birthDate": "1982-06-28",
+        "degree": "Ph.D. (SN Bose NCBS)",
+        "specialization": "Nonlinear Dynamics"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "Dept. of Physics, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 392 6584",
+            "residence": "(0512) 392 8840, 86019 53677",
+            "fax": "(0512) 259 0914"
+        },
+        "email": {
+            "official": "sagarc@iitk.ac.in"
+        }
+    }
+}

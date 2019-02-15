@@ -1,0 +1,26 @@
+{
+    "id": "AS2012007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sahu",
+            "last": "Kirti C",
+            "display": "Sahu, Dr Kirti C"
+        },
+        "sex": "F",
+        "birthDate": "1978-07-08",
+        "specialization": "Fluid Mechanics, Linear Stability Analysis, Multiphase Flow, HPC"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "Dept. of Chemical Engineering, Indian Institute of Technology, Yeddumailaram",
+        "city": "Hyderabad 502 205",
+        "email": {
+            "official": "ksahu@iith.ac.in"
+        }
+    }
+}

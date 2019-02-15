@@ -1,0 +1,23 @@
+{
+    "id": "AS1983015",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Nori",
+            "last": "M V",
+            "display": "Nori, Prof. M V"
+        },
+        "sex": "M",
+        "birthDate": "1949-12-14",
+        "specialization": "Algebra"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Department of Mathematics, University of Chicago, 5734, South University Avenue",
+        "city": "Chicago, IL 60637  (USA)"
+    }
+}

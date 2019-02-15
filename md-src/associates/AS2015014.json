@@ -1,0 +1,34 @@
+{
+    "id": "AS2015014",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Banerjee",
+            "last": "Abhishek",
+            "display": "Banerjee, Dr Abhishek"
+        },
+        "sex": "M",
+        "birthDate": "1984-09-08",
+        "degree": "Ph.D. (Johns Hopkins)",
+        "specialization": "Noncommutative Geometry, Algebraic Geometry, Number Theory"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2015",
+        "period": "2015-2019"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3326",
+            "residence": "(080) 2360 4334, 70335 27507",
+            "fax": "(080) 2360 0146"
+        },
+        "email": {
+            "personal": "abhishekbanerjee1313@gmail.com"
+        },
+        "url": "http://sites.google.com/site/abhishekb1313/"
+    }
+}

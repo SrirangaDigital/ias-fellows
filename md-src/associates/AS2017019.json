@@ -1,0 +1,33 @@
+{
+    "id": "AS2017019",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sen",
+            "last": "Sakya Singha",
+            "display": "Sen, Dr Sakya Singha"
+        },
+        "sex": "M",
+        "birthDate": "1983-03-20",
+        "degree": "Ph.D. (Goettingen)",
+        "specialization": "Main-Group Chemistry, Organometallic Chemistry, Catalysis"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "CIC Division, National Chemical Laboratory",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 2052",
+            "residence": "77740 99756"
+        },
+        "email": {
+            "official": "ss.sen@ncl.res.in"
+        },
+        "url": "http://academic.ncl.res.in/ss.sen"
+    }
+}

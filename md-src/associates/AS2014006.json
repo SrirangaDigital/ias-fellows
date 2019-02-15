@@ -1,0 +1,34 @@
+{
+    "id": "AS2014006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kodandaramaiah",
+            "last": "Ullasa",
+            "display": "Kodandaramaiah, Dr Ullasa"
+        },
+        "sex": "M",
+        "birthDate": "1981-11-01",
+        "degree": "Ph.D. (Stockholm)",
+        "specialization": "Evolutionary Biology, Ecology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "School of Biology, Indian Inst. of Science Education &, Research, CET College Campus",
+        "city": "Thiruvananthapuram 695 016",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 259 9424",
+            "residence": "(0471) 270 8116, 82816 37975",
+            "fax": "(0471) 259 7427"
+        },
+        "email": {
+            "official": "ullasa@iisertvm.ac.in"
+        },
+        "url": "http://www.vanasiri.in/ullasa"
+    }
+}

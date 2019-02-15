@@ -1,0 +1,25 @@
+{
+    "id": "AS2006005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sriram",
+            "last": "V",
+            "display": "Sriram, Dr V"
+        },
+        "sex": "M",
+        "birthDate": "1977-03-17"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2006",
+        "period": "2006-2010"
+    },
+    "contact": {
+        "address": "National Centre for Biological, Sciences, GKVK Campus",
+        "city": "Bangalore 560 065",
+        "email": {
+            "official": "sriram@ncbs.res.in"
+        }
+    }
+}

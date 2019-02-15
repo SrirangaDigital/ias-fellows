@@ -1,0 +1,23 @@
+{
+    "id": "AS1983008",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Balasubramanian",
+            "last": "R",
+            "display": "Balasubramanian, Prof. R"
+        },
+        "sex": "M",
+        "birthDate": "1951-03-15",
+        "specialization": "Number Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "The Institute of Mathematical, Sciences, C.I.T. Campus, Taramani",
+        "city": "Chennai 600 113"
+    }
+}

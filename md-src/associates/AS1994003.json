@@ -1,0 +1,23 @@
+{
+    "id": "AS1994003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Roy Chowdhury",
+            "last": "Dipanwita",
+            "display": "Roy Chowdhury, Dr Dipanwita"
+        },
+        "sex": "F",
+        "birthDate": "1963-10-04",
+        "specialization": "Computer Science"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1998"
+    },
+    "contact": {
+        "address": "Dept. of Computer Science and, Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302"
+    }
+}

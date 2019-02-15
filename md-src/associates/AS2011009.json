@@ -1,0 +1,25 @@
+{
+    "id": "AS2011009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mitra",
+            "last": "Supriyo",
+            "display": "Mitra, Dr Supriyo"
+        },
+        "sex": "M",
+        "birthDate": "1976-11-12"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2011",
+        "period": "2011-2014"
+    },
+    "contact": {
+        "address": "Dept. of Earth Sciences, IISER, BCKV Campus, Mohanpur",
+        "city": "Nadia 741 252",
+        "email": {
+            "official": "supriyomitra@iiserkol.ac.in"
+        }
+    }
+}

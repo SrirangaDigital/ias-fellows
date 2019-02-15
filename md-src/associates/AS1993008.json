@@ -1,0 +1,23 @@
+{
+    "id": "AS1993008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Choudhary",
+            "last": "Debajyoti",
+            "display": "Choudhary, Dr Debajyoti"
+        },
+        "sex": "M",
+        "birthDate": "1964-08-18",
+        "specialization": "Theoretical High Energy Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1998"
+    },
+    "contact": {
+        "address": "Theoretical Physics Group, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

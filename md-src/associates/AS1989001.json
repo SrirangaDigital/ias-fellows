@@ -1,0 +1,23 @@
+{
+    "id": "AS1989001",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Maitra",
+            "last": "Udai",
+            "display": "Maitra, Prof. Udai"
+        },
+        "sex": "M",
+        "birthDate": "1957-11-08",
+        "specialization": "Organic Reactions"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1989",
+        "period": "1989-1992"
+    },
+    "contact": {
+        "address": "Department of Organic Chemistry, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

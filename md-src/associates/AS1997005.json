@@ -1,0 +1,26 @@
+{
+    "id": "AS1997005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mukherjee",
+            "last": "P K",
+            "display": "Mukherjee, Dr P K"
+        },
+        "sex": "M",
+        "birthDate": "1966-10-28",
+        "specialization": "Phase Transition in Liquid Crystals"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2001"
+    },
+    "contact": {
+        "address": "Saha Institute of Nuclear Physics, 1/AF Bidan Nagar",
+        "city": "Calcutta 700 064",
+        "email": {
+            "official": "prabirm@hp2.saha.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "AS2015006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Narayanan",
+            "last": "Tharangattu Narayanan",
+            "display": "Narayanan, Dr Tharangattu Narayanan"
+        },
+        "sex": "M",
+        "birthDate": "1982-11-18",
+        "degree": "Ph.D. (CUSAT)",
+        "specialization": "Carbon Nanomaterials, Materials Science, Nanomagnetism, electrochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Tata Institute of Fundamental, Research, 36/P, Gopanapally",
+        "city": "Hyderabad 500 107",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2020 3093",
+            "residence": "(040) 6776 8720, 90008 71889"
+        },
+        "email": {
+            "official": "tnn@tifrh.res.in",
+            "personal": "tn_narayanan@yahoo.com"
+        }
+    }
+}

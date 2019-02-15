@@ -1,0 +1,22 @@
+{
+    "id": "AS2009026",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mandal",
+            "last": "Sumantra",
+            "display": "Mandal, Dr Sumantra"
+        },
+        "sex": "M",
+        "birthDate": "1979-10-15"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2014"
+    },
+    "contact": {
+        "address": "Scientific Officer, Indira Gandhi Centre for Atomic, Research",
+        "city": "Kalpakkam 603 102"
+    }
+}

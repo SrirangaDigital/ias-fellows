@@ -1,0 +1,23 @@
+{
+    "id": "AS2003007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sheth",
+            "last": "Hetu C",
+            "display": "Sheth, Dr Hetu C"
+        },
+        "sex": "M",
+        "birthDate": "1972-07-11",
+        "specialization": "Deccan Volcanism and Petrogenesis"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2003",
+        "period": "2003-2007"
+    },
+    "contact": {
+        "address": "Department of Earth Sciences, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076"
+    }
+}

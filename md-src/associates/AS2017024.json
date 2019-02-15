@@ -1,0 +1,32 @@
+{
+    "id": "AS2017024",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bhowmik",
+            "last": "Debanjan",
+            "display": "Bhowmik, Dr Debanjan"
+        },
+        "sex": "M",
+        "birthDate": "1988-05-19",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "specialization": "Magnetism & Spintronics, Memory Devices, Unconventional Computing"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2022"
+    },
+    "contact": {
+        "address": "Dept. of Electrical Engineering, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "Delhi",
+        "telephone": {
+            "office": "(011) 2659 1043",
+            "residence": "(011) 2659 1976, 80174 53320"
+        },
+        "email": {
+            "official": "debanjan@ee.iitd.ac.in"
+        }
+    }
+}

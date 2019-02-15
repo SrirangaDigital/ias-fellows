@@ -1,0 +1,24 @@
+{
+    "id": "AS2010002",
+    "profile": {
+        "name": {
+            "first": "Bhattacharyya",
+            "last": "Suvendra Nath",
+            "display": "Bhattacharyya,  Suvendra Nath"
+        },
+        "sex": "M",
+        "birthDate": "1975-10-04"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Molecular & Human Genetics Unit, IICB, 4, Raja SC Mullick Road",
+        "city": "Kolkata 700 032",
+        "email": {
+            "official": "suvendra@iicb.res.in"
+        }
+    }
+}

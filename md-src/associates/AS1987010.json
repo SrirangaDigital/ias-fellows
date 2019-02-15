@@ -1,0 +1,23 @@
+{
+    "id": "AS1987010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sarma",
+            "last": "D D",
+            "display": "Sarma, Dr D D"
+        },
+        "sex": "M",
+        "birthDate": "1955-09-15",
+        "specialization": "Surface Chemistry of Intermetallics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1990"
+    },
+    "contact": {
+        "address": "Solid State and Structural, Chemistry Unit, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

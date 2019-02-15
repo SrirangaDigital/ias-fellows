@@ -1,0 +1,32 @@
+{
+    "id": "AS2018010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mahajan",
+            "last": "Smriti",
+            "display": "Mahajan, Dr Smriti"
+        },
+        "sex": "F",
+        "birthDate": "1984-01-12",
+        "degree": "Ph.D. (Birmingham)",
+        "specialization": "Evaluation of Galaxies, Structure Formation"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Dept. of Physical Sciences, Indian Inst. of Science Education, & Research, Sector 81, Knowledge City",
+        "city": "SAS Nagar 140 306",
+        "state": "Panjab",
+        "telephone": {
+            "residence": "96537 92580"
+        },
+        "email": {
+            "personal": "mahajan.smriti@gmail.com"
+        },
+        "url": "https://mahajan.smriti.googlepages.com"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "AS2012008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Subba Reddy",
+            "last": "M",
+            "display": "Subba Reddy, Dr M"
+        },
+        "sex": "M",
+        "birthDate": "1978-02-06",
+        "specialization": "Cell Biology, Cell Signalling, Protein Modification"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "CDFD, Bldg. 7, Gruhakalpa, 5-4-399/B, Nampally",
+        "city": "Hyderabad 500 001",
+        "email": {
+            "official": "msreddy@cdfd.org.in"
+        }
+    }
+}

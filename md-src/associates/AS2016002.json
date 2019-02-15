@@ -1,0 +1,33 @@
+{
+    "id": "AS2016002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mishra",
+            "last": "Sabyashachi",
+            "display": "Mishra, Dr Sabyashachi"
+        },
+        "sex": "M",
+        "birthDate": "1982-06-01",
+        "degree": "Ph.D. (Munich)",
+        "specialization": "Theoretical & Computational Chemistry, Enzyme Catalysis, Molecular Physics"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 2328",
+            "residence": "(03222) 28 2329"
+        },
+        "email": {
+            "official": "mishra@chem.iitkgp.ernet.in"
+        },
+        "url": "http://www.chemistry.iitkgp.ac.in/faculty/SM/"
+    }
+}

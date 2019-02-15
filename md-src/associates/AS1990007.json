@@ -1,0 +1,23 @@
+{
+    "id": "AS1990007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ray",
+            "last": "Debashis",
+            "display": "Ray, Dr Debashis"
+        },
+        "sex": "M",
+        "birthDate": "1962-01-10",
+        "specialization": "Bioinorganic Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1995"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302"
+    }
+}

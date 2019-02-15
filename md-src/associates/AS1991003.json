@@ -1,0 +1,23 @@
+{
+    "id": "AS1991003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Udgaonkar",
+            "last": "Jayant B",
+            "display": "Udgaonkar, Dr Jayant B"
+        },
+        "sex": "M",
+        "birthDate": "1960-03-22",
+        "specialization": "Protein Folding"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1991",
+        "period": "1991-1995"
+    },
+    "contact": {
+        "address": "National Centre for Biological, Sciences, TIFR Centre, P.O. 1234, Indian Institute of Science Campus",
+        "city": "Bangalore 560 012"
+    }
+}

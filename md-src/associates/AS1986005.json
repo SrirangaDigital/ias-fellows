@@ -1,0 +1,23 @@
+{
+    "id": "AS1986005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gupta",
+            "last": "P D",
+            "display": "Gupta, Dr P D"
+        },
+        "sex": "M",
+        "birthDate": "1952-07-19",
+        "specialization": "Laser Plasma Interaction Studies"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1989"
+    },
+    "contact": {
+        "address": "Laser Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085"
+    }
+}

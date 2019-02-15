@@ -1,0 +1,23 @@
+{
+    "id": "AS1986009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Antia",
+            "last": "H M",
+            "display": "Antia, Dr H M"
+        },
+        "sex": "M",
+        "birthDate": "1955-11-06",
+        "specialization": "Solar Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1990"
+    },
+    "contact": {
+        "address": "Astrophysics Group, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "AS1995001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Inderjit",
+            "last": "Dr",
+            "display": "Inderjit, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1963-12-24",
+        "specialization": "Physiological Ecology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1995",
+        "period": "1995-1998"
+    },
+    "contact": {
+        "address": "Department of Botany, University of Delhi",
+        "city": "Delhi 110 007",
+        "email": {
+            "official": "inderjit@cemde.du.ac.in"
+        }
+    }
+}

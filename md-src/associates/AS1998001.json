@@ -1,0 +1,26 @@
+{
+    "id": "AS1998001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Suresh",
+            "last": "V",
+            "display": "Suresh, Dr V"
+        },
+        "sex": "M",
+        "birthDate": "1966-06-20",
+        "specialization": "Algebra"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2001"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Bombay 400 005",
+        "email": {
+            "official": "vssm@uohyd.ernet.in"
+        }
+    }
+}

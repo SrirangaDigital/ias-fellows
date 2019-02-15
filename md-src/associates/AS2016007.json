@@ -1,0 +1,34 @@
+{
+    "id": "AS2016007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Uday Kumar Reddy",
+            "last": "Bondhugula",
+            "display": "Uday Kumar Reddy, Dr Bondhugula"
+        },
+        "sex": "M",
+        "birthDate": "1982-09-10",
+        "degree": "Ph.D. (Ohio State)",
+        "specialization": "Compiler Optimisation, High Performance Computing, Automatic Parallelisation"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "Dept. of Computer Sci. & Automation, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3249",
+            "residence": "(080) 2360 1491, 94828 88228",
+            "fax": "(080) 2293 2911"
+        },
+        "email": {
+            "official": "udayb@iisc.ac.in"
+        },
+        "url": "http://www.csa.iisc.ac.in/~uday"
+    }
+}

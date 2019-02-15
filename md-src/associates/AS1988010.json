@@ -1,0 +1,23 @@
+{
+    "id": "AS1988010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sankar",
+            "last": "G",
+            "display": "Sankar, Dr G"
+        },
+        "sex": "M",
+        "birthDate": "1959-08-07",
+        "specialization": "X-ray Spectroscopy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1993"
+    },
+    "contact": {
+        "address": "Solid State & Structural Chemistry, Unit, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "AS2001002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Narayanan",
+            "last": "E K",
+            "display": "Narayanan, Dr E K"
+        },
+        "sex": "M",
+        "birthDate": "1973-05-30",
+        "specialization": "Non-Commutative Harmonic Analysis"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2001",
+        "period": "2001-2005"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Bar-Ilan-Uty",
+        "city": "52900 Ramat Gan",
+        "country": "Israel",
+        "email": {
+            "official": "naru@math.iisc.ernet.in"
+        }
+    }
+}

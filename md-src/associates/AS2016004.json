@@ -1,0 +1,35 @@
+{
+    "id": "AS2016004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Dhanya",
+            "last": "Chandrika Thulaseedharan",
+            "display": "Dhanya, Dr Chandrika Thulaseedharan"
+        },
+        "sex": "F",
+        "birthDate": "1983-05-31",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Hydrological Extremes, Water Resources Engineering, Climate Change Impact Assessment, Hydroclimatolo"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "Dept. of Civil Engineering, Indian Institute of Technology",
+        "city": "New Delhi 110 016",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2658 7328",
+            "residence": "(011) 2658 1681, 98104 12411",
+            "fax": "(011) 2658 1117"
+        },
+        "email": {
+            "official": "dhanya@civil.iitd.ac.in",
+            "personal": "dhanyact@gmail.com"
+        },
+        "url": "http://web.iitd.ac.in/~dhanya"
+    }
+}

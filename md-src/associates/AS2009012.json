@@ -1,0 +1,21 @@
+{
+    "id": "AS2009012",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nagendran",
+            "last": "S",
+            "display": "Nagendran, Dr S"
+        },
+        "sex": "M"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, Indian Institute of Technology",
+        "city": "New Delhi 110 016"
+    }
+}

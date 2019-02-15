@@ -1,0 +1,32 @@
+{
+    "id": "AS2014010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Srivastava",
+            "last": "Chandan",
+            "display": "Srivastava, Dr Chandan"
+        },
+        "sex": "M",
+        "birthDate": "1980-05-01",
+        "degree": "Ph.D. (Alabama)",
+        "specialization": "Synthesis of Nanosolids, Size-dependent Phase Stability, TEM"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "Dept. of Materials Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2834",
+            "residence": "99006 26327"
+        },
+        "email": {
+            "official": "csrivastava@materials.iisc.ernet.in"
+        }
+    }
+}

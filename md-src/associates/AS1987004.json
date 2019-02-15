@@ -1,0 +1,23 @@
+{
+    "id": "AS1987004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sampathkumaran",
+            "last": "E V",
+            "display": "Sampathkumaran, Dr E V"
+        },
+        "sex": "M",
+        "birthDate": "1954-12-06",
+        "specialization": "Valence Fluctuations in Rare-Earth Systems"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1989"
+    },
+    "contact": {
+        "address": "Solid State Physics Group, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

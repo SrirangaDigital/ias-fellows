@@ -1,0 +1,23 @@
+{
+    "id": "AS1987009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sarkar",
+            "last": "Chitra",
+            "display": "Sarkar, Dr Chitra"
+        },
+        "sex": "F",
+        "birthDate": "1955-09-11",
+        "specialization": "Neuropathology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1990"
+    },
+    "contact": {
+        "address": "Department of Neuropathology, All India Institute of Medical, Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029"
+    }
+}

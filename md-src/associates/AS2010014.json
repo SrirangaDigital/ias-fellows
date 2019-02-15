@@ -1,0 +1,24 @@
+{
+    "id": "AS2010014",
+    "profile": {
+        "name": {
+            "first": "Yadav",
+            "last": "Gitanjali",
+            "display": "Yadav,  Gitanjali"
+        },
+        "sex": "F",
+        "birthDate": "1976-09-01"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Computational Biology Division, NIPGR, Aruna Asaf Ali Marg",
+        "city": "New Delhi 110 067",
+        "email": {
+            "official": "gy@nipgr.res.in"
+        }
+    }
+}

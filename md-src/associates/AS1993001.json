@@ -1,0 +1,23 @@
+{
+    "id": "AS1993001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kumar",
+            "last": "Alok",
+            "display": "Kumar, Dr Alok"
+        },
+        "sex": "M",
+        "birthDate": "1961-12-30",
+        "specialization": "String Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1996"
+    },
+    "contact": {
+        "address": "Institute of Physics, Sachivalaya Marg",
+        "city": "Bhubaneswar 751 005"
+    }
+}

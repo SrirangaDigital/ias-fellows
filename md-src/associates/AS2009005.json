@@ -1,0 +1,22 @@
+{
+    "id": "AS2009005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Dewangan",
+            "last": "Pawan",
+            "display": "Dewangan, Dr Pawan"
+        },
+        "sex": "M",
+        "birthDate": "1977-02-03"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "National Institute of Oceanography",
+        "city": "Dona Paula 403 004"
+    }
+}

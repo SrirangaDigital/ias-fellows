@@ -1,0 +1,34 @@
+{
+    "id": "AS2014009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pandey",
+            "last": "Anshu",
+            "display": "Pandey, Dr Anshu"
+        },
+        "sex": "M",
+        "birthDate": "1982-08-22",
+        "degree": "Ph.D. (Chicago)",
+        "specialization": "Nanocrystals, Magneto-Optical Properties, Ultrafast Spectroscopy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "SSCU, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 2070",
+            "residence": "99016 20721",
+            "fax": "(080) 2360 1310"
+        },
+        "email": {
+            "official": "anshup@sscu.iisc.ernet.in"
+        },
+        "url": "http://www.sscu.iisc.ernet.in/anshu.html"
+    }
+}

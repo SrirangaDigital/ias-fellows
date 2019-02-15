@@ -1,0 +1,25 @@
+{
+    "id": "AS2011018",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Vineeth",
+            "last": "C",
+            "display": "Vineeth, Dr C"
+        },
+        "sex": "M",
+        "birthDate": "1980-05-02"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2011",
+        "period": "2011-2015"
+    },
+    "contact": {
+        "address": "Space Physics Lab., VSSC",
+        "city": "Thiruvananthapuram 695 022",
+        "email": {
+            "personal": "cnvins@gmail.com"
+        }
+    }
+}

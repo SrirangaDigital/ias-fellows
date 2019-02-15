@@ -1,0 +1,23 @@
+{
+    "id": "AS2003005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mohanty",
+            "last": "Bedangadas",
+            "display": "Mohanty, Dr Bedangadas"
+        },
+        "sex": "M",
+        "birthDate": "1973-04-08",
+        "specialization": "Phase Transition"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2003",
+        "period": "2003-2007"
+    },
+    "contact": {
+        "address": "Variable Energy Cyclotron Centre, 1/AF, Bidhan Nagar",
+        "city": "Kolkata 700 064"
+    }
+}

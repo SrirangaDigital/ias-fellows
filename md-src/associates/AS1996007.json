@@ -1,0 +1,26 @@
+{
+    "id": "AS1996007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bhatt",
+            "last": "Abhay G.",
+            "display": "Bhatt, Dr Abhay G."
+        },
+        "sex": "M",
+        "birthDate": "1967-09-24",
+        "specialization": "Stochastic Differential Equations"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1996",
+        "period": "1996-2001"
+    },
+    "contact": {
+        "address": "Statistical & Mathematical Unit, Indian Statistical Institute, 7 SJS Sansanwal Marg",
+        "city": "New Delhi 110 016",
+        "email": {
+            "official": "abhay@isid.ac.in"
+        }
+    }
+}

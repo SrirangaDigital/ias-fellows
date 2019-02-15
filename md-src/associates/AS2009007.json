@@ -1,0 +1,21 @@
+{
+    "id": "AS2009007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gogate",
+            "last": "Parag",
+            "display": "Gogate, Dr Parag"
+        },
+        "sex": "M"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Dept. of Chemical Engineering, Institute of Chemical Technology, Matunga",
+        "city": "Mumbai 400 019"
+    }
+}

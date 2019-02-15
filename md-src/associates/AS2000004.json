@@ -1,0 +1,23 @@
+{
+    "id": "AS2000004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Patel",
+            "last": "V V",
+            "display": "Patel, Dr V V"
+        },
+        "sex": "M",
+        "birthDate": "1969-04-01",
+        "specialization": "Instrumentation, Real Time Process Control, PG and Microprocessor-based"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2000",
+        "period": "2000-2004"
+    },
+    "contact": {
+        "address": "Scientist, Centre for Artificial Ingelligence, and Robotics, High Grounds",
+        "city": "Bangalore 560 001"
+    }
+}

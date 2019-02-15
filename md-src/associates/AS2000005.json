@@ -1,0 +1,26 @@
+{
+    "id": "AS2000005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nair",
+            "last": "Arvind N",
+            "display": "Nair, Dr Arvind N"
+        },
+        "sex": "M",
+        "birthDate": "1971-04-09",
+        "specialization": "Lie Groups and Representation Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2000",
+        "period": "2000-2005"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "email": {
+            "official": "arvind@math.tifr.res.in"
+        }
+    }
+}

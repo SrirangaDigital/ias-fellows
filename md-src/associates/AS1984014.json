@@ -1,0 +1,23 @@
+{
+    "id": "AS1984014",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kulkarni",
+            "last": "M G",
+            "display": "Kulkarni, Dr M G"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-15",
+        "specialization": "Polymer Science and Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1988"
+    },
+    "contact": {
+        "address": "Chemical Engineering Division, National Chemical Laboratory",
+        "city": "Pune 411 008"
+    }
+}

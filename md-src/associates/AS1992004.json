@@ -1,0 +1,23 @@
+{
+    "id": "AS1992004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Paranjape",
+            "last": "K H",
+            "display": "Paranjape, Dr K H"
+        },
+        "sex": "M",
+        "birthDate": "1960-03-19",
+        "specialization": "Algebraic Geometry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1995"
+    },
+    "contact": {
+        "address": "The Institute of Mathematical, Sciences, C.I.T. Campus, Taramani",
+        "city": "Chennai 600 113"
+    }
+}

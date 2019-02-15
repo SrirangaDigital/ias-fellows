@@ -1,0 +1,25 @@
+{
+    "id": "AS2005005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Shankar",
+            "display": "Ghosh, Dr Shankar"
+        },
+        "sex": "M",
+        "birthDate": "1975-06-28"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2009"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "sghosh@tifr.res.in"
+        }
+    }
+}

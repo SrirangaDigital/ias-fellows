@@ -1,0 +1,23 @@
+{
+    "id": "AS1988011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Viswanathan",
+            "last": "N",
+            "display": "Viswanathan, Dr N"
+        },
+        "sex": "M",
+        "birthDate": "1960-05-18",
+        "specialization": "Chronobiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1993"
+    },
+    "contact": {
+        "address": "Research Associate, Department of Biology, 414, Mugar Life Sciences Building, Northeastern University",
+        "city": "Boston, MA 02115  (USA)"
+    }
+}

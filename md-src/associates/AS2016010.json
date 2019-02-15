@@ -1,0 +1,34 @@
+{
+    "id": "AS2016010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mondol",
+            "last": "Samrat",
+            "display": "Mondol, Dr Samrat"
+        },
+        "sex": "M",
+        "birthDate": "1982-03-28",
+        "degree": "Ph.D. (Mangalore)",
+        "specialization": "Molecular Ecology, Conservation Genetics, Wildlife Endocrinology"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "AECB Department, Wildlife Inst. of India, PO Box 18, Chandrabani",
+        "city": "Dehradun 248 001",
+        "state": "Uttarakhand",
+        "telephone": {
+            "office": "(0135) 264 6249",
+            "residence": "(0135) 264 6177, 81919 70271",
+            "fax": "(0135) 264 0117"
+        },
+        "email": {
+            "official": "samrat@wii.gov.in",
+            "personal": "samratmondol@gmail.com"
+        }
+    }
+}

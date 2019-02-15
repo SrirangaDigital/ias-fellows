@@ -1,0 +1,34 @@
+{
+    "id": "AS2015013",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Uma",
+            "last": "Kizhathur Narasimhan",
+            "display": "Uma, Dr Kizhathur Narasimhan"
+        },
+        "sex": "F",
+        "birthDate": "1982-05-12",
+        "degree": "Ph.D. (SV University)",
+        "specialization": "Tropical Mesoscale Convective Systems, Stratosphere-Troposphere Exchange Processes, Ground & Space-B"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Space Physics Laboratory, Vikram Sarabhai Space Centre",
+        "city": "Thiruvananthapuram 695 022",
+        "state": "Kerala",
+        "telephone": {
+            "office": "(0471) 256 2157",
+            "residence": "(0471) 234 2603, 98955 94770",
+            "fax": "(0471) 270 6535"
+        },
+        "email": {
+            "official": "uma_kn@vssc.gov.in",
+            "personal": "urmimondal@gmail.com"
+        }
+    }
+}

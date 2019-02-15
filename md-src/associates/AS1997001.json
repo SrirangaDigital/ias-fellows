@@ -1,0 +1,23 @@
+{
+    "id": "AS1997001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Rajaram Bhat",
+            "last": "B V",
+            "display": "Rajaram Bhat, Dr B V"
+        },
+        "sex": "M",
+        "birthDate": "1966-01-16",
+        "specialization": "Algebra and Mathematics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2000"
+    },
+    "contact": {
+        "address": "Indian Statistical Institute, R.V. College P.O., Mysore Road",
+        "city": "Bangalore 560 059"
+    }
+}

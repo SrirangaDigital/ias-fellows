@@ -1,0 +1,26 @@
+{
+    "id": "AS2013008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Guttal",
+            "last": "Vishwesha",
+            "display": "Guttal, Dr Vishwesha"
+        },
+        "sex": "M",
+        "birthDate": "1981-03-27",
+        "specialization": "Theoretical Ecology, Evolution, Ecosystem Dynamics, Animal Behaviour"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "CES, IISc",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "guttal@ces.iisc.ernet.in"
+        }
+    }
+}

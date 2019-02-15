@@ -1,0 +1,23 @@
+{
+    "id": "AS1987008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Home",
+            "last": "D",
+            "display": "Home, Dr D"
+        },
+        "sex": "M",
+        "birthDate": "1955-11-11",
+        "specialization": "Quantum Mechanics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1990"
+    },
+    "contact": {
+        "address": "Department of Physics, Bose Institute, 93/1 A.P.C. Road",
+        "city": "Calcutta 700 009"
+    }
+}

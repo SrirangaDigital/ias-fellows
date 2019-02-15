@@ -1,0 +1,33 @@
+{
+    "id": "AS2015007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Paranjape",
+            "last": "Aseem",
+            "display": "Paranjape, Dr Aseem"
+        },
+        "sex": "M",
+        "birthDate": "1983-01-26",
+        "degree": "Ph.D. (TIFR)",
+        "specialization": "Cosmology, Large Scale Structure, Gravitation"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Inter-University Centre for, Astronomy & Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2560 4100, 2560 4224",
+            "residence": "(020) 2560 4433, 98207 61470",
+            "fax": "(020) 2560 4699"
+        },
+        "email": {
+            "official": "aseem@iucaa.in"
+        }
+    }
+}

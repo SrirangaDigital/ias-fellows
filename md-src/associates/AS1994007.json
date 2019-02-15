@@ -1,0 +1,23 @@
+{
+    "id": "AS1994007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Radhakrishnan",
+            "last": "J",
+            "display": "Radhakrishnan, Dr J"
+        },
+        "sex": "M",
+        "birthDate": "1964-05-30",
+        "specialization": "Computer Science"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1999"
+    },
+    "contact": {
+        "address": "Theoretical Computer Science Group, Tata  Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

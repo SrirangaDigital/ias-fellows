@@ -1,0 +1,23 @@
+{
+    "id": "AS1994004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ranade",
+            "last": "V V",
+            "display": "Ranade, Dr V V"
+        },
+        "sex": "M",
+        "birthDate": "1963-10-15",
+        "specialization": "Chemical Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1998"
+    },
+    "contact": {
+        "address": "Chemical Engineering Division, National Chemical Laboratory",
+        "city": "Pune 411 008"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "AS1989008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ganguly",
+            "last": "Gautam",
+            "display": "Ganguly, Dr Gautam"
+        },
+        "sex": "M",
+        "birthDate": "1960-10-25",
+        "specialization": "Opto-electronic Materials"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1989",
+        "period": "1989-1994"
+    },
+    "contact": {
+        "address": "Non-Equilibrium Materials Section, Electrotechnical Laboratory, 1-1-4, Umezono, Tsukaba-shi, Ibaraki 305"
+    }
+}

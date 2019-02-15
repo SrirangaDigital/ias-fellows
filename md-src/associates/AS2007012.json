@@ -1,0 +1,25 @@
+{
+    "id": "AS2007012",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jain",
+            "last": "Mukesh",
+            "display": "Jain, Dr Mukesh"
+        },
+        "sex": "M",
+        "birthDate": "1978-08-27"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2012"
+    },
+    "contact": {
+        "address": "Department of Plant Molecular, Biology, University of Delhi South Campus, Benito Juarez Road",
+        "city": "New Delhi - 110 021",
+        "email": {
+            "personal": "mjainanid@gmail.com,mjainanid@hotmail.com"
+        }
+    }
+}

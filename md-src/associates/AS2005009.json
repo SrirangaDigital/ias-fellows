@@ -1,0 +1,25 @@
+{
+    "id": "AS2005009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Krishnan",
+            "last": "Yamuna",
+            "display": "Krishnan, Dr Yamuna"
+        },
+        "sex": "F",
+        "birthDate": "1974-05-25"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2009"
+    },
+    "contact": {
+        "address": "National Centre for Biological, Sciences, GKVK Campus",
+        "city": "Bangalore 560 065",
+        "email": {
+            "official": "yamuna@ncbs.res.in"
+        }
+    }
+}

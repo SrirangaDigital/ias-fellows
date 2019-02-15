@@ -1,0 +1,26 @@
+{
+    "id": "AS2013006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mabalirajan",
+            "last": "U",
+            "display": "Mabalirajan, Dr U"
+        },
+        "sex": "M",
+        "birthDate": "1979-05-05",
+        "specialization": "Allergy, Asthama, Mytochondrial Biology, Drug Discovery"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "Molecular Immunogenetics Lab., IGIB, Mall Road",
+        "city": "Delhi 110 007",
+        "email": {
+            "personal": "mabsome@yahoo.co.in"
+        }
+    }
+}

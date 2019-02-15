@@ -1,0 +1,24 @@
+{
+    "id": "AS2010012",
+    "profile": {
+        "name": {
+            "first": "Shankaranarayanan",
+            "last": "S",
+            "display": "Shankaranarayanan,  S"
+        },
+        "sex": "M",
+        "birthDate": "1975-04-18"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "School of Physics, IISER, CET Campus",
+        "city": "Thiruvananthapuram 695 016",
+        "email": {
+            "official": "shanki@iisertvm.ac.in"
+        }
+    }
+}

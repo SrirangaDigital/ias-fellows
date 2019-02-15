@@ -1,0 +1,23 @@
+{
+    "id": "AS1985001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Arora",
+            "last": "D K",
+            "display": "Arora, Dr D K"
+        },
+        "sex": "M",
+        "birthDate": "1952-06-29",
+        "specialization": "Mycology and Microbiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1988"
+    },
+    "contact": {
+        "address": "Department of Botany, Institute of Science, Banaras Hindu University",
+        "city": "Varanasi 221 005"
+    }
+}

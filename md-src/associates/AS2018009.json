@@ -1,0 +1,32 @@
+{
+    "id": "AS2018009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kundu",
+            "last": "Anupam",
+            "display": "Kundu, Dr Anupam"
+        },
+        "sex": "M",
+        "birthDate": "1984-05-31",
+        "degree": "Ph.D. (RRI, Bangalore)",
+        "specialization": "Nonequilibrium Many-Particle System, Anomalous Transport, Stochastic Process"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Reader F, International Centre for, Theoretical Sciences, Hesaraghatta Post",
+        "city": "Bengaluru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6730 6310",
+            "residence": "78991 01773"
+        },
+        "email": {
+            "official": "anupam.kundu@icts.res.in"
+        }
+    }
+}

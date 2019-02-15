@@ -1,0 +1,33 @@
+{
+    "id": "AS2014002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ajith",
+            "last": "Parameswaran",
+            "display": "Ajith, Dr Parameswaran"
+        },
+        "sex": "M",
+        "birthDate": "1980-05-27",
+        "degree": "Ph.D. (Max Planck Institute)",
+        "specialization": "Gravitational-Wave Physics & Astronomy, Relativity & Gravitation, Astrophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "Reader F, International Centre for, Theoretical Sciences, Shivakote, Hesaraghatta Post",
+        "city": "Bengaluru 560 089",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 4653 6210",
+            "residence": "(080) 4175 1819, 91645 94474"
+        },
+        "email": {
+            "official": "ajith@icts.res.in"
+        },
+        "url": "http://home.icts.res.in/~ajith"
+    }
+}

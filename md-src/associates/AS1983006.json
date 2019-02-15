@@ -1,0 +1,23 @@
+{
+    "id": "AS1983006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Padhy",
+            "last": "L C",
+            "display": "Padhy, Dr L C"
+        },
+        "sex": "M",
+        "birthDate": "1949-10-18",
+        "specialization": "Molecular Biology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Molecular Biology Unit, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

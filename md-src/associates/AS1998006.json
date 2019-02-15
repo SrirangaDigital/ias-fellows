@@ -1,0 +1,23 @@
+{
+    "id": "AS1998006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Khare",
+            "last": "Chandrasekhar",
+            "display": "Khare, Dr Chandrasekhar"
+        },
+        "sex": "M",
+        "birthDate": "1967-05-13",
+        "specialization": "Number Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2002"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Bombay 400 005"
+    }
+}

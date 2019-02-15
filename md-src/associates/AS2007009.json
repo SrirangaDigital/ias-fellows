@@ -1,0 +1,25 @@
+{
+    "id": "AS2007009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Anil K",
+            "display": "Ghosh, Dr Anil K"
+        },
+        "sex": "M",
+        "birthDate": "1974-08-27"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2010"
+    },
+    "contact": {
+        "address": "Department of Mathematics and, Statistics, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "email": {
+            "official": "akghosh@iitk.ac.in"
+        }
+    }
+}

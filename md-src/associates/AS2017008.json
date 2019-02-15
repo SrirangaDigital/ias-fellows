@@ -1,0 +1,32 @@
+{
+    "id": "AS2017008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jha",
+            "last": "Somnath",
+            "display": "Jha, Dr Somnath"
+        },
+        "sex": "M",
+        "birthDate": "1983-07-11",
+        "degree": "Ph.D. (TIFR)",
+        "specialization": "Number Theory, Arithmatic Geometry, Iwasawa Theory"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Dept. of Mathematics & Statistics, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 6916"
+        },
+        "email": {
+            "personal": "jhasom@gmail.com"
+        },
+        "url": "https://sites.google.com/sites/jahsom/"
+    }
+}

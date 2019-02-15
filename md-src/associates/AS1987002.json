@@ -1,0 +1,23 @@
+{
+    "id": "AS1987002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gupta",
+            "last": "P K",
+            "display": "Gupta, Dr P K"
+        },
+        "sex": "M",
+        "birthDate": "1953-08-11",
+        "specialization": "Plant Tissue Culture"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1988"
+    },
+    "contact": {
+        "address": "Division of Biochemical Sciences, National Chemical Laboratory",
+        "city": "Pune 411 008"
+    }
+}

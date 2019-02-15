@@ -1,0 +1,33 @@
+{
+    "id": "AS2018019",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Venkatesh",
+            "last": "Rajendran",
+            "display": "Venkatesh, Dr Rajendran"
+        },
+        "sex": "M",
+        "birthDate": "1987-05-04",
+        "degree": "Ph.D. (HBNI, Delhi)",
+        "specialization": "Representation Theory, Combinatorics"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2022"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3616",
+            "residence": "98671 45104"
+        },
+        "email": {
+            "official": "rvenkat@iisc.ac.in"
+        },
+        "url": "http://math.iisc.ac.in/~rvenkat/"
+    }
+}

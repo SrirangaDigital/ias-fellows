@@ -1,0 +1,26 @@
+{
+    "id": "AS2007011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Thanikaivelan",
+            "last": "P",
+            "display": "Thanikaivelan, Dr P"
+        },
+        "sex": "M",
+        "birthDate": "1976-02-08"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2011"
+    },
+    "contact": {
+        "address": "Centre for Leather Apparels &, Accessories, Development,Central Leather, Research Institute, Adyar",
+        "city": "Chennai - 600 020",
+        "email": {
+            "official": "clad@clrim.org",
+            "personal": "thanik8@yahoo.com"
+        }
+    }
+}

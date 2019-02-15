@@ -1,0 +1,35 @@
+{
+    "id": "AS2018012",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Manna",
+            "last": "Uttam",
+            "display": "Manna, Dr Uttam"
+        },
+        "sex": "M",
+        "birthDate": "1984-09-01",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Polymeric Material, Bio-inspired Interfaces"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Guwahati 781 039",
+        "state": "Assam",
+        "telephone": {
+            "office": "(0361) 258 3477",
+            "residence": "(0361) 258 5477, 70866 91175",
+            "fax": "(0361) 258 2349"
+        },
+        "email": {
+            "official": "umanna@iitg.ac.in",
+            "personal": "su.uttam@gmail.com"
+        },
+        "url": "http://www.iitg.ac.in/umanna/uttam.html"
+    }
+}

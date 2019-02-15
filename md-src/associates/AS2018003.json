@@ -1,0 +1,34 @@
+{
+    "id": "AS2018003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakraborty",
+            "last": "Anirvan",
+            "display": "Chakraborty, Dr Anirvan"
+        },
+        "sex": "M",
+        "birthDate": "1985-09-19",
+        "degree": "Ph.D. (ISI, Kolkata)",
+        "specialization": "Functional Data Analysis, Nonparamatric & Robust Statistics, Stochastic Processes"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Dept. of Mathematics & Statistics, Indian Institute of Science, Education & Research",
+        "city": "Mohanpur 741 246",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 6634 0000/1335",
+            "residence": "94773 77387"
+        },
+        "email": {
+            "official": "anirvan.c@iiserkol.ac.in",
+            "personal": "vanchak@gmail.com"
+        },
+        "url": "https://sites.google.com/site/anirvanchk/home"
+    }
+}

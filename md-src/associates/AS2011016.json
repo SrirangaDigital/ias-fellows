@@ -1,0 +1,25 @@
+{
+    "id": "AS2011016",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Thampi",
+            "last": "Smitha V",
+            "display": "Thampi, Dr Smitha V"
+        },
+        "sex": "F",
+        "birthDate": "1977-01-23"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2011",
+        "period": "2011-2014"
+    },
+    "contact": {
+        "address": "Space Physics Lab, VSSC",
+        "city": "Thiruvananthapuram 695 022",
+        "email": {
+            "personal": "smitha.v.thampi@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS2005001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakraborty",
+            "last": "Partha Sarathi",
+            "display": "Chakraborty, Dr Partha Sarathi"
+        },
+        "sex": "M",
+        "birthDate": "1973-11-18",
+        "specialization": "Operator Algebras & Non-commutative Geometry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2008"
+    },
+    "contact": {
+        "address": "Indian Statistical Institute, 7, SJS Sansanwal Marg",
+        "city": "New Delhi 110 016"
+    }
+}

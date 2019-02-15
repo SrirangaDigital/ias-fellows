@@ -1,0 +1,34 @@
+{
+    "id": "AS2017020",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Singh",
+            "last": "Prabhat Kumar",
+            "display": "Singh, Dr Prabhat Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1983-07-05",
+        "degree": "Ph.D. (HBNI, Mumbai)",
+        "specialization": "Ultrafast-Time-resolved Spectroscopy, Supramolecular Chemistry, Biosensors"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Radiation & Photochemistry Division, Chemistry Group, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2559 0296, (022) 2559 0306",
+            "residence": "(022)2548 0156, 98694 09429",
+            "fax": "(022) 2550 5151"
+        },
+        "email": {
+            "official": "prabhatk@barc.gov.in",
+            "personal": "prabhatsingh988@gmail.com"
+        }
+    }
+}

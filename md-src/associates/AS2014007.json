@@ -1,0 +1,33 @@
+{
+    "id": "AS2014007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mahalakshmi",
+            "last": "Radhakrishnan",
+            "display": "Mahalakshmi, Dr Radhakrishnan"
+        },
+        "sex": "F",
+        "birthDate": "1980-04-08",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Membrane Protein Biophysics, Protein Folding, Spectroscopy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "MBL, Dept. of Biological Sci., Indian Institute of Science Edn. &, Research, Bhauri",
+        "city": "Bhopal 462 066",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0755) 669 2562",
+            "residence": "(0755) 268 8272, 96850 04721",
+            "fax": "(0755) 669 2392"
+        },
+        "email": {
+            "official": "maha@iiserb.ac.in"
+        }
+    }
+}

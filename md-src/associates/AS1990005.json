@@ -1,0 +1,23 @@
+{
+    "id": "AS1990005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Krishnan",
+            "last": "N",
+            "display": "Krishnan, Dr N"
+        },
+        "sex": "M",
+        "birthDate": "1960-10-15",
+        "specialization": "Gravitation Experiments"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1995"
+    },
+    "contact": {
+        "address": "Research Associate, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1993003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mishra",
+            "last": "R S",
+            "display": "Mishra, Dr R S"
+        },
+        "sex": "M",
+        "birthDate": "1961-08-15",
+        "specialization": "High Temperature Materials Behaviour"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1996"
+    },
+    "contact": {
+        "address": "Defence Metallurgical Research, Laboratory, Kanchanbagh P.O",
+        "city": "Hyderabad 500 058"
+    }
+}

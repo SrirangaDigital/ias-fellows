@@ -1,0 +1,33 @@
+{
+    "id": "AS2013011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Seshasayee",
+            "last": "Aswin Narayan",
+            "display": "Seshasayee, Dr Aswin Narayan"
+        },
+        "sex": "M",
+        "birthDate": "1983-11-06",
+        "degree": "Ph.D. (Cambridge)",
+        "specialization": "Evolution of Genomics, Gene Regulation, Microbiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2018"
+    },
+    "contact": {
+        "address": "National Centre for Biological, Sciences, GKVK Campus",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2366 6502",
+            "residence": "(080) 6762 7331, 98448 13559",
+            "fax": "(080) 2363 6662"
+        },
+        "email": {
+            "official": "aswin@ncbs.res.in"
+        }
+    }
+}

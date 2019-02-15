@@ -1,0 +1,23 @@
+{
+    "id": "AS1988006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nitsure",
+            "last": "Nitin",
+            "display": "Nitsure, Dr Nitin"
+        },
+        "sex": "M",
+        "birthDate": "1957-11-09",
+        "specialization": "Algebraic Geometry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1992"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

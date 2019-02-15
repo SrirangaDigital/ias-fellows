@@ -1,0 +1,23 @@
+{
+    "id": "AS1987011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gowrishankar",
+            "last": "J",
+            "display": "Gowrishankar, Dr J"
+        },
+        "sex": "M",
+        "birthDate": "1956-03-24",
+        "specialization": "Molecular Genetics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1991"
+    },
+    "contact": {
+        "address": "Centre for Cellular and Molecular, Biology, Uppal Road",
+        "city": "Hyderabad 500 007"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1983020",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pati",
+            "last": "Ashok Kumar",
+            "display": "Pati, Dr Ashok Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1956-01-10",
+        "specialization": "Optical Astronomy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1988"
+    },
+    "contact": {
+        "address": "Indian Institute of Astrophysics, Sarjapur Road, Koramangala",
+        "city": "Bangalore 560 034"
+    }
+}

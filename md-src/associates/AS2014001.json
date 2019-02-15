@@ -1,0 +1,32 @@
+{
+    "id": "AS2014001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Adarsh",
+            "last": "Kumaran Nair Valsala Devi",
+            "display": "Adarsh, Dr Kumaran Nair Valsala Devi"
+        },
+        "sex": "M",
+        "birthDate": "1980-05-30",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Ultrafast Nonlinear Optics, Amorphous Semiconductors, Condensed Matter Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Inst. of Science Education, & Research, Bhopal Bypass Road, Bhauri",
+        "city": "Bhopal 462 066",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0755) 669 1207",
+            "residence": "(0755) 268 0547, 99819 55380"
+        },
+        "email": {
+            "official": "adarsh@iiserb.ac.in"
+        }
+    }
+}

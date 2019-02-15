@@ -1,0 +1,23 @@
+{
+    "id": "AS1984006",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Jemmis",
+            "last": "E D",
+            "display": "Jemmis, Prof. E D"
+        },
+        "sex": "M",
+        "birthDate": "1951-10-31",
+        "specialization": "Theoretical Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046"
+    }
+}

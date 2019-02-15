@@ -1,0 +1,23 @@
+{
+    "id": "AS1988002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pradip",
+            "last": "Dr",
+            "display": "Pradip, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1956-08-01",
+        "specialization": "Materials Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1991"
+    },
+    "contact": {
+        "address": "Tata Research Development, and Design Centre, 1, Mangaldas Road",
+        "city": "Pune 411 001"
+    }
+}

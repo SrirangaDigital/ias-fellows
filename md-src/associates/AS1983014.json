@@ -1,0 +1,23 @@
+{
+    "id": "AS1983014",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Lala",
+            "last": "A K",
+            "display": "Lala, Prof. A K"
+        },
+        "sex": "M",
+        "birthDate": "1950-01-13",
+        "specialization": "Biochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Dept of Chemistry & Biotech. Centre, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076"
+    }
+}

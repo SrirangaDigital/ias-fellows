@@ -1,0 +1,33 @@
+{
+    "id": "AS2014003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ayyer",
+            "last": "Arvind",
+            "display": "Ayyer, Dr Arvind"
+        },
+        "sex": "M",
+        "birthDate": "1980-07-06",
+        "degree": "Ph.D. (Rutgers)",
+        "specialization": "Probability Theory, Combinatorics, Statistical Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3215",
+            "fax": "(080) 2360 0146"
+        },
+        "email": {
+            "official": "arvind@math.iisc.ernet.in"
+        },
+        "url": "http://www.math.iisc.ernet.in/~arvind"
+    }
+}

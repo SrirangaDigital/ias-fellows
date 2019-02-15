@@ -1,0 +1,32 @@
+{
+    "id": "AS2017026",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Srivastava",
+            "last": "Piyush",
+            "display": "Srivastava, Dr Piyush"
+        },
+        "sex": "M",
+        "birthDate": "1988-02-07",
+        "degree": "Ph.D. (UC, Berkeley)",
+        "specialization": "Algorithms, Randomness in Computational Complexity"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2022"
+    },
+    "contact": {
+        "address": "School of TCS, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2985"
+        },
+        "email": {
+            "official": "piyush.srivastava@tifr.res.in"
+        },
+        "url": "http://www.tifr.res.in/~piyush.srivastava"
+    }
+}

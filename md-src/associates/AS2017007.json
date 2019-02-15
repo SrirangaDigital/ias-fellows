@@ -1,0 +1,34 @@
+{
+    "id": "AS2017007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Vinu",
+            "last": "Ravikrishnan",
+            "display": "Vinu, Dr Ravikrishnan"
+        },
+        "sex": "M",
+        "birthDate": "1984-10-08",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Thermochemical Conversion, Biomass, Waste Materials to Biofuels, Catalytic Reactions, Mechanistic Mo"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Dept. of Chemical Engineering, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4187",
+            "residence": "(044) 2242 2525, 95001 58723"
+        },
+        "email": {
+            "official": "vinu@iitm.ac.in",
+            "personal": "rvinu008@gmail.com"
+        },
+        "url": "https://sites.google.com/sites/vinuresearch/"
+    }
+}

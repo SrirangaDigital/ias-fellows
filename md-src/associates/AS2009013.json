@@ -1,0 +1,22 @@
+{
+    "id": "AS2009013",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Patil",
+            "last": "Satish A",
+            "display": "Patil, Dr Satish A"
+        },
+        "sex": "M",
+        "birthDate": "1974-07-01"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "SSCU, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

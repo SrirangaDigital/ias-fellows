@@ -1,0 +1,24 @@
+{
+    "id": "AS2010015",
+    "profile": {
+        "name": {
+            "first": "Datta",
+            "last": "Ayan",
+            "display": "Datta,  Ayan"
+        },
+        "sex": "M",
+        "birthDate": "1980-06-03"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2015"
+    },
+    "contact": {
+        "address": "School of Chemistry, IISER, CET Campus",
+        "city": "Thiruvananthapuram 695 016",
+        "email": {
+            "official": "ayan@iisertvm.ac.in"
+        }
+    }
+}

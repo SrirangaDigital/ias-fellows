@@ -1,0 +1,23 @@
+{
+    "id": "AS1993004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Agarwal",
+            "last": "Uday S",
+            "display": "Agarwal, Dr Uday S"
+        },
+        "sex": "M",
+        "birthDate": "1962-06-15",
+        "specialization": "Chemical Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1997"
+    },
+    "contact": {
+        "address": "Chemical Engineering Department, Indian Institute of Technology, Hauz Khas",
+        "city": "New Delhi 110 016"
+    }
+}

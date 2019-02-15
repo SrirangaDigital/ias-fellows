@@ -1,0 +1,21 @@
+{
+    "id": "AS2009015",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Roy",
+            "last": "Debdas",
+            "display": "Roy, Dr Debdas"
+        },
+        "sex": "M"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "MME Department, National Institute of Foundry and, Forge Technology, Hatia",
+        "city": "Ranchi 834 002"
+    }
+}

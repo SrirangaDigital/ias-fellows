@@ -1,0 +1,23 @@
+{
+    "id": "AS1985011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Samuel",
+            "last": "Joseph",
+            "display": "Samuel, Dr Joseph"
+        },
+        "sex": "M",
+        "birthDate": "1955-11-02",
+        "specialization": "Classical Mechanics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1990"
+    },
+    "contact": {
+        "address": "Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O",
+        "city": "Bangalore 560 080"
+    }
+}

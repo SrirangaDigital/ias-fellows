@@ -1,0 +1,23 @@
+{
+    "id": "AS1991004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mazumdar",
+            "last": "S",
+            "display": "Mazumdar, Dr S"
+        },
+        "sex": "M",
+        "birthDate": "1961-07-06",
+        "specialization": "Bio-inorganic Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1991",
+        "period": "1991-1996"
+    },
+    "contact": {
+        "address": "Chemical Physics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

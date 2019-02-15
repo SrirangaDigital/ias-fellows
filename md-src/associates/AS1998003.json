@@ -1,0 +1,23 @@
+{
+    "id": "AS1998003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ramkumar",
+            "last": "P S",
+            "display": "Ramkumar, Dr P S"
+        },
+        "sex": "M",
+        "birthDate": "1966-01-26",
+        "specialization": "Astronomy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2001"
+    },
+    "contact": {
+        "address": "Raman Research Institute",
+        "city": "Bangalore 560 080"
+    }
+}

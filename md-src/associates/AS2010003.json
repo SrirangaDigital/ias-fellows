@@ -1,0 +1,25 @@
+{
+    "id": "AS2010003",
+    "profile": {
+        "name": {
+            "salutation": "Ranjan",
+            "first": "Datta",
+            "last": "Ranjan",
+            "display": "Datta,  Ranjan"
+        },
+        "sex": "M",
+        "birthDate": "1977-11-29"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "ICMS, JNCASR, Jakkur",
+        "city": "Bangalore 560 064",
+        "email": {
+            "official": "ranjan@jncasr.ac.in"
+        }
+    }
+}

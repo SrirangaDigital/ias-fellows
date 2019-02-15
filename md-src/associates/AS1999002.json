@@ -1,0 +1,23 @@
+{
+    "id": "AS1999002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Seshadri",
+            "last": "Ram",
+            "display": "Seshadri, Dr Ram"
+        },
+        "sex": "M",
+        "birthDate": "1967-10-31",
+        "specialization": "Theoretical Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2002"
+    },
+    "contact": {
+        "address": "S.S.C.U., Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

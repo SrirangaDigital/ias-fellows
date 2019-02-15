@@ -1,0 +1,34 @@
+{
+    "id": "AS2018017",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Vishal",
+            "last": "Vikram",
+            "display": "Vishal, Dr Vikram"
+        },
+        "sex": "M",
+        "birthDate": "1985-07-12",
+        "degree": "Ph.D. (Monash)",
+        "specialization": "Reservoir Geohechanics, Engineering Geology, Climate Change, Perspectives - Geologic Co2 Storage"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Department of Earth Sciences, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7254",
+            "residence": "(022) 2576 8254, 96192 90150",
+            "fax": "(022) 2576 7253"
+        },
+        "email": {
+            "official": "v.vishal@iitb.ac.in"
+        },
+        "url": "http://www.geos.iitb.ac.in/index.php/en/vik"
+    }
+}

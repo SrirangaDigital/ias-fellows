@@ -1,0 +1,27 @@
+{
+    "id": "AS2003006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nagendra",
+            "last": "Harini",
+            "display": "Nagendra, Dr Harini"
+        },
+        "sex": "F",
+        "birthDate": "1972-05-15",
+        "specialization": "Ecology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2003",
+        "period": "2003-2007"
+    },
+    "contact": {
+        "address": "Ashoka Trust for Research in, Ecology and the Environment, 659, 5th A Main, Hebbal",
+        "city": "Bangalore 560 024",
+        "email": {
+            "official": "nagendra@indiana.edu",
+            "personal": "harini.nagendra@gmail.com"
+        }
+    }
+}

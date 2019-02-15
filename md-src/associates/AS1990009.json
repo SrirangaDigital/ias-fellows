@@ -1,0 +1,23 @@
+{
+    "id": "AS1990009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "VijayRaghavan",
+            "last": "Usha",
+            "display": "VijayRaghavan, Dr Usha"
+        },
+        "sex": "F",
+        "birthDate": "1961-08-25",
+        "specialization": "Molecular Genetics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1995"
+    },
+    "contact": {
+        "address": "Microbiology and Cell Biology Dept., Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

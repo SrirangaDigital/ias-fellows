@@ -1,0 +1,34 @@
+{
+    "id": "AS2016003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mondal",
+            "last": "Jagannath",
+            "display": "Mondal, Dr Jagannath"
+        },
+        "sex": "M",
+        "birthDate": "1983-03-17",
+        "degree": "Ph.D. (Wisconsin-Madison)",
+        "specialization": "Computational Chemistry, Theoretical Chemistry"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "TIFR Centre for Interdisciplinary, Sciences, 36/P, Gopanapally",
+        "city": "Hyderabad 500 019",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2020 3091",
+            "residence": "89788 00599"
+        },
+        "email": {
+            "official": "jmondal@tifrh.res.in",
+            "personal": "jagannath.mondal@gmail.com"
+        },
+        "url": "https://sites.google.com/site/jmondalweb3/home"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "AS2009027",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Manjunath",
+            "last": "K",
+            "display": "Manjunath, Dr K"
+        },
+        "sex": "M",
+        "birthDate": "1979-03-21"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2014"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

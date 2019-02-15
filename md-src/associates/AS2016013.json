@@ -1,0 +1,33 @@
+{
+    "id": "AS2016013",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ganapathy",
+            "last": "Radhika",
+            "display": "Ganapathy, Dr Radhika"
+        },
+        "sex": "F",
+        "birthDate": "1982-06-18",
+        "degree": "Ph.D. (Purdue)",
+        "specialization": "Representation Theory, Number Theory, Algebraic Groups"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "M.S.",
+        "telephone": {
+            "office": "(022) 2278 2472",
+            "residence": "73582 37680",
+            "fax": "(022) 2280 4610-11"
+        },
+        "email": {
+            "personal": "rad.gan18@gmail.com"
+        }
+    }
+}

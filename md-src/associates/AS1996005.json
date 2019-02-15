@@ -1,0 +1,26 @@
+{
+    "id": "AS1996005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Menon",
+            "last": "Gautam I.",
+            "display": "Menon, Dr Gautam I."
+        },
+        "sex": "M",
+        "birthDate": "1966-10-16",
+        "specialization": "Condensed Matter Theory, Phase Transition"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1996",
+        "period": "1996-2001"
+    },
+    "contact": {
+        "address": "Theoretical Physics Group, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "email": {
+            "official": "menon@imsc.res.in"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1985008",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Ramaswamy",
+            "last": "R",
+            "display": "Ramaswamy, Prof. R"
+        },
+        "sex": "M",
+        "birthDate": "1953-10-14",
+        "specialization": "Theoretical Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1988"
+    },
+    "contact": {
+        "address": "School of Physical Sciences, Jawaharlal Nehru University",
+        "city": "New Delhi 110 067"
+    }
+}

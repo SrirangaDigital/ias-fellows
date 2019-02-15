@@ -1,0 +1,23 @@
+{
+    "id": "AS1984002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Yadav",
+            "last": "J S",
+            "display": "Yadav, Dr J S"
+        },
+        "sex": "M",
+        "birthDate": "1950-08-04",
+        "specialization": "Bio-organic Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "Division of Organic Chemistry, Indian Inst. of Chemical Technology, Uppal Road",
+        "city": "Hyderabad 500 007"
+    }
+}

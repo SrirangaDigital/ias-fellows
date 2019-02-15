@@ -1,0 +1,21 @@
+{
+    "id": "AS2009019",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Venugopal",
+            "last": "S",
+            "display": "Venugopal, Dr S"
+        },
+        "sex": "M"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "CEDT, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

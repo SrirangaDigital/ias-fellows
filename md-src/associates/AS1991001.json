@@ -1,0 +1,23 @@
+{
+    "id": "AS1991001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ramakrishnan",
+            "last": "S",
+            "display": "Ramakrishnan, Dr S"
+        },
+        "sex": "M",
+        "birthDate": "1960-08-27",
+        "specialization": "Polymer Science"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1991",
+        "period": "1991-1995"
+    },
+    "contact": {
+        "address": "IPC Department, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

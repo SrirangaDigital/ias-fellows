@@ -1,0 +1,26 @@
+{
+    "id": "AS2002005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Shalivahan",
+            "last": "Dr",
+            "display": "Shalivahan, Dr "
+        },
+        "sex": "M",
+        "birthDate": "1971-03-10",
+        "specialization": "Nonlinear Inversion, Electrical & Electromagnetic Methods"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2002",
+        "period": "2002-2006"
+    },
+    "contact": {
+        "address": "Department of Applied Geophysics, Indian School of Mines",
+        "city": "Dhanbad 826 004",
+        "email": {
+            "official": "sv@perl.ism.ac.in"
+        }
+    }
+}

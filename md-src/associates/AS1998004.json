@@ -1,0 +1,26 @@
+{
+    "id": "AS1998004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Rangarajan",
+            "last": "R",
+            "display": "Rangarajan, Dr R"
+        },
+        "sex": "M",
+        "birthDate": "1966-12-09",
+        "specialization": "Cosmology and Particle Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2001"
+    },
+    "contact": {
+        "address": "Theoretical Physics Division, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "email": {
+            "official": "raghavan@prl.res.in"
+        }
+    }
+}

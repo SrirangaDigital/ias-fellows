@@ -1,0 +1,23 @@
+{
+    "id": "AS1984007",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Kaul",
+            "last": "R K",
+            "display": "Kaul, Prof. R K"
+        },
+        "sex": "M",
+        "birthDate": "1952-08-01",
+        "specialization": "Field Theory and Particle Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "The Institute of Mathematical, Sciences, C.I.T. Campus, Taramani",
+        "city": "Chennai 600 113"
+    }
+}

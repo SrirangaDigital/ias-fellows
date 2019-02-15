@@ -1,0 +1,31 @@
+{
+    "id": "AS2017011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Yhoshu",
+            "last": "Kedovikho",
+            "display": "Yhoshu, Dr Kedovikho"
+        },
+        "sex": "M",
+        "birthDate": "1985-10-28",
+        "degree": "Ph.D. (Nagaland)",
+        "specialization": "Physical Geography, Geohazards, Remote Sensing & GIS Applications"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Department of Geography, Nagaland University",
+        "city": "Lumami 798 627",
+        "state": "Nagaland",
+        "telephone": {
+            "residence": "87318 96565"
+        },
+        "email": {
+            "personal": "kedovikho@gmail.com"
+        }
+    }
+}

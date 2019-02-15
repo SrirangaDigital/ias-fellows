@@ -1,0 +1,26 @@
+{
+    "id": "AS1995003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Koshti",
+            "last": "Sucheta",
+            "display": "Koshti, Dr Sucheta"
+        },
+        "sex": "F",
+        "birthDate": "1963-05-19",
+        "specialization": "General Relativity"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1995",
+        "period": "1995-1998"
+    },
+    "contact": {
+        "address": "c/o Dr Tarun Ghosh, CITA McLennan Laboratories, University of Toronto, 60, St George Street",
+        "city": "Toronto, Ontario M5S 1A7, Canada",
+        "email": {
+            "official": "tarun@cita.utoronto.ca"
+        }
+    }
+}

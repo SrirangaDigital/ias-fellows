@@ -1,0 +1,33 @@
+{
+    "id": "AS2018001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ananthanarayanan",
+            "last": "Vaishnavi",
+            "display": "Ananthanarayanan, Dr Vaishnavi"
+        },
+        "sex": "F",
+        "birthDate": "1986-11-23",
+        "degree": "Ph.D. (Max Planck IMCBG, Dresden)",
+        "specialization": "Cell Biology, Biophysics, Quantitative Microscopy"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Centre for Biosystems Science, and Engineering, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3069",
+            "residence": "(080) 6717 9457, 99161 01303"
+        },
+        "email": {
+            "official": "vaishnavi@iisc.ac.in"
+        },
+        "url": "http://www.be.iisc.ac.in/~vaish"
+    }
+}

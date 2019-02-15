@@ -1,0 +1,26 @@
+{
+    "id": "AS2003002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Saurabh",
+            "display": "Ghosh, Dr Saurabh"
+        },
+        "sex": "M",
+        "birthDate": "1971-11-08",
+        "specialization": "Genetic Epidemiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2003",
+        "period": "2003-2006"
+    },
+    "contact": {
+        "address": "Indian Statistical Institute, 203, B.T. Road",
+        "city": "Kolkata 700 108",
+        "email": {
+            "official": "saurabh@isical.ac.in"
+        }
+    }
+}

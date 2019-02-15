@@ -1,0 +1,23 @@
+{
+    "id": "AS1990004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Patel",
+            "last": "A D",
+            "display": "Patel, Dr A D"
+        },
+        "sex": "M",
+        "birthDate": "1959-01-17",
+        "specialization": "Particle Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1994"
+    },
+    "contact": {
+        "address": "Centre for Theoretical Studies, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

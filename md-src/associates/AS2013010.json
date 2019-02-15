@@ -1,0 +1,33 @@
+{
+    "id": "AS2013010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gupta",
+            "last": "Neena",
+            "display": "Gupta, Dr Neena"
+        },
+        "sex": "F",
+        "birthDate": "1984-11-24",
+        "degree": "Ph.D. (ISI, Calcutta)",
+        "specialization": "Commutative Algebra, Affine Fibrations, Affine Spaces"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2018"
+    },
+    "contact": {
+        "address": "Statistics & Mathematics Unit, Indian Statistical Institute, 203, BT Road",
+        "city": "Kolkata 700 108",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(033) 2575 3400",
+            "residence": "93310 27972",
+            "fax": "(033) 2577 3071"
+        },
+        "email": {
+            "official": "neenag@isical.ac.in"
+        }
+    }
+}

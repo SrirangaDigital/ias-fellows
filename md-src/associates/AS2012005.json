@@ -1,0 +1,25 @@
+{
+    "id": "AS2012005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Sujit K",
+            "display": "Ghosh, Dr Sujit K"
+        },
+        "sex": "M",
+        "birthDate": "1978-01-04"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "Dept  of Chemistry, IISER, Homi Bhabha Road, Pashan",
+        "city": "Pune 411 021",
+        "email": {
+            "official": "sghosh@iiserpune.ac.in"
+        }
+    }
+}

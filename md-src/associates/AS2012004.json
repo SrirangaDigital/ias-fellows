@@ -1,0 +1,25 @@
+{
+    "id": "AS2012004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mukherjee",
+            "last": "Santanu",
+            "display": "Mukherjee, Dr Santanu"
+        },
+        "sex": "M",
+        "birthDate": "1980-04-15"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "Dept. of Organic Chemistry, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "sm@orgchem.iisc.ernet.in"
+        }
+    }
+}

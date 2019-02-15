@@ -1,0 +1,23 @@
+{
+    "id": "AS1994001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sengupta",
+            "last": "Surajit",
+            "display": "Sengupta, Dr Surajit"
+        },
+        "sex": "M",
+        "birthDate": "1962-12-17",
+        "specialization": "Condensed Matter Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1997"
+    },
+    "contact": {
+        "address": "Materials Science Division, Indira Gandhi Centre for Atomic, Research",
+        "city": "Kalpakkam 603 102"
+    }
+}

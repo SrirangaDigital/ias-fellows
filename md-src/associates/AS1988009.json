@@ -1,0 +1,23 @@
+{
+    "id": "AS1988009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bhattacharya",
+            "last": "Dipankar",
+            "display": "Bhattacharya, Dr Dipankar"
+        },
+        "sex": "M",
+        "birthDate": "1959-05-29",
+        "specialization": "Theoretical Astrophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1993"
+    },
+    "contact": {
+        "address": "Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O",
+        "city": "Bangalore 560 080"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "AS2001001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Dhar",
+            "last": "Abhishek",
+            "display": "Dhar, Dr Abhishek"
+        },
+        "sex": "M",
+        "birthDate": "1970-08-31",
+        "specialization": "Theoretical Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2001",
+        "period": "2001-2005"
+    },
+    "contact": {
+        "address": "Theoretical Physics Group, Raman Research Institute",
+        "city": "Bangalore 560 080",
+        "email": {
+            "official": "dabhi@rri.res.in"
+        }
+    }
+}

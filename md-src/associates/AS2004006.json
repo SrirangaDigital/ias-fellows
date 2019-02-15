@@ -1,0 +1,23 @@
+{
+    "id": "AS2004006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakrabarti",
+            "last": "Subhabrata",
+            "display": "Chakrabarti, Dr Subhabrata"
+        },
+        "sex": "M",
+        "birthDate": "1972-11-27",
+        "specialization": "Molecular Genetics of Ocular Disorders"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2004",
+        "period": "2004-2007"
+    },
+    "contact": {
+        "address": "LV Prasad Eye Institute, LV Prasad Marg, Banjara Hills",
+        "city": "Hyderabad 500 034"
+    }
+}

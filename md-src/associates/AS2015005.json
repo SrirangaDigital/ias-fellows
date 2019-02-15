@@ -1,0 +1,34 @@
+{
+    "id": "AS2015005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mukherjee",
+            "last": "Chandan",
+            "display": "Mukherjee, Dr Chandan"
+        },
+        "sex": "M",
+        "birthDate": "1981-01-09",
+        "degree": "Ph.D.(Max-Plank)",
+        "specialization": "Bioinorganic Chemistry, Biomedicinal Chemistry, Co-ordination Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Guwahati 781 039",
+        "state": "Assam",
+        "telephone": {
+            "office": "(0361) 258 2327",
+            "residence": "(0361) 258 4327, 80110 16571",
+            "fax": "(0361) 258 2349"
+        },
+        "email": {
+            "official": "cmukherjee@iitg.ernet.in"
+        },
+        "url": "http://www.iitg.ac.in/cmukherjee/mukherjee_page.html"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1984005",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Goswami",
+            "last": "J N",
+            "display": "Goswami, Prof. J N"
+        },
+        "sex": "M",
+        "birthDate": "1950-11-18",
+        "specialization": "Solar System Astrophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "Geophysics Area, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009"
+    }
+}

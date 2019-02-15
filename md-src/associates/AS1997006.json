@@ -1,0 +1,26 @@
+{
+    "id": "AS1997006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gupta",
+            "last": "Sanjeev K",
+            "display": "Gupta, Dr Sanjeev K"
+        },
+        "sex": "M",
+        "birthDate": "1966-10-10",
+        "specialization": "Chemical Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2001"
+    },
+    "contact": {
+        "address": "Department of Chemical Engineering, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "sanjeev@chemeng.iisc.ernet.in"
+        }
+    }
+}

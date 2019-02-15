@@ -1,0 +1,23 @@
+{
+    "id": "AS1992002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Srikanth",
+            "last": "S",
+            "display": "Srikanth, Dr S"
+        },
+        "sex": "M",
+        "birthDate": "1960-06-27",
+        "specialization": "Thermodynamics of Alloys"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1995"
+    },
+    "contact": {
+        "address": "Non-Ferrous Process Division, National Metallurgical Laboratory",
+        "city": "Jamshedpur 831 007"
+    }
+}

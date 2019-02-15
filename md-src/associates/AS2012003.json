@@ -1,0 +1,26 @@
+{
+    "id": "AS2012003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nair",
+            "last": "N N",
+            "display": "Nair, Dr N N"
+        },
+        "sex": "M",
+        "birthDate": "1979-05-05",
+        "specialization": "Computational Quantum Chemistry, Molecular Dynamics Simulation, Catalysis"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "email": {
+            "official": "nnair@iitk.ac.in"
+        }
+    }
+}

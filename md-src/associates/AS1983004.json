@@ -1,0 +1,23 @@
+{
+    "id": "AS1983004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Azmi",
+            "last": "R J",
+            "display": "Azmi, Dr R J"
+        },
+        "sex": "M",
+        "birthDate": "1949-10-11",
+        "specialization": "Micropalaeontology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Wadia Institute of Himalayan, Geology, 33, Gen. Mahadeo Singh Road",
+        "city": "Dehra Dun 248 001"
+    }
+}

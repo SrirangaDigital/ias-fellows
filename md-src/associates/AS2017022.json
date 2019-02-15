@@ -1,0 +1,32 @@
+{
+    "id": "AS2017022",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Hazarika",
+            "last": "Nabajit",
+            "display": "Hazarika, Dr Nabajit"
+        },
+        "sex": "M",
+        "birthDate": "1986-01-17",
+        "degree": "Ph.D. (Tezpur)",
+        "specialization": "Remote Sensing, GIS Applications, Fluvial Geomorphology, Landuse Landcover Studies"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2021"
+    },
+    "contact": {
+        "address": "Dept. of Environmental Science, Nagaland University",
+        "city": "Lumami 798 627",
+        "state": "Nagaland",
+        "telephone": {
+            "residence": "94354 81256, 97066 71256"
+        },
+        "email": {
+            "official": "hazarika_n@nagalanduniversity.ac.in",
+            "personal": "nabajit4u@gmail.com"
+        }
+    }
+}

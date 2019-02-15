@@ -1,0 +1,35 @@
+{
+    "id": "AS2017004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Giri",
+            "last": "Rajanish",
+            "display": "Giri, Dr Rajanish"
+        },
+        "sex": "M",
+        "birthDate": "1984-03-01",
+        "degree": "Ph.D. (Sapienza Univ., Rome)",
+        "specialization": "Protein Folding, Infection Biology, Intrinsically Disordered Proteins"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "School of Basic Sciences, Indian Institute of Technology",
+        "city": "Mandi 175 005",
+        "state": "H.P.",
+        "telephone": {
+            "office": "(01905) 26 7134",
+            "residence": "(01905) 26 7138, 98160 14007",
+            "fax": "(01905) 26 7138"
+        },
+        "email": {
+            "official": "rajanishgiri@iitmandi.ac.in",
+            "personal": "rajanishgiri@gmail.com"
+        },
+        "url": "http://faculty.iitmandi.ac.in/~rajanishgiri/"
+    }
+}

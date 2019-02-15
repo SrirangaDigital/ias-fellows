@@ -1,0 +1,23 @@
+{
+    "id": "AS1984003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Iyer",
+            "last": "B R",
+            "display": "Iyer, Dr B R"
+        },
+        "sex": "M",
+        "birthDate": "1952-12-28",
+        "specialization": "Relativistic Astrophysics and General Relativity"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "Raman Research Institute, C.V. Raman Avenue, Sadashivanagar P.O",
+        "city": "Bangalore 560 080"
+    }
+}

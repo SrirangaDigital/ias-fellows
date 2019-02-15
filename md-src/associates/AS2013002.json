@@ -1,0 +1,26 @@
+{
+    "id": "AS2013002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jha",
+            "last": "Rajan",
+            "display": "Jha, Dr Rajan"
+        },
+        "sex": "M",
+        "birthDate": "1979-02-13",
+        "specialization": "Optical Sensiors, Optical Fibre-based Devices, Plasmonics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "School of Basic Sciences, IIT",
+        "city": "Bhubaneswar 751 013",
+        "email": {
+            "official": "rjha@iitbbs.ac.in"
+        }
+    }
+}

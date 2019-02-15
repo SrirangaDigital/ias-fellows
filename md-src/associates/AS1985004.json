@@ -1,0 +1,23 @@
+{
+    "id": "AS1985004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Banerjee",
+            "last": "D",
+            "display": "Banerjee, Dr D"
+        },
+        "sex": "M",
+        "birthDate": "1952-02-15",
+        "specialization": "Physical Metallurgy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1988"
+    },
+    "contact": {
+        "address": "Director, Defence Metallurgical Research, Laboratory, Kanchanbagh P.O.",
+        "city": "Hyderabad 500 058"
+    }
+}

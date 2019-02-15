@@ -1,0 +1,25 @@
+{
+    "id": "AS2007007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Subramanian",
+            "last": "Ganesh",
+            "display": "Subramanian, Dr Ganesh"
+        },
+        "sex": "M",
+        "birthDate": "1975-08-09"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2010"
+    },
+    "contact": {
+        "address": "Faculty Fellow, Engineering Mechanics Unit, Jawaharlal Nehru Centre for, Advanced Scientific Research",
+        "city": "Bangalore 560 064",
+        "email": {
+            "official": "sganesh@jncasr.ac.in"
+        }
+    }
+}

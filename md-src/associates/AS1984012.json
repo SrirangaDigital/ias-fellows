@@ -1,0 +1,23 @@
+{
+    "id": "AS1984012",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Venkatakrishnan",
+            "last": "P",
+            "display": "Venkatakrishnan, Dr P"
+        },
+        "sex": "M",
+        "birthDate": "1953-07-03",
+        "specialization": "Solar Astrophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1988"
+    },
+    "contact": {
+        "address": "Indian Institute of Astrophysics, Sarjapur Road, Koramangala",
+        "city": "Bangalore 560 034"
+    }
+}

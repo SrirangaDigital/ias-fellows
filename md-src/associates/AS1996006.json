@@ -1,0 +1,26 @@
+{
+    "id": "AS1996006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Srianand",
+            "last": "R",
+            "display": "Srianand, Dr R"
+        },
+        "sex": "M",
+        "birthDate": "1969-02-01",
+        "specialization": "Astronomy - Quasars"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1996",
+        "period": "1996-2001"
+    },
+    "contact": {
+        "address": "Inter-University Centre for, Astronomy and Astrophysics, Post Bag 4, Ganeshkhind",
+        "city": "Pune 411 007",
+        "email": {
+            "official": "anand@iucaa.ernet.in"
+        }
+    }
+}

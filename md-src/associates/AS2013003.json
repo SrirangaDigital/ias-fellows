@@ -1,0 +1,26 @@
+{
+    "id": "AS2013003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Maiti",
+            "last": "Debabrata",
+            "display": "Maiti, Dr Debabrata"
+        },
+        "sex": "M",
+        "birthDate": "1980-12-10",
+        "specialization": "Organometallic Chemistry, Bioinspired Catalysis"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, IIT",
+        "city": "Mumbai 400 076",
+        "email": {
+            "official": "dmaiti@chem.iitb.ac.in"
+        }
+    }
+}

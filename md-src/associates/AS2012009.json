@@ -1,0 +1,25 @@
+{
+    "id": "AS2012009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ray",
+            "last": "Supratim",
+            "display": "Ray, Dr Supratim"
+        },
+        "sex": "M",
+        "birthDate": "1979-09-21"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "Centre for Neuroscience, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "sray@cns.iisc.ernet.in"
+        }
+    }
+}

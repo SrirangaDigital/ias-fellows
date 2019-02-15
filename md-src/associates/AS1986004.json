@@ -1,0 +1,23 @@
+{
+    "id": "AS1986004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chatterjee",
+            "last": "Ambar",
+            "display": "Chatterjee, Dr Ambar"
+        },
+        "sex": "M",
+        "birthDate": "1952-10-25",
+        "specialization": "Physics of Nuclear Reactions"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1989"
+    },
+    "contact": {
+        "address": "Nuclear Physics Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "AS2002002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Athreya",
+            "last": "Siva",
+            "display": "Athreya, Dr Siva"
+        },
+        "sex": "M",
+        "birthDate": "1971-01-07",
+        "specialization": "Stochastic Analysis"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2002",
+        "period": "2002-2006"
+    },
+    "contact": {
+        "address": "Stat-Math Unit, Indian Statistical Institute, 7, SJS Sansanwal Marg",
+        "city": "New Delhi 110 016",
+        "email": {
+            "official": "athreya@isibang.ac.in"
+        }
+    }
+}

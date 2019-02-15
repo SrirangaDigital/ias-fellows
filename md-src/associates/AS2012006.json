@@ -1,0 +1,25 @@
+{
+    "id": "AS2012006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Agarwal",
+            "last": "Shivani",
+            "display": "Agarwal, Dr Shivani"
+        },
+        "sex": "F",
+        "birthDate": "1978-04-08"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "CSA Department, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "shivani@csa.iisc.ernet.in"
+        }
+    }
+}

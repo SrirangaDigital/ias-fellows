@@ -1,0 +1,26 @@
+{
+    "id": "AS1997007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Guptasarma",
+            "last": "P",
+            "display": "Guptasarma, Dr P"
+        },
+        "sex": "M",
+        "birthDate": "1966-07-31",
+        "specialization": "Protein Chemistry and Biophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1997",
+        "period": "1997-2001"
+    },
+    "contact": {
+        "address": "Scientist C, Institute of Microbial Technology, Sector 39A",
+        "city": "Chandigarh 160 039",
+        "email": {
+            "official": "pg@imtech.res.in"
+        }
+    }
+}

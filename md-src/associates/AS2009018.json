@@ -1,0 +1,22 @@
+{
+    "id": "AS2009018",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Thilagar",
+            "last": "P",
+            "display": "Thilagar, Dr P"
+        },
+        "sex": "M",
+        "birthDate": "1976-04-28"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "IPC Department, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

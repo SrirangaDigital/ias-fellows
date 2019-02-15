@@ -1,0 +1,23 @@
+{
+    "id": "AS1983021",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ramanuja Rao",
+            "last": "I V",
+            "display": "Ramanuja Rao, Dr I V"
+        },
+        "sex": "M",
+        "birthDate": "1954-05-23",
+        "specialization": "Plant Physiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1988"
+    },
+    "contact": {
+        "address": "Department of Botany, University of Delhi",
+        "city": "Delhi 110 007"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1985007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Prathap",
+            "last": "G",
+            "display": "Prathap, Dr G"
+        },
+        "sex": "M",
+        "birthDate": "1951-06-06",
+        "specialization": "Finite Element Analysis of Structures"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1988"
+    },
+    "contact": {
+        "address": "Structures Division, National Aerospace Laboratories, Airport Road",
+        "city": "Bangalore 560 017"
+    }
+}

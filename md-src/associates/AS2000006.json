@@ -1,0 +1,26 @@
+{
+    "id": "AS2000006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Vaidya",
+            "last": "Vidita A",
+            "display": "Vaidya, Dr Vidita A"
+        },
+        "sex": "F",
+        "birthDate": "1970-11-15",
+        "specialization": "Neuroscience"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2000",
+        "period": "2000-2005"
+    },
+    "contact": {
+        "address": "Dept. of Biological Sciences, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Bombay 400 005",
+        "email": {
+            "official": "vvaidya@tifr.res.in"
+        }
+    }
+}

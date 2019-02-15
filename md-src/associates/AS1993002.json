@@ -1,0 +1,23 @@
+{
+    "id": "AS1993002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Das",
+            "last": "P P",
+            "display": "Das, Dr P P"
+        },
+        "sex": "M",
+        "birthDate": "1961-07-30",
+        "specialization": "Computer Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1996"
+    },
+    "contact": {
+        "address": "Dept. of Computer Science and, Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302"
+    }
+}

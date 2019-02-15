@@ -1,0 +1,23 @@
+{
+    "id": "AS1985002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Banerjee",
+            "last": "Sunanda",
+            "display": "Banerjee, Dr Sunanda"
+        },
+        "sex": "M",
+        "birthDate": "1952-07-20",
+        "specialization": "Experimental High Energy Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1988"
+    },
+    "contact": {
+        "address": "EHEP Group, School of Physics, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

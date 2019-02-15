@@ -1,0 +1,23 @@
+{
+    "id": "AS1992007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mandal",
+            "last": "Gautam",
+            "display": "Mandal, Dr Gautam"
+        },
+        "sex": "M",
+        "birthDate": "1962-12-15",
+        "specialization": "String Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1997"
+    },
+    "contact": {
+        "address": "Theory Group, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

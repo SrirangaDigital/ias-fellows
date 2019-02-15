@@ -1,0 +1,23 @@
+{
+    "id": "AS2000003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Hariharan",
+            "last": "Ramesh",
+            "display": "Hariharan, Dr Ramesh"
+        },
+        "sex": "M",
+        "birthDate": "1969-01-23",
+        "specialization": "Design & Analysis of Combinatorial Algorithms"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2000",
+        "period": "2000-2004"
+    },
+    "contact": {
+        "address": "Assistant Professor, CSA Department, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

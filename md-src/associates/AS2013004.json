@@ -1,0 +1,26 @@
+{
+    "id": "AS2013004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Viswanatha",
+            "last": "Ranjani",
+            "display": "Viswanatha, Dr Ranjani"
+        },
+        "sex": "F",
+        "birthDate": "1979-02-06",
+        "specialization": "Semiconductor Nanomaterials"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "ICMS, J CASR, Jakkur",
+        "city": "Bangalore 560 064",
+        "email": {
+            "official": "rv@jncasr.ac.in"
+        }
+    }
+}

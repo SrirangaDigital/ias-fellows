@@ -1,0 +1,22 @@
+{
+    "id": "AS2009023",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Saha",
+            "last": "Binoy",
+            "display": "Saha, Dr Binoy"
+        },
+        "sex": "M",
+        "birthDate": "1978-01-08"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2013"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, Pondicherry University",
+        "city": "Pondicherry 605 002"
+    }
+}

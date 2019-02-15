@@ -1,0 +1,22 @@
+{
+    "id": "AS2009001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Banerjee",
+            "last": "Rahul",
+            "display": "Banerjee, Dr Rahul"
+        },
+        "sex": "M",
+        "birthDate": "1977-12-15"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "PMC Division, National Chemical Laboratory",
+        "city": "Pune 411 008"
+    }
+}

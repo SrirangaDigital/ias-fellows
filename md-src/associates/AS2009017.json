@@ -1,0 +1,21 @@
+{
+    "id": "AS2009017",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sunil Chandran",
+            "last": "L",
+            "display": "Sunil Chandran, Dr L"
+        },
+        "sex": "M"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "CSA Department, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

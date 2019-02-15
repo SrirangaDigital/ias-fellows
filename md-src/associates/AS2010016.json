@@ -1,0 +1,24 @@
+{
+    "id": "AS2010016",
+    "profile": {
+        "name": {
+            "first": "Jain",
+            "last": "Tanvi",
+            "display": "Jain,  Tanvi"
+        },
+        "sex": "F",
+        "birthDate": "1981-05-17"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2015"
+    },
+    "contact": {
+        "address": "Dept. of Mathematics, University of Delhi",
+        "city": "Delhi 110 007",
+        "email": {
+            "personal": "tanvi1705@rediffmail.com"
+        }
+    }
+}

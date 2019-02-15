@@ -1,0 +1,34 @@
+{
+    "id": "AS2017001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Badhulika",
+            "last": "Sushmee",
+            "display": "Badhulika, Dr Sushmee"
+        },
+        "sex": "F",
+        "birthDate": "1985-05-13",
+        "degree": "Ph.D. (UC, Riverside)",
+        "specialization": "Flexible & Wearable Nanoelectronics,  Electrochemical Sensors, Paper Electronics"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Dept. of Electrical Engineering, Indian Institute of Technology, Kandi",
+        "city": "Hyderabad 502 285",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2301 8443",
+            "residence": "84552 37735, 94948 19735",
+            "fax": "(040) 2301 6032"
+        },
+        "email": {
+            "official": "sbadh@iith.ac.in"
+        },
+        "url": "http://www.iith.ac.in/~sbadh/"
+    }
+}

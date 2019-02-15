@@ -1,0 +1,23 @@
+{
+    "id": "AS1990006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Radhakrishnan",
+            "last": "T P",
+            "display": "Radhakrishnan, Dr T P"
+        },
+        "sex": "M",
+        "birthDate": "1960-05-25",
+        "specialization": "Organic Solids"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1990",
+        "period": "1990-1995"
+    },
+    "contact": {
+        "address": "Reader, School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "AS2012002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jeganmohan",
+            "last": "M",
+            "display": "Jeganmohan, Dr M"
+        },
+        "sex": "M",
+        "birthDate": "1978-04-24"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2015"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, IISER, Sai Trinity Bldg., Garware Circle, Pashan",
+        "city": "Pune 411 008",
+        "email": {
+            "official": "mjeganmohan@iiserpune.ac.in"
+        }
+    }
+}

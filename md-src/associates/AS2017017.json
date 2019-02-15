@@ -1,0 +1,34 @@
+{
+    "id": "AS2017017",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kumar",
+            "last": "Aditya",
+            "display": "Kumar, Dr Aditya"
+        },
+        "sex": "M",
+        "birthDate": "1984-07-01",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Genomics, Molecular Biophysics, Computational Biology"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Dept. of Molecular Biology &, Biotechnology, Tezpur University",
+        "city": "Tezpur 784 028",
+        "state": "Assam",
+        "telephone": {
+            "office": "(03712) 27 5422",
+            "residence": "97419 64840",
+            "fax": "(03712) 26 7005"
+        },
+        "email": {
+            "official": "aditya@tezu.ernet.in",
+            "personal": "kumar_aditya@rediffmail.com"
+        }
+    }
+}

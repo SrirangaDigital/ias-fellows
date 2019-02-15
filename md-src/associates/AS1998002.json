@@ -1,0 +1,26 @@
+{
+    "id": "AS1998002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pati",
+            "last": "Arun Kumar",
+            "display": "Pati, Dr Arun Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1966-04-13",
+        "specialization": "Classical and Quantum Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2001"
+    },
+    "contact": {
+        "address": "Theoretical Physics Division, 5th Floor, Central Complex, Bhabha Atomic Research Centre, Trombay",
+        "city": "Bombay 400 085",
+        "email": {
+            "official": "akpati@iopb.res.in"
+        }
+    }
+}

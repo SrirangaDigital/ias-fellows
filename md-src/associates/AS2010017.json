@@ -1,0 +1,24 @@
+{
+    "id": "AS2010017",
+    "profile": {
+        "name": {
+            "first": "Nair",
+            "last": "Vijaykumar N",
+            "display": "Nair,  Vijaykumar N"
+        },
+        "sex": "M",
+        "birthDate": "1981-05-26"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2015"
+    },
+    "contact": {
+        "address": "Space Physics Laboratory, VSSC",
+        "city": "Thiruvananthapuram 695 022",
+        "email": {
+            "personal": "vijaykumarsnair@gmail.com"
+        }
+    }
+}

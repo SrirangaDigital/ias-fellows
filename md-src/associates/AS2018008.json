@@ -1,0 +1,34 @@
+{
+    "id": "AS2018008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Karagadde",
+            "last": "Shyamprasad",
+            "display": "Karagadde, Dr Shyamprasad"
+        },
+        "sex": "M",
+        "birthDate": "1985-01-24",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Solidification, Computational Mechanics, Heat Transfer"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Department of Mechanical Engg., Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 7398",
+            "residence": "(022) 2576 8398, 75069 37398",
+            "fax": "(022) 2572 6875"
+        },
+        "email": {
+            "official": "s.karagadde@iitb.ac.in"
+        },
+        "url": "https://sites.google.com/site/shyamkaragadde/"
+    }
+}

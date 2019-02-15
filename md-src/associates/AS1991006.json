@@ -1,0 +1,23 @@
+{
+    "id": "AS1991006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ramesh",
+            "last": "D S",
+            "display": "Ramesh, Dr D S"
+        },
+        "sex": "M",
+        "birthDate": "1961-10-26",
+        "specialization": "Seismology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1991",
+        "period": "1991-1996"
+    },
+    "contact": {
+        "address": "Geotomography Division, National Geophysical Res. Institute, Uppal Road",
+        "city": "Hyderabad 500 007"
+    }
+}

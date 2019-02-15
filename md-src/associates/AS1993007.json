@@ -1,0 +1,23 @@
+{
+    "id": "AS1993007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sujatha",
+            "last": "R",
+            "display": "Sujatha, Dr R"
+        },
+        "sex": "F",
+        "birthDate": "1962-05-23",
+        "specialization": "Algebra"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1997"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

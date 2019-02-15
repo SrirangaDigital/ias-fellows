@@ -1,0 +1,22 @@
+{
+    "id": "AS2009025",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Biswas",
+            "last": "K",
+            "display": "Biswas, Dr K"
+        },
+        "sex": "M",
+        "birthDate": "1980-02-17"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2014"
+    },
+    "contact": {
+        "address": "Dept. of Mathematics, RK Mission Vivekananda University, Belur Math",
+        "city": "Howrah 711 204"
+    }
+}

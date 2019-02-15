@@ -1,0 +1,23 @@
+{
+    "id": "AS1991005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ramaswami",
+            "last": "M",
+            "display": "Ramaswami, Dr M"
+        },
+        "sex": "M",
+        "birthDate": "1961-11-11",
+        "specialization": "Molecular Biology and Genetics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1991",
+        "period": "1991-1996"
+    },
+    "contact": {
+        "address": "Molecular Biology Unit, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

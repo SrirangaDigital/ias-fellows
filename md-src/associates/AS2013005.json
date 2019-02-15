@@ -1,0 +1,26 @@
+{
+    "id": "AS2013005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Rajaraman",
+            "last": "Gopalan",
+            "display": "Rajaraman, Dr Gopalan"
+        },
+        "sex": "M",
+        "birthDate": "1979-04-03",
+        "specialization": "Computational Chemistry, Molecular Magnetism, Catalysis"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, IIT, Powai",
+        "city": "Mumbai 400 076",
+        "email": {
+            "official": "rajaraman@chem.iitb.ac.in"
+        }
+    }
+}

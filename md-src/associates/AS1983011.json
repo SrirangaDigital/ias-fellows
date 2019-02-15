@@ -1,0 +1,23 @@
+{
+    "id": "AS1983011",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Gadre",
+            "last": "S R",
+            "display": "Gadre, Prof. S R"
+        },
+        "sex": "M",
+        "birthDate": "1950-05-20",
+        "specialization": "Quantum Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Department of Chemistry, University of Pune",
+        "city": "Pune 411 007"
+    }
+}

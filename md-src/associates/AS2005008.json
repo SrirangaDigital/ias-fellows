@@ -1,0 +1,25 @@
+{
+    "id": "AS2005008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Thattai",
+            "last": "Mukund",
+            "display": "Thattai, Dr Mukund"
+        },
+        "sex": "M",
+        "birthDate": "1976-12-23"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2009"
+    },
+    "contact": {
+        "address": "National Centre for Biological, Sciences, GKVK Campus",
+        "city": "Bangalore 560 065",
+        "email": {
+            "official": "thattai@ncbs.res.in"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1988005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mohan",
+            "last": "Anand",
+            "display": "Mohan, Dr Anand"
+        },
+        "sex": "M",
+        "birthDate": "1957-09-29",
+        "specialization": "Petrology and Mineralogy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1992"
+    },
+    "contact": {
+        "address": "Department of Geology, Faculty of Science, Banaras Hindu University",
+        "city": "Varanasi 221 005"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "AS2011015",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sridhar",
+            "last": "P Ramu",
+            "display": "Sridhar, Dr P Ramu"
+        },
+        "sex": "M",
+        "birthDate": "1977-06-10"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2011",
+        "period": "2011-2014"
+    },
+    "contact": {
+        "address": "School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "email": {
+            "official": "prssc@uohyd.ernet.in"
+        }
+    }
+}

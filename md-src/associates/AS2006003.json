@@ -1,0 +1,22 @@
+{
+    "id": "AS2006003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Joshi",
+            "last": "Yogesh M",
+            "display": "Joshi, Dr Yogesh M"
+        },
+        "sex": "M",
+        "birthDate": "1974-12-29"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2006",
+        "period": "2006-2009"
+    },
+    "contact": {
+        "address": "Dept. of Chemical Engineering, Indian Institute of Technology",
+        "city": "Kanpur 208 016"
+    }
+}

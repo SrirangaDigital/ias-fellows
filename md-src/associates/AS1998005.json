@@ -1,0 +1,23 @@
+{
+    "id": "AS1998005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Agrawal",
+            "last": "Manindra",
+            "display": "Agrawal, Dr Manindra"
+        },
+        "sex": "M",
+        "birthDate": "1966-05-20",
+        "specialization": "Computer Science and Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2001"
+    },
+    "contact": {
+        "address": "Dept. of Computer Science & Engg., Indian Institute of Technology",
+        "city": "Kanpur 208 016"
+    }
+}

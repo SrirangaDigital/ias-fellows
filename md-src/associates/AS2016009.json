@@ -1,0 +1,33 @@
+{
+    "id": "AS2016009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Khan",
+            "last": "Sameena",
+            "display": "Khan, Dr Sameena"
+        },
+        "sex": "F",
+        "birthDate": "1984-05-23",
+        "degree": "Ph.D. (Banasthali Vidyapeeth)",
+        "specialization": "Structural Biology, Cell Biology"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "Drug Delivery Res. Centre, Translational Health Sci. & Tech., Institute, NCR Biotech. Science, Cluster 3rd Milestone",
+        "city": "Faridabad 121 001",
+        "state": "Haryana",
+        "telephone": {
+            "office": "(0129) 287 6498",
+            "residence": "(0124) 498 1539, 99581 32505"
+        },
+        "email": {
+            "official": "sameena@thsti.res.in"
+        },
+        "url": "http://thsti.rres.in/profile/sameena-khan"
+    }
+}

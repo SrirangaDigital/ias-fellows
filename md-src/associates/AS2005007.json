@@ -1,0 +1,22 @@
+{
+    "id": "AS2005007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mittal",
+            "last": "Aditya",
+            "display": "Mittal, Dr Aditya"
+        },
+        "sex": "M",
+        "birthDate": "1974-10-30"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2009"
+    },
+    "contact": {
+        "address": "Department of Biochemical, Engineering & Biotechnology, Indian Institute of Technology",
+        "city": "New Delhi 110 016"
+    }
+}

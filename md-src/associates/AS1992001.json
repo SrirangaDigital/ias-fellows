@@ -1,0 +1,26 @@
+{
+    "id": "AS1992001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nangia",
+            "last": "Aswini",
+            "display": "Nangia, Dr Aswini"
+        },
+        "sex": "M",
+        "birthDate": "1960-11-10",
+        "specialization": "Bioorganic Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1995"
+    },
+    "contact": {
+        "address": "School of Chemistry, University of Hyderabad",
+        "city": "Hyderabad 500 046",
+        "email": {
+            "official": "ansc@uohyd.ernet.in"
+        }
+    }
+}

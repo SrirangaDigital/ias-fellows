@@ -1,0 +1,26 @@
+{
+    "id": "AS2003001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bhattacharya",
+            "last": "Siddhartha",
+            "display": "Bhattacharya, Dr Siddhartha"
+        },
+        "sex": "M",
+        "birthDate": "1971-12-25",
+        "specialization": "Rigidity Theory of Dynamical Systems"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2003",
+        "period": "2003-2006"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "email": {
+            "official": "siddhart@math.tifr.res.in"
+        }
+    }
+}

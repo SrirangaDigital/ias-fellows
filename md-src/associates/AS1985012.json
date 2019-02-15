@@ -1,0 +1,23 @@
+{
+    "id": "AS1985012",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chaplot",
+            "last": "S L",
+            "display": "Chaplot, Dr S L"
+        },
+        "sex": "M",
+        "birthDate": "1955-07-24",
+        "specialization": "Structure and Dynamics of Solids"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1990"
+    },
+    "contact": {
+        "address": "Nuclear Physics Division, Bhabha Atomic Research Centre, Trombay",
+        "city": "Mumbai 400 085"
+    }
+}

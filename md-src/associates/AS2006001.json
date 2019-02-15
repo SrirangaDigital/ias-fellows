@@ -1,0 +1,25 @@
+{
+    "id": "AS2006001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bharali",
+            "last": "Gautam",
+            "display": "Bharali, Dr Gautam"
+        },
+        "sex": "M",
+        "birthDate": "1974-05-13"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2006",
+        "period": "2006-2009"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "bharali@math.iisc.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "AS2017003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Antony",
+            "last": "Runa",
+            "display": "Antony, Dr Runa"
+        },
+        "sex": "F",
+        "birthDate": "1984-01-23",
+        "degree": "Ph.D. (Goa)",
+        "specialization": "Polar Microbiology, Biogeochemistry, Supraglacial Carbon Cycling"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "National Centre for Antarctic &, Ocean Research, Headland Sada, Vasco-da-gama",
+        "city": "Goa 403 804",
+        "state": "Goa",
+        "telephone": {
+            "office": "(0832) 252 5632",
+            "residence": "84128 66428"
+        },
+        "email": {
+            "personal": "runaantony@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1994006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chaudhuri",
+            "last": "Probal",
+            "display": "Chaudhuri, Dr Probal"
+        },
+        "sex": "M",
+        "birthDate": "1963-11-21",
+        "specialization": "Statistics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1998"
+    },
+    "contact": {
+        "address": "Stat. Math. Unit, Indian Statistical Institute, 203, B.T. Road",
+        "city": "Calcutta 700 035"
+    }
+}

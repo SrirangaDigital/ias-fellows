@@ -1,0 +1,33 @@
+{
+    "id": "AS2017010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Praveen Kumar",
+            "last": "Balanlpillai",
+            "display": "Praveen Kumar, Dr Balanlpillai"
+        },
+        "sex": "M",
+        "birthDate": "1985-05-20",
+        "degree": "Ph.D. (Andhra)",
+        "specialization": "Marine Meteorology, Air-Sea Fluxes, Upper Ocean Variability"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Indian National Centre for, Ocean Information Services, Pragathi Nagar",
+        "city": "Hyderabad 500 090",
+        "state": "A.P.",
+        "telephone": {
+            "office": "(040) 2388 6170",
+            "residence": "81252 77281",
+            "fax": "(040) 2389 5001"
+        },
+        "email": {
+            "official": "praveen.b@incois.gov.in"
+        }
+    }
+}

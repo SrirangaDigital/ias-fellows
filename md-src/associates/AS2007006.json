@@ -1,0 +1,26 @@
+{
+    "id": "AS2007006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mukherjee",
+            "last": "Partha Sarathi",
+            "display": "Mukherjee, Dr Partha Sarathi"
+        },
+        "sex": "M",
+        "birthDate": "1973-02-11"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2010"
+    },
+    "contact": {
+        "address": "Department of Inorganic and, Physical Chemistry, Indian Institute of Science",
+        "city": "Bangalore - 560 012",
+        "email": {
+            "official": "psm@ipc.iisc.ernet.in",
+            "personal": "part_dip@hotmail.com"
+        }
+    }
+}

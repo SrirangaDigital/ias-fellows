@@ -1,0 +1,32 @@
+{
+    "id": "AS2017009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakrabortty",
+            "last": "Joydeep",
+            "display": "Chakrabortty, Dr Joydeep"
+        },
+        "sex": "M",
+        "birthDate": "1983-12-09",
+        "degree": "Ph.D. (HRI, Allahabad)",
+        "specialization": "Theoretical Particle Physics, Unified Field Theory, Supersymmetry"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7083",
+            "residence": "75248 53731"
+        },
+        "email": {
+            "official": "joydeep@iitk.ac.in"
+        }
+    }
+}

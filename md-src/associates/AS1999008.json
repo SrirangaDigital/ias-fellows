@@ -1,0 +1,26 @@
+{
+    "id": "AS1999008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ray",
+            "last": "Jyotiranjan S",
+            "display": "Ray, Dr Jyotiranjan S"
+        },
+        "sex": "M",
+        "birthDate": "1970-07-16",
+        "specialization": "Geochronology, Geochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2004"
+    },
+    "contact": {
+        "address": "Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "email": {
+            "official": "jsray@prl.ernet.in"
+        }
+    }
+}

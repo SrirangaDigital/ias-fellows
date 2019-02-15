@@ -1,0 +1,23 @@
+{
+    "id": "AS1985010",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Desiraju",
+            "last": "G R",
+            "display": "Desiraju, Prof. G R"
+        },
+        "sex": "M",
+        "birthDate": "1952-08-21",
+        "specialization": "Solid State Chemistry, Crystallography"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1989"
+    },
+    "contact": {
+        "address": "School of Chemistry, University of Hyderabad, Central University P.O",
+        "city": "Hyderabad 500 046"
+    }
+}

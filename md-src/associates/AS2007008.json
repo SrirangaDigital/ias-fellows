@@ -1,0 +1,25 @@
+{
+    "id": "AS2007008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Anandavardhanan",
+            "last": "U.K.",
+            "display": "Anandavardhanan, Dr U.K."
+        },
+        "sex": "M",
+        "birthDate": "1976-05-25"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2007",
+        "period": "2007-2010"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Technology, Powai",
+        "city": "Mumbai - 400 076",
+        "email": {
+            "official": "anand@math.iitb.ac.in"
+        }
+    }
+}

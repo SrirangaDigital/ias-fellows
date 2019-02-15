@@ -1,0 +1,33 @@
+{
+    "id": "AS2016011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Prajapati",
+            "last": "Vijay Kumar",
+            "display": "Prajapati, Dr Vijay Kumar"
+        },
+        "sex": "M",
+        "birthDate": "1984-07-05",
+        "degree": "Ph.D. (BHU)",
+        "specialization": "Infection Biology, Parasitology, Chemical Biology"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "Dept. of Biochemistry, School of Life Science, Central University of Rajasthan, Bandarsindri",
+        "city": "Kishangarh 305 817",
+        "state": "Rajasthan",
+        "telephone": {
+            "residence": "75972 71362"
+        },
+        "email": {
+            "official": "vkprajapati@curaj.ac.in",
+            "personal": "vijay84bhu@gmail.com"
+        },
+        "url": "http://vkprajapati-lab.webs.com/"
+    }
+}

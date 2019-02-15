@@ -1,0 +1,22 @@
+{
+    "id": "AS2009024",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Singh",
+            "last": "Sanjay",
+            "display": "Singh, Dr Sanjay"
+        },
+        "sex": "M",
+        "birthDate": "1974-10-01"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2013"
+    },
+    "contact": {
+        "address": "Indian Inst. of Science Education, and Research, MGSIPA Complex, Transit Campus, Sector 26",
+        "city": "Chandigarh 160 019"
+    }
+}

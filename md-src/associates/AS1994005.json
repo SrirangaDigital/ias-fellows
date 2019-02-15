@@ -1,0 +1,23 @@
+{
+    "id": "AS1994005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chandra",
+            "last": "Amalendu",
+            "display": "Chandra, Dr Amalendu"
+        },
+        "sex": "M",
+        "birthDate": "1963-10-06",
+        "specialization": "Physical Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1998"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kanpur 208 016"
+    }
+}

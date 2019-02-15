@@ -1,0 +1,35 @@
+{
+    "id": "AS2018007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Hazra",
+            "last": "Aritra",
+            "display": "Hazra, Dr Aritra"
+        },
+        "sex": "M",
+        "birthDate": "1985-05-26",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "specialization": "Design Verification, VLSI, CAD"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Department of Computer Science, and Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 30 4640",
+            "residence": "(03222) 30 4641, 94343 70048",
+            "fax": "(03222) 27 8985"
+        },
+        "email": {
+            "official": "artrah@cse.iitkgp.ac.in",
+            "personal": "just2aritra@gmail.com"
+        },
+        "url": "http://cse.iitkgp.ac.in/~aritrah/"
+    }
+}

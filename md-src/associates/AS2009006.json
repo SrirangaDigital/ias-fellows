@@ -1,0 +1,22 @@
+{
+    "id": "AS2009006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Suhrit",
+            "display": "Ghosh, Dr Suhrit"
+        },
+        "sex": "M",
+        "birthDate": "1976-03-12"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Polymer Science Unit, IACS, Jadavpur",
+        "city": "Kolkata 700 032"
+    }
+}

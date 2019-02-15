@@ -1,0 +1,35 @@
+{
+    "id": "AS2017002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Baidya",
+            "last": "Md. Mahiuddin",
+            "display": "Baidya, Dr Md. Mahiuddin"
+        },
+        "sex": "M",
+        "birthDate": "1983-11-13",
+        "degree": "Ph.D. (Ludwig Maximilians)",
+        "specialization": "Organic Synthesis, Catalysis & Asymmetric Transformations, Synthesis of Natural Prodcuts & Drug Mole"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Chennai 600 036",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2257 4212",
+            "residence": "(044) 2257 6212, 99621 81860",
+            "fax": "(044) 2257 4202"
+        },
+        "email": {
+            "official": "mbaidya@iitm.ac.in",
+            "personal": "mdmahiuddin@gmail.com"
+        },
+        "url": "ttp://chem.iitm.ac.in/faculty/mahiuddinbaidya/"
+    }
+}

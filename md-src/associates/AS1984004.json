@@ -1,0 +1,23 @@
+{
+    "id": "AS1984004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Prasad",
+            "last": "Sudarsan D",
+            "display": "Prasad, Dr Sudarsan D"
+        },
+        "sex": "M",
+        "birthDate": "1952-01-22",
+        "specialization": "Surface Chemical Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "Chemical Engineering Division, National Chemical Laboratory",
+        "city": "Pune 411 008"
+    }
+}

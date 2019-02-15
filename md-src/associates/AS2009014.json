@@ -1,0 +1,22 @@
+{
+    "id": "AS2009014",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pradeep Singh",
+            "last": "N D",
+            "display": "Pradeep Singh, Dr N D"
+        },
+        "sex": "M",
+        "birthDate": "1974-08-05"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302"
+    }
+}

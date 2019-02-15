@@ -1,0 +1,23 @@
+{
+    "id": "AS1985009",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Bagchi",
+            "last": "Biman",
+            "display": "Bagchi, Prof. Biman"
+        },
+        "sex": "M",
+        "birthDate": "1954-01-01",
+        "specialization": "Statistical Mechanics and Chemical Kinetics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1989"
+    },
+    "contact": {
+        "address": "Solid State and Structural, Chemistry Unit, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

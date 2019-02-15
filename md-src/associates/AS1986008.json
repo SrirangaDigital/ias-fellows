@@ -1,0 +1,23 @@
+{
+    "id": "AS1986008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Tuli",
+            "last": "Rakesh",
+            "display": "Tuli, Dr Rakesh"
+        },
+        "sex": "M",
+        "birthDate": "1953-09-21",
+        "specialization": "Plant Genetics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1989"
+    },
+    "contact": {
+        "address": "Scientist, National Botanical Research, Institute, Rana Prathap Marg",
+        "city": "Lucknow 226 001"
+    }
+}

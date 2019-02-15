@@ -1,0 +1,35 @@
+{
+    "id": "AS2015008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Patra",
+            "last": "Arpita",
+            "display": "Patra, Dr Arpita"
+        },
+        "sex": "F",
+        "birthDate": "1983-12-15",
+        "degree": "Ph.D. (IIT, Madras)",
+        "specialization": "Cryptography, Secure distributed Computing, Information Security"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Dept. of Computer Science & Automat, ion, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3566",
+            "residence": "80409 43424, 88612 65180",
+            "fax": "(080) 2360 2911"
+        },
+        "email": {
+            "official": "arpita@iisc.ac.in",
+            "personal": "arpitapatra10@gmail.com"
+        },
+        "url": "http://drona.csa.iisc.ernet.in/~arpita"
+    }
+}

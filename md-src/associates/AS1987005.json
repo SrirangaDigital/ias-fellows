@@ -1,0 +1,23 @@
+{
+    "id": "AS1987005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Pushpito K",
+            "display": "Ghosh, Dr Pushpito K"
+        },
+        "sex": "M",
+        "birthDate": "1954-05-29",
+        "specialization": "Chemistry of Clays"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1989"
+    },
+    "contact": {
+        "address": "Alchemie Research Centre, P.B. No. 155, Thane-Belapur Road",
+        "city": "Thane 400 601"
+    }
+}

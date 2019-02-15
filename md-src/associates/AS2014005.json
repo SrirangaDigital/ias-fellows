@@ -1,0 +1,34 @@
+{
+    "id": "AS2014005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Biswas",
+            "last": "Kanishka",
+            "display": "Biswas, Dr Kanishka"
+        },
+        "sex": "M",
+        "birthDate": "1982-10-25",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Solid State Chemistry, Thermoelectrics, Inorganic Nanomaterials"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "New Chemistry Unit, JN Centre for Advanced Scientific, Research, Jakkur",
+        "city": "Bengaluru 560 064",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2208 2678",
+            "residence": "(080) 2362 0380, 99020 63469"
+        },
+        "email": {
+            "official": "kanishka@jncasr.ac.in",
+            "personal": "biswas.kanishka@gmail.com"
+        },
+        "url": "http://www.jncasr.ac.in/kanishka/"
+    }
+}

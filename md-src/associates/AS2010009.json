@@ -1,0 +1,24 @@
+{
+    "id": "AS2010009",
+    "profile": {
+        "name": {
+            "first": "Natarajan",
+            "last": "Vijay",
+            "display": "Natarajan,  Vijay"
+        },
+        "sex": "M",
+        "birthDate": "1977-05-11"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "CSA Department, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "vijay@csa.iisc.ernet.in"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "AS1999007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Taraphder",
+            "last": "Srabani",
+            "display": "Taraphder, Dr Srabani"
+        },
+        "sex": "F",
+        "birthDate": "1969-07-31",
+        "specialization": "Theoretical Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2004"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721302",
+        "email": {
+            "official": "srabani@chem.iitkgp.ernet.in"
+        }
+    }
+}

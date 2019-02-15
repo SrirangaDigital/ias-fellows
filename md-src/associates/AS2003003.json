@@ -1,0 +1,23 @@
+{
+    "id": "AS2003003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Gadgil",
+            "last": "Siddhartha",
+            "display": "Gadgil, Dr Siddhartha"
+        },
+        "sex": "M",
+        "birthDate": "1974-07-11",
+        "specialization": "3-Manifold Topology & Related Areas and Geometric Group Theory"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2003",
+        "period": "2003-2007"
+    },
+    "contact": {
+        "address": "Statistics & Mathematics Unit, Indian Statistical Institute, RV College PO",
+        "city": "Bangalore 560 059"
+    }
+}

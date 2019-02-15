@@ -1,0 +1,35 @@
+{
+    "id": "AS2018018",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Singh",
+            "last": "Riddhi",
+            "display": "Singh, Dr Riddhi"
+        },
+        "sex": "F",
+        "birthDate": "1987-11-26",
+        "degree": "Ph.D. (Penn. State Univ.)",
+        "specialization": "Rainfall Run-off Modelling, Analysis of Environmental Systems, Water Resources Engineering"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2022"
+    },
+    "contact": {
+        "address": "Department of Civil Engineering, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2576 9307",
+            "residence": "(022) 2576 5307, 97057 33278",
+            "fax": "(022) 2576 7302"
+        },
+        "email": {
+            "official": "riddhi@civil.iitb.ac.in",
+            "personal": "singh.riddhi26@gmail.com"
+        },
+        "url": "https://riddhisingh.weebly.com/"
+    }
+}

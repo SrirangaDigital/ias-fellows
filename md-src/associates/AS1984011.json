@@ -1,0 +1,23 @@
+{
+    "id": "AS1984011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kulkarni",
+            "last": "R N",
+            "display": "Kulkarni, Dr R N"
+        },
+        "sex": "M",
+        "birthDate": "1953-06-09",
+        "specialization": "Plant Pathology and Genetics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1988"
+    },
+    "contact": {
+        "address": "Scientist, Central Institute of Medicinal and, Aromatic Plants, Field Station, Allalasandra, Near Yelahanka",
+        "city": "Bangalore 560 065"
+    }
+}

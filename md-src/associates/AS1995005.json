@@ -1,0 +1,23 @@
+{
+    "id": "AS1995005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kumaran",
+            "last": "V",
+            "display": "Kumaran, Dr V"
+        },
+        "sex": "M",
+        "birthDate": "1966-06-17",
+        "specialization": "Chemical Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1995",
+        "period": "1995-2000"
+    },
+    "contact": {
+        "address": "Department of Chemical Engineering, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

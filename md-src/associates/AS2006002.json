@@ -1,0 +1,25 @@
+{
+    "id": "AS2006002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sunoj",
+            "last": "Raghavan B",
+            "display": "Sunoj, Dr Raghavan B"
+        },
+        "sex": "M",
+        "birthDate": "1974-04-03"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2006",
+        "period": "2006-2009"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "email": {
+            "official": "sunoj@chem.iitb.acin"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "AS2006004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sarkar",
+            "last": "Ram Rup",
+            "display": "Sarkar, Dr Ram Rup"
+        },
+        "sex": "M"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2006",
+        "period": "2006-2009"
+    },
+    "contact": {
+        "address": "Centre for Cellular & Molecular, Biology, Uppal Road",
+        "city": "Hyderabad 500 007",
+        "email": {
+            "official": "ramrup@ccmb.res.in"
+        }
+    }
+}

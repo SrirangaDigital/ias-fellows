@@ -1,0 +1,25 @@
+{
+    "id": "AS2012010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Beegum",
+            "last": "Naseema",
+            "display": "Beegum, Dr Naseema"
+        },
+        "sex": "F",
+        "birthDate": "1981-05-25"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2012",
+        "period": "2012-2016"
+    },
+    "contact": {
+        "address": "RAS Division, National Physical Laboratory, Dr KS  Krishnan Road",
+        "city": "New Delhi 110 012",
+        "email": {
+            "personal": "naseemaspl@gmail.com"
+        }
+    }
+}

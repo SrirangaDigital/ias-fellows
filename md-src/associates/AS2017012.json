@@ -1,0 +1,33 @@
+{
+    "id": "AS2017012",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Agashe",
+            "last": "Deepa",
+            "display": "Agashe, Dr Deepa"
+        },
+        "sex": "F",
+        "birthDate": "1983-06-15",
+        "degree": "Ph.D. (Texas, Austin)",
+        "specialization": "Evolutionary Biology, Ecology, Molecular Evolution"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "National Centre for Biological, Sciences, GKVK Campus",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2366 6524",
+            "fax": "(080) 2363 6662"
+        },
+        "email": {
+            "official": "dagashe@ncbs.res.in"
+        },
+        "url": "http://www.adaptationlab.wordpress.com"
+    }
+}

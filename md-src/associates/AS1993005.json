@@ -1,0 +1,23 @@
+{
+    "id": "AS1993005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Basu",
+            "last": "Amit J",
+            "display": "Basu, Dr Amit J"
+        },
+        "sex": "M",
+        "birthDate": "1962-04-11",
+        "specialization": "Computational Fluid Dynamics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1997"
+    },
+    "contact": {
+        "address": "Jawaharlal Nehru Centre for, Advanced Scientific Research, Jakkur",
+        "city": "Bangalore 560 064"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "AS2002003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Holla",
+            "last": "Yogish I",
+            "display": "Holla, Dr Yogish I"
+        },
+        "sex": "M",
+        "birthDate": "1974-09-14"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2002",
+        "period": "2002-2006"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "email": {
+            "official": "yogi@math.tifr.res.in"
+        }
+    }
+}

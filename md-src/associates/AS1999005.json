@@ -1,0 +1,26 @@
+{
+    "id": "AS1999005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pal",
+            "last": "Arupkumar",
+            "display": "Pal, Dr Arupkumar"
+        },
+        "sex": "M",
+        "birthDate": "1968-02-25",
+        "specialization": "Operator Algebras, Quantum Stochastic Calculus, Representation of Groups"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2003"
+    },
+    "contact": {
+        "address": "Stat. Math. Unit, Indian Statistical Institute, 7, SJS Sansanwal Marg",
+        "city": "New Delhi 110 016",
+        "email": {
+            "official": "arup@isid.ac.in"
+        }
+    }
+}

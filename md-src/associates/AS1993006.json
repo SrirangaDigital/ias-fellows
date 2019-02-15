@@ -1,0 +1,23 @@
+{
+    "id": "AS1993006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Kinger",
+            "last": "Asha K",
+            "display": "Kinger, Dr Asha K"
+        },
+        "sex": "F",
+        "birthDate": "1962-04-30",
+        "specialization": "Biotechnology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1997"
+    },
+    "contact": {
+        "address": "Department of Biotechnology, All India Inst. of Medical Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1995004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakravarty",
+            "last": "Charusita",
+            "display": "Chakravarty, Dr Charusita"
+        },
+        "sex": "F",
+        "birthDate": "1964-05-05",
+        "specialization": "Theoretical Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1995",
+        "period": "1995-1999"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, Indian Institute of Technology, Hauz Khas",
+        "city": "New Delhi 110 016"
+    }
+}

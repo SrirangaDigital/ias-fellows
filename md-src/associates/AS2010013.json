@@ -1,0 +1,24 @@
+{
+    "id": "AS2010013",
+    "profile": {
+        "name": {
+            "first": "Sripati",
+            "last": "Arun P",
+            "display": "Sripati,  Arun P"
+        },
+        "sex": "M",
+        "birthDate": "1978-02-02"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Centre for Neuroscience, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "sparun@cns.iisc.ernet.in"
+        }
+    }
+}

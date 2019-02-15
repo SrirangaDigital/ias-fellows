@@ -1,0 +1,25 @@
+{
+    "id": "AS2008007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Pal",
+            "last": "Bipul",
+            "display": "Pal, Dr Bipul"
+        },
+        "sex": "M",
+        "specialization": "Semiconductor Physics, Laser Spectroscopy and Quantum Information Processing"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2008",
+        "period": "2008-2011"
+    },
+    "contact": {
+        "address": "Indian Institute of Science Edn., and Research, Block HC-VII, Sector III, Salt Lake",
+        "city": "Kolkata 700 106",
+        "email": {
+            "personal": "bipulpal@gmail.com"
+        }
+    }
+}

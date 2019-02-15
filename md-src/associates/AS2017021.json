@@ -1,0 +1,34 @@
+{
+    "id": "AS2017021",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Singh",
+            "last": "Arvind",
+            "display": "Singh, Dr Arvind"
+        },
+        "sex": "M",
+        "birthDate": "1983-06-30",
+        "degree": "Ph.D. (MLS University)",
+        "specialization": "Ocean Biogeochemistry, Anthropogenic Impacts on Marine Nitrogen Cycling, Stable Isotopes"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Geoscience Division, Physical Research Laboratory, Navrangpura",
+        "city": "Ahmedabad 380 009",
+        "state": "Gujarat",
+        "telephone": {
+            "office": "(079) 2631 4366",
+            "residence": "94275 08609",
+            "fax": "(079) 2631 4800"
+        },
+        "email": {
+            "official": "arvinds@prl.res.in"
+        },
+        "url": "https://www.prl.res.in/~arvinds/"
+    }
+}

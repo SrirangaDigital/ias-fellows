@@ -1,0 +1,34 @@
+{
+    "id": "AS2018005",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Tuhin",
+            "display": "Ghosh, Dr Tuhin"
+        },
+        "sex": "M",
+        "birthDate": "1984-08-25",
+        "degree": "Ph.D. (IUCAA, Pune)",
+        "specialization": "Galactic Astrophysics, Cosmology, Cosmic Microwave Background Radiation"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "School of Physical Sciences, National Institute of Science, Education &amp; Research, Jatni",
+        "city": "Khordha 752 050",
+        "state": "Orissa",
+        "telephone": {
+            "office": "(0674) 249 4292",
+            "residence": "88478 58187"
+        },
+        "email": {
+            "official": "tghosh@niser.ac.in",
+            "personal": "tuhin.physics@gmail.com"
+        },
+        "url": "http://www.niser.ac.in/users/tghosh#profile-main"
+    }
+}

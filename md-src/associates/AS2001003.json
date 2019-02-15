@@ -1,0 +1,26 @@
+{
+    "id": "AS2001003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Satheesh",
+            "last": "S K",
+            "display": "Satheesh, Dr S K"
+        },
+        "sex": "M",
+        "birthDate": "1970-05-01",
+        "specialization": "Aerosols in Climate"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2001",
+        "period": "2001-2005"
+    },
+    "contact": {
+        "address": "Centre for Atmospheric & Oceanic, Sciences, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "satheesh@caos.iisc.ernet.in"
+        }
+    }
+}

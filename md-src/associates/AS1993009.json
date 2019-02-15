@@ -1,0 +1,23 @@
+{
+    "id": "AS1993009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Raghubanshi",
+            "last": "A S",
+            "display": "Raghubanshi, Dr A S"
+        },
+        "sex": "M",
+        "birthDate": "1963-07-12",
+        "specialization": "Tropical Ecology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1998"
+    },
+    "contact": {
+        "address": "Lecturer, Department of Botany, Banaras Hindu University",
+        "city": "Varanasi 221 005"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "AS2010004",
+    "profile": {
+        "name": {
+            "first": "Dey",
+            "last": "Abhishek",
+            "display": "Dey,  Abhishek"
+        },
+        "sex": "M",
+        "birthDate": "1977-07-09"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Dept. of Inorganic Chemistry, IACS, Jadavpur",
+        "city": "Kolkata 700 032",
+        "email": {
+            "official": "icad@iacs.res.in"
+        }
+    }
+}

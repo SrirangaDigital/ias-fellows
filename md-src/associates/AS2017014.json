@@ -1,0 +1,33 @@
+{
+    "id": "AS2017014",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakraborty",
+            "last": "Jeevanjyoti",
+            "display": "Chakraborty, Dr Jeevanjyoti"
+        },
+        "sex": "M",
+        "birthDate": "1984-06-06",
+        "degree": "Ph.D. (IIT, Kharagpur)",
+        "specialization": "Lithium-Ion Battery Modelling, Electrokinetic Flows, Transport Phenomena at Microscale"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Dept. of Mechanical Engineering, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "state": "W.B.",
+        "telephone": {
+            "office": "(03222) 28 2972",
+            "residence": "(03222) 28 2973, 98744 77518"
+        },
+        "email": {
+            "official": "jeevan@mech.iitkgp.ernet.in"
+        },
+        "url": "https://sites.google.com/site/jeevanjyoti4/"
+    }
+}

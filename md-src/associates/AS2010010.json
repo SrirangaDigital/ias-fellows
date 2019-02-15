@@ -1,0 +1,24 @@
+{
+    "id": "AS2010010",
+    "profile": {
+        "name": {
+            "first": "Patil",
+            "last": "Nitin T",
+            "display": "Patil,  Nitin T"
+        },
+        "sex": "M",
+        "birthDate": "1975-05-22"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Organic Chemistry Division - II, IICT, Uppal Road",
+        "city": "Hyderabad 500 607",
+        "email": {
+            "official": "nitin@"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1983017",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Barma",
+            "last": "M",
+            "display": "Barma, Prof. M"
+        },
+        "sex": "M",
+        "birthDate": "1950-12-27",
+        "specialization": "Condensed Matter Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
+    },
+    "contact": {
+        "address": "Theoretical Physics Group, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "AS1999001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sridharan",
+            "last": "Raja",
+            "display": "Sridharan, Dr Raja"
+        },
+        "sex": "M",
+        "birthDate": "1967-04-27",
+        "specialization": "Algebraic Geometry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2002"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Bombay 400 005",
+        "email": {
+            "official": "sraja@math.tifr.res.in"
+        }
+    }
+}

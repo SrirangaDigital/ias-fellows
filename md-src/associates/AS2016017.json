@@ -1,0 +1,33 @@
+{
+    "id": "AS2016017",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Thapa",
+            "last": "Ranjit",
+            "display": "Thapa, Dr Ranjit"
+        },
+        "sex": "M",
+        "birthDate": "1982-09-17",
+        "degree": "Ph.D. (Jadavpur)",
+        "specialization": "Density Functional Theory, Metal-free Catalyst, Hydrogen Storage, Catalysis & CO Oxidation"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "SRM Research Institute, 13th Floor, Central Lib. Bldg., SRM University",
+        "city": "Kattankulathur 603 203",
+        "state": "T.N.",
+        "telephone": {
+            "office": "(044) 2741 7918",
+            "residence": "91762 96112"
+        },
+        "email": {
+            "personal": "ranjit.phy@gmail.com"
+        },
+        "url": "http://www.ranjitcmslab.com/Groupleader.html"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1987001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Vasudevan",
+            "last": "S",
+            "display": "Vasudevan, Dr S"
+        },
+        "sex": "M",
+        "birthDate": "1953-11-01",
+        "specialization": "Chemistry of Layered Compounds"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1988"
+    },
+    "contact": {
+        "address": "Department of Inorganic &, Physical Chemistry, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

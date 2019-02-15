@@ -1,0 +1,23 @@
+{
+    "id": "AS1996001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Geetha",
+            "last": "L",
+            "display": "Geetha, Dr L"
+        },
+        "sex": "F",
+        "birthDate": "1964-10-22",
+        "specialization": "Animal Behaviour"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1996",
+        "period": "1996-1999"
+    },
+    "contact": {
+        "address": "Animal Behaviour Unit, JN Centre for Advanced Scientific, Research, Jakkur P.O.",
+        "city": "Bangalore 560 064"
+    }
+}

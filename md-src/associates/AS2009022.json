@@ -1,0 +1,22 @@
+{
+    "id": "AS2009022",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chauhan",
+            "last": "Santosh",
+            "display": "Chauhan, Dr Santosh"
+        },
+        "sex": "M",
+        "birthDate": "1978-08-30"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2013"
+    },
+    "contact": {
+        "address": "Dept. of Biotechnology, AIIMS, Ansari Nagar",
+        "city": "New Delhi 110 029"
+    }
+}

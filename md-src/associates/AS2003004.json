@@ -1,0 +1,23 @@
+{
+    "id": "AS2003004",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Goswami",
+            "last": "Debashish",
+            "display": "Goswami, Dr Debashish"
+        },
+        "sex": "M",
+        "birthDate": "1972-10-30",
+        "specialization": "Noncommutative Probability and Noncommutative Geometry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2003",
+        "period": "2003-2007"
+    },
+    "contact": {
+        "address": "Statistics & Mathematics Unit, Indian Statistical Institute, 203, B.T. Road",
+        "city": "Kolkata 700 108"
+    }
+}

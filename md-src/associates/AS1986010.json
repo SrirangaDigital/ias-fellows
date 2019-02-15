@@ -1,0 +1,23 @@
+{
+    "id": "AS1986010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Saikia",
+            "last": "D J",
+            "display": "Saikia, Dr D J"
+        },
+        "sex": "M",
+        "birthDate": "1956-01-21",
+        "specialization": "Observational Radio Astronomy"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1991"
+    },
+    "contact": {
+        "address": "GMRT Project, Tata Inst. of Fundamental Research, Post Box No. 1, Ganeshkind, Poona University Campus",
+        "city": "Pune 411 007"
+    }
+}

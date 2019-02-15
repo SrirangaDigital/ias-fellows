@@ -1,0 +1,25 @@
+{
+    "id": "AS2006007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Begum",
+            "last": "Ayesha",
+            "display": "Begum, Dr Ayesha"
+        },
+        "sex": "F",
+        "birthDate": "1978-04-20"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2006",
+        "period": "2006-2011"
+    },
+    "contact": {
+        "address": "National Centre for Radio, Astrophysics, Ganeshkhind",
+        "city": "Pune 411 007",
+        "email": {
+            "official": "ayesha@ast.cam.ac.uk"
+        }
+    }
+}

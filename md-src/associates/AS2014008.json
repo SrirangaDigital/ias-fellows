@@ -1,0 +1,34 @@
+{
+    "id": "AS2014008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nag",
+            "last": "Angshuman",
+            "display": "Nag, Dr Angshuman"
+        },
+        "sex": "M",
+        "birthDate": "1980-10-05",
+        "degree": "Ph.D. (IISc)",
+        "specialization": "Colloidal Semiconductor Nanocrystals, Photophysical Properties, Optoelectronic Devices"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2014",
+        "period": "2014-2017"
+    },
+    "contact": {
+        "address": "Department of Chemistry, Indian Institute of Science Edn. &, Research, Dr Homi Bhabha Road, Pashan",
+        "city": "Pune 411 008",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(020) 2590 8117",
+            "residence": "95274 99260",
+            "fax": "(020) 2590 8186"
+        },
+        "email": {
+            "official": "angshuman@iiserpune.ac.in"
+        },
+        "url": "http://www.iiserpune.ac.in/~angshuman"
+    }
+}

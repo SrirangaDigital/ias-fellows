@@ -1,0 +1,33 @@
+{
+    "id": "AS2016014",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Jayanth Kumar",
+            "last": "Palanichamy",
+            "display": "Jayanth Kumar, Dr Palanichamy"
+        },
+        "sex": "M",
+        "birthDate": "1983-05-09",
+        "degree": "MD (AIIMS)",
+        "specialization": "Noncoding RNA, Acute Lymphoblastic & Myeloid Leukemias, RNA Building Proteins"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "Dept. of Biochemistry, All India Institute of Medical, Sciences, Ansari Nagar",
+        "city": "New Delhi 110 029",
+        "state": "U.T.",
+        "telephone": {
+            "office": "(011) 2659 4483",
+            "residence": "98107 80293",
+            "fax": "(011) 2658 8663"
+        },
+        "email": {
+            "personal": "jayanthaiims@gmail.com"
+        }
+    }
+}

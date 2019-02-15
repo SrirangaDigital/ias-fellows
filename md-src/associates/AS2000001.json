@@ -1,0 +1,26 @@
+{
+    "id": "AS2000001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Waghmare",
+            "last": "U V",
+            "display": "Waghmare, Dr U V"
+        },
+        "sex": "M",
+        "birthDate": "1968-09-19",
+        "specialization": "Computational Condensed Matter Physics, Materials Science"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2000",
+        "period": "2000-2003"
+    },
+    "contact": {
+        "address": "Theoretical Science Unit, JN Centre for Advanced Scientific, Research, Jakkur P.O.",
+        "city": "Bagalore 560 064",
+        "email": {
+            "official": "waghmare@jncasr.ac.in"
+        }
+    }
+}

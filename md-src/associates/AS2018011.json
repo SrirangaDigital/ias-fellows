@@ -1,0 +1,33 @@
+{
+    "id": "AS2018011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Manjunath",
+            "last": "Madhusudan",
+            "display": "Manjunath, Dr Madhusudan"
+        },
+        "sex": "M",
+        "birthDate": "1985-01-11",
+        "degree": "Ph.D. (Saarlandes)",
+        "specialization": "Algebraic Combinatorics, Tropical Algebraic Geometry, Combinatorial Commutative Algebra"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Department of Mathematics, Indian Institute of Technology, Powai",
+        "city": "Mumbai 400 076",
+        "state": "Maharashtra",
+        "telephone": {
+            "residence": "91084 96183"
+        },
+        "email": {
+            "official": "madhu@math.iitb.ac.in",
+            "personal": "madhusudan73@gmail.com"
+        },
+        "url": "https://madhumath.wordpress.com/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "AS2018021",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Banerjee",
+            "last": "Agnid",
+            "display": "Banerjee, Dr Agnid"
+        },
+        "sex": "M",
+        "birthDate": "1988-02-09",
+        "degree": "Ph.D. (Purdue)",
+        "specialization": "Partial Differential Equations, Harmonic Analysis, Geometric Measure Theory"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2023"
+    },
+    "contact": {
+        "address": "Reader F, TIFR Centre for, Applicable Mathematics, Sharada Nagar",
+        "city": "Bengaluru 560 065",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 6695 3724",
+            "residence": "94817 64684"
+        },
+        "email": {
+            "official": "agnid@tifrbng.res.in"
+        }
+    }
+}

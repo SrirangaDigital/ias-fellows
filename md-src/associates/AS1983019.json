@@ -1,0 +1,23 @@
+{
+    "id": "AS1983019",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Neelakantan",
+            "last": "K",
+            "display": "Neelakantan, Dr K"
+        },
+        "sex": "M",
+        "birthDate": "1954-10-13",
+        "specialization": "Instrumentation"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1988"
+    },
+    "contact": {
+        "address": "Director, Advanced Numerical & Research, Analysis Group (ANURAG), D.R.D.O, Kanchanbagh P.O",
+        "city": "Hyderabad 500 058"
+    }
+}

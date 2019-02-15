@@ -1,0 +1,26 @@
+{
+    "id": "AS1999003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Tole",
+            "last": "Shubha",
+            "display": "Tole, Dr Shubha"
+        },
+        "sex": "F",
+        "birthDate": "1967-08-31",
+        "specialization": "Neurobiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2002"
+    },
+    "contact": {
+        "address": "Department of Biological Sciences, Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Bombay 400 005",
+        "email": {
+            "official": "stole@tifr.res.in"
+        }
+    }
+}

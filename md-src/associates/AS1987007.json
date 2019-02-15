@@ -1,0 +1,23 @@
+{
+    "id": "AS1987007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ghosh",
+            "last": "Ashish",
+            "display": "Ghosh, Dr Ashish"
+        },
+        "sex": "M",
+        "birthDate": "1966-01-15",
+        "specialization": "Computer Science"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1989"
+    },
+    "contact": {
+        "address": "Machine Intelligence Unit, Indian Statistical Institute, 203, B T Road",
+        "city": "Calcutta 700 035"
+    }
+}

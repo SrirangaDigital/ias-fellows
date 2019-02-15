@@ -1,0 +1,24 @@
+{
+    "id": "AS2010007",
+    "profile": {
+        "name": {
+            "first": "Mukerjee",
+            "last": "Subroto",
+            "display": "Mukerjee,  Subroto"
+        },
+        "sex": "M",
+        "birthDate": "1976-05-04"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Department of Physics, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "smukerjee@physics.iisc.ernet.in"
+        }
+    }
+}

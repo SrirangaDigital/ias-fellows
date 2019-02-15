@@ -1,0 +1,22 @@
+{
+    "id": "AS2009008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mahapatra",
+            "last": "Santanu",
+            "display": "Mahapatra, Dr Santanu"
+        },
+        "sex": "M",
+        "birthDate": "1976-12-19"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "CEDT, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

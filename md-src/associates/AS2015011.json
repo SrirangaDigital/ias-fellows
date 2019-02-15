@@ -1,0 +1,32 @@
+{
+    "id": "AS2015011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sharma",
+            "last": "Mahak",
+            "display": "Sharma, Dr Mahak"
+        },
+        "sex": "F",
+        "birthDate": "1983-04-23",
+        "degree": "Ph.D. (Nebraska)",
+        "specialization": "Host-Pathogen Interactions, Cell Biology, Molecular Biology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2015",
+        "period": "2015-2018"
+    },
+    "contact": {
+        "address": "Indian Institute of Sceicne, Education & Research, Sector 81, Manuli PO",
+        "city": "SAS Nagar 140 306",
+        "state": "Punjab",
+        "telephone": {
+            "office": "89685 44599"
+        },
+        "email": {
+            "official": "msharma@iisermohali.ac.in"
+        },
+        "url": "http://www.iisermohali.ac.in/faculty/dbs/dr-mahak-sharma"
+    }
+}

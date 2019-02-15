@@ -1,0 +1,23 @@
+{
+    "id": "AS1988012",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Srinivas",
+            "last": "V",
+            "display": "Srinivas, Prof. V"
+        },
+        "sex": "M",
+        "birthDate": "1958-06-06",
+        "specialization": "Pure Mathematics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1993"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental Res., Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

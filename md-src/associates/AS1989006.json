@@ -1,0 +1,23 @@
+{
+    "id": "AS1989006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mohanty",
+            "last": "S",
+            "display": "Mohanty, Dr S"
+        },
+        "sex": "M",
+        "birthDate": "1958-12-29",
+        "specialization": "Structural Geology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1989",
+        "period": "1989-1993"
+    },
+    "contact": {
+        "address": "Department of Applied Geology, Indian School of Mines",
+        "city": "Dhanbad 826 004"
+    }
+}

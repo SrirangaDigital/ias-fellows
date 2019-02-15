@@ -1,0 +1,34 @@
+{
+    "id": "AS2017013",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Anand",
+            "last": "Sandeep",
+            "display": "Anand, Dr Sandeep"
+        },
+        "sex": "M",
+        "birthDate": "1985-02-19",
+        "degree": "Ph.d. (IIT, Bombay)",
+        "specialization": "Power Electronics & Electrical Engineering"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Dept. of Electrical Engineering, Indian Institute of Technology",
+        "city": "Kanpur 208 016",
+        "state": "U.P.",
+        "telephone": {
+            "office": "(0512) 259 7131",
+            "residence": "(0512) 259 8260, 80098 71188",
+            "fax": "(0512) 259 0063"
+        },
+        "email": {
+            "official": "asandeep@iitk.ac.in"
+        },
+        "url": "http://home.iitk.ac.in/~asandeep/index.html"
+    }
+}

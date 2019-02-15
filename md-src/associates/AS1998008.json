@@ -1,0 +1,26 @@
+{
+    "id": "AS1998008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sharma",
+            "last": "V K",
+            "display": "Sharma, Dr V K"
+        },
+        "sex": "M",
+        "birthDate": "1967-09-29",
+        "specialization": "Chronobiology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1998",
+        "period": "1998-2002"
+    },
+    "contact": {
+        "address": "Chronobiology Lab., ABU, Jawaharlal Nehru Centre for, Advanced Scientific Research, Jakkur",
+        "city": "Bangalore 560 064",
+        "email": {
+            "official": "vsharma@jncasr.ac.in"
+        }
+    }
+}

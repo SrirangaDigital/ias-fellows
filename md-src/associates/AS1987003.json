@@ -1,0 +1,23 @@
+{
+    "id": "AS1987003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Sundararajan",
+            "last": "G",
+            "display": "Sundararajan, Dr G"
+        },
+        "sex": "M",
+        "birthDate": "1953-12-11",
+        "specialization": "Material Deformation and Fracture"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1987",
+        "period": "1987-1988"
+    },
+    "contact": {
+        "address": "Defence Metallurgical Research, Laboratory, Kanchanbagh P.O.",
+        "city": "Hyderabad 500 058"
+    }
+}

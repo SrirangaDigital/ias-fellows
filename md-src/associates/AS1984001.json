@@ -1,0 +1,23 @@
+{
+    "id": "AS1984001",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Kolaskar",
+            "last": "A S",
+            "display": "Kolaskar, Prof A S"
+        },
+        "sex": "M",
+        "birthDate": "1950-09-03",
+        "specialization": "Molecular Biophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "Officer-in-Charge, DIC Bioinformatics, Dept.of Zoology, University of Poona, Ganeshkhind",
+        "city": "Pune 411 007"
+    }
+}

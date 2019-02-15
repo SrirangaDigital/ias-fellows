@@ -1,0 +1,23 @@
+{
+    "id": "AS1993011",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Viswanathan",
+            "last": "R Raju",
+            "display": "Viswanathan, Dr R Raju"
+        },
+        "sex": "M",
+        "birthDate": "1963-07-29",
+        "specialization": "Neural Networks"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1993",
+        "period": "1993-1998"
+    },
+    "contact": {
+        "address": "Institute of Systems Science, National University of Singapore, Kentridge",
+        "city": "Singapore 0511  (Singapore)"
+    }
+}

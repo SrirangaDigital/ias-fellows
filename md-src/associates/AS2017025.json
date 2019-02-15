@@ -1,0 +1,32 @@
+{
+    "id": "AS2017025",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Saptharishi",
+            "last": "Ramprasad",
+            "display": "Saptharishi, Dr Ramprasad"
+        },
+        "sex": "M",
+        "birthDate": "1987-01-20",
+        "degree": "Ph.D. (CMI, Chennai)",
+        "specialization": "Algebraic Circuit Complexity, Computational Complexity, Coding Theory"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2022"
+    },
+    "contact": {
+        "address": "School of TCS, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "state": "Maharashtra",
+        "telephone": {
+            "office": "(022) 2278 2998"
+        },
+        "email": {
+            "official": "ramprasad@tifr.res.in"
+        },
+        "url": "http://www.tcs.tifr.res.in/~ramprasad/"
+    }
+}

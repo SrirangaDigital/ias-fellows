@@ -1,0 +1,23 @@
+{
+    "id": "AS1988007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Visweswariah",
+            "last": "Sandhya S",
+            "display": "Visweswariah, Dr Sandhya S"
+        },
+        "sex": "F",
+        "birthDate": "1957-03-06",
+        "specialization": "Biochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1988",
+        "period": "1988-1992"
+    },
+    "contact": {
+        "address": "ASTRA Research Centre, Post Box No. 359, 18th Cross, Malleswaram",
+        "city": "Bangalore 560 003"
+    }
+}

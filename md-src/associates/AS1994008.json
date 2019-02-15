@@ -1,0 +1,23 @@
+{
+    "id": "AS1994008",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Biswas",
+            "last": "Debabrata",
+            "display": "Biswas, Dr Debabrata"
+        },
+        "sex": "M",
+        "birthDate": "1964-01-07",
+        "specialization": "Theoretical Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1994",
+        "period": "1994-1999"
+    },
+    "contact": {
+        "address": "Centre for Chaos and Turbulence, Studies, Neils Bohr Institute, Blegdansver 17,",
+        "city": "DK-2100, Copenhagen"
+    }
+}

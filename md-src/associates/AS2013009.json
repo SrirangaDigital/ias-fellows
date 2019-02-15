@@ -1,0 +1,28 @@
+{
+    "id": "AS2013009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Misra",
+            "last": "Abha",
+            "display": "Misra, Dr Abha"
+        },
+        "sex": "F",
+        "birthDate": "1979-07-07",
+        "degree": "Ph.D. (IIT, Bombay)",
+        "specialization": "Graphene & CNT-based NEMS/MEMS, Sensors, Hybrid Fuel Cells & Batteries"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "Department of IAP, Indian Institute of Science",
+        "city": "Bangalore 560 012",
+        "email": {
+            "official": "abha@iap.iisc.ernet.in",
+            "personal": "abha.misra1@gmail.com"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "AS2016001",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bhattacharya",
+            "last": "Atanu",
+            "display": "Bhattacharya, Dr Atanu"
+        },
+        "sex": "M",
+        "birthDate": "1983-03-02",
+        "degree": "Ph.D. (Colorado State)",
+        "specialization": "AIMD Simulation, X-ray Science, Ultrafast Science, Surface Science, Molecular Beam Experiments"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2016",
+        "period": "2016-2019"
+    },
+    "contact": {
+        "address": "IPC Department, Indian Institute of Science",
+        "city": "Bengaluru 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "office": "(080) 2293 3349",
+            "residence": "(080) 2360 0187, 94815 53095"
+        },
+        "email": {
+            "official": "atanub@iisc.ac.in",
+            "personal": "atanubhattach@gmail.com"
+        },
+        "url": "http://atanulab.weebly.com/people.html"
+    }
+}

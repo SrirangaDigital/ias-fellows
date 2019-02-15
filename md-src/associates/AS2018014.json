@@ -1,0 +1,34 @@
+{
+    "id": "AS2018014",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Raj",
+            "last": "Rishi",
+            "display": "Raj, Dr Rishi"
+        },
+        "sex": "M",
+        "birthDate": "1984-02-21",
+        "degree": "Ph.D. (Maryland)",
+        "specialization": "Energy, Surface Science, Microgravity"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2018",
+        "period": "2018-2021"
+    },
+    "contact": {
+        "address": "Department of Mechanical Engg., Indian Institute of Technology, Bihta",
+        "city": "Patna 801 103",
+        "state": "Bihar",
+        "telephone": {
+            "office": "(0612) 302 8166",
+            "residence": "(0612) 302 8427, 82923 39322"
+        },
+        "email": {
+            "official": "raj@iitp.ac.in",
+            "personal": "rraj.iitg@gmail.com"
+        },
+        "url": "http://www.iitp.ac.in/~rraj/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1989007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Basu",
+            "last": "Biswajit",
+            "display": "Basu, Dr Biswajit"
+        },
+        "sex": "M",
+        "birthDate": "1959-07-17",
+        "specialization": "Thermal Science and Engineering"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1989",
+        "period": "1989-1994"
+    },
+    "contact": {
+        "address": "Tata Research Development and, Design Centre, 1, Mangaldas Road",
+        "city": "Pune 411 050"
+    }
+}

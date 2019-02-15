@@ -1,0 +1,23 @@
+{
+    "id": "AS1986001",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Hosur",
+            "last": "R V",
+            "display": "Hosur, Prof. R V"
+        },
+        "sex": "M",
+        "birthDate": "1953-05-16",
+        "specialization": "Conformation of Biomolecules, Magnetic Resonance"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1986",
+        "period": "1986-1988"
+    },
+    "contact": {
+        "address": "Chemical Physics Group, Tata Institute of Fundamental Res., Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

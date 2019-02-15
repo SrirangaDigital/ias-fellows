@@ -1,0 +1,23 @@
+{
+    "id": "AS1984009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Shetye",
+            "last": "S R",
+            "display": "Shetye, Dr S R"
+        },
+        "sex": "M",
+        "birthDate": "1950-10-25",
+        "specialization": "Physical Oceanography"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "Physical Oceanography Division, National Institute of Oceanography",
+        "city": "Dona Paula 403  004  (Goa)"
+    }
+}

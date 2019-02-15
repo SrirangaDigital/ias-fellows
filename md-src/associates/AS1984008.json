@@ -1,0 +1,23 @@
+{
+    "id": "AS1984008",
+    "profile": {
+        "name": {
+            "salutation": "Prof",
+            "first": "Mohan Kumar",
+            "last": "N",
+            "display": "Mohan Kumar, Prof. N"
+        },
+        "sex": "M",
+        "birthDate": "1951-05-12",
+        "specialization": "Algebraic Geometry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "School of Mathematics, Tata Institute of Fundamental, Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005"
+    }
+}

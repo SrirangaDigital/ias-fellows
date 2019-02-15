@@ -1,0 +1,24 @@
+{
+    "id": "AS2010008",
+    "profile": {
+        "name": {
+            "first": "Nanda",
+            "last": "Samik",
+            "display": "Nanda,  Samik"
+        },
+        "sex": "M",
+        "birthDate": "1975-03-01"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2010",
+        "period": "2010-2013"
+    },
+    "contact": {
+        "address": "Dept. of Chemistry, Indian Institute of Technology",
+        "city": "Kharagpur 721 302",
+        "email": {
+            "official": "snanda@chem.iitkgp.ernet.in"
+        }
+    }
+}

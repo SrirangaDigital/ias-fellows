@@ -1,0 +1,23 @@
+{
+    "id": "AS1984013",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Ganesh",
+            "last": "K N",
+            "display": "Ganesh, Dr K N"
+        },
+        "sex": "M",
+        "birthDate": "1953-05-25",
+        "specialization": "Molecular Biophysics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1988"
+    },
+    "contact": {
+        "address": "Bio-organic Unit, Division of Organic Chemistry, National Chemical Laboratory",
+        "city": "Pune 411 008"
+    }
+}

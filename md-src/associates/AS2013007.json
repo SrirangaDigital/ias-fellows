@@ -1,0 +1,26 @@
+{
+    "id": "AS2013007",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Bera",
+            "last": "M K",
+            "display": "Bera, Dr M K"
+        },
+        "sex": "M",
+        "birthDate": "1979-12-29",
+        "specialization": "Sedimentology, Sequence Stratigraphy, Stable Isotope Geochemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2013",
+        "period": "2013-2016"
+    },
+    "contact": {
+        "address": "Dept. of Earth Sciences, IISER, KV P.O., Mohanpur",
+        "city": "Nadia 741 252",
+        "email": {
+            "official": "melinda.bera@iiserkol.ac.in"
+        }
+    }
+}

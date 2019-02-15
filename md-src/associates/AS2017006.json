@@ -1,0 +1,35 @@
+{
+    "id": "AS2017006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chakma",
+            "last": "Sankar",
+            "display": "Chakma, Dr Sankar"
+        },
+        "sex": "M",
+        "birthDate": "1985-03-02",
+        "degree": "Ph.D. (IIT, Guwahati)",
+        "specialization": "Environmental Engineering, Sonochemistry, Advanced Oxidation Processes"
+    },
+    "associate": {
+        "type": "current",
+        "yearelected": "2017",
+        "period": "2017-2020"
+    },
+    "contact": {
+        "address": "Dept. of Chemical Engineering, Indian Institute of Science Edn., & Research, Bhauri",
+        "city": "Bhopal 462 066",
+        "state": "M.P.",
+        "telephone": {
+            "office": "(0755) 669 1281",
+            "residence": "80111 53037, 95081 35529",
+            "fax": "(0755) 669 2392"
+        },
+        "email": {
+            "official": "schakma@iiserb.ac.in",
+            "personal": "sankarchakma@gmail.com"
+        },
+        "url": "https://sites.google.com/site/sankarchakma/"
+    }
+}

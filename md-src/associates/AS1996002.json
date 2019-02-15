@@ -1,0 +1,26 @@
+{
+    "id": "AS1996002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Banerjee",
+            "last": "Rahul",
+            "display": "Banerjee, Dr Rahul"
+        },
+        "sex": "M",
+        "birthDate": "1965-03-22",
+        "specialization": "Biological Macromolecular Crystallography"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1996",
+        "period": "1996-2000"
+    },
+    "contact": {
+        "address": "Division of Crystallography, and Molecular Biology, Saha Institute of Nuclear Physics, 1/AF Bidhan Nagar",
+        "city": "Calcutta 700 064",
+        "email": {
+            "official": "rahul.banerjee@saha.ac.in"
+        }
+    }
+}

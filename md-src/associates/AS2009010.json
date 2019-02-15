@@ -1,0 +1,22 @@
+{
+    "id": "AS2009010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Malik",
+            "last": "Sudip",
+            "display": "Malik, Dr Sudip"
+        },
+        "sex": "M",
+        "birthDate": "1975-06-05"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Polymer Science Unit, IACS, Jadavpur",
+        "city": "Kolkata 700 032"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "AS1984010",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Rajadhyaksha",
+            "last": "Rajeev Anand",
+            "display": "Rajadhyaksha, Dr Rajeev Anand"
+        },
+        "sex": "M",
+        "birthDate": "1950-10-14",
+        "specialization": "Chemical Technology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1984",
+        "period": "1984-1987"
+    },
+    "contact": {
+        "address": "Reader in Chemical Engineering, University Department of Chemical, Technology, Matunga",
+        "city": "Mumbai 400 019"
+    }
+}

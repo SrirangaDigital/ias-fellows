@@ -1,0 +1,23 @@
+{
+    "id": "AS1992009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Mandal",
+            "last": "Nibir",
+            "display": "Mandal, Dr Nibir"
+        },
+        "sex": "M",
+        "birthDate": "1963-11-06",
+        "specialization": "Structural Geology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1992",
+        "period": "1992-1997"
+    },
+    "contact": {
+        "address": "Department of Geological Sciences, Jadavpur University, Jadavpur",
+        "city": "Calcutta 700 032"
+    }
+}

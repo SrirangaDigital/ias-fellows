@@ -1,0 +1,21 @@
+{
+    "id": "AS2009020",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Viswanath",
+            "last": "S",
+            "display": "Viswanath, Dr S"
+        },
+        "sex": "M"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Dept. of Mathematics, Indian Institute of Science",
+        "city": "Bangalore 560 012"
+    }
+}

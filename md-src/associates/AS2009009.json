@@ -1,0 +1,22 @@
+{
+    "id": "AS2009009",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Maji",
+            "last": "Pradipta",
+            "display": "Maji, Dr Pradipta"
+        },
+        "sex": "M",
+        "birthDate": "1976-11-04"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "Machine Intelligence Unit, Indian Statistical Institute, 203, BT Road",
+        "city": "Kolkata 700 108"
+    }
+}

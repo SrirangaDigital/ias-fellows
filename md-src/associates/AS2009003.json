@@ -1,0 +1,22 @@
+{
+    "id": "AS2009003",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Chand",
+            "last": "Hum",
+            "display": "Chand, Dr Hum"
+        },
+        "sex": "M",
+        "birthDate": "1977-06-20"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2009",
+        "period": "2009-2012"
+    },
+    "contact": {
+        "address": "ARIES, Manora Peak",
+        "city": "Nainital 263 129"
+    }
+}

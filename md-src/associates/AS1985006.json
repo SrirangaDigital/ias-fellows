@@ -1,0 +1,23 @@
+{
+    "id": "AS1985006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Nagaraj",
+            "last": "R",
+            "display": "Nagaraj, Dr R"
+        },
+        "sex": "M",
+        "birthDate": "1953-02-10",
+        "specialization": "Bioorganic Chemistry"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1985",
+        "period": "1985-1988"
+    },
+    "contact": {
+        "address": "Centre for Cellular and Molecular, Biology, Uppal Road",
+        "city": "Hyderabad 500 007"
+    }
+}

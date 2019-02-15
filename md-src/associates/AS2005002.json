@@ -1,0 +1,23 @@
+{
+    "id": "AS2005002",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Siddharthan",
+            "last": "Rahul",
+            "display": "Siddharthan, Dr Rahul"
+        },
+        "sex": "M",
+        "birthDate": "1973-10-22",
+        "specialization": "Computational Biology, Regulatory Genomics, Evolutionary Biology"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "2005",
+        "period": "2005-2008"
+    },
+    "contact": {
+        "address": "The Institute of Mathematical, Sciences, CIT Campus, Taramani",
+        "city": "Chennai 600 113"
+    }
+}

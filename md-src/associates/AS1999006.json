@@ -1,0 +1,26 @@
+{
+    "id": "AS1999006",
+    "profile": {
+        "name": {
+            "salutation": "Dr",
+            "first": "Krishnamurthy",
+            "last": "M",
+            "display": "Krishnamurthy, Dr M"
+        },
+        "sex": "M",
+        "birthDate": "1969-04-21",
+        "specialization": "Experimental Atomic/Molecular Physics"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1999",
+        "period": "1999-2004"
+    },
+    "contact": {
+        "address": "Atomic & Molecular Sciences Lab., Tata Inst. of Fundamental Research, Homi Bhabha Road",
+        "city": "Mumbai 400 005",
+        "email": {
+            "official": "mkrism@tifr.res.in"
+        }
+    }
+}

@@ -10,6 +10,7 @@ define('PHY_PUBLIC_URL', PHY_BASE_URL . 'public/');
 define('PHY_FLAT_URL', PHY_BASE_URL . 'application/views/flat/');
 define('PHY_AVATAR_URL', PHY_BASE_URL . 'md-src/avatar/');
 define('PHY_FELLOW_MD_URL', PHY_BASE_URL . 'md-src/fellows/');
+define('PHY_ASSOCIATE_MD_URL', PHY_BASE_URL . 'md-src/associates/');
 define('PHY_MD_URL', PHY_BASE_URL . 'md-src/');
 
 

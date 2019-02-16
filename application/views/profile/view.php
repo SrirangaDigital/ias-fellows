@@ -8,7 +8,7 @@
                     <?php } ?>
                 
                     <h1><?=$viewHelper->printFellowName($data)?></h1>
-                    <p class="affiliation"><?=$viewHelper->printFellowAffiliation($data)?></p>
+                    <p class="affiliation"><?=$viewHelper->printAffiliation($data)?></p>
                     <p class="fellowship"><?=$viewHelper->printFellowshipType($data)?></p>
                     
                     <?php if(isset($data['fellowship']['councilservice'])) { ?>

@@ -11,23 +11,16 @@ class data extends Controller {
 
 		$db = $this->model->db->useDB();
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_FELLOW_MD_URL, $pattern = '/F[LH]\d{7}.json$/i');
-		$collection = $this->model->db->createCollection($db, FELLOW_COLLECTION);
+		$fellowJsonFiles = $this->model->getFilesIteratively(PHY_FELLOW_MD_URL, $pattern = '/F[LH]\d{7}.json$/i');
+		$associateJsonFiles = $this->model->getFilesIteratively(PHY_ASSOCIATE_MD_URL, $pattern = '/AS\d{7}.json$/i');
+		$jsonFiles = array_merge($fellowJsonFiles, $associateJsonFiles);
 
-		$this->insertArtefacts($jsonFiles, $collection);
-
-		$jsonFiles = $this->model->getFilesIteratively(PHY_ASSOCIATE_MD_URL, $pattern = '/AS\d{7}.json$/i');
-		$collection = $this->model->db->createCollection($db, ASSOCIATE_COLLECTION);
-
-		$this->insertArtefacts($jsonFiles, $collection);
-	}
-
-	public function insertArtefacts($jsonFiles, $dbCollection){
-
+		$collection = $this->model->db->createCollection($db, COLLECTION);
+		
 		foreach ($jsonFiles as $jsonFile) {
 
 			$content = $this->model->getDetailsFromJsonPath($jsonFile);
-			$result = $dbCollection->insertOne($content);
+			$result = $collection->insertOne($content);
 		}
 	}
 
@@ -38,28 +31,28 @@ class data extends Controller {
 		require_once 'application/models/listingModel.php';
 		$this->listingModel = new listingModel();
 
-		$fellows = $this->listingModel->getFellows($query, $sort);
-
+		$artefacts = $this->listingModel->getDetails($query, $sort, COLLECTION);
+		
 		$ch = curl_init();
 		curl_setopt($ch, CURLOPT_URL, AUTHENTICATION_URL . "api/registerAll");
 		curl_setopt($ch, CURLOPT_POST, 1);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
-		foreach ($fellows['data'] as $fellow) {
-			
+		foreach ($artefacts['data'] as $artefact) {
+
 			$params['email'] = '';
 
-			if(isset($fellow['contact']['email']['personal']))
-				$params['email'] = $fellow['contact']['email']['personal'];
-			elseif(isset($fellow['contact']['email']['official']))
-				$params['email'] = $fellow['contact']['email']['official'];
+			if(isset($artefact['contact']['email']['personal']))
+				$params['email'] = $artefact['contact']['email']['personal'];
+			elseif(isset($artefact['contact']['email']['official']))
+				$params['email'] = $artefact['contact']['email']['official'];
 			else
-				$params['email'] = $fellow['id'] . '@ias.ac.in';
+				$params['email'] = $artefact['id'] . '@ias.ac.in';
 
 			if(preg_match('/,/', $params['email']))
 				$params['email'] = explode(',', $params['email'])[0];
 
-			$params['username'] = $fellow['id'];
+			$params['username'] = $artefact['id'];
 			$params['password'] = strrev($params['username']);
 
 			curl_setopt($ch, CURLOPT_POSTFIELDS, $params);

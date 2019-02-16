@@ -8,10 +8,10 @@ class listingModel extends Model {
 		parent::__construct();
 	}
 
-	public function getDetails($filter, $sort = '', $artefacts) {
+	public function getDetails($filter, $sort = '', $type) {
 			
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, $artefacts);
+		$collection = $this->db->selectCollection($db, $type);
 		
 		$filter = $this->reformFilter($filter);
 
@@ -33,7 +33,7 @@ class listingModel extends Model {
 	public function getDistinct($param){
 
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, ASSOCIATE_COLLECTION);
+		$collection = $this->db->selectCollection($db, COLLECTION);
 		$data = [];
 
 		$iterator = $collection->distinct($param);

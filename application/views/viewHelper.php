@@ -16,7 +16,7 @@ class viewHelper extends View {
     	return $name;
     }
 
-    public function printFellowAffiliation($data) {
+    public function printAffiliation($data) {
 
     	$affl = [];
 

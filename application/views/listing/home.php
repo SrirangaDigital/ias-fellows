@@ -15,12 +15,12 @@
             <div class="card-body">
                 <h5 class="card-title text-center">View by Type</h5>
                 <p class="card-text">
-                    <a href="<?=BASE_URL?>listing/f?fellowship.type=current"><span class="section green">Present Fellows</span></a><br />
-                    <a href="<?=BASE_URL?>listing/f?fellowship.type=current&profile.sex=F"><span class="section green">Present Women Fellows</span></a><br />
-                    <a href="<?=BASE_URL?>listing/f?fellowship.type=deceased"><span class="section green">Deceased Fellows</span></a><br />
-                    <a href="<?=BASE_URL?>listing/f?fellowship.type=deceased&profile.sex=F"><span class="section green">Deceased Women Fellows</span></a><br />
-                    <a href="<?=BASE_URL?>listing/f?fellowship.type=honorary"><span class="section green">Honorary Fellows</span></a><br />
-                    <a href="<?=BASE_URL?>listing/f?fellowship.type=deceased,honorary"><span class="section green">Deceased Honorary Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/a?fellowship.type=current"><span class="section green">Present Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/a?fellowship.type=current&profile.sex=F"><span class="section green">Present Women Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/a?fellowship.type=deceased"><span class="section green">Deceased Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/a?fellowship.type=deceased&profile.sex=F"><span class="section green">Deceased Women Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/a?fellowship.type=honorary"><span class="section green">Honorary Fellows</span></a><br />
+                    <a href="<?=BASE_URL?>listing/a?fellowship.type=deceased,honorary"><span class="section green">Deceased Honorary Fellows</span></a><br />
                 </p>
             </div>
         </div>
@@ -28,16 +28,16 @@
             <div class="card-body">
                 <h5 class="card-title text-center">View by Section</h5>
                 <p class="card-text">
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Animal Sciences')?>"><span class="section green">Animal Sciences</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Chemistry')?>"><span class="section green">Chemistry</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Earth &amp; Planetary Sciences')?>"><span class="section green">Earth &amp; Planetary Sciences</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Engineering & Technology')?>"><span class="section green">Engineering & Technology</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Engineering &amp; Technology')?>"><span class="section green">Engineering &amp; Technology</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('General Biology')?>"><span class="section green">General Biology</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Mathematical Sciences')?>"><span class="section green">Mathematical Sciences</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Medicine')?>"><span class="section green">Medicine</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Physics')?>"><span class="section green">Physics</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/f?fellowship.section=' . urlencode('Plant Sciences')?>"><span class="section green">Plant Sciences</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Animal Sciences')?>"><span class="section green">Animal Sciences</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Chemistry')?>"><span class="section green">Chemistry</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Earth &amp; Planetary Sciences')?>"><span class="section green">Earth &amp; Planetary Sciences</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Engineering & Technology')?>"><span class="section green">Engineering & Technology</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Engineering &amp; Technology')?>"><span class="section green">Engineering &amp; Technology</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('General Biology')?>"><span class="section green">General Biology</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Mathematical Sciences')?>"><span class="section green">Mathematical Sciences</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Medicine')?>"><span class="section green">Medicine</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Physics')?>"><span class="section green">Physics</span></a><br />
+                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Plant Sciences')?>"><span class="section green">Plant Sciences</span></a><br />
                 </p>
             </div>
         </div>

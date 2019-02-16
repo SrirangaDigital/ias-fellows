@@ -1,7 +1,12 @@
 <div class="container-fluid fellow-profile">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center header">
+        <?php if(isset($data['data'][0]['fellowship'])) { ?>
             <h1>Fellows</h1>
+        <?php } ?>
+        <?php if(isset($data['data'][0]['associate'])) { ?>
+            <h1>Associate</h1>
+        <?php } ?>
             <h4><?=$data['listTitle']?></h4>
         </div>
     </div>
@@ -12,12 +17,24 @@
                 <a target="blank" href="<?=BASE_URL?>profile/v/<?=$row['id']?>">
                     <?=$viewHelper->printAvatar($row)?>
                 </a>
-                <a href="<?=BASE_URL?>listing/f?fellowship.yearelected=<?=$row['fellowship']['yearelected']?>" title="Year elected: <?=$row['fellowship']['yearelected']?>">
+            <?php if(isset($row['fellowship']['yearelected'])) { ?>
+                <a href="<?=BASE_URL?>listing/a?fellowship.yearelected=<?=$row['fellowship']['yearelected']?>" title="Year elected: <?=$row['fellowship']['yearelected']?>">
                     <span class="year blue"><?=$row['fellowship']['yearelected']?></span>
                 </a>
+            <?php } ?>
+            <?php if(isset($row['associate']['yearelected'])) { ?>
+                <a href="<?=BASE_URL?>listing/a?associate.yearelected=<?=$row['associate']['yearelected']?>" title="Year elected: <?=$row['associate']['yearelected']?>">
+                    <span class="year blue"><?=$row['associate']['yearelected']?></span>
+                </a>
+            <?php } ?>
+                <?php if(isset($row['fellowship']['type'])) { ?>
                 <?php if(preg_match('/deceased/', $row['fellowship']['type'])) { ?>
                     <span class="deceased red">Deceased</span>
-                <?php } ?>
+                <?php } } ?>
+                <?php if(isset($row['associate']['type'])) { ?>
+                <?php if(preg_match('/former/', $row['associate']['type'])) { ?>
+                    <span class="deceased red">Former</span>
+                <?php } }?>
                 <?php if(isset($row['fellowship']['councilservice'])) { ?>
                     <span title="<?=$row['fellowship']['councilservice']?>" class="council-service gold"><i class="fas fa-university"></i></span>
                 <?php } ?>
@@ -27,12 +44,14 @@
                     <h5 class="card-title"><?=$viewHelper->printFellowName($row)?></h5>
                 </a>
                 <p class="card-text">
+                    <?php if(isset($row['fellowship']['type'])) { ?>
                     <?php if(preg_match('/honorary/', $row['fellowship']['type'])) { ?>
-                        <a href="<?=BASE_URL?>listing/f?fellowship.type=honorary"><span class="section gold">Honorary</span></a>
-                    <?php } ?>
+                        <a href="<?=BASE_URL?>listing/a?fellowship.type=honorary"><span class="section gold">Honorary</span></a>
+                    <?php } } ?>
                     <?php if(isset($row['fellowship']['section'])) { ?>
-                        <a href="<?=BASE_URL?>listing/f?fellowship.section=<?=$row['fellowship']['section']?>"><span class="section green"><?=$row['fellowship']['section']?></span></a>
-                    <?php } ?>
+                    <?php if(isset($row['fellowship']['section'])) { ?>
+                        <a href="<?=BASE_URL?>listing/a?fellowship.section=<?=$row['fellowship']['section']?>"><span class="section green"><?=$row['fellowship']['section']?></span></a>
+                    <?php } } ?>
                 </p>
             </div>
         </div>

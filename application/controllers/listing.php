@@ -19,26 +19,15 @@ class listing extends Controller {
 		$this->view('listing/associateDirectory', $data);
 	}
 
-	public function f($query = []) {
+	public function a($query = []) {
 	
 		if (!isset($query['sort'])) $query['sort'] = DEFAULT_SORT;
 		$sort = $query['sort'];	unset($query['sort']);
-		$fellows = $this->model->getDetails($query, $sort, FELLOW_COLLECTION);
+		$fellows = $this->model->getDetails($query, $sort, COLLECTION);
 
 		$fellows['listTitle'] = $this->model->getListTitle($query, 'Fellows');
 
 		($fellows['data']) ? $this->view('listing/fellows', $fellows) : $this->view('error/index');
-	}
-
-	public function a($query = []) {
-
-		if (!isset($query['sort'])) $query['sort'] = DEFAULT_SORT;
-		$sort = $query['sort'];	unset($query['sort']);
-		$fellows = $this->model->getDetails($query, $sort, ASSOCIATE_COLLECTION);
-
-		$fellows['listTitle'] = $this->model->getListTitle($query, 'Associates');
-
-		($fellows['data']) ? $this->view('listing/associates', $fellows) : $this->view('error/index');
 	}
 
 	// public function f($query = [], $type = DEFAULT_TYPE) {

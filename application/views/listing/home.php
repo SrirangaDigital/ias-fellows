@@ -44,7 +44,7 @@
         <div class="card col-md-3 fellow">
             <div class="card-body mainform">
                 <h5 class="card-title text-center">Search</h5>
-                <form class="mt-5" action="<?=BASE_URL?>listing/f" method="get">
+                <form class="mt-5" action="<?=BASE_URL?>listing/a" method="get">
                     <div class="form-label-group">
                         <input type="text" name="profile.name.display" id="profile.name.display" class="form-control" placeholder="Name">
                         <label for="profile.name.display">Name</label>

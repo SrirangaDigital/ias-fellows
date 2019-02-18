@@ -32,6 +32,10 @@ class profileModel extends Model {
 		$reformedData['fellowship']['councilservice'] = (isset($data['fellowship-councilservice'])) ? $data['fellowship-councilservice'] : '';
 		$reformedData['fellowship'] = array_filter($reformedData['fellowship']);
 
+		$reformedData['associate']['type'] = (isset($data['associate-type'])) ? $data['associate-type'] : '';
+		$reformedData['associate']['yearelected'] = (isset($data['associate-yearelected'])) ? $data['associate-yearelected'] : '';
+		$reformedData['associate'] = array_filter($reformedData['associate']);
+
 		$reformedData['contact']['address'] = (isset($data['contact-address'])) ? $data['contact-address'] : '';
 		$reformedData['contact']['city'] = (isset($data['contact-city'])) ? $data['contact-city'] : '';
 		$reformedData['contact']['state'] = (isset($data['contact-state'])) ? $data['contact-state'] : '';

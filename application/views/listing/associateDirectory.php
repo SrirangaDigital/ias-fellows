@@ -34,7 +34,7 @@
         <div class="card col-md-3 fellow">
             <div class="card-body mainform">
                 <h5 class="card-title text-center">Search</h5>
-                <form class="mt-5" action="<?=BASE_URL?>listing/f" method="get">
+                <form class="mt-5" action="<?=BASE_URL?>listing/a" method="get">
                     <div class="form-label-group">
                         <input type="text" name="profile.name.display" id="profile.name.display" class="form-control" placeholder="Name">
                         <label for="profile.name.display">Name</label>
@@ -44,24 +44,8 @@
                         <label for="contact.city">Place</label>
                     </div>
                     <div class="form-label-group">
-                        <input list="sections" type="text" name="fellowship.section" id="fellowship.section" class="form-control" placeholder="Section">
-                        <label for="fellowship.section">Section</label>
-                        <datalist id="sections">
-                            <option value="Animal Sciences">
-                            <option value="Chemistry">
-                            <option value="Earth &amp; Planetary Sciences">
-                            <option value="Engineering & Technology">
-                            <option value="Engineering &amp; Technology">
-                            <option value="General Biology">
-                            <option value="Mathematical Sciences">
-                            <option value="Medicine">
-                            <option value="Physics">
-                            <option value="Plant Sciences">
-                        </datalist>
-                    </div>
-                    <div class="form-label-group">
-                        <input type="text" name="fellowship.yearelected" id="fellowship.yearelected" class="form-control" placeholder="Year Elected">
-                        <label for="fellowship.yearelected">Year Elected</label>
+                        <input type="text" name="associate.yearelected" id="associate.yearelected" class="form-control" placeholder="Year Elected">
+                        <label for="associate.yearelected">Year Elected</label>
                     </div>
                     <input type="hidden" id="regexAll" name="regexAll">
                     <input type="submit" id="submit" class="form-control search" value="Search">

@@ -64,6 +64,7 @@ class viewHelper extends View {
         if(isset($data['contact']['telephone']['office'])) $contact .= '<strong>Office:</strong> ' . $data['contact']['telephone']['office'] . '<br />';
         if(isset($data['contact']['telephone']['residence'])) $contact .= '<strong>Residence:</strong> ' . $data['contact']['telephone']['residence'] . '<br />';
         if(isset($data['contact']['telephone']['official'])) $contact .= '<strong>Email:</strong> ' . $data['contact']['telephone']['official'];
+        if(isset($data['contact']['telephone']['mobile'])) $contact .= '<strong>Mobile:</strong> ' . $data['contact']['telephone']['mobile'];
         
         $contact .= '</p>';
 

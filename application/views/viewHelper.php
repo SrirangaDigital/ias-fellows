@@ -156,7 +156,7 @@ class viewHelper extends View {
 
         $rand = rand();
         $imgUrl = (file_exists(PHY_AVATAR_URL . $data['id'] . '.jpg')) ? AVATAR_URL . $data['id'] . '.jpg' : STOCK_AVATAR_URL;
-        return '<img src="' . $imgUrl . '?v=$rand" class="card-img-top" alt="Profile image of ' . $data['profile']['name']['display'] . '" />';
+        return '<img src="' . $imgUrl . '?v=' . $rand . '" class="card-img-top" alt="Profile image of ' . $data['profile']['name']['display'] . '" />';
     }
 }
 

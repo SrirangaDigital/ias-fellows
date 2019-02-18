@@ -5,7 +5,7 @@
             "salutation": "Dr",
             "first": "Pavan Chaitanya",
             "last": "Peddapati",
-            "display": "Pavan Chaitanya, Dr Peddapati"
+            "display": "Peddapati, Dr Pavan Chaitanya"
         },
         "sex": "M",
         "birthDate": "1985-07-19",
@@ -14,8 +14,7 @@
     },
     "associate": {
         "type": "current",
-        "yearelected": "2018",
-        "period": "2018-2021"
+        "yearelected": "2018"
     },
     "contact": {
         "address": "Research Associate, National Atmosphereic Research, Laboratory, Gadanki",
@@ -24,6 +23,7 @@
         "telephone": {
             "office": "(0877) 250 0650",
             "residence": "78933 23121",
+            "mobile": "9986466566",
             "fax": "(08585) 27 2021"
         },
         "email": {

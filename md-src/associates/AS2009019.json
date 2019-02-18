@@ -5,17 +5,22 @@
             "salutation": "Dr",
             "first": "Venugopal",
             "last": "S",
-            "display": "Venugopal, Dr S"
+            "display": "S, Dr Venugopal"
         },
-        "sex": "M"
-    },
-    "associate": {
-        "type": "former",
-        "yearelected": "2009",
-        "period": "2009-2012"
+        "sex": "M",
+        "birthDate": "2019-02-07",
+        "degree": "BE",
+        "specialization": "Theoretical Astrophysics and General Relativity"
     },
     "contact": {
         "address": "CEDT, Indian Institute of Science",
-        "city": "Bangalore 560 012"
+        "city": "Bangalore 560 012",
+        "state": "Karnataka",
+        "telephone": {
+            "mobile": "9986466566"
+        },
+        "email": {
+            "personal": "seeno.soori@gmail.com"
+        }
     }
 }

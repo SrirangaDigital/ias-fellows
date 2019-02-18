@@ -23,11 +23,14 @@ class listing extends Controller {
 	
 		if (!isset($query['sort'])) $query['sort'] = DEFAULT_SORT;
 		$sort = $query['sort'];	unset($query['sort']);
-		$fellows = $this->model->getDetails($query, $sort, COLLECTION);
+		$data = $this->model->getDetails($query, $sort, COLLECTION);
+		$type = 'Fellows';
+		
+		if(preg_match('/^associate/i', implode(' ', array_keys($query)))) $type = 'Associate';
 
-		$fellows['listTitle'] = $this->model->getListTitle($query, 'Fellows');
+		$data['listTitle'] = $this->model->getListTitle($query, $type);
 
-		($fellows['data']) ? $this->view('listing/fellows', $fellows) : $this->view('error/index');
+		($data['data']) ? $this->view('listing/fellows', $data) : $this->view('error/index');
 	}
 
 	// public function f($query = [], $type = DEFAULT_TYPE) {

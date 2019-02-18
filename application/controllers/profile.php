@@ -10,37 +10,19 @@ class profile extends Controller {
 	// Short hand notation for view
 	public function v($query = [], $id = '') {
 
-		$fellow = $this->model->getDetailsById($id, FELLOW_COLLECTION);
+		$data = $this->model->getDetailsById($id, COLLECTION);
 	
-		if(!$fellow) { $this->view('error/index'); return; }
+		if(!$data) { $this->view('error/index'); return; }
 
 		// Include fname, lname in the session variable only on first login
 		if(($this->viewHelper->isLoggedIn()) && (!isset($_SESSION['fellow_lname']))){
 
-			$_SESSION['fellow_fname'] = $fellow['profile']['name']['first'];
-			$_SESSION['fellow_lname'] = $fellow['profile']['name']['last'];
-			$_SESSION['fellow_dname'] = $this->viewHelper->printFellowName($fellow);
+			$_SESSION['fellow_fname'] = $data['profile']['name']['first'];
+			$_SESSION['fellow_lname'] = $data['profile']['name']['last'];
+			$_SESSION['fellow_dname'] = $this->viewHelper->printFellowName($data);
 		}
 
-		$this->view('profile/view', $fellow);
-	}
-
-	//va stands for View Associates
-	public function va($query = [], $id = '') {
-
-		$fellow = $this->model->getDetailsById($id, ASSOCIATE_COLLECTION);
-	
-		if(!$fellow) { $this->view('error/index'); return; }
-
-		// Include fname, lname in the session variable only on first login
-		if(($this->viewHelper->isLoggedIn()) && (!isset($_SESSION['fellow_lname']))){
-
-			$_SESSION['fellow_fname'] = $fellow['profile']['name']['first'];
-			$_SESSION['fellow_lname'] = $fellow['profile']['name']['last'];
-			$_SESSION['fellow_dname'] = $this->viewHelper->printFellowName($fellow);
-		}
-
-		$this->view('profile/viewAssociate', $fellow);
+		$this->view('profile/view', $data);
 	}
 
 	// Short hand notation for edit
@@ -50,25 +32,30 @@ class profile extends Controller {
 		if(!$this->viewHelper->isLoggedIn()) $this->redirect('profile/v/' . $id);
 
 		// Redirect to view if its is not their page
-		$fellow['isAdmin'] = $this->viewHelper->isLoggedInAsAdmin();
+		$data['isAdmin'] = $this->viewHelper->isLoggedInAsAdmin();
 
-		if(!(($fellow['isAdmin']) || ($_SESSION['auth_username'] == $id))) $this->redirect('profile/v/' . $id);
+		if(!(($data['isAdmin']) || ($_SESSION['auth_username'] == $id))) $this->redirect('profile/v/' . $id);
 
-		$fellow['data'] = $this->model->getDetailsById($id, FELLOW_COLLECTION);
+		$data['data'] = $this->model->getDetailsById($id, COLLECTION);
 
-		($fellow) ? $this->view('profile/edit', $fellow) : $this->view('error/index');
+		if($data['data'])
+			(preg_match('/^FL/', $id)) ? $this->view('profile/editFellow', $data) : $this->view('profile/editAssociate', $data);
+		else
+			$this->view('error/index');
 	}
 
 	public function update() {
 
 		// Setting connection to DB
 		$db = $this->model->db->useDB();
-		$collection = $this->model->db->selectCollection($db, FELLOW_COLLECTION);
+		$collection = $this->model->db->selectCollection($db, COLLECTION);
 
 		// Getting and reforming POST Data
 		$data = $this->model->getPostData();
 		$reformedData = $this->model->reformData($data);
-		$path = PHY_FELLOW_MD_URL . $reformedData['id'] . ".json";
+
+		$type = (preg_match('/^FL/', $reformedData['id'])) ? PHY_FELLOW_MD_URL : PHY_ASSOCIATE_MD_URL;
+		$path = $type . $reformedData['id'] . ".json";
 
 		// writing to json file
 		if(!($this->model->writeJsonToPath($reformedData, $path))) {

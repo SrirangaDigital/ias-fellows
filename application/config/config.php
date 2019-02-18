@@ -21,11 +21,11 @@ define('DB_USER', 'iasUSER');
 define('DB_PASSWORD', 'ias123');
 
 // Git config
-define('GIT_USER_NAME', 'shruthisdst');
-define('GIT_PASSWORD', 'shruthitr14');
+define('GIT_USER_NAME', 'sriranga-deploy');
+define('GIT_PASSWORD', 'sriranga2341');
 define('GIT_REPO', 'github.com/SrirangaDigital/ias-fellows.git');
 define('GIT_REMOTE', 'https://' . GIT_USER_NAME . ':' . GIT_PASSWORD . '@' . GIT_REPO);
-define('GIT_EMAIL', 'shruthitr.nayak@gmail.com');
+define('GIT_EMAIL', 'accounts@srirangadigital.com');
 
 // use iasINFRA;
 // db.createUser(

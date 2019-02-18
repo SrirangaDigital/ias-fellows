@@ -26,25 +26,28 @@ class viewHelper extends View {
     	return implode(', ', $affl);
     }
 
-    public function printFellowshipType($data) {
+    public function printType($data) {
 
-        $fellowship = 'Elected into the ';
-        if(preg_match('/honorary/', $data['fellowship']['type'])) $fellowship .= 'Honorary ';
-        $fellowship .= 'fellowship in ' . $data['fellowship']['yearelected'];
-    
-        if(isset($data['fellowship']['section']))
-            if($data['fellowship']['section'] != '') $fellowship .= ' under the <strong>' . $data['fellowship']['section'] . '</strong> section';
+        $string = '';
 
-        return $fellowship;
-    }
-
-    public function printAssociateType($data) {
-
-        $associate = '';
-        $associate = (preg_match('/former/', $data['associate']['type'])) ? "Former Associate\n" : "Current Associate\n";
-        $associate = 'Elected into the associate in ' . $data['associate']['yearelected'];
+        if(isset($data['fellowship'])) {
+            $string = 'Elected into the ';
+            if(preg_match('/honorary/', $data['fellowship']['type'])) $string .= 'Honorary ';
+            $string .= 'fellowship in ' . $data['fellowship']['yearelected'];
         
-        return $associate;
+            if(isset($data['fellowship']['section']))
+                if($data['fellowship']['section'] != '') $string .= ' under the <strong>' . $data['fellowship']['section'] . '</strong> section';
+
+            return $string;
+         }
+
+         elseif(isset($data['associate'])) {
+            
+            $string = (preg_match('/former/', $data['associate']['type'])) ? "Former Associate\n" : "Current Associate\n";
+            $string = 'Elected into the associate in ' . $data['associate']['yearelected'];
+        
+            return $string;
+        }
     }
 
     public function printContact($data) {

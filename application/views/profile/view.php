@@ -9,7 +9,7 @@
                 
                     <h1><?=$viewHelper->printFellowName($data)?></h1>
                     <p class="affiliation"><?=$viewHelper->printAffiliation($data)?></p>
-                    <p class="fellowship"><?=$viewHelper->printFellowshipType($data)?></p>
+                    <p class="fellowship"><?=$viewHelper->printType($data)?></p>
                     
                     <?php if(isset($data['fellowship']['councilservice'])) { ?>
                         <p class="council-service"><strong>Council Service:</strong> <?=$data['fellowship']['councilservice']?></p>
@@ -18,10 +18,14 @@
                     <?php if(isset($data['profile']['specialization'])) { ?>
                         <p class="specialization"><strong>Specialization:</strong> <?=$data['profile']['specialization']?></p>
                     <?php } ?>
-                    
+                    <?php if(isset($data['fellowship'])) { ?>
                     <?php if(preg_match('/deceased/', $data['fellowship']['type'])) { ?>
                         <p class="text-danger">Deceased<?=(isset($data['profile']['deathDate'])) ? ': ' . $data['profile']['deathDate'] : '' ?></p>
-                    <?php } ?>
+                    <?php } }?>
+                    <?php if(isset($data['associate'])) { ?>
+                    <?php if(preg_match('/former/', $data['associate']['type'])) { ?>
+                        <p class="text-danger">Former</p>
+                    <?php } }?>
                 </div>
                 <div class="col-md-3 col-xs-12 clear-paddings text-center align-self-center">
                     <?=$viewHelper->printAvatar($data)?>

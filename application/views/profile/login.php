@@ -2,7 +2,7 @@
     <div class="row justify-content-center">
         <div class="col-md-6 text-center header">
             <h1>Login</h1>
-            <h4>Fellows of the Indian Academy of Sciences</h4>
+            <h4>Fellows / Associates of the Indian Academy of Sciences</h4>
             <h3 id="test"></h3>
         </div>
     </div>

@@ -5,7 +5,7 @@
             "salutation": "Dr",
             "first": "Borah",
             "last": "Debasish",
-            "display": "Borah, Dr Debasish"
+            "display": "Debasish, Dr Borah"
         },
         "sex": "M",
         "birthDate": "1985-09-12",
@@ -14,8 +14,7 @@
     },
     "associate": {
         "type": "current",
-        "yearelected": "2018",
-        "period": "2018-2021"
+        "yearelected": "2018"
     },
     "contact": {
         "address": "Department of Physics, Indian Institute of Technology",
@@ -24,6 +23,7 @@
         "telephone": {
             "office": "(0361) 258 3563",
             "residence": "(0361) 258 5563, 84720 97235",
+            "mobile": "9986466566",
             "fax": "(0361) 258 2749"
         },
         "email": {

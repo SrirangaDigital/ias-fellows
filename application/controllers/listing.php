@@ -26,7 +26,7 @@ class listing extends Controller {
 		$data = $this->model->getDetails($query, $sort, COLLECTION);
 		$type = 'Fellows';
 		
-		if(preg_match('/^associate/i', implode(' ', array_keys($query)))) $type = 'Associate';
+		if(preg_match('/^associate/i', implode(' ', array_keys($query)))) $type = 'Associates';
 
 		$data['listTitle'] = $this->model->getListTitle($query, $type);
 

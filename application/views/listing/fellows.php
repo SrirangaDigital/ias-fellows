@@ -5,7 +5,7 @@
             <h1>Fellows</h1>
         <?php } ?>
         <?php if(isset($data['data'][0]['associate'])) { ?>
-            <h1>Associate</h1>
+            <h1>Associates</h1>
         <?php } ?>
             <h4><?=$data['listTitle']?></h4>
         </div>

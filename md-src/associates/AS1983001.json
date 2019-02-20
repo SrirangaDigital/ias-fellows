@@ -5,22 +5,19 @@
             "salutation": "Dr",
             "first": "Kembhavi",
             "last": "A K",
-            "display": "A K, Dr Kembhavi"
+            "display": "Kembhavi, Dr A K"
         },
         "sex": "M",
         "birthDate": "1950-08-16",
-        "degree": "BE",
         "specialization": "Theoretical Astrophysics and General Relativity"
+    },
+    "associate": {
+        "type": "former",
+        "yearelected": "1983",
+        "period": "1983-1986"
     },
     "contact": {
         "address": "Inter-University Centre for, Astronomy and Astrophysics, Post Box No. 4, Ganeshkhind",
-        "city": "Pune 411 007",
-        "state": "pune",
-        "telephone": {
-            "mobile": "9986466566"
-        },
-        "email": {
-            "personal": "seeno.soori@gmail.com"
-        }
+        "city": "Pune 411 007"
     }
 }

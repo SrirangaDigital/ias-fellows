@@ -32,7 +32,6 @@
                     <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Chemistry')?>"><span class="section green">Chemistry</span></a><br />
                     <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Earth &amp; Planetary Sciences')?>"><span class="section green">Earth &amp; Planetary Sciences</span></a><br />
                     <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Engineering & Technology')?>"><span class="section green">Engineering & Technology</span></a><br />
-                    <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Engineering &amp; Technology')?>"><span class="section green">Engineering &amp; Technology</span></a><br />
                     <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('General Biology')?>"><span class="section green">General Biology</span></a><br />
                     <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Mathematical Sciences')?>"><span class="section green">Mathematical Sciences</span></a><br />
                     <a href="<?=BASE_URL . 'listing/a?fellowship.section=' . urlencode('Medicine')?>"><span class="section green">Medicine</span></a><br />

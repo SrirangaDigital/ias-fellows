@@ -44,7 +44,7 @@ class viewHelper extends View {
          elseif(isset($data['associate'])) {
             
             $string = (preg_match('/former/', $data['associate']['type'])) ? "Former Associate\n" : "Current Associate\n";
-            $string = 'Elected into the associate in ' . $data['associate']['yearelected'];
+            $string = 'Elected into the Associateship in the year ' . $data['associate']['yearelected'];
         
             return $string;
         }

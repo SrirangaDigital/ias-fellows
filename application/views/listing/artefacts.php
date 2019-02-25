@@ -49,9 +49,8 @@
                         <a href="<?=BASE_URL?>listing/a?fellowship.type=honorary"><span class="section gold">Honorary</span></a>
                     <?php } } ?>
                     <?php if(isset($row['fellowship']['section'])) { ?>
-                    <?php if(isset($row['fellowship']['section'])) { ?>
                         <a href="<?=BASE_URL?>listing/a?fellowship.section=<?=$row['fellowship']['section']?>"><span class="section green"><?=$row['fellowship']['section']?></span></a>
-                    <?php } } ?>
+                    <?php }?>
                 </p>
             </div>
         </div>

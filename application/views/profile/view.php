@@ -24,7 +24,7 @@
                     <?php } }?>
                     <?php if(isset($data['associate'])) { ?>
                     <?php if(preg_match('/former/', $data['associate']['type'])) { ?>
-                        <p class="text-danger">Former</p>
+                        <p class="text-danger">Former: <?=$data['associate']['period']?></p>
                     <?php } }?>
                 </div>
                 <div class="col-md-3 col-xs-12 clear-paddings text-center align-self-center">

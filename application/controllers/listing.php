@@ -30,22 +30,7 @@ class listing extends Controller {
 
 		$data['listTitle'] = $this->model->getListTitle($query, $type);
 
-		($data['data']) ? $this->view('listing/fellows', $data) : $this->view('error/index');
+		($data['data']) ? $this->view('listing/artefacts', $data) : $this->view('error/index');
 	}
-
-	// public function f($query = [], $type = DEFAULT_TYPE) {
-
-	// 	$query = $this->model->preProcessURLQuery($query);
-
-	// 	$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
-	// 	$sortKeys = $this->model->getPrecastKey($type, 'sortKey');
-
-	// 	$artefacts = $this->model->getArtefacts($type, $sortKeys, $page, $query);
-
-	// 	if($page == '1')
-	// 	else
-	// 		echo json_encode($artefacts);
-	// }
 }
-
 ?>
